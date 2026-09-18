@@ -1,0 +1,22 @@
+# Copie este arquivo para .config na primeira instalação.
+# Nunca publique o arquivo .config nem uma chave real neste exemplo.
+[comum]
+base_url = https://chat.maritaca.ai/api
+modelo = sabia-4
+# Preencha SOMENTE no .config local; alternativamente use LLM_API_KEY.
+token =
+prompts = prompts.xml
+contexto_tokens = 0
+uso_contexto = 0.75
+max_saida_tokens = 0
+parametro_tokens = max_tokens
+sem_json_mode = false
+timeout = 180
+tentativas = 4
+max_chamadas = 0
+
+# Preparação e anotação usam este papel; campos vazios herdam [comum].
+[anotador]
+
+# Reservado à ferramenta independente; não é executada pela pipeline.
+[julgador]

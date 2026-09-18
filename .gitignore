@@ -1,0 +1,50 @@
+# Credenciais locais (somente o exemplo sem segredos é versionado).
+.config
+.config.*
+!.config.example
+.env
+.env.*
+*.pem
+*.key
+
+# Resultados, caches e dados derivados permanecem locais.
+preparados*/
+resultados*/
+avaliacoes*/
+validacao/
+cache*/
+auditoria/
+andamento/
+pendentes/
+verificacao_api.json
+ultima_execucao.json
+ultima_preparacao.json
+debate_linha_*.json
+*_anotado.json
+*.jsonl
+# O corpus original acompanha o projeto.
+!/dados originais dos debates/PublicHearingBR_LDS.jsonl
+!/dados originais dos debates/PublicHearingBR_NLI.jsonl
+*.sqlite
+*.sqlite3
+*.db
+
+# Arquivos regeneráveis, ambientes e temporários.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage*
+htmlcov/
+.DS_Store
+.parcial-*
+*.tmp
+*.log
+*~
+
+# Revisões humanas exportadas são dados locais, não código.
+revisao_humana_*.json
+revisoes*/
