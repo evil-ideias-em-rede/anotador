@@ -57,7 +57,9 @@ def parse_turns(transcript):
         speaker = re.sub(r"^\s*(?:O SR\.|A SRA\.|O SENHOR|A SENHORA)\s*", "", header[:-1]).strip()
         role = speaker.split("(", 1)[0].strip()
         if "PRESIDENTE" in role and "(" in speaker:
-            speaker = speaker.split("(", 1)[1].split(".", 1)[0].split(")", 1)[0].strip()
+            # rsplit: o nome pode ter um honorífico abreviado com ponto antes dele ("Dr. Fulano. PT-SP");
+            # dividir no primeiro ponto truncava o nome no próprio honorífico.
+            speaker = speaker.split("(", 1)[1].split(")", 1)[0].rsplit(".", 1)[0].strip()
         else:
             speaker = speaker.split("(", 1)[0].strip()
         require(speaker, "Orador não identificado.")
@@ -244,8 +246,14 @@ def group_speeches(document, client):
             def validate(value):
                 require(set(value) == {"decisao", "justificativa", "mudanca_de_opiniao", "observacao_retomada"}, "Campos da decisão de fronteira inválidos.")
                 require(value.get("decisao") in ("mesma_fala", "nova_fala", "incerto"), "Decisão inválida.")
-                text_field(value.get("justificativa"), 600)
-                text_field(value.get("observacao_retomada"), 600)
+                # Metadado de auditoria: um excesso pontual de tamanho não deve derrubar o debate
+                # inteiro. A decisão em si (já validada acima) é o que forma as falas.
+                require(isinstance(value.get("justificativa"), str) and value["justificativa"].strip(), "Justificativa ausente.")
+                require(isinstance(value.get("observacao_retomada"), str) and value["observacao_retomada"].strip(), "Observação ausente.")
+                if len(value["justificativa"]) > 600:
+                    value["justificativa"] = value["justificativa"][:597] + "..."
+                if len(value["observacao_retomada"]) > 600:
+                    value["observacao_retomada"] = value["observacao_retomada"][:597] + "..."
                 require(value.get("mudanca_de_opiniao") is None or type(value["mudanca_de_opiniao"]) is bool,
                         "Mudança deve ser booleano ou null.")
 
