@@ -143,6 +143,17 @@ class Tests(unittest.TestCase):
                 self.assertEqual(value,c.ask('teste_conexao',{},lambda v:api.require(v.get('ok') is True,'bad')))
             self.assertEqual(c.calls,1);self.assertEqual(c.hits,1)
             self.assertEqual(len(list(Path(cache).glob('*.json'))),1)
+    def test_lone_surrogate_response_is_retried_not_fatal(self):
+        p=argparse.ArgumentParser();api.model_arguments(p,'anotador')
+        args=p.parse_args(['--modelo','fake','--base-url','http://localhost:9999/v1','--sem-chave','--tentativas','2'])
+        bad={'choices':[{'finish_reason':'stop','message':{'content':'{"ok":true,"x":"\udc83"}'}}]}
+        good={'choices':[{'finish_reason':'stop','message':{'content':'{"ok":true}'}}]}
+        replies=[io.BytesIO(json.dumps(bad).encode()),io.BytesIO(json.dumps(good).encode())]
+        with tempfile.TemporaryDirectory() as cache, patch('api.time.sleep'):
+            c=transport_client(args,cache)
+            with patch('urllib.request.urlopen',side_effect=replies):
+                value=c.ask('teste_conexao',{},lambda v:api.require(v.get('ok') is True,'bad'))
+            self.assertEqual(value,{'ok':True});self.assertEqual(c.calls,2)
     def test_client_budget_failure_without_request(self):
         p=argparse.ArgumentParser();api.model_arguments(p,'anotador')
         args=p.parse_args(['--modelo','fake','--base-url','http://localhost:9999/v1','--sem-chave'])
@@ -475,6 +486,74 @@ class Tests(unittest.TestCase):
         result=a.ask_grounded(Recover(),'propostas',{'bloco':{'inicio':0,'fim':len(source),'texto':source}},validate,source,[(0,len(source))])
         self.assertEqual(calls,['propostas'])
         self.assertEqual(result['propostas'][0]['evidencia']['status'],'pendente_revisao_humana')
+    def test_evidence_with_unselected_label_becomes_serializable_pending(self):
+        source='Sou favorável à transparência irrestrita.'
+        class Mislabeled:
+            def ask(self,task,data,validate):
+                result={'indicadores':['Favorável'],'justificativa':'Teste.','pendencias':[],
+                        'evidencias':[{'indicador':'Favor','trecho':source}]}
+                validate(result);return result
+        result=a.ask_grounded(Mislabeled(),'anotacao',{},lambda value:json.dumps(value),source,[(0,len(source))])
+        self.assertEqual(result['evidencias'][0]['status'],'pendente_revisao_humana')
+        self.assertEqual(result['evidencias'][0]['recebida']['indicador'],'Favor')
+    def test_pending_objects_are_accepted_as_text(self):
+        source='Sou favorável à transparência irrestrita.'
+        dimension=next(d for d in a.TAXONOMY if d['id']==4)
+        class Wrapped:
+            def ask(self,task,data,validate):
+                result={'indicadores':[],'justificativa':'Teste.','evidencias':[],
+                        'pendencias':[{'tipo':'contexto','descricao':'Conferir o tema.'},{'texto':'Fala breve.'}]}
+                validate(result);return result
+        validate=lambda value:a.validate_annotation(value,dimension,source,[(0,len(source))])
+        result=a.ask_grounded(Wrapped(),'anotacao',{},validate,source,[(0,len(source))])
+        self.assertEqual(result['pendencias'],['contexto: Conferir o tema.','Fala breve.'])
+        with self.assertRaises(ValueError):
+            a.ask_grounded(type('Empty',(),{'ask':lambda self,t,d,v:v({'indicadores':[],'justificativa':'Teste.',
+                'evidencias':[],'pendencias':[{'tipo':''}]})})(),'anotacao',{},validate,source,[(0,len(source))])
+    def test_quote_in_extra_field_is_format_error_not_evidence_failure(self):
+        class Extra(Fake):
+            def ask(self,task,data,validate):
+                if task!='opiniao':
+                    return super().ask(task,data,validate)
+                result={'resumo':'Opinião.','evidencias':[],'evidencia_adicional':{'trecho':'Frase que não está na fala.'}}
+                validate(result);return result
+        d=doc();a.group_speeches(d,Fake())
+        with self.assertRaises(ValueError) as caught:
+            a.annotate_speech(d,d['falas'][0],Extra())
+        self.assertNotIsInstance(caught.exception,a.EvidenceError)
+        self.assertIn('Campos de opinião',str(caught.exception))
+    def test_model_output_failure_becomes_pending_without_stopping_debate(self):
+        from formato import readable
+        class Looping(Fake):
+            def ask(self,task,data,validate):
+                if task=='anotacao' and data['dimensao']['id']==2:
+                    raise api.ModelOutputError('Resposta truncada/recusada (finish_reason=length).')
+                if task=='resumo_fala':
+                    raise api.ModelOutputError('Falha após 4 tentativas: Resposta inválida: Campo do resumo da fala inválido.')
+                return super().ask(task,data,validate)
+        d=doc();a.group_speeches(d,Fake())
+        for s in d['falas']:
+            s['anotacao']=a.annotate_speech(d,s,Looping())
+        d['resumo_por_fala']=True
+        self.assertEqual(a.structural_errors(d),[])
+        first=d['falas'][0]['anotacao']
+        self.assertEqual(first['dimensoes']['Postura do Orador']['indicadores'],[])
+        self.assertEqual([f['dimensao'] for f in first['falhas_modelo']],['Postura do Orador'])
+        self.assertEqual(first['status_resumo'],'pendente_falha_modelo')
+        self.assertEqual(len(a.summary_issues(d)),len(d['falas']))
+        self.assertFalse(any('Falha do modelo' in i['motivo'] for i in a.evidence_issues(d)))
+        pending=readable(d)['participantes'][0]['falas'][0]['pendencias_revisao']
+        self.assertTrue(any('Postura' in p or 'truncada' in p for p in pending))
+    def test_network_failure_still_stops_debate(self):
+        class Offline(Fake):
+            def ask(self,task,data,validate):
+                if task=='anotacao':
+                    raise RuntimeError('Falha após 4 tentativas: TimeoutError')
+                return super().ask(task,data,validate)
+        d=doc();a.group_speeches(d,Fake())
+        with self.assertRaises(RuntimeError) as caught:
+            a.annotate_speech(d,d['falas'][0],Offline())
+        self.assertNotIsInstance(caught.exception,api.ModelOutputError)
     def test_annotation_recovery_selects_source_by_id(self):
         seen=[]
         class Recover(Fake):

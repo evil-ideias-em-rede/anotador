@@ -5,13 +5,14 @@ import copy
 import json
 import os
 import random
+import threading
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
-from suporte import (VERSION, CACHE_VERSION, EvidenceError, BASE_DIR, PromptCatalog, read_config, dumps, digest, save,
+from suporte import (VERSION, CACHE_VERSION, EvidenceError, ModelOutputError, BASE_DIR, PromptCatalog, read_config, dumps, digest, save,
                      load, require, text_field, model_arguments)
 from contexto import ContextBudget, ContextLimitError, model_limits
 from progresso import Waiting, log, task_label
@@ -39,8 +40,16 @@ class Client:
         self.cache = Path(cache)
         self.calls = 0
         self.hits = 0
+        # Falas podem ser anotadas em paralelo (anotador.py --paralelo): contadores sob trava.
+        self.lock = threading.Lock()
         self.receipts = []
         self.budget = None
+        self.reasoning = {}
+        for item in filter(None, (getattr(args, "raciocinio_por_tarefa", None) or "").split(",")):
+            task, _, effort = item.strip().partition(":")
+            require(task and effort in ("padrao", "none", "low", "medium", "high"),
+                    "raciocinio_por_tarefa: use tarefa:esforco (padrao, none, low, medium ou high).")
+            self.reasoning[task] = effort
 
     def start(self):
         """Consulta metadados e faz uma geração de teste real antes de processar debates."""
@@ -83,6 +92,8 @@ class Client:
                 "prompts_sha256": self.prompts.sha256,
                 "regras_anotacao": "somente_dimensao_solicitada",
                 "parametros": {"temperatura": self.args.temperatura,
+                               "esforco_raciocinio": getattr(self.args, "esforco_raciocinio", None),
+                               "raciocinio_por_tarefa": self.reasoning or None,
                                "parametro_tokens": self.args.parametro_tokens,
                                "max_saida_tokens": self.budget.output if self.budget else None,
                                "json_mode": not self.args.sem_json_mode,
@@ -98,6 +109,9 @@ class Client:
             body["response_format"] = {"type": "json_object"}
         if self.args.temperatura is not None:
             body["temperature"] = self.args.temperatura
+        effort = self.reasoning.get(task, getattr(self.args, "esforco_raciocinio", None))
+        if effort and effort != "padrao":
+            body["reasoning_effort"] = effort
         return system, messages, body
 
     def has_cached(self, task, data):
@@ -119,14 +133,19 @@ class Client:
         if cache and path.exists():
             stored = load(path)
             validate(stored["resposta"])
-            self.hits += 1
-            log(f"  {label}: reutilizado do cache, validado (acertos: {self.hits}).")
+            with self.lock:
+                self.hits += 1
+                hits = self.hits
+            log(f"  {label}: reutilizado do cache, validado (acertos: {hits}).")
             self.receipts.append(cache_id)
             return stored["resposta"]
         last_error = ""
         feedback = None
         for attempt in range(self.args.tentativas):
-            self._check_call_limit()
+            with self.lock:
+                self._check_call_limit()
+                self.calls += 1
+                number = self.calls
             outgoing = copy.deepcopy(body)
             if feedback:
                 instructions = ET.fromstring(system)
@@ -139,10 +158,9 @@ class Client:
                     outgoing["messages"] = candidate_messages
             delay = min(30, 2 ** attempt + random.random())
             request = self._request(self.url, outgoing)
-            raw_result = None
+            raw_result, usage = None, None
             try:
-                self.calls += 1
-                with Waiting(f"{label} | chamada {self.calls} | tentativa {attempt + 1}/{self.args.tentativas}"):
+                with Waiting(f"{label} | chamada {number} | tentativa {attempt + 1}/{self.args.tentativas}"):
                     with urllib.request.urlopen(request, timeout=self.args.timeout) as response:
                         envelope = json.load(response)
                 usage = envelope.get("usage") or {}
@@ -151,8 +169,19 @@ class Client:
                     raise RuntimeError("A contagem informada pelo provedor excedeu o orçamento estimado. Execução interrompida; é necessário adequar a contagem ao tokenizer desse provedor.")
                 choice = envelope["choices"][0]
                 if choice.get("finish_reason") != "stop" or choice.get("message", {}).get("refusal"):
-                    raise RuntimeError("Resposta truncada/recusada. Não repetida automaticamente. Confira --max-saida-tokens; falas não serão divididas para contornar o limite.")
-                result = json.loads(choice["message"]["content"])
+                    reason = choice.get("finish_reason")
+                    save(self.cache / "falhas" / f"{cache_id}_{attempt + 1}_truncada.json", {
+                        "tarefa": task, "finish_reason": reason, "recusa": choice.get("message", {}).get("refusal"),
+                        "conteudo": choice.get("message", {}).get("content"), "uso": usage, "request_sha256": cache_id})
+                    raise ModelOutputError(f"Resposta truncada/recusada ({label}, finish_reason={reason}). Não repetida automaticamente. "
+                                       "Confira --max-saida-tokens; falas não serão divididas para contornar o limite.")
+                content = choice["message"]["content"]
+                try:
+                    content.encode("utf-8")
+                except UnicodeEncodeError:
+                    # Surrogate solto na saída do modelo: não pode ser gravado; pede-se nova resposta.
+                    raise ValueError("Resposta com caractere Unicode inválido; reescreva o JSON sem ele.") from None
+                result = json.loads(content)
                 raw_result = copy.deepcopy(result)
                 require(isinstance(result, dict), "A resposta deve ser um objeto JSON.")
                 validate(result)
@@ -186,13 +215,21 @@ class Client:
             except (ValueError, KeyError, IndexError, TypeError) as error:
                 last_error = f"Resposta inválida: {error}"
                 feedback = str(error)[:200]
+                # Rejeições pagas ficam para diagnóstico, fora do cache válido; o registro nunca interrompe a anotação.
+                try:
+                    save(self.cache / "falhas" / f"{cache_id}_{attempt + 1}.json", {
+                        "tarefa": task, "resposta_rejeitada": raw_result, "erro": str(error),
+                        "uso": usage, "request_sha256": cache_id})
+                except (OSError, ValueError):
+                    pass
             except (urllib.error.URLError, TimeoutError) as error:
                 last_error = type(error).__name__
             if attempt + 1 < self.args.tentativas:
                 log(f"  {label}: tentativa sem sucesso; nova tentativa em {delay:.1f}s.")
                 with Waiting("Intervalo antes da nova tentativa"):
                     time.sleep(delay)
-        raise RuntimeError(f"Falha após {self.args.tentativas} tentativas: {last_error}")
+        failure = ModelOutputError if last_error.startswith("Resposta inválida") else RuntimeError
+        raise failure(f"Falha após {self.args.tentativas} tentativas: {last_error}")
 
 
 if __name__ == "__main__":
