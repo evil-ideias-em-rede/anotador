@@ -1,0 +1,507 @@
+{
+  "formato": "debate_por_participante_v1",
+  "debate_id": 150,
+  "tema": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+  "status": "anotado_aguardando_revisao_humana",
+  "participantes": [
+    {
+      "nome": "Luisa Canziani",
+      "falas": [
+        {
+          "id": "f00001",
+          "ordem_no_debate": 1,
+          "texto": " Declaro aberta a presente reunião da Comissão de Ciência, Tecnologia e Inovação, com o objetivo de discutir o tema150 anos de Santos Dumont e suas contribuições para a ciência, tecnologia e inovação.\n\nEsta audiência pública está sendo realizada em virtude da aprovação do Requerimento nº 26, de 2023, de minha autoria.\n\nOs procedimentos adotados serão os seguintes: cada palestrante terá 10 minutos para fazer a sua exposição, não sendo permitidos apartes; encerradas as apresentações, será concedida a palavra aos Parlamentares inscritos, por até 3 minutos; as inscrições devem ser feitas por meio do sistema Infoleg Parlamentar; os palestrantes disporão do mesmo tempo para resposta; ao final do debate, cada convidado terá até 3 minutos para as suas considerações finais.\n\nInformamos que esta reunião está sendo transmitida ao vivo pela Internet e pode ser acessada pela página das Comissões no Portal da Câmara ou pelo Youtube, no canal oficial da Casa.\n\nApós a audiência, as apresentações de multimídia serão disponibilizadas para consulta na página da Comissão.\n\nOs convidados que participarão desta audiência pública, aos quais faço um especial agradecimento pela presença e que convido para comporem a Mesa, são: o Sr. Jean Robert Batana Ferreira, Coordenador-Geral de Tecnologias Estratégicas da Secretaria de Desenvolvimento Tecnológico e Inovação do Ministério da Ciência, Tecnologia e Inovação; o Brigadeiro Engenheiro Luciano Valentim Rechiuti, Chefe do Subdepartamento Técnico do Departamento de Ciência e Tecnologia Aeroespacial da Aeronáutica.\n\nMuito obrigada. É uma honra tê-los aqui.\n\nParticiparão, de forma virtual, pela plataforma Zoom: o Sr. Henrique Lins de Barros, especialista na vida e obra de Santos Dumont; o Sr. Cláudio Gomide, Coordenador do Museu Casa de Santos Dumont.\n\nO Sr. Jorge Henrique Dumont, sobrinho-neto de Alberto Santos Dumont, e o Sr. Alberto Wanderley, sobrinho-bisneto de Alberto Santos Dumont, comunicaram a impossibilidade de participação neste debate.\n\nNeste momento, passamos a palavra ao Sr. Jean Robert Batana Ferreira, para que faça a sua exposição por até 10 minutos.\n\nAgradecemos a ele a gentileza de estar conosco aqui na nossa Comissão e estendemos os cumprimentos também à Ministra.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala de abertura, a titular preside e organiza a audiência pública da Comissão de Ciência, Tecnologia e Inovação sobre os 150 anos de Santos Dumont e suas contribuições para a ciência, tecnologia e inovação, tema vinculado ao seu Requerimento nº 26 de 2023. A fala é integralmente procedimental e expositiva: declara aberta a reunião, detalha as regras de funcionamento (tempo de 10 minutos por palestrante, vedação de apartes, inscrições de parlamentares pelo sistema Infoleg Parlamentar para falas de até 3 minutos, respostas e considerações finais), informa sobre a transmissão ao vivo e a disponibilização das apresentações, e apresenta os convidados presenciais (Jean Robert Batana Ferreira, do MCTI, e Brigadeiro Luciano Valentim Rechiuti, do Departamento de Ciência e Tecnologia Aeroespacial da Aeronáutica) e virtuais (Henrique Lins de Barros e Cláudio Gomide), além de registrar a impossibilidade de participação dos parentes de Santos Dumont. Não há posicionamento de mérito sobre o tema; predominam fórmulas protocolares de cortesia e agradecimento aos presentes e à Ministra, em postura técnica e regimental, sem qualquer tomada de posição substantiva ou proposta apresentada.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00003",
+          "ordem_no_debate": 3,
+          "texto": " Vamos passar a palavra ao Brigadeiro Engenheiro Luciano Valentim Rechiuti.\n\nBrigadeiro, permita-me, antes da sua exposição, fazer aqui um reconhecimento público, em nome de toda a nossa Comissão de Ciência, Tecnologia e Inovação, ao brilhante trabalho que a nossa Força Aérea Brasileira tem feito na repatriação dos nossos cidadãos brasileiros que estão em Israel. Eu tive a informação do General Tomás que hoje será o sétimo voo de repatriação de brasileiros, com a aeronave KC-30, com previsão de retorno ao Brasil de 215 passageiros, na medida em que o pouso realizado em Tel Aviv foi no dia de hoje.Então, quero deixar todo o nosso reconhecimento, toda a nossa gratidão pelo brilhante trabalho que a nossa Força Aérea tem feito em meio a esse conflito, para trazer os nossos cidadãos em segurança para casa. Muito, muito obrigada.\n\nNesse sentido, passo a palavra ao Brigadeiro Engenheiro Luciano Valentim Rechiuti, para que possa fazer a sua exposição e contar um pouco do legado de Santos Dumont sob a perspectiva da nossa Força Aérea.\n\nMuito obrigada.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Intervenção de condução protocolar da titular, que passa a palavra ao Brigadeiro Luciano Valentim Rechiuti e registra reconhecimento público à Força Aérea Brasileira pelo trabalho de repatriação de brasileiros em meio ao conflito em Israel. Segundo informação atribuída ao General Tomás, seria realizado o sétimo voo de repatriação, com aeronave KC-30 e previsão de retorno com 215 passageiros. O tema de Santos Dumont comparece apenas na menção de que o próximo orador tratará do legado de Santos Dumont sob a perspectiva da FAB, sem que a titular emita juízo ou posição sobre o tema.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00006",
+          "ordem_no_debate": 6,
+          "texto": " Muito obrigada, Brigadeiro Luciano. Foi excepcional a sua apresentação. Muito obrigada pela gentileza de estar conosco. O senhor nos deu um panorama muito importante a respeito da contribuição de Santos Dumont para a Força Aérea Brasileira e, consequentemente, para que tenhamos um País com cada vez mais oportunidades através da exploração espacial, por exemplo.\n\nAqui na Comissão pudemos aprovar a Lei Geral das Atividades Espaciais. Através dessa lei, conseguimos, certamente, trazer cada vez mais segurança jurídica para essa exploração do espaço por parte do nosso País. Então, mais uma vez, deixamos o nosso reconhecimento e a nossa gratidão pelo trabalho. Deixamos também um grande abraço ao nosso líder, o Tenente-Brigadeiro Marcelo Damasceno, que conduz a Força Aérea Brasileira com maestria e que tem feito a diferença, especialmente neste momento de repatriação dos nossos brasileiros.\n\nPassamos a palavra ao Sr. Henrique Lins de Barros, que está conosco virtualmente, para fazer a sua apresentação por até 10 minutos.\n\nHenrique, V.Sa. tem a palavra.\n\nObrigada.(Pausa.)\n\nHenrique, não há áudio. Vamos ver.(Pausa.)\n\nIsso. Agora deu certo. Deu certo. Obrigada.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Fala eminentemente protocolar, de agradecimento e condução de trabalhos. A oradora elogia a apresentação do Brigadeiro Luciano sobre as contribuições de Santos Dumont para a Força Aérea Brasileira e para o país, com menção positiva à exploração espacial, sem desenvolver posição argumentativa própria sobre o tema. Destaca a aprovação, pela Comissão, da Lei Geral das Atividades Espaciais, afirmando que ela trouxe maior segurança jurídica à exploração espacial, em tom de reconhecimento e gratidão. Cumprimenta o comandante da Aeronáutica e passa a palavra ao próximo orador, tratando ainda de ajuste técnico de áudio. Não há formulação de tese ou análise crítica; a fala registra apreço e encaminhamentos administrativos.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00008",
+          "ordem_no_debate": 8,
+          "texto": " Muito obrigada pela brilhante participação, Dr. Henrique. Muito obrigada pela gentileza.\n\nComo o senhor falou, eu, que sou uma boa paranaense, não poderia também deixar de ressaltar o papel de Santos Dumont para o turismo brasileiro, especialmente para que todos nós tivéssemos as Cataratas do Iguaçu como um legado para a humanidade. Santos Dumont teve um convite para visitar a fazenda, à época. Quando viu as Cataratas do Iguaçu, ele se assustou e proferiu a seguinte frase, de acordo com aqueles que estudam a vida de Santos Dumont:\"Estas maravilhas não podem pertencer a um particular.\"\n\nDepois disso, Santos Dumont foi até Affonso Camargo, o Governador do Estado do Paraná à época, e fez toda a interlocução para que a área das Cataratas do Iguaçu fosse desapropriada e pudesse se tornar um patrimônio de todos os brasileiros. Então, nós paranaenses e brasileiros temos as Cataratas do Iguaçu, importante ponto turístico, em decorrência dessa ação de Santos Dumont.\n\nMuito obrigada também por essa lembrança. Sr. Henrique, corrija-me se, de alguma forma, eu tiver errado na história.\n\nPor fim, passamos a palavra ao Sr. Cláudio Gomide, para fazer a sua apresentação, por 10 minutos, pela plataforma Zoom.\n\nMuito obrigada, Cláudio, pela participação.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Fala predominantemente procedimental e expositiva em que a titular agradece o participante anterior e passa a palavra ao próximo orador. De forma substantiva, ela destaca a contribuição de Santos Dumont para o turismo e para a preservação ambiental, relatando que, ao visitar as Cataratas do Iguaçu, ele teria afirmado que aquelas maravilhas não poderiam pertencer a um particular e, junto ao então governador do Paraná, Affonso Camargo, articulado a desapropriação da área, hoje patrimônio de todos os brasileiros. O relato histórico é atribuído a estudiosos da vida de Santos Dumont e é acompanhado do pedido de correção caso haja erro, sem outro posicionamento sobre debates polêmicos do tema.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00010",
+          "ordem_no_debate": 10,
+          "texto": " Dr. Cláudio, desculpe-me, nós perdemos o seu áudio.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Trata-se de fala exclusivamente procedimental: a titular interrompe a sessão apenas para avisar a Dr. Cláudio que o áudio dele foi perdido, pedindo desculpas pela interrupção. Não há qualquer manifestação de opinião sobre a comemoração dos 150 anos de nascimento de Santos Dumont ou sobre suas contribuições para a aviação, seja de concordância, discordância, abstenção ou ambiguidade. Como o conteúdo se restringe a uma questão técnica de andamento da sessão, não há posição substantiva a registrar, nem argumentação, credibilidade ou postura retórica a avaliar.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00012",
+          "ordem_no_debate": 12,
+          "texto": " Agora o áudio voltou. Obrigada.\n\n\n\n Pode voltar 1 minuto, por favor. Foi muito rápido.\n\nO senhor estava falando que conversou com a...\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Intervenção estritamente procedimental de condução da audiência, sem qualquer opinião expressa sobre de Santos Dumont. A titular informa que o áudio voltou, solicita que a apresentação recue um minuto por ter sido rápida e inicia a retomada de uma pergunta ao orador anterior, em frase interrompida. Não há posicionamento, argumentação, credibilidade ou postura substantiva identificáveis sobre o tema.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [
+            {
+              "participante": "CLÁUDIO GOMIDE",
+              "texto": " De nada. O que perderam? Eu posso voltar...\n\n",
+              "apos_caractere_do_texto": 34,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "Luisa Canziani não encerrou sua fala, pois ela está seguindo a partir da interação com CLÁUDIO GOMIDE."
+            },
+            {
+              "participante": "CLÁUDIO GOMIDE",
+              "texto": " Pois não.\n\n",
+              "apos_caractere_do_texto": 137,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "Retomada ainda não observada."
+            }
+          ],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00013",
+          "ordem_no_debate": 16,
+          "texto": " Fique à vontade. Desculpe-me, doutor. Eu estava tentando recapitular a sua fala.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental e de cortesia: a titular convida o interlocutor a prosseguir, pede desculpas e explica que estava tentando recapitular a fala anterior. Nenhuma opinião ou posicionamento sobre o tema da comemoração dos 150 anos de nascimento de Santos Dumont é expressa nesta intervenção.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00015",
+          "ordem_no_debate": 18,
+          "texto": " Cláudio, de novo, houve uma falha no som.(Pausa.)\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "A fala é inteiramente procedimental e sem conteúdo sobre o tema da comemoração dos 150 anos do nascimento de Santos Dumont. Na condição de quem preside os trabalhos, a titular se limita a comunicar a Cláudio uma falha no som, seguida de pausa, sem qualquer comentário, avaliação ou posicionamento a respeito de Santos Dumont, de suas contribuições para a aviação ou de outros legados. Não há concordância, discordância, abstenção expressa ou ambiguidade sobre o tema, nem formulação que exija sustentação, técnica ou apelo afetivo.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00017",
+          "ordem_no_debate": 20,
+          "texto": " Muito obrigada, Cláudio Gomide, pela exposição. De fato, essa é a mensagem que nós temos que levar ao Brasil, para que possamos honrar o legado de Santos Dumont todos os anos. Isso perpassa também pela conscientização dos nossos alunos, dos nossos estudantes, através das nossas escolas. Acredito que esse deve ser o espírito de todos nós que acreditamos que a inovação é um grande instrumento de transformação social, política e econômica. Muito obrigada pela sua participação e pelas suas contribuições.\n\nEu gostaria de pedir licença a vocês para nós escutarmos também o Prof. Ricardo Magalhães, por até 3 minutos. Ele é Vice-Presidente do Instituto Cultural Santos Dumont e está aqui nos prestigiando. Inclusive, está havendo agora um exposição, não é isso, Prof. Ricardo? Eu queria que o senhor falasse um pouco da exposição e do trabalho que o instituto também faz em prol desse processo de todos nós honrarmos o legado de Santos Dumont.\n\nMuito obrigada pela visita e pela participação.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Nesta fala, a oradora assume posição favorável à celebração do legado de Santos Dumont, endossando a mensagem do expositor anterior de que se deve levar ao Brasil a valorização do legado, honrado todos os anos. Sustenta que isso deve passar pela conscientização de estudantes nas escolas e vincula essa celebração à crença de que a inovação é um grande instrumento de transformação social, política e econômica — postura afirmada com firmeza e ancorada na convicção compartilhada de \"todos nós que acreditamos\", sem uso de dados, normas ou fundamentação técnica. A fala também tem forte conteúdo procedimental: agradece o expositor anterior, pede licença para ouvir o Prof. Ricardo Magalhães, vice-presidente do Instituto Cultural Santos Dumont, por até três minutos, e pede que ele fale da exposição em curso e do trabalho do instituto em prol da homenagem ao legado de Santos Dumont, encerrando com novos agradecimentos pela visita e participação.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00019",
+          "ordem_no_debate": 22,
+          "texto": " Muito obrigada, Prof. Ricardo, pelas contribuições.\n\nDeixamos esse recado aos Deputados da nossa Comissão, a toda a Câmara, a toda a equipe, a todos que estão nos acompanhando, para que visitem essa que é a maior exposição feita no Museu Catavento, que celebra os 150 anos de Santos Dumont, com réplica de aviões, brincadeiras e objetos do inventor.\n\nParabéns pelo brilhante trabalho que também desempenham lá no Instituto.\n\nAntes de encerrar, eu gostaria de agradecer aos meus parceiros que estão aqui, o Vereador Alexsander e também o Vereador Edimar dos Santos, do Município de Barra do Jacaré, meu Município, que com muito orgulho represento aqui em Brasília. Muito obrigada, Vereadores, pela presença de vocês.\n\nQuero também informar que nós, membros da Comissão, ao lado da nossa Ministra Luciana Santos, da Ciência, Tecnologia e Inovação, faremos uma visita ao laboratório Sirius, no dia 9 de novembro. A programação está disponível a todos os membros da nossa Comissão. Faremos essa visita ao Sirius, localizado em Campinas, que é a maior e mais complexa infraestrutura científica já construída no País, que utiliza aceleradores de partículas para que produzamos um tipo especial de luz, a chamada luz síncrotron, e que garante muitos avanços para todos nós.\n\nContamos com a participação dos membros da nossa Comissão. Essa visita será realizada no dia 9 de novembro e contará com o apoio de sempre do Comando da Aeronáutica para essa missão.\n\nNa medida em que nós não estamos com quórum para realizar nossa reunião da Comissão — estamos em processo de obstrução há algum tempo aqui na Casa, mas esperamos que esse processo se encerre a partir da semana que vem — vamos encerrar a reunião.\n\nAntes, porém, quero informar que, no âmbito da nossa Comissão, nós criamos o Grupo de Estudos sobre Transformação Digital e Inovação, com a finalidade de promover estudos, análises e apresentação de sugestões de emendas aos projetos de lei e de soluções específicas relativas ao tema transformação digital e inovação.\n\nNada mais havendo a tratar, agradecemos, mais uma vez, aos Deputados, aos assessores, à nossa equipe aqui da Comissão, ao nosso Secretário Lin, aos Cristianos, que sempre nos auxiliam da melhor maneira possível, ao público em geral, às assessorias dos Deputados e às lideranças.\n\nMuito obrigada pela presença de vocês, especialmente aos nossos convidados palestrantes pelas brilhantes contribuições trazidas a esse debate. Muito obrigada pela gentileza.\n\nEstá encerrada a presente audiência pública.",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "A fala é o encerramento protocolar da audiência, predominantemente procedimental e expositiva. A titular agradece as contribuições do Prof. Ricardo e convida deputados, equipe e público a visitar a exposição dos 150 anos de Santos Dumont no Museu Catavento, destacando réplicas de aviões e objetos do inventor, ao que soma parabéns ao trabalho do Instituto responsável, num registro celebratório e favorável à comemoração, sem ressalvas. Agradece ainda a presença de vereadores de seu município, informa sobre visita ao laboratório Sirius em Campinas, conceituando brevemente aceleradores de partatórios e luz síncrotron, anuncia a criação do Grupo de Estudos sobre Transformação Digital e Inovação e encerra a reunião por falta de quórum em contexto de obstrução, sem deliberar propriamente sobre as contribuições de Santos Dumont à aviação.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "JEAN ROBERT BATANA FERREIRA",
+      "falas": [
+        {
+          "id": "f00002",
+          "ordem_no_debate": 2,
+          "texto": " Bom dia a todos.\n\nO meu nome é Jean Robert Batana Pires Ferreira, sou Coordenador-Geral de Tecnologias Estratégicas no MCTI.\n\nEu recebi a incumbência de falar um pouquinho do nosso herói nacional Santos Dumont. E, como o assunto é muito extenso e nós temos pouco tempo, eu vou fazer um voo bem rapidinho.\n\nAlberto Santos Dumont nasceu em 20 de julho de 1873, na cidade de Cabangu, Município de Palmyra, Minas Gerais, e depois se tornou Santos Dumont.\n\nEm homenagem ao nosso herói, é importante destacarmos aqui que ele desempenhou um papel fundamental no desenvolvimento científico e tecnológico em várias frentes. Nós vamos passar aqui rapidamente algumas dessas frentes.\n\nEle realizou o primeiro voo controlado em Paris, em 1906, com o famoso 14 Bis, que é aquela aeronave que parece uma coisa estranha, mas que já era um precursor na aeronáutica mundial.Ele desenvolveu também, já seguindo as melhorias do 14 Bis, este aparelho que parece uma libélula, chamadoDemoiselle. Esse engenho foi uma melhoria do 14 Bis e permitiu que ele ganhasse inclusive maior destaque na Europa. Ele desenvolveu também balões dirigíveis. Os mais conhecidos são os dirigíveis nºs 6 e 9. O dirigível nº 6 lhe permitiu ganhar o Prêmio Deutsch de La Meurthe. Ele percorreu, com esse balão, um voo numa distância equivalente a 30 quilômetros. Isso pode parecer pouco, mas, naquela época, era um feito inigualável. Com isso, ele inspirou também os irmãos Wright, os americanos que são conhecidos, eu diria, até de uma forma errônea, como os inventores da aviação, sendo que, na verdade, Santos Dumont já tinha criado vários engenhos e inspirado vários pesquisadores, vários desenvolvedores de artefatos aeronáuticos.\n\nAgora uma curiosidade bem interessante: ele inspirou o desenvolvimento de um relógio de pulso. Confesso que eu não sabia disso. Quando eu fui pesquisar sobre o fato, fiquei realmente surpreso. Para cronometrar os voos ele usava um relógio de bolso. E, como ele usava mecanismos de alavanca com as duas mãos, não tinha como consultar o relógio dele para cronometrar o seu percurso. Então, ele, conversando com o seu amigo Louis Cartier, sugeriu a fabricação de um relógio de pulso, que ele mesmo desenhou. E ele propôs ao Cartier que desenvolvesse esse relógio, que hoje, sabemos, é uma das marcas mais requisitada e requintadas, digamos assim.\n\nAlém disso, ele contribui para o desenvolvimento de motores aeroespaciais. Aquelas engenhocas dele, tanto o 14 Bis como oDemoisellee também os balões dirigíveis, recebiam motores que permitiam a propulsão. Ele desenvolveu esses motores, trazendo uma contribuição extremamente importante para a tecnologia aeroespacial. Com isso, também propôs alguns princípios aeronáuticos que permitiram o controle de aeronaves, estabilidade e direção, assim influenciando a aviação moderna.\n\nInfelizmente — Brigadeiro, perdoe-me —, Santos Dumont tinha uma visão muito pacifista. Então, os engenhos dele tinham um destino mais de uso civil, mais de uso popular. Mas, logo depois, quando entramos na década de 1910, começou um desenvolvimento desenfreado, envolvendo a parte militar. Aí surgiu a Primeira Guerra Mundial, de 1914 a 1918, com a atuação militar, que levou a inovações em motores, aerodinâmica e sistemas de armamento. Mas, para fazer justiça, lembro que as tecnologias militares revolucionaram o mundo, Brigadeiro. Então,vamos fazer justiça também às Forças Armadas.\n\nAí surgiu a idade de ouro da aviação, de 1920 a 1930, com o desenvolvimento de motores cada vez mais potentes, aviões de metal, que permitiram a popularização da aviação comercial, inclusive a realização voos transatlânticos.\n\nLogo depois, surge a Segunda Guerra Mundial, de 1939 a 1945, que constituiu um ponto de virada. Lembrem-se, as guerras sempre acabam ajudando num salto tecnológico, e isso aconteceu também com a aeronáutica.\n\nAí, mais adiante, na década de 1950, vem a era dos jatos. Os motores a jato tornaram-se a norma da aviação civil, com aeronaves mais rápidas, eficientes, confortáveis e maiores.\n\nDa década de 1990 para frente, veio a introdução da informática, a era da eletrônica, a era doschips. Nós começamos a ter melhorias de segurança com o uso da eletrônica: sistemas de navegação por GPS, comunicação via satélite, automação da cabine das aeronaves. Essas são algumas melhorias que foram trazidas, com a introdução da eletrônica.\n\nChegamos à década de 2000. As aeronaves não tripuladas, os famosos VANTs, os veículos aéreos não tripulados, passam a ser uma realidade. Alguns chamam de drones, mas são sinônimos. Hoje temos veículos remotamente controlados, com aplicações tanto militares como civis.\n\nDe 2020 para frente, que é o nosso tempo, começamos a viver o momento de considerar a questão da sustentabilidade. Por quê? Porque precisamos preservar o nosso planeta, preservar o ar que nós respiramos, poluir menos. Aí há o desenvolvimento de aeronaves mais eficientes, com propulsão elétrica e híbrida. Atualmente, discute-se, inclusive, o uso de combustíveis sustentáveis, como o hidrogênio verde, e estão em desenvolvimento também, pensando em turismo espacial, aeronaves hipersônicas em viagens comerciais.\n\nAtualmente, nós temos no Brasil investimentos para desenvolver tecnologias que venham facilitar a mobilidade urbana. O MCTI colocou recursos para empresas brasileiras, com o objetivo de desenvolver projetos de plataformas aeronáuticas que permitam desenvolver o que nós chamamos de carros voadores. Isso em breve será uma realidade na nossa sociedade.\n\nPara concluir, queremos dizer que Santos Dumont foi um visionário muito além do seu tempo e que seu legado irá impactar várias gerações. Na verdade, já impactou e vai continuar impactando, porque tudo o que vivemos hoje nós devemos ao que ele fez no início do século XX.\n\nObrigado.(Palmas.)\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Nesta fala, o orador homenageia Santos-Dumont como herói nacional e visionário pioneiro da aviação, percorrendo em tom comemorativo e admirativo suas principais contribuições — o voo controlado do 14 Bis em 1906, o Demoiselle, os dirigíveis, os motores aeroespaciais e princípios de controle de aeronaves —, além de uma curiosidade sobre a inspiração do relógio de pulso. Posiciona-se de modo favorável ao tema, afirmando com firmeza que o legado do pioneiro já impactou e seguirá impactando gerações, pois o que existe hoje na aviação derivaria do que ele fez. Discorda expressamente de chamar os irmãos Wright de inventores da aviação, considerando a atribuição errônea, o que faz como correção factual, sem hostilidade. Lamenta que a visão pacifista de Santos-Dumont tenha conduzido seus engenhos ao uso civil, mas reconhece, de forma ambivalente, que as guerras e as tecnologias militares posteriores impulsionaram saltos tecnológicos. Contextualiza a evolução da aeronáutica em cronologia — guerras mundiais, era dos jatos, eletrônica, VANTs e a preocupação atual com sustentabilidade — e menciona, a partir de sua atuação no MCTI, investimentos em mobilidade urbana e projetos de carros voadores, com previsão confiante de que em breve serão realidade.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [
+            "Reconhecer e destacar o papel fundamental de Santos Dumont no desenvolvimento científico e tecnológico em várias frentes."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "LUCIANO VALENTIM RECHIUTI",
+      "falas": [
+        {
+          "id": "f00004",
+          "ordem_no_debate": 4,
+          "texto": " Deputada Luisa Canziani, muito obrigado pela oportunidade que a senhora está dando ao Comando da Aeronáutica, para esta breve apresentação. A senhora pode ter certeza também de que essa sua menção vai chegar ao Comandante da Aeronáutica. Tenho certeza de que ele vai ficar muito satisfeito em saber que nós estamos atendendo bem a nossa sociedade brasileira e que isso está sendo reconhecido. Muito obrigado.\n\nEu aproveito a oportunidade para cumprimentar novamente a Deputada Luisa Canziani, os demais Deputados, as autoridades, as senhoras e os senhores. Também tentarei ser bastante rápido.\n\nJá agradeço, de antemão, a apresentação do meu amigo Jean Robert, que pavimentou aqui a estrada para que eu pudesse agora falar mais facilmente sobre Santos Dumont, focando principalmente na questão da ciência, tecnologia e inovação na Força Aérea Brasileira.\n\nHá 150 anos, nascia Santos Dumont, grande visionário brasileiro. Tudo começou a partir daí. Todas as coisas boas que hoje temos no País, com certeza, grande parte delas derivam da genialidade desse visionário que foi Santos Dumont.\n\nEsse pequeno filme de alguns segundos mostra o que já foi apresentado anteriormente aqui pelo Jean Robert, os grandes feitos do Santos Dumont, principalmente na França, começando com os balões dirigíveis, alguns deles até motorizados, nos quais ele conseguiu contornar a Torre Eiffel.\n\nNa sequência, vemos o famoso voo de um objeto mais pesado que o ar, que foi o 14-Bis. Foi o primeiro grande feito. Foi a primeira vez que o homem conseguiu tirar do solo um equipamento mais pesado que o ar — depois se tornou o aeroplano —, usando meios próprios, simplesmente usando um motor e asas. Então, esse foi o primeiro grande feito.\n\nUm ano depois, houve o lançamento do Demoiselle, que já foi um aperfeiçoamento do 14-Bis, realizando o antigo sonho de Ícaro, o sonho do homem de voar, de dominar o céu.\n\nAqui vemos o voo do Demoiselle em 1907, 1908.\n\nSantos Dumont teve um reconhecimento imediato na Europa e no mundo por esse feito. Inspirou e inspira até hoje homens e mulheres no País e no mundo todo.\n\nUm novo visionário apareceu alguns anos depois, o Marechal Casimiro Montenegro. O Marechal Casimiro Montenegro era um oficial aviador, que depois fez engenharia, no fim dos anos 30, e foi o grande precursor, o criador do Instituto Tecnológico de Aeronáutica — ITA em 1950. Mais tarde, em 1953, criou o Centro Técnico de Aeronáutica — CTA, que, em 1969, se transformou no Centro Técnico Aeroespacial e atualmente é o Departamento de Ciência, Tecnologia e Inovação, do qual eu sou subdiretor técnico atualmente.\n\nEntão, em um momento em que o Brasil, a indústria brasileira sequer produzia bicicletas, esse visionário criou uma das melhores escolas de engenharia do mundo, o ITA, baseado no modelo do MIT norte-americano, e o próprio Centro Técnico Aeroespacial. Foi uma ideia extremamente ousada para aquela época.\n\nEste filmete aqui mostra um pouco do que foi a história do CTA, começando pela ideia da criação do Instituto Tecnológico de Aeronáutica pelo Brigadeiro Casimiro.\n\nEssa imagem é da primeira turma do Instituto Tecnológico de Aeronáutica, de 1950, chegando a São José dos Campos. Viu-se, naquele momento, que era necessário termos um centro técnico à altura dos engenheiros que estavam sendo formados ali, para que nós pudéssemos, na época, criar a nossa indústria aeronáutica. Então, foi criado o CTA em 1953, que culminou com a criação de uma indústria aeronáutica brasileira, a EMBRAER.\n\nEsse é o legado do Brigadeiro Casimiro, com essa inspiração em outro visionário, que foi Santos Dumont. Ele nos deixou aqui o Departamento de Ciência e Tecnologia Aeroespacial — DCTA, que é o setor que temos hoje, na Força Aérea Brasileira, que cuida de toda a ciência, tecnologia e inovação. Ele nos deixou o Instituto Tecnológico Aeronáutico, que até hoje forma engenheiros para o Brasil. E nos deixou a terceira maior indústria aeronáutica do mundo, que é a EMBRAER.\n\nDando continuidade, eu vou falar um minutinho aqui sobre o Departamento de Ciência e Tecnologia Aeroespacial, localizado em São José dos Campos, responsável por toda a parte de desenvolvimento e pesquisa na área de ciência, tecnologia e inovação da Força Aérea. O grande marco do DCTA, sem dúvida, foi a aeronave Bandeirante, que foi a precursora da EMBRAER.\n\nEsse foi nosso grande marco no DCTA, mas muitas outras contribuições à sociedade vêm sendo dadas pelo DCTA desde aquela época. Algumas delas podemos citar aqui. A exemplo do relógio de pulso, de que — poucas pessoas sabem — Santos Dumont foi o idealizador. Poucas pessoas sabem que o primeiro motor a álcool do mundo quem fez foi o DCTA, nos anos 70, em plena crise do petróleo, e que hoje é precursor do motorflex. Então, foi criado lá dentro do DCTA.\n\nIndústria da defesa: várias colaborações em termos de ciência e tecnologia têm sido dadas à indústria não só por meio do pessoal altamente capacitado no DCTA, como também de toda a infraestrutura laboratorial que nós temos lá para o desenvolvimento de diversos artefatos.\n\nCito também a contribuição dada à infraestrutura aeronáutica e à pesquisa espacial, por meio do desenvolvimento de satélites no Centro Espacial ITA e de lançadores no Instituto de Aeronáutica e Espaço. Aqui há dois exemplos, de que eu vou falar um pouco mais adiante.\n\nNa educação, todos já conhecem o ITA em termos de graduação, pós-graduação, mestrado e doutorado. E a indústria aeronáutica é um dos grandes resultados desse trabalho, com a EMBRAER e todas as indústrias menores que orbitam ao redor dela.\n\nAqui está um exemplo, talvez o exemplo mais moderno que temos, do nosso sucesso da indústria aeronáutica brasileira: o KC-390.Trata-se de um projeto que foi solicitado pela Força Aérea Brasileira, que hoje já cumpre uma missão espetacular, inclusive no resgate de brasileiros em Israel, entre outras missões importantes que têm sido feitas.\n\nAqui há um breve filmete, que mostra como esse avião foi feito, projetado para seguir os requisitos operacionais da Força Aérea Brasileira em conjunto com a EMBRAER, mais uma vez, fomentando a indústria aeronáutica de ponta de defesa.\n\nAqui há um exemplo do modelo em escala menor sendo ensaiado em um túnel de vento. Mais de 700 engenheiros foram contratados só para esse projeto. Digo isso só para os senhores terem a dimensão de como é um projeto dessa envergadura.\n\nE aqui foi o dia dorollout.Demorou aproximadamente 3 anos, 4 anos para termos os primeiros protótipos.\n\nAqui é o primeiro voo da aeronave e a ficha técnica dela. Esse avião realmente é um dos nossos orgulhos e, com certeza, já virou o motor de faturamento da indústria nacional de defesa. Nós esperamos que, em breve, algumas negociações que já estão em andamento para a aquisição desse avião realmente se concretizem e venham a ser mais um motor de financiamento da indústria aeronáutica no Brasil.\n\nOutro orgulho também da indústria aeronáutica brasileira é o projeto do F-X2, que é o avião de caça brasileiro Gripen, feito em conjunto pela empresa sueca Saab e a Empresa Brasileira de Aeronáutica. Então, o avião já foi desenvolvido e já recebemos algumas unidades dessa aeronave que já estão voando. Esse também é outro motivo de orgulho, devido à capacidade tecnológica que está trazendo ao País. É muita tecnologia agregada. A tendência hoje em dia é menos vetores com mais tecnologia.\n\nPassando rapidamente, vamos falar agora um pouco de espaço. Muitas pessoas também não sabem que o Brasil já desenvolveu dois foguetes baseados nos motores S-30, que são o VS-30 e o VS-31. Com relação ao VS-30, que é esse de menor estágio, já tivemos 14 lançamentos do mundo: 8 no Brasil, 4 na Noruega, 2 na Suécia. Já temos também outros lançamentos previstos, inclusive no ano que vem, no Brasil, com a Operação Potiguar, em Natal. Quanto à nossa estrela, que é o VSB-30, um foguete suborbital, que leva uma série de experimentos aqui nessa baia vermelha, já houve 36 lançamentos no mundo: 6 no Brasil, 26 na Suécia, 2 na Noruega e 2 na Austrália e já temos previsão também de novos lançamentos para os próximos anos. Há um exemplo no vídeo de como é feito esse lançamento e a recuperação da carga útil que está aqui dentro dessa baia para análises posteriores.\n\nE o que estamos desenvolvendo agora? O projeto do veículo lançador de microssatélites, que substituiu o veículo lançador de satélites. Então, esse aqui é o projeto VLM-1. O plano é lançá-lo em 2027.\n\nEsse é o VS-50, que é um veículo intermediário e feito para testar esses sistemas, que deve ser lançado em 2025. Dessa forma, teremos, pela primeira vez no País, a capacidade não só de produzir satélites, mas também, com um veículo lançador brasileiro, fazer o lançamento desse satélite e colocá-lo em órbita.Esse é um projeto em conjunto com a Alemanha, o Instituto DLR, um instituto espacial alemão, e que já está em curso há vários anos.Para fazer isso, nós dispomos de dois centros de lançamento: o Centro de Lançamento da Barreira do Inferno — CLBI, em Natal. Estamos hoje usando esse centro para lançamento de veículos menores, veículos suborbitais e, para veículos maiores, o Centro de Lançamento de Alcântara, o CEA, que é a torre móvel de integração, que era do VLS e vai ser usada agora pelo VLM — já está adaptada, já fizemos todos os testes o ano passado, com sucesso.\n\nE aqui há uma rápida demonstração de como estamos localizados. Alcântara fica muito próximo da linha do Equador, a exemplo de Kourou, da Guiana Francesa, que é o centro de lançamento francês da Agência Espacial Europeia, e Natal, aqui do Rio Grande do Norte. Essa proximidade do Equador permite uma economia de combustível, principalmente dos lançamentos em órbita equatorial, o que faz um dos diferenciais do Centro de Lançamento de Alcântara.\n\nMais recentemente, a boa notícia foi a abertura dos nossos centros de lançamento também para a área privada, para permitir a vinda de mais tecnologia e de recursos para o País. Então, criamos o Centro Espacial de Alcântara, que, na verdade, é a junção do CLBI e do CEA, dos dois grandes centros, operando juntos para lançamento e rastreio de foguetes.\n\nDa primeira chamada, nós já tivemos nove propostas. Já temos três contratos em andamento e uma segunda chamada sendo feita pela Agência Espacial Brasileira para novas áreas de lançamento.\n\nA primeira operação privada já aconteceu esse ano, foi a Operação Astrolábio, em 19 de março de 2023, quando, junto com a empresa sul-coreana INNOSPACE, nós lançamos o veículo HANBIT-TLV com sucesso. Essa foi a nossa primeira operação privada no Centro Espacial de Alcântara.\n\nAqui temos um rápido filme que mostra a preparação do foguete. Há um prédio que se chama Prédio de Preparação de Propulsores. Toda a preparação do foguete é feita lá e depois ele é integrado em uma plataforma ao lado da nossa plataforma de lançamento que chamamos de TMI. É um veículo que tem aproximadamente 16 metros de altura, pesa 8 toneladas, funciona com propelente, com oxigênio líquido e uma mistura de parafinas. Devemos ter um próximo lançamento no final do ano que vem. Esse é um foguete que está ainda em desenvolvimento e que, em pouco tempo, pretendemos que se torne um veículo comercial. Então, esse foi um lançamento com sucesso e que mostrou que o nosso Centro de Lançamento de Alcântara realmente está pronto para receber qualquer tipo de lançamento de qualquer categoria de foguetes que seja necessário. Essa foi a nossa prova de fogo.\n\nEssas imagens são todas reais, não são animações.\n\nEsse é o momento do lift-off. Nós aproveitamos para colocar nesse lançamento, como carga útil, um sistema de navegação inercial que está sendo desenvolvido no DCTA, mais especificamente no Instituto de Aeronáutica e Espaço.\n\nPergunto: o que virá no futuro? Estamos agora nos preparando para o New Space. Queremos lidar com o desenvolvimento de cubesats, que são nanossatélites, minissatélites ou microssatélites, que geralmente funcionam em órbitas mais baixas e constelações. O Centro Espacial ITA já tem um trabalho grande em cima disso e já começou os seus primeiros desenvolvimentos. Já temos até satélite em órbita desenvolvido pelo ITA. Destaco também os veículos reaproveitáveis, como esse aqui da SpaceX. A tendência é a de se aproveitar o primeiro estágio, que éboosterprincipal do veículo lançador, para baratear esses custos de lançamento. Há também a propulsão híbrida, ou seja, buscar novas possibilidades de propulsão mais eficientes, mais baratas e, ambientalmente, mais amigáveis.\n\nJá estou finalizando a minha apresentação, Sra. Presidente. Eu não poderia deixar de falar isto aqui. Comparamos, brevemente, o investimento em espaço que nós estamos fazendo aqui, no Brasil, com o de alguns países da América Latina. O Brasil está em verde. Para fazer a comparação, escolhemos Bolívia, México e Argentina. Observem que, em 2020, desse grupo aqui da América Latina, o Brasil foi o que menos investiu: 29,7 milhões de dólares contra 32 milhões de dólares da Bolívia, 50 milhões de dólares do México e 45 milhões de dólares da Argentina. Esses países também estão se mobilizando. Alguns deles já estão desenvolvendo foguetes; outros estão desenvolvendo satélites e estão também se tornando independentes. Nós começamos bem antes e temos que avançar mais. Nós temos pessoas, mas, para avançarmos, precisamos de mais recursos.\n\nVemos uma comparação com a Índia, que começou o seu programa espacial nos anos 60, junto com o Brasil. Em alguns momentos, eles vieram até aqui para aprender alguma coisa conosco e para trocarmos algumas ideias. Contudo, a Índia decidiu que iria ter um programa espacial de estado e investiu bastante nisso. Há alguns dias, tivemos a notícia de que eles chegaram ao polo sul da Lua, coisa que poucos conseguiram. A Rússia, recentemente, tentou também fazer isso e não conseguiu. Hoje a Índia já tem total independência com relação a veículos lançadores de grande porte e satélites e já fornece esse serviço para o mundo. Agora, ela deu um pulo grande na exploração do espaço, que é o de explorar a Lua e outros corpos espaciais.\n\nA Índia já saiu na frente, mas investiu nisso. Enquanto nós investimos 29,7 milhões, em 2020, ela investiu 1,89 bilhão. Esse investimento aqui não é em vão, porque ele gera conhecimento, mobiliza a indústria e permite um desenvolvimento do país de uma maneira muito mais rápida. Então, essa é uma grande diferença. Fica aqui também o quadro para que nós possamos refletir. Quando o assunto for pautado aqui novamente, Sra. Presidente, a senhora vai ter isso em mente também e vai entender a nossa preocupação. Está bem?\n\nPara finalizar, deixo esse filmete com o nosso KC-390, que é a estrela da vez. Encerro a minha apresentação.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "O orador, subdiretor técnico do DCTA, faz uma apresentação institucional celebratória em torno dos 150 anos de Santos Dumont, tratado como grande visionário cuja genialidade explicaria boas conquistas brasileiras (balões, 14-Bis, Demoiselle, até o relógio de pulso). Associa a Santos Dumont o legado do Brigadeiro Casimiro Montenegro (ITA, CTA/DCTA) e a emergência da EMBRAER, enaltecendo com orgulho o KC-390 e o Gripen F-X2 como produtos de tecnologia nacional que geram faturamento e reputação. Descreve em tom técnico os foguetes VS-30, VSB-30, VLM-1, VS-50, os centros de lançamento de Alcântara e Natal e a primeira operação privada (Operação Astrolábio/INNOSPACE), apresentando-os como conquistas de ciência, tecnologia e inovação e vislumbrando futuro em cubesats, veículos reaproveitáveis e propulsão híbrida. Em tom emocional e com apelo de admiração, sustenta posição favorável ao setor, destacando vínculo diretamente temático ao tema tratado apresentando Santos Dumont e a ousadia que viabilizou o ITA/CTA e conclama, mediante comparações entre investimentos da Bolívia, México, Argentina e sobretudo da Índia (que ousou e chegou à Lua), a ampliação de recursos do Programa Espacial Brasileiro para evitar subinvestimento e assegurar independência em lançadores e satélites.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [
+            "Desenvolver capacidade nacional de lançar satélites em órbita usando um veículo lançador brasileiro (VLM-1), a ser lançado em 2027, e o veículo intermediário VS-50.",
+            "Transformar o foguete HANBIT-TLV, usado na Operação Astrolábio, em um veículo comercial de lançamento.",
+            "Avançar no programa espacial brasileiro com o desenvolvimento de cubesats (nanossatélites, minissatélites ou microssatélites em órbitas baixas e constelações) e veículos reaproveitáveis para baratear custos de lançamento.",
+            "Investir mais recursos no programa espacial brasileiro para avançar e se tornar independente em veículos lançadores e satélites, contrapondo o subinvestimento atual frente a países como a Índia."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00005",
+          "ordem_no_debate": 5,
+          "texto": " Muito obrigado.(Palmas.)\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "LUCIANO VALENTIM RECHIUTI limita-se a agradecer aos presentes, dizendo \"Muito obrigado\", com registro de palmas da plateia ao final. Trata-se de fala exclusivamente procedimental de encerramento/saudação, sem qualquer exposição substantiva sobre a comemoração dos 150 anos de nascimento de Santos Dumont, a aviação ou outras contribuições do homenageado. Não é possível apreender da fala uma posição de concordância, discordância, ambivalência ou dúvida sobre o tema, nem qualquer outra opinião substantiva, pois o registro não contém argumentos, teses ou apreciações a esse respeito. O resumo, portanto, apenas reconhece o caráter cortês e protocolar do agradecimento, sem atribuir ao orador opinião não expressa.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "HENRIQUE LINS DE BARROS",
+      "falas": [
+        {
+          "id": "f00007",
+          "ordem_no_debate": 7,
+          "texto": " Eu gostaria de agradecer a Deputada Luisa Canziani pela oportunidade de falar nesta Comissão e por falar sobre ciência tecnologia e inovação. Eu sou físico e doutor em física. Sou pesquisador titular aposentado do Centro Brasileiro de Pesquisas Físicas e acompanho muito o desenvolvimento científico e tecnológico que a aviação envolve. Eu gostaria, então, de focalizar mais na figura de Santos Dumont.\n\nTodos sabem que Santos Dumont nasceu em 1873, em Minas Gerais. Depois ele foi a São Paulo e teve conhecimento das máquinas de produção de café. Santos Dumont começou um trabalho em torno da aviação na década de 1890. É impressionante que ele tenha como objetivo resolver o problema central da aviação na época, que era a dirigibilidade, ou seja, dirigir o voo. Antes dele, vários voavam com balões, como, por exemplo, Montgolfier, que conseguia voar com balão esférico, mas não tinha capacidade de controlar o balão.\n\nSantos Dumont, então, investiu toda a sua genialidade para transformar um balão esférico em um dirigível, em um artefato capaz de ir e vir, de se locomover para onde quisesse. Isso é impressionante, porque ele fez essa descoberta. Ele viu numa feira internacional de Paris o motor de explosão, a gasolina, quer dizer, a petróleo. Então, ele visualizou que esse motor seria a solução para o futuro da viação.\n\nEle, então, projeta e constrói um novo motor. O curioso é que ele patenteia esse motor e disponibiliza-o para todo mundo. Ele faz o primeiro dirigível, o dirigível nº 1, que tem problema. O dirigível é muito esguio, muito comprido, e não tem resistência para continuar o voo. Ele cai com o dirigível nº 1 e com o dirigível nº 2. Com o dirigível nº 3, ele muda o formato — usa gás de iluminação, e não gás de hidrogênio — e voa algumas vezes.  O dirigível nº 4 tem problemas. Com o dirigível nº 5, ele cai em Paris. Com o dirigível nº 6, ele compete e concorre ao Prêmio Deutsch, que é o prêmio oferecido por um magnata do petróleo, Henri Deutsch de la Meurthe, para quem fizesse um voo de ida e volta, saindo de Saint-Cloud até a Torre Eiffel. Seria um voo de 11 quilômetros no total.Santos Dumont se propõe a fazer esse desafio e, com o dirigível nº 6, ele efetivamente consegue fazer isso.\n\nNesse momento, o que aconteceu foi muito importante. É, mais ou menos, uma situação semelhante à de Vasco da Gama: é o início da era da navegação aérea. Com Vasco da Gama, deu-se o início da era das navegações marítimas. Então, Santos Dumont mostra que é possível voar no ar, controladamente, num tempo definido. Com o dirigível nº 6, ele passa a ser o inaugurador do século XX, o século do voo.\n\nA partir disso, Santos Dumont desenvolve e aperfeiçoa a tecnologia de voo. Ele inova com materiais, por exemplo, com usos diferentes da seda, usos diferentes de verniz, do motor, simultaneamente.\n\nEm 1906, ele já tinha avançando nos dirigíveis completamente. O dirigível passou a ser um artefato usado pela França e, posteriormente, pela Alemanha — outro dirigível, Hindenburg, no caso, o Zepelim. Mas, até hoje, a concepção do dirigível de Santos Dumont continua sendo adotada.\n\nEm 1906, ele aparece com uma proposta arrojada, que chamamos de 14 Bis. O 14-Bis é um aparelho mais pesado que o ar, acoplado ao dirigível nº 14 — por isso, 14-Bis. Com ele, Santos Dumont consegue demonstrar publicamente, diante de uma comissão, decolar o avião. Saindo do chão sem vento e sem auxílio de outra coisa, ele voa com o 14 Bis controladamente.\n\nPara fazer isso, como chamamos, ele veste o avião, ele vai em pé, numa cesta. Com uma mão, ele controla a subida e a descida. Com a outra mão, a guinada. Ele inventa o aileron, que é um elemento importante de qualquer avião moderno, que é fazer o avião sofrer uma inclinação. Ele controla, com uma das mãos, subida e descida; com a outra, direita e esquerda; e a inclinação, com o corpo. Ele fica preso, por cabos, à asa do avião.\n\nAssim, o avião voa. Isso é reconhecido internacionalmente pela Federação Internacional de Aeronáutica. É considerado o primeiro voo homologado da história da aviação.\n\nA partir desse momento, os outros inventores que estavam junto com ele descobrem qual é o mistério do voo e passam a voar: Blériot, Farman, Voisin, Courtis, vários conseguem voar. E a aviação começa. Santos Dumont desenvolve, então, seu invento — outro invento —, depois de uma série de tropeços. Ele fez os nºs 19 e 20, o Demoiselle, que é um avião ultra leve, um avião pessoal, mínimo. Esse avião foi comprado por Roland Garros, que não era tenista, mas que veio a dar o nome ao estádio, em função do que ele fez durante a guerra.\n\nEntão, o Demoiselle, avião de base para Roland Garros e outros, foi produzido em série. Esse foi o primeiro exemplo da história da aviação de um aparelho produzido em quantidade. Talvez, cinquenta tenham sido produzidos, mas não temos muita certeza. Então, a contribuição de Santos Dumont é fundamentalmente essa: ele inaugura a era da navegação aérea, que muda o século XX inteiramente. Durante a Primeira Guerra Mundial, 150 mil aviões foram produzidos.\n\nNa Segunda Guerra Mundial, o número também é elevado. Então, foi uma contribuição enorme. Tinha um conhecimento enorme da questão científica, da estabilidade, da sustentação, do rendimento, e ele divulga isso para todo mundo. Essa é a posição muito particular de Santos Dumont. Ele não lucrou diretamente com o invento dele. Ele dava isso para que os outros inventores pudessem usar.\n\nEu não quero me alongar, porque a história de Santos Dumont é muito extensa. Por exemplo, que Santos Dumont propôs ao Governo do Paraná a compra de Foz do Iguaçu pelo patrimônio ecológico. Isso foi muito importante. Então, ele tem uma participação em todas as áreas de conhecimento.\n\nEu queria agradecer novamente. Estou aberto para perguntas, se for o caso.\n\nMuito obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Em fala de caráter histórico e laudatório, o orador celebra Santos Dumont e suas contribuições para a aviação e outras áreas do conhecimento. Apoiando-se em sua formação de físico e pesquisador do CBPF, percorre a trajetória de Dumont desde a solução da dirigibilidade com os dirigíveis até o voo homologado do 14-Bis pela Federação Internacional de Aeronáutica e a produção em série do Demoiselle. Destaca com admiração o aspecto de interesse público da obra de Dumont, que patenteava e disponibilizava suas criações — como o motor de explosão — para o benefício de outros inventores, sem lucrar diretamente com elas. A exposição enfatiza a dimensão pioneira e coletiva do legado, mencionando ainda iniciativas como a proposta de preservação ecológica de Foz do Iguaçu. O orador encerra reafirmando a magnitude da contribuição de Dumont e se mostra aberto a perguntas, sem apresentar propostas legislativas ou críticas diretas.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "CLÁUDIO GOMIDE",
+      "falas": [
+        {
+          "id": "f00009",
+          "ordem_no_debate": 9,
+          "texto": " Olá, bom dia a todos.\n\nBom dia, Deputada, muito obrigado pelo convite. É uma honra para o Museu Casa de Santos Dumont, em Petrópolis, participar de tão importante audiência pública.\n\nEu não vou me alongar tanto, porque as falas do Brigadeiro Luciano, do Dr. Henrique e do Jean Robert já intensificam bastante a história de Santos Dumont, e ela é muito maior do que já foi falado, do que sabemos.\n\nA busca de pessoas pelo Museu Casa de Santos Dumont, em Petrópolis, é muito grande. Para que os senhores tenham ideia, nesse feriadão, nós tivemos uma média de 4 mil pessoas visitando o museu. Ontem, foi um dia de funcionamento normal.Houve muita chuva pela região, mas, mesmo assim, nós recebemos 310 pessoas. Com isso, temos um mundo de pessoas interessantes e interessadas no universo de Santos Dumont. E Petrópolis tem esse carinho especial, porque ele passa a frequentar Petrópolis por indicação da Princesa Isabel, sua amiga, desde a França, que lhe dizia as histórias de Petrópolis(falha na transmissão).\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Cláudio Gomide, do Museu Casa de Santos Dumont em Petrópolis, faz uma intervenção breve, protocolar e informativa em apoio à celebração de Santos Dumont. Ele agradece o convite, declina de se alongar com base nas exposições anteriores (Brigadeiro Luciano, Dr. Henrique, Jean Robert) e destaca o grande interesse público pelo tema, sustentando essa conclusão com dados de visitação do próprio museu: cerca de 4 mil pessoas no feriado e 310 em um dia de chuva. Reforça o vínculo de Santos Dumont com Petrópolis, iniciado por indicação da Princesa Isabel. A fala não apresenta propostas nem avaliação crítica, encerrando-se em falha de transmissão durante uma explicação histórica.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00011",
+          "ordem_no_debate": 11,
+          "texto": " Estão me ouvindo agora?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: Cláudio Gomide limita-se a perguntar \"Estão me ouvindo agora?\", em uma verificação de áudio antes de sua exposição. Não há qualquer manifestação de opinião, concordância, discordância ou ambiguidade em relação ao tema da comemoração dos 150 anos de nascimento de Santos Dumont ou às suas contribuições para a aviação. Trata-se de intervenção técnica, sem conteúdo substantivo que permita avaliar posicionamento, credibilidade, alinhamento temático ou postura discursiva do orador.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00014",
+          "ordem_no_debate": 17,
+          "texto": " Imagina. Sem problema nenhum.\n\nEu falava da importância de Petrópolis na vida de Santos Dumont. Ele nasce em Minas, como já foi falado; é batizado em Rio das Flores, no Estado do Rio; vai a Ribeirão Preto. Hoje, o antigo distrito é uma cidade, que se chama Dumont. E ele acaba construindo sua única casa em Petrópolis por total influência da família imperial, da Princesa Isabel, que, apesar de estar no exílio, se faz presente com doações ao museu.\n\nEntão, nós temos essa importância muito grande para o Município, para a cidade Petrópolis, no tocante à visita do conhecimento de Santos Dumont. Independente do legado de Santos Dumont, ciência, tecnologia e inovação passam o tempo todo pela vida de Santos Dumont, desde quando pequenininho, com influência do pai, nas viagens, na chegada a Ribeirão Preto, no incentivo à viagem e ao estudo.\n\nNaquela época — e hoje também —, um menino com muito dinheiro, que é o que ele tinha, poderia ter feito muita coisa. E o pai, na própria carta que escreve ao filho, dizia isto:\"Meu filho, você tem tudo o que precisa, eu vou lhe ajudar, mas fique atento aos estudos, à ciência, à tecnologia, à física e à inovação\".Então, podemos pensar que Santos Dumont poderia ter feito muita coisa. E ele hoje é esse ícone brasileiro que temos que saudar a cada momento.\n\nRapidamente, Deputada, vou lhe falar um fato que aconteceu, que vai fazer 1 ano agora. Ano passado, eu estive, a convite do Museu Aeroespacial da Coreia, à cidade de Seul, onde houve um seminário sobre aviação, no qual se comemoravam os 100 anos do primeiro voo coreano. Esse voo coreano foi totalmente influenciado por Santos Dumont. No Museu Aeroespacial de Seul, encontramos Santos Dumont e encontramos uma réplica do 14-Bis.\n\nTerminando já a minha fala, eu queria conclamar todos. A Força Aérea Brasileira tem sido uma grande parceira aqui de Petrópolis, na pessoa do Brigadeiro Madureira e todo o seu staff, juntamente com o Museu Aeroespacial, porque retomamos essa parceria. Precisamos divulgar mais Santos Dumont. Precisamos fazer com que Santos Dumont seja muito mais reconhecido no Brasil.\n\nÉ muito triste, Deputada, que eu receba escolas no museu e veja que as escolas não sabem absolutamente nada(falha na transmissão).\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "O orador, favorável à homenagem a Santos Dumont, destaca a importância de Petrópolis na vida do pioneiro, que ali construiu sua única casa por influência da família imperial e da Princesa Isabel. Ressalta que ciência, tecnologia e inovação marcaram sua trajetória desde a infância, com incentivo do pai aos estudos, e sustenta, com base em sua participação em seminário em Seul, que Dumont influenciou a aviação coreana. Conclama à divulgação e ao maior reconhecimento de Santos Dumont no Brasil, valoriza a parceria com a Força Aérea Brasileira e o Museu Aeroespacial e lamenta, com tom emocional, que escolas que visitam o museu desconheçam sua história.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00016",
+          "ordem_no_debate": 19,
+          "texto": " Então, eu dizia que as escolas não vão preparadas. Elas não chegam ao museu preparadas. Certa vez, eu abordei um professor, Sr. Henrique, e disse a ele assim:\"O senhor não sabia dessa história?\" \"Ah, não me interessa. Eu sou professor de física\".\n\nNo momento, nós temos escolas do Rio de Janeiro, do entorno e de todo o Brasil. No outro feriado, nós recebemos escolas do Nordeste, que não sabiam. Então, é hora de nós também trabalharmos isto: a educação museal, não só para visitar os museus e saber como se comportar ao visitar o museu, mas sobretudo para aprender sobre aqueles ícones históricos que nós temos.\n\nEu acho isso fundamental, para que a educação sobre Santos Dumont comece a ser vista. Não precisava que eu fosse ao outro lado do mundo, à Coreia do Sul, para ver como eles preparam o universo de Santos Dumont para as escolas que o visitam.\n\nEu conclamo que nós, a Força Aérea, esta Comissão, toda a parte de educação e de história, trabalhemos os nossos ícones com mais veemência, para que as pessoas os reconheçam e não fiquem passando que Santos Dumont apenas criou um aviãozinho, como eu canso de ouvir:\"Ah, ele criou um aviãozinho\".Ou que ele usava um chapéu excêntrico; ou que era totalmente desbeiçado. Desculpem-me a expressão, mas é assim que se ouve de professores dentro do museu.\n\nDeputada, encerrando e mais uma vez agradecendo, essa é a fala do Museu de Petrópolis, que tem uma vivência dentro da esfera da museologia. Eu falo um pouco mais profundo, porque eu sou professor na área do direito do entretenimento e da cultura. E eu vejo muito isso em outros segmentos. É hora de nós valorizarmos os nossos heróis, é hora de nós trazermos à tona toda a importância de Santos Dumont.\n\nEspero que esse sesquicentenário seja o início para isso e que, no ano que vem, nos 151 anos, isso não termine. Muito pelo contrário, nós começamos agora.\n\nMuito obrigado. Estou à disposição.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, o orador defende que as escolas chegam despreparadas aos museus e propõe o fortalecimento da educação museal como forma de preparar visitantes e de valorizar os ícones históricos, com destaque para Santos Dumont. Com base em sua vivência no Museu de Petrópolis e em sua atuação como professor na área do direito do entretenimento e da cultura, critica a falta de preparo dos professores, citando um diálogo com um docente que se disse indiferente ao tema, e lamenta que muitos reduzam Santos Dumont a um simples 'aviãozinho' ou a excentricidades. Conclama a Força Aérea, a Comissão e a área educacional a trabalharem os heróis nacionais com mais ênfase, contrapondo o caso brasileiro ao de países como a Coreia do Sul. Por fim, expressa esperança de que o sesquicentenário marque o início de um processo contínuo de valorização de Santos Dumont e não seu encerramento.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [
+            "Trabalhar a educação museal, tanto para preparar visitantes sobre como se comportar ao visitar museus quanto para que aprendam sobre os ícones históricos brasileiros.",
+            "Promover a educação sobre Santos Dumont nas escolas, preparando-as antes de visitarem os museus.",
+            "Reunião de Força Aérea, Comissão e áreas de educação e história para trabalhar os ícones nacionais com mais ênfase, ampliando o reconhecimento das contribuições de Santos Dumont.",
+            "Valorizar os heróis nacionais e dar continuidade às homenagens a Santos Dumont após o sesquicentenário."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "RICARDO MAGALHÃES",
+      "falas": [
+        {
+          "id": "f00018",
+          "ordem_no_debate": 21,
+          "texto": " Bom dia. Muito obrigado, Deputada Luisa Canziani.\n\nEstar aqui é uma honra para o Instituto Cultural Santos Dumont, que tem 20 anos. O Prof. Henrique Lins de Barros é um dos fundadores, assim como o Marcos Siciliano Villares Filho, sobrinho-bisneto de Santos Dumont, e muitos outros familiares que estão em São Paulo.\n\nSantos Dumont, como já foi dito, nosso herói nacional e mundial, era um grande cientista não só na área da tecnologia, é claro, mas também no meio ambiente e no esporte. Ele foi o primeiro brasileiro a ganhar o Mérito Olímpico, por Pierre de Coubertin, pelo trabalho que ele fez nas competições aeronáuticas, mas ele também participava de competições de carros e motos. Santos Dumont era um grande incentivador do desenvolvimento da tecnologia, do esporte e do meio ambiente.\n\nEm São Paulo, tivemos, recentemente, uma exposição no Farol Santander, que se encerrou no dia 15 passado. E temos agora, desde o dia 29 de setembro, uma belíssima exposição no Museu Catavento Cultural, museu de ciências. Essa exposição, que foi destaque na revistaVejae noJornal Nacional,foi feita para as crianças entenderem as máquinas e os sonhos — esse é o nome da exposição,Santos Dumont: entre Máquinas e Sonhos. O curador é o Ricardo Pisanelli, mas a equipe é muito grande. O Instituto Cultural Santos Dumont é parceiro, também, na parte técnica da curadoria e da pesquisa.\n\nO Palácio das Indústrias de São Paulo hoje é sede desse museu. Santos Dumont se inspirou no Palácio das Indústrias da França, no século XIX. Como o nosso querido Cláudio, do museu A Encantada, de Petrópolis, disse, nós precisamos inspirar as crianças. Lá no Palácio das Indústrias de São Paulo, que é o Museu Catavento, temos a visita de 3 mil a 12 mil pessoas por dia, e isso está causando um efeito muito grande também nos professores, e a exposição foi pensada para isso, mostrando Santos Dumont desde o início, quando criança, quando ele sonhava em voar, e sua determinação, tornando-se um piloto de balão, um piloto de dirigível, um piloto de biplano, um piloto de monoplano. Ele era um piloto completo, mas foi ele também quem financiou, foi ele quem projetou, foi ele quem construiu e testou. Portanto, ele é um cientista completo.\n\nSantos Dumont, mais do que inovação, mais do que inspiração, é um grande exemplo de brasileiro também pelo seu lado humano, sempre querendo o desenvolvimento da humanidade, querendo que todos pudessem voar — por isso, ele abria as patentes dele — e que o legado fosse um desenvolvimento para todos.\n\nConvido todos a, estando em São Paulo, visitarem a exposição. Desejo que todos daqui de Brasília e do Brasil inteiro possam ir.\n\nMuito obrigado pelo tempo. É um orgulho enorme sempre podermos valorizar Alberto Santos Dumont.\n\nObrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Ricardo Magalhães, falando pelo Instituto Cultural Santos Dumont, adota posição francamente favorável à comemoração dos 150 anos de nascimento de Santos Dumont, sem qualquer ressalva. Desenvolve o tema de modo focalizado, apresentando Santos Dumont como herói nacional e mundial e como cientista completo — piloto de balão, dirigível, biplano e monoplano, além de projetar, construir, testar e financiar suas máquinas — e ressaltando seus vínculos com a tecnologia, o esporte e o meio ambiente (Mérito Olímpico por Coubertin). O tom é ao mesmo tempo técnico, confiante e emotivo, com admiração e orgulho, inclusive pelo lado humano do homenageado, que abria patentes para que todos pudessem voar. Em tom de divulgação, relata a atuação do instituto como parceiro técnico da curadoria, menciona as exposições em São Paulo (Farol Santander e Museu Catavento, entre máquinas e sonhos) e invoca reconhecimentos externos (Veja, Jornal Nacional, Coubertin, declaração de Cláudio do museu A Encantada) para evidenciar alcance e importância. Encerra com convite à visitação e órgão por valorizar Santos Dumont; não há posições controvérsias registradas nesta fala.",
+          "objeto_do_posicionamento": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    }
+  ],
+  "notas_revisao": [],
+  "arquivo_auditoria": "auditoria/debate_linha_00150_2abfe4388e8d_anotado.json"
+}

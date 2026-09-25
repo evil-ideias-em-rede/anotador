@@ -1,0 +1,1190 @@
+{
+  "formato": "debate_por_participante_v1",
+  "debate_id": 98,
+  "tema": "Acesso a dados para combater crimes digitais",
+  "status": "anotado_aguardando_revisao_humana",
+  "participantes": [
+    {
+      "nome": "Luis Miranda",
+      "falas": [
+        {
+          "id": "f00001",
+          "ordem_no_debate": 1,
+          "texto": " Boa tarde a todos os senhores e senhoras que aqui nos acompanham, às Sras. e aos Srs. Deputados, aos membros da imprensa. Cumprimento principalmente todos os seminaristas, aqueles que vão contribuir com a audiência de hoje, que foi transformada em seminário, dividido em duas partes, sendo que hoje ocorrerá a primeira fase e, no próximo mês, a segunda fase.\n\nDeclaro aberto o SeminárioO Combate aos Crimes Cibernéticos do Brasil — Papel do Parlamento, promovido pela Comissão de Ciência e Tecnologia, Comunicação e Informática da Câmara dos Deputados.\n\nO presente seminário foi convocado em virtude da aprovação do Requerimento nº 1, de 2021, do Deputado Bibo Nunes, subscrito por mim e pelos Deputados Coronel Chrisóstomo e Silas Câmara, e do Requerimento nº 14, de minha autoria, Deputado Luis Miranda, subscrito pelos Deputados Coronel Chrisóstomo, Leo de Brito, Nilto Tatto, Roberto Alves e Silas Câmara, com os aditamentos constantes dos Requerimentos nºs 29, 52, 71, 79 e 124, de 2021.\n\nInformo que este evento está sendo transmitido ao vivo pela Internet em formato interativo e pode ser acessado pela página da Comissão no portal da Câmara ou pelo Youtube, no canal oficial da Casa. Também na página da Comissão está disponível olinkpara o portal e-Democracia, por meio do qual é possível enviar perguntas aos palestrantes. Após o encerramento, as apresentações em multimídia serão disponibilizadas para consulta na página da Comissão.\n\nA primeira Mesa, com a qual nós vamos iniciar os debates deste seminário, que nós temos a honra de presidir, tem como temaPanorama Geral sobre os Crimes Cibernéticos do Brasil: Principais Conceitos e Desafios. Ela é composta pelos seguintes convidados: Sr. George Lodder, Procurador da República e membro do Grupo de Apoio sobre Criminalidade Cibernética do Ministério Público Federal — MPF, representando a Coordenadora-Adjunta do Grupo, Neide Cardoso de Oliveira; Sra. Delegada Regilene Siqueira Rozal, representante da Associação dos Delegados de Polícia Civil do Distrito Federal — ADEPOL; Sr. Delegado Dário Taciano de Freitas Junior, representante do Delegado-Chefe da Delegacia Especial de Repressão aos Crimes Cibernéticos da Polícia Civil do Distrito Federal, Sr. Giancarlo Zuliani. Faço um elogio, por conhecer o trabalho dessa delegacia, à coordenação do Delegado Giancarlo, que é algo incrível e invejável, e que deveria ser copiado em todo o Brasil. É uma das delegacias mais competentes e capazes para tratar desse tema. Sem sombra de dúvida, o Delegado Dário vai trazer uma grande contribuição na data de hoje. Compõem ainda a Mesa: Sr. Diogo Rais, Diretor-Geral do Instituto Liberdade Digital; Sr. Carlos Affonso Souza, Diretor do Instituto de Tecnologia e Sociedade do Rio de Janeiro; Sr. Aristides Moura, membro da Associação das Empresas de Tecnologia da Informação e Comunicação e de Tecnologias Digitais — BRASSCOM e Gerente de Relacionamento com as Autoridades de Investigação e Assuntos Digitais da Microsoft; Sr. Ygor Valerio, Consultor da Motion Picture Association — MPA; e Sr. Jonas Antunes Couto, Diretor Jurídico-Regulatório da Associação Brasileira de Televisão por Assinatura — ABTA.\n\nA Associação dos Magistrados do Distrito Federal e Territórios — AMAGIS-DF e o advogado Renato Opice Blum, especialista em Direito Digital e Proteção de Dados, comunicaram a impossibilidade de participar do seminário.\n\nFaço alguns esclarecimentos importantes.\n\nOs procedimentos a serem adotados serão os seguintes: cada palestrante terá 10 minutos para fazer sua exposição, não sendo permitidos apartes. Peço desculpas aos senhores, mas solicito que tentem se manter dentro do tempo, em virtude de ser muito grande o número de palestrantes, a fim de que nós possamos concluir os debates antes das 18 horas.\n\nEncerradas as apresentações, será concedida a palavra aos Parlamentares inscritos por no máximo 3 minutos. Os palestrantes disporão do mesmo tempo para responder às perguntas que forem feitas.\n\nFeitos os esclarecimentos, daremos início às apresentações.\n\nAntes de passar a palavra ao Procurador George Lodder, quero registrar a minha satisfação em poder presidir este seminário. Porém, não posso iniciar sem informar para quem nos acompanha e deixar registrado nos Anais da Casa — e até peço à Mesa que determine sejam publicadas em todos os meios de comunicação da Casa as informações que aqui forem prestadas — que nós estamos vivendo um dos piores momentos no mundo em relação aos crimes cibernéticos, que aumentaram demais.\n\nOs crimes baseavam-se apenas em furtos, em tentativas de tomar dinheiro de vítimas de formaon-line, em clonagem de cartão, em invasão de contas bancárias ou mesmo de dados, sequestros de informações para serem utilizadas contra suas vítimas, enfim, os famosos crimes cibernéticos que nós conhecemos, feitos porhackers, lammersoucrackers, independentemente de como eles se autointitulam. Mas esses crimes agora alcançam um nível mais perigoso, que são os crimes antidemocráticos. Quando se têmbotsque possuem inteligência artificial de última geração, que induzem uma votação desta Casa a ser diferente da vontade dos representantes do povo; quando se vai ao comentário de um Parlamentar e coloca-se ali uma estrutura para atacar as pessoas que elogiam esse Parlamentar e intimidá-las para que elas não queiram divulgar aquele conteúdo, para que elas tenham vergonha de defender essa pessoa, esses são os crimes mais graves.\n\nOs Estados Unidos começaram a fazer uma série de prisões esta semana exatamente de pessoas envolvidas com a manipulação da opinião pública, através da mudança de sentimento das pessoas acerca daquilo em que elas acreditam e que têm como verdade, as chamadasfake news.Às vezes,nem sãofake news, mas formas de hostilizar aqueles que pensam de forma diferente, fazendo com que essas pessoas recuem da sua forma de pensar, e parabenizam aqueles que têm pensamentos doentios, retrógrados ou mesmo criminosos, preconceituosos. Cria-se uma onda em que isso é visto como algo normal, fazendo com que a democracia deixe de existir e impere a intenção. Obviamente há vários motivos para que isso ocorra, mas é sempre a luta pelo poder e com muito dinheiro envolvido nisso.\n\nOsbunkerscriminosos são o foco, nos próximos meses, das investigações que correm no Supremo sobre crimes cibernéticos, crimes digitais, crimes contra a honra e, principalmente, crimes contra a democracia.\n\nPeço aos palestrantes que puderem para que contribuam também com esses temas, o foco deste seminário, a fim de que nós possamos entender como impedir a perpetuação dessa prática na nossa sociedade. Dessa forma, poderemos ter, sim, em 2022, uma eleição mais justa e honesta. Se tivermos noção de como atacar isso de forma prudente, nós teremos condições de ter uma eleição justa e honesta, sem essas pessoas que não têm conteúdo, que não produzem, que não são capazes de mudar o País, que não estão preocupadas com a economia, que não estão preocupadas com a fome ou a inflação, que não estão preocupadas com um Brasil melhor, mas, sim, em destruir o funcionalismo público, em destruir as instituições, em destruir a democracia do País, pois, no caos, elas sabem muito bem reinar.\n\nSe assim ficar esclarecido aqui, entraremos em contato com os órgãos competentes, inclusive com quem já encaminha investigações nesse sentido, para que contribuam, no sentido de podermos imobilizar esses criminosos, que são da maior periculosidade, são os piores que temos no País.\n\nDesculpem-me, mas eu tinha que falar sobre isso, porque observo que esquecemos o pior crime que pode existir, que é o crime contra a honra e o crime contra a democracia. Ele destrói pessoas, as instituições e, principalmente, o futuro do País.\n\nPasso agora a palavra ao Procurador George Lodder para sua apresentação, por 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Agressiva",
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Na abertura do seminário, além da condução procedimental dos trabalhos, o titular denuncia a escalada dos crimes cibernéticos, que considera terem alcançado um nível mais perigoso com os crimes antidemocráticos: manipulação da opinião pública por bots com inteligência artificial, fake news e hostilização de quem apoia parlamentares, que classifica como os mais graves por destruírem pessoas, instituições e a democracia. Sustenta a gravidade com prisões recentes nos Estados Unidos e investigações em curso no Supremo. Elogia a Delegacia Especial de Repressão aos Crimes Cibernéticos do DF como modelo a ser copiado no país e pede que os palestrantes tratem dos crimes antidemocráticos e que se contate órgãos de investigação para imobilizar os criminosos, visando eleições mais justas em 2022. Sobre o tema recebido, a fala é periférica: não formula posição específica sobre acesso a dados, limitando-se a defender o combate aos autores desses delitos.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Copiar em todo o Brasil o modelo da Delegacia Especial de Repressão aos Crimes Cibernéticos da Polícia Civil do Distrito Federal.",
+            "Que a Mesa determine a publicação, em todos os meios de comunicação da Casa, das informações prestadas sobre crimes cibernéticos.",
+            "Que os palestrantes contribuam com a discussão sobre crimes antidemocráticos e manipulação da opinião pública, com o objetivo de impedir a perpetuação dessas práticas.",
+            "Entrar em contato com os órgãos competentes, inclusive com quem já conduz investigações, para contribuir com a imobilização dos criminosos cibernéticos."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00003",
+          "ordem_no_debate": 3,
+          "texto": " Sr. George, apenas para contribuir. Causou interesse em todos nós aqui, inclusive nos Parlamentares. O número está correto, é o PL 5.541/20?\n\n\n\n Não, mas o número está errado. O PL 5.541/20 trata de outro tema completamente distinto desse que o senhor está falando.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala integral, Luis Miranda intervém para corrigir uma referência factual apresentada por outro orador: afirma que o número do projeto de lei citado (PL 5.541/20) está errado e que esse projeto trata de tema completamente distinto do assunto em discussão. A intervenção tem caráter estritamente expositivo e procedimental — inclui uma pergunta de confirmação ao interlocutor ('O número está correto?') e a retificação em seguida —, sem qualquer manifestação de posição sobre o tema de acesso a dados para combater crimes digitais. O orador mostra segurança no tipo de correção de natureza técnica, atuando para dar precisão à identificação da proposição legislativa em debate, sem desenvolver a questão substantiva nem expressar concordância ou discordância quanto ao tema central.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [
+            {
+              "participante": "GEORGE LODDER",
+              "texto": " Foi-me passado o PL 5.541/20, mas, como eu disse a V.Exa., ele foi apensado ao PL 3.357/15.\n\n",
+              "apos_caractere_do_texto": 143,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "Luis Miranda faz uma correção ao que foi mencionado por George Lodder, não encerrando a sua participação na conversa."
+            },
+            {
+              "participante": "GEORGE LODDER",
+              "texto": " Eu posso ter recebido errado, mas, de qualquer maneira, ele foi apensado ao PL 3.357/15.\n\n",
+              "apos_caractere_do_texto": 268,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "Retomada ainda não observada."
+            }
+          ],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00004",
+          "ordem_no_debate": 7,
+          "texto": " Vamos verificar esse projeto aqui. Pode continuar sua apresentação.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: Luis Miranda apenas solicita a verificação de um projeto e autoriza a continuação da apresentação, sem manifestar qualquer opinião substantiva sobre o tema de acesso a dados para combater crimes digitais. Não há concordância, discordância ou ambiguidade em relação ao tema, nem propostas apresentadas.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00006",
+          "ordem_no_debate": 9,
+          "texto": " Agradeço-lhe a exposição. Realmente, o tempo de que dispomos é horrível. Então, muito das participações serve mais para conhecermos as pessoas, suas ideias, seus projetos e o que elas defendem, para que possamos, depois, manter a comunicação.\n\nJá estou com os projetos referidos pelo senhor, como o Projeto de Lei nº 3.357, de 2015, que tem uma quantidade de apensados gigantesca. Só ele tem 18 projetos apensados e está pronto para ir ao plenário. Obviamente, se houver outro projeto mais abrangente ou melhor que ele, poderá ser apensado a esse PL 3.357/15 — porque é mais antigo —, para aproveitar a relatoria e o que há de mais moderno ou o que evoluiu no projeto mais recente, de 2020. Vou dar atenção ao tema e, dentro do possível, até apresentarei um requerimento de urgência para que ele seja votado em plenário o quanto antes.\n\nObrigado pela exposição.\n\nPasso a palavra à Sra. Regilene Siqueira Rozal, para que faça sua apresentação, por 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Luis Miranda manifesta apoio procedimental ao andamento do tema, sem se posicionar sobre o mérito do acesso a dados. Agradece a exposição, critica o tempo exíguo disponível e observa que as intervenções servem sobretudo para conhecer as pessoas e suas ideias. No plano legislativo, afirma já acompanhar os projetos referidos, destaca o PL nº 3.357/2015 como pronto para ir ao plenário com grande quantidade de apensados e sustenta que um eventual projeto mais abrangente ou melhor, ainda que mais recente (2020), deve ser apensado ao PL 3.357/2015 por este ser mais antigo, aproveitando-se a relatoria e o que houver de mais moderno. Compromete-se a dar atenção ao tema e, dentro do possível, a apresentar requerimento de urgência para que seja votado em plenário o quanto antes. A fala é predominantemente de condução institucional e técnica, com demonstração de confiança no manejo da tramitação.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Vou dar atenção ao tema e, dentro do possível, até apresentarei um requerimento de urgência para que ele seja votado em plenário, quanto antes.",
+            "Que houvesse um projeto mais abrangente ou melhor do que o PL 3.357/2015, que ele fosse feito seria apensado a esse pretendido PL 3.357/2015, por este ser mais antigo, a fim de aproveitar a relatoria e o que houvesse de mais moderno do pretendido projeto mais recente, de 2020."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00008",
+          "ordem_no_debate": 11,
+          "texto": " Agradeço à Sra. Regilene a explanação.\n\nFico muito feliz que a senhora tenha lembrado aqui o nome de uma delegada que foi esplêndida em processo muito árduo de ataques cibernéticos por que passei, a Dra. Letizia. Ela foi esplêndida, na ausência do Delegado Giancarlo.\n\nA sua delegacia realmente está de parabéns e deveria ser modelo a ser copiado por todos os demais Estados, principalmente por aqueles que não possuem uma delegacia cibernética. Os profissionais que ali estão, de alto nível, são preparados para lidar com esse novo mundo de crimes desse ambiente, o que ainda é um mistério para aqueles que não estão envolvidos profundamente com o tema. Então, mande o meu grande abraço para ela. Em minha opinião, ela é uma das melhores delegadas do Brasil.\n\nAgora passo a palavra ao Delegado Dário Junior, para fazer sua apresentação, por 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala, Luis Miranda dedica-se sobretudo a elogiar a delegacia cibernética apresentada e a delegada Letizia, além de encaminhar a palavra ao próximo orador. Relata, com base em experiência própria como vítima de ataques cibernéticos, que a delegada atuou de forma esplêndida em processo árduo, e afirma, expressamente como opinião, tratar-se de uma das melhores delegadas do Brasil. Avalia que a delegacia é modelo a ser copiado pelos demais Estados, especialmente pelos que não possuem estrutura equivalente, por reunir profissionais de alto nível preparados para lidar com o ambiente de crimes digitais. O tom é de congratulação e apreço, acompanhado de abraço caloroso à delegada. A parte final é procedimental, repassando a apresentação ao Delegado Dário Junior. A fala não avança no tema central de acesso a dados para o combate a crimes digitais, limitando-se a prestigiar a atuação institucional em matéria de crimes cibernéticos.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00010",
+          "ordem_no_debate": 13,
+          "texto": " Obrigado de verdade, Dr. Dário, pelas suas explanações, mas principalmente por ser objetivo no pedido.\n\nEu vou tentar identificar um projeto que já esteja bem encaminhado na Casa e que dê esse acesso ao IP, por ofício, pela autoridade policial ou investigativa — se não existir, nós vamos avisar à assessoria para prepará-lo —, ou uma emenda ou um projeto que esteja com tramitação avançada, de repente, para ser votado em uma Comissão, ou até mesmo um projeto, para que nós possamos atender a esse pleito, que eu achei extremamente pertinente e importante para facilitar essas investigações, que estão crescendo muito.Se depender de buscar a Justiça cada vez que se iniciar um processo investigativo, além do tempo perdido, porque os crimes são muito rápidos, o trabalho aumenta e torna-se mais moroso, em virtude da quantidade de processos possíveis de serem investigados pela delegacia.\n\nObrigado pela sugestão.\n\nQuanto à utilização dos equipamentos, já temos legislação aplicável para o tráfico de drogas que pode ser utilizada como referência para o crime cibernético, até porque esses criminosos estão bem mais avançados em tecnologia e equipamentos do que nós. Isso seria de bom proveito para o uso policial, certamente. Vamos ver o que nós também conseguiremos fazer no âmbito de projetos que tramitam na Casa, sempre buscando aqueles que já estão em plenário, para tentar, através de emenda, ter êxito o mais rapidamente possível.\n\nMais uma vez, muito obrigado.\n\nTem a palavra o Sr. Diogo Rais, por 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Nesta fala, Luis Miranda endossa o pleito de acesso a dados (IP) por autoridade policial ou investigativa via ofício, sem necessidade de autorização judicial caso a caso, qualificando-o como \"extremamente pertinente e importante\": argumenta que, diante da rapidez dos crimes e do volume de processos investigativos, recorrer à Justiça a cada investigação consome tempo e torna o trabalho mais moroso. Assume compromisso de atuação legislativa, na condição de parlamentar: identificar projeto já bem encaminhado na Casa que conceda esse acesso, ou, na inexistência, acionar a assessoria para prepará-lo; ainda assim, prioriza projetos em tramitação avançada, votável em Comissão ou em plenário, para viabilizar o acesso por via de emenda com maior agilidade. Também apoia a utilização dos equipamentos apreendidos na investigação, sugerindo usar a legislação do tráfico de drogas como referência para o crime cibernético, observando que esses criminosos são mais avançados em tecnologia e equipamentos do que os órgãos policiais — o que tornaria o uso dos equipamentos proveitoso para a polícia. A atuação é reafirmada ao final, mantendo as ressalvas de dependência da tramitação parlamentar disponível. A fala contém trechos procedimentais de condução da sessão, mas expressa posição claramente favorável ao tema, sem elementos que permitam inferir ponderação sobre salvaguardas de privacidade — aspecto simplesmente não tratado. Alegações sobre celeridade dos crimes e avanço tecnológico dos criminosos são atribuídas ao orador, sem verificação independente.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Identificar um projeto já encaminhado na Casa para conceder à autoridade policial ou investigativa acesso ao IP por ofício, ou preparar tal projeto caso ainda não exista.",
+            "Utilizar a legislação aplicável ao tráfico de drogas como referência para punir o uso de equipamentos no crime cibernético.",
+            "Buscar no âmbito de projetos que tramitam na Casa os que já estão em plenário, para, por meio de emenda, atender ao pleito com agilidade."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00012",
+          "ordem_no_debate": 15,
+          "texto": " Eu que agradeço. Foram muito importantes essas informações pelo senhor aqui prestadas.\n\nPasso agora a palavra ao Sr. Carlos Affonso Souza, para a sua apresentação, por 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "A fala é estritamente procedimental e não contém opinião substantiva sobre o tema do acesso a dados para combater crimes digitais. O titular agradece ao orador anterior pela qualidade das informações prestadas e concede a palavra ao próximo expositor, Carlos Affonso Souza, fixando o tempo de dez minutos para a apresentação. Trata-se apenas de condução de sessão, sem manifestação de concordância, discordância ou ambiguidade quanto ao conteúdo em debate.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00014",
+          "ordem_no_debate": 17,
+          "texto": " Agradeço ao Sr. Carlos Affonso Souza.\n\nRealmente esse tema do PL das Fake Newsvai ser bastante polêmico aqui na Câmara dos Deputados. No Senado ele tem um consenso maior. Não vemos tantos Senadores comentandofake newscomo os Deputados, que inclusive são alvos de investigação. Aqui a polêmica talvez atrapalhe que façamos a justa alteração na legislação. Vamos fazer de tudo para que ele seja aprovado.\n\nConvido, agora, para fazer uso da palavra, o Sr. Aristides Moura, da BRASSCOM. Para fazer sua apresentação, o senhor dispõe de 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Desalinhado"
+            ],
+            "Postura do Orador": [
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, de caráter majoritariamente procedimental, o titular agradece ao orador anterior e cede a palavra ao representante da BRASCOM. Entre as marcações de condução dos trabalhos, manifesta opinião sobre o PL das Fake News: considera o tema bastante polêmico na Câmara dos Deputados — em contraste com o Senado, onde, segundo ele, há maior consenso, pois haveria menos comentários de senadores sobre fake news do que de deputados, estes inclusive supostamente alvos de investigação — e teme que a polêmica na Câmara atrapalhe a alteração que considera justa na legislação, declarando, porém, que fará de tudo para que o projeto seja aprovado. Sobre o tema central (acesso a dados para combater crimes digitais), não há manifestação de opinião nesta fala.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00016",
+          "ordem_no_debate": 19,
+          "texto": " Obrigado, Sr. Aristides Moura. Agradeço a sua participação.\n\nPasso a palavra, agora, ao Sr. Ygor Valerio, da Motion Picture Association, para a sua apresentação, por 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental e cerimonial do presidente da mesa. O titular agradece a participação do orador anterior, Sr. Aristides Moura, e concede a palavra ao próximo apresentador, Sr. Ygor Valerio, da Motion Picture Association, fixando o tempo de 10 minutos para a exposição. Não há qualquer manifestação de opinião, concordância, discordância, abstenção ou ambiguidade em relação ao tema do acesso a dados para combater crimes digitais, tampouco propostas, argumentos de fundo, alegações ou indicadores de postura e credibilidade. Trata-se apenas de condução de audiência, sem conteúdo substantivo avaliável sobre o mérito da matéria em debate.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00018",
+          "ordem_no_debate": 21,
+          "texto": " Agradeço ao Sr. Jonas Antunes por suas considerações.\n\nFico feliz com algumas contribuições muito importantes. Foi trazido material sobre o qual nós poderemos nos debruçar, trabalhar em cima, como os próprios projetos que já tramitam na Casa apontados pelos palestrantes — estão todos anotados.\n\nVolto a dizer que todas as falas estão gravadas e vão ficar no nosso canal da página da Comissão de Ciência e Tecnologia, Comunicação e Informática, à disposição da sociedade, também no Youtube. Todas essas informações muito ricas que foram aqui apresentadas estarão à disposição daqueles que não tiveram a oportunidade de chegar no começo. A você que nos acompanha e começou a assistir agora à transmissão informo que vai ficar gravado no Youtube e no canal da Comissão na Câmara dos Deputados esta mesa de debates.\n\nObrigado, senhores e senhoras que participaram da primeira Mesa.\n\nAh, desculpas, Jonas! Eu já condenei você ao final sem fala. Na verdade, quem acabou de se pronunciar foi o Ygor.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental, sem qualquer opinião sobre o tema 'Acesso a dados para combater crimes digitais'. O titular, presidindo a mesa, agradece ao palestrante (e corrige uma confusão de nomes: quem acabara de falar era o Ygor, e não o Jonas), registra que materiais e projetos apontados serão examinados e trabalhados, informa que as falas ficarão gravadas e disponíveis no canal da Comissão de Ciência e Tecnologia, Comunicação e Informática e no YouTube para a sociedade, e encerra a primeira mesa sem emitir posição, avaliação ou proposta substantiva sobre acesso a dados ou crimes digitais.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00020",
+          "ordem_no_debate": 23,
+          "texto": " Já transferi ao senhor a responsabilidade de cuidar de TV por assinatura, Ygor. Desculpe-me. Obrigado pela contribuição.\n\nAntes de encerrar essa primeira rodada da Mesa, convido o Sr. Jonas Antunes Couto para falar por 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental de condução da Mesa: Luis Miranda transfere formalmente ao colega Ygor a responsabilidade por cuidar do tema de TV por assinatura, pede desculpas pela confusão, agradece uma contribuição e convida o Sr. Jonas Antunes Couto a falar por 10 minutos, encerrando a primeira rodada. Não há qualquer manifestação de opinião, concordância ou discordância sobre o tema Acesso a dados para combater crimes digitais.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00022",
+          "ordem_no_debate": 25,
+          "texto": " Fique à vontade.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: Luis Miranda apenas cede a palavra e convida o interlocutor a se manifestar à vontade, sem apresentar qualquer opinião, argumento ou posicionamento sobre o tema do acesso a dados para combater crimes digitais.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00024",
+          "ordem_no_debate": 27,
+          "texto": " Agora, sim, agradeço ao Jonas.\n\nJonas, o tema é importante. Pirataria realmente é algo muito crescente no nosso País, mas você não citou aqui nenhum número de projeto, e faço esse questionamento. A ABTA defende algum projeto?\n\nGente, pode tirar a exposição dele do Zoom. A tela do Power Point ainda está aparecendo.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Luis Miranda trata sua fala de modo predominantemente procedimental, ocupando-se da condução do debate e de instruções técnicas sobre a exibição de tela no Zoom, sem desenvolver posição de fundo sobre acesso a dados para combater crimes digitais. Há breve reconhecimento de que o tema é importante e de que a pirataria cresce no país, seguido de questionamento e cobrança ao convidado Jonas: aponta que não foram citados números de projeto e pergunta diretamente se a ABTA defende algum projeto. O tom da intervenção é firme e assertivo na formulação da pergunta, mas sem agressividade ou ataque a pessoas, e sem mobilizar dados, normas ou experiências para sustentar afirmações, tratando-se de indagação direta ao expositor e organização da sessão, sem resposta nesta mesma fala.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00026",
+          "ordem_no_debate": 29,
+          "texto": " Eu agradeço a participação, principalmente a informação. Agora, sim, temos o número de um PL para podermos analisar. Obrigado.\n\nAgradeço a todos que participaram até agora da Mesa 1.\n\nNa próxima Mesa nós temos mais quatro participantes, e daremos início agora ao segundo painel deste seminário com o temaProteção de crianças e adolescentes no ambiente cibernético.\n\nCompõem esta Mesa a Sra. Ana Cristina Santiago, ex-chefe da Delegacia de Proteção à Criança e ao Adolescente — DPCA, atualmente Secretária de Gestão e Ensino em Segurança Pública no Ministério da Justiça e Segurança Pública; o Sr. Evandro Mário Lorens, Diretor de Assuntos Parlamentares da Associação Nacional de Peritos Criminais Federais — APCF; o Sr. Thiago Tavares Nunes de Oliveira, Presidente da SaferNet Brasil; e Rafael Zanatta, membro da Coalizão Direitos na Rede.\n\nObviamente, todos os membros da Mesa 1, se quiserem continuar conosco, serão bem-vindos. Mas fiquem liberados, caso tenham algum compromisso.\n\nSeguiremos agora com a Mesa 2.\n\nChegou a esta Presidência que a Associação do Ministério Público do Distrito Federal e Territórios — AMPDFT, por meio da Sra. Rafaella Vieira Lins Parca, Chefe do Serviço de Repressão a Crimes de Ódio e Pornografia Infantil da Polícia Federal, comunicou a impossibilidade de participar deste debate.\n\nEsclareço que os procedimentos adotados nessa etapa do seminário serão os mesmos da primeira mesa de debates. Cada palestrante terá o tempo de 10 minutos para fazer sua exposição, não sendo permitidos apartes.\n\nPara darmos início, então, passo a palavra à Sra. Ana Cristina Santiago, do Ministério da Justiça e Segurança Pública, que fará sua apresentação no tempo de 10 minutos.(Pausa.)\n\nO nosso sistema mostra que a conexão da Sra. Ana Cristina caiu, mas ela já está retornando.\n\nPara não ficarmos aguardando, eu vou passar a palavra ao próximo palestrante. Depois, retornaremos com a Sra. Ana Cristina.\n\nTem a palavra o Sr. Evandro Mário Lorens, da Associação Nacional dos Peritos Criminais Federais, para sua apresentação, por 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala essencialmente procedimental de presidência do seminário. O titular agradece a informação recebida — destacando que dispõe agora do número de um PL que poderá analisar —, encerra a Mesa 1 e anuncia a Mesa 2, dedicada ao tema proteção de crianças e adolescentes no ambiente cibernético, apresentando seus integrantes e suas respectivas instituições. Comunica a impossibilidade de participação de uma representante da AMPDFT, reitera as regras de tempo (10 minutos por exposição) e de vedação de apartes e ajusta a ordem diante de queda de conexão de uma palestrante, antecipando o próximo expositivo. Não há opinião de mérito sobre o tema recebido (acesso a dados para combater crimes digitais), nem tomada de posição, sustentação argumentativa ou apelo retórico; prevalece o caráter organizativo e de moderação, com apenas breve menção à análise futura do PL mencionado.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00028",
+          "ordem_no_debate": 31,
+          "texto": " Agradeço a participação, Sr. Evandro.\n\nÉ sempre importante observarmos que nossas crianças estão vulneráveis quando falta o diálogo dentro de casa. Portanto, é necessário que haja esta divulgação, esta conversa dentro de casa com os pais, esta presença da autoridade. As crianças estão invertendo os valores, mandando nos pais, e, quando o pai aceita isso, acaba entregando seus filhos a este tipo de criminoso que, por trás das telas, a criança vê como coleguinha ou amiguinho, alguém cujas intenções nós já conhecemos.\n\nPasso a palavra ao Sr. Thiago Tavares Nunes de Oliveira, da SaferNet Brasil, para sua apresentação, por 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Luis Miranda usa a passagem de palavra para alertar sobre a vulnerabilidade de crianças quando falta diálogo e presença da autoridade dos pais dentro de casa. Critica a inversão de valores em que crianças mandam nos pais e argumenta que essa ausência de vigília acaba \"entregando\" os filhos a criminosos digitais que, por trás das telas, a criança toma por coleguinha ou amiguinho, cujas intenções seriam já conhecidas. Defende a divulgação do tema e a conversa familiar com os pais. O tema central do acesso de dados para combater crimes digitais não é tratado na fala, que é majoritariamente de mediação.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Promover a divulgação do tema e a conversa dentro de casa entre pais e filhos, com a presença da autoridade dos pais"
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00030",
+          "ordem_no_debate": 33,
+          "texto": " Thiago, peço que conclua, por favor.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental, sem qualquer conteúdo sobre o tema. Luis Miranda dirige-se a outro participante (Thiago) apenas para pedir que conclua sua intervenção, de forma educada e breve. Não manifesta opinião, concordância ou discordância quanto ao acesso a dados para combater crimes digitais, não propõe medidas e não mobiliza argumentos, autoridade, referências externas ou elementos retóricos de sustentação de posição.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00032",
+          "ordem_no_debate": 35,
+          "texto": " Thiago, o senhor poderia encaminhar a apresentação para a Comissão e para quem nos acompanha.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Luis Miranda limita-se a um encaminhamento estritamente procedimental: pede a Thiago que encaminhe ou conduza a apresentação relacionada ao tema para a Comissão e para o público que acompanha a audiência. Não há qualquer tomada de posição, concordância, discordância ou abstenção sobre o acesso a dados para combater crimes digitais, tampouco argumentação, alegação de mérito ou invocação de fontes. Trata-se, portanto, de uma intervenção de coordenação dos trabalhos, sem opinião substantiva sobre o assunto em discussão.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00034",
+          "ordem_no_debate": 37,
+          "texto": " Nós vamos disponibilizar umlinkpara que todos os que têm interesse no assunto baixem a apresentação. Esta apresentação vai estar abaixo do vídeo deste seminário de hoje, na sua fala. Assim, tanto os Parlamentares e os gabinetes poderão fazer odownload, como a sociedade civil e aqueles que se interessarem pelo caso.\n\nNós agradecemos imensamente o compartilhamento deste conteúdo. Eu sei que não é fácil, para quem está do outro lado, como a SaferNet, empresa especializada no assunto, que pode contribuir para nós, construir um material com tamanha riqueza de informações, um material que, de fato, facilita muito nossa vida, assim como a vida de quem se interessa por este tema, para entender um pouco mais.\n\nO senhor quer fazer alguma consideração final? Nosso tempo está estourando, eu fico preocupado. O senhor fala de um assunto muito envolvente, e nós vamos ficando envolvidos com a apresentação. Minha preocupação é que o tempo da Comissão estoure.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [
+              "Confiante",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Fala de caráter procedimental, de mediação e encerramento de turno, sem posição sobre o tema. Luis Miranda anuncia que um link para download da apresentação ficará disponível abaixo do vídeo do seminário, permitindo acesso tanto a parlamentares e gabinetes quanto à sociedade civil, agradece à SaferNet pelo material compartilhado — cuja riqueza informativa e utilidade credencia pela especialização da entidade — e convida o expositor a fazer considerações finais, expressando preocupação, de forma envolvida e assertiva, com o estouro do tempo da Comissão.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00036",
+          "ordem_no_debate": 39,
+          "texto": " Eu é que agradeço, Thiago.\n\nPeço à Mesa que entre em contato com o Sr. Thiago Tavares, para que ele encaminhe a apresentação. Obrigado, Sr. Thiago.\n\nPara fazer sua apresentação, tem a palavra o Sr. Rafael Zanatta, da Coalizão Direitos na Rede, por 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental de condução da sessão. Luis Miranda agradece ao expositor anterior, Thiago Tavares, e pede à Mesa que entre em contato com ele para que encaminhe sua apresentação. Em seguida, concede a palavra, por 10 minutos, ao Sr. Rafael Zanatta, da Coalizão Direitos na Rede. Não há qualquer manifestação de opinião, concordância ou discordância sobre o tema 'Acesso a dados para combater crimes digitais', tampouco argumentos, dados, propostas ou elementos de credibilidade e postura relevantes à matéria de fundo, tratando-se apenas de atos administrativos de encaminhamento e distribuição do tempo de fala.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "À Mesa entrar em contato com o Sr. Thiago Tavares para que ele encaminhe a apresentação"
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00038",
+          "ordem_no_debate": 41,
+          "texto": " Eu é que agradeço, Sr. Rafael Zanatta.\n\nObservo que, com a apresentação do senhor, honradamente nos acompanharam os demais palestrantes, o Sr. Evandro e o Sr. Thiago. Eu, que já presidi várias audiências como esta, acho chato quando os colegas saem e abandonam um tema tão importante, tão relevante como este, até porque, com base no que é dito aqui, podem nascer considerações.\n\nÉ exatamente por isso que, antes de finalizar, eu gostaria de perguntar ao Sr. Evandro se deseja fazer suas considerações finais por 3 minutos, assim como ao Sr. Thiago e ao Sr. Rafael, caso tenham interesse.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental e de condução dos trabalhos. O titular agradece ao palestrante e registra que os demais convidados permaneceram no recinto durante a apresentação, contrastando essa conduta com o hábito — que critica com base em sua experiência presidindo audiências semelhantes — de colegas abandonarem temas importantes e relevantes. Para encerrar, ele oferece até 3 minutos de considerações finais a Evandro, Thiago e Rafael, caso desejem se manifestar. Não há qualquer opinião substantiva, posição, medida ou proposta sobre o tema de acesso a dados para combater crimes digitais.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00040",
+          "ordem_no_debate": 43,
+          "texto": " Muito obrigado.\n\nPara fazer suas considerações finais, tem a palavra o Sr. Thiago Tavares Nunes de Oliveira.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "A fala é estritamente procedimental, sem qualquer exposição substantiva sobre o tema de acesso a dados para combater crimes digitais. Luis Miranda agradece e concede a palavra ao próximo orador, Sr. Thiago Tavares Nunes de Oliveira, para suas considerações finais. Não há opinião, concordância, discordância, ambiguidade ou qualquer manifestação de mérito sobre o tema, tampouco argumentação, fundamentação técnica ou postura avaliativa identificável; trata-se apenas de transição de turno na condução dos trabalhos.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00042",
+          "ordem_no_debate": 45,
+          "texto": " Eu é que lhe agradeço, Sr. Thiago.\n\nPara concluir, concedo a palavra ao Sr. Rafael Zanatta.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental de encerramento do turno: o titular agradece ao Sr. Thiago e concede a palavra ao próximo orador, Sr. Rafael Zanatta. Não há qualquer exposição ou opinião sobre o tema do acesso a dados para combater crimes digitais, nem manifestação de posicionamento, argumentação ou elementos de credibilidade. Trata-se de mera condução formal da audiência, agradecimento protocolar e transição de turno, sem conteúdo substantivo analisável.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00044",
+          "ordem_no_debate": 47,
+          "texto": " Muito obrigado a todos os Srs. Parlamentares que acompanharam de forma remota, aos seus assessores, aos profissionais da imprensa, ao público em geral, em especial aos senhores e senhoras palestrantes pelas importantes contribuições trazidas neste debate.\n\nNão posso deixar de concluir que muito desse material que nos foi apresentado, além de ficar à disposição, são materiais muito ricos para que possamos conhecer um pouco mais do assunto que está sendo discutido hoje no mundo inteiro, e o Brasil não pode deixar isso para depois. Principalmente com a Internet das Coisas, como vem chegando, o 5G, a tecnologia cada vez mais avançada, nós temos que estar preparados para poder lidar com os crimes cibernéticos, que obviamente vêm junto com toda essa tecnologia crescente.\n\nQuero agradecer, mais uma vez, pela disponibilização desse material para que os que não puderam participar hoje ao vivo tenham acesso a ele em data futura.\n\nInformo que esse seminário terá continuidade no dia 2 de dezembro com o debate dos temas:(in)Existência doDilema Segurança versus Privacidade no Combate aos Crimes CibernéticoseAumento dos Crimes Virtuais durante a Pandemia, Especialmente Vazamento e Venda de Dados de Pessoas Físicas e Jurídicas.\n\nUma boa tarde a todos e um excelente fim de semana.\n\nEstá encerrada a reunião.",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Encerramento protocolar do seminário, em que o orador agradece parlamentares, assessores, imprensa, público e palestrantes pelas contribuições e destaca a riqueza do material apresentado, que ficará disponível para acesso posterior. Embora sem posição específica sobre acesso a dados, registra-se a opinião de que o Brasil não pode deixar o tema para depois: diante da chegada da Internet das Coisas, do 5G e do avanço tecnológico crescente, é preciso estar preparado para lidar com os crimes cibernéticos que, segundo afirma, vêm \"obviamente\" junto com essa tecnologia. Informa, por fim, a continuidade do seminário em 2 de dezembro, com o debate sobre dilema entre segurança e privacidade e sobre o aumento de crimes virtuais na pandemia, e encerra a reunião.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "GEORGE LODDER",
+      "falas": [
+        {
+          "id": "f00002",
+          "ordem_no_debate": 2,
+          "texto": " Cumprimento-o, Deputado Luis Miranda, e, em seu nome, todos os demais presentes.\n\nEu acredito que V.Exa. já antecipou o objeto das discussões de hoje. São temas realmente importantes. Cada um de nós tem um prazo bastante curto para se manifestar. Portanto, apesar de saber da importância do tema e de poder discorrer bastante tempo sobre isso, sobre o cenário mundial, sobre o cenário nacional, eu preferi, em razão dos objetivos do MPF — e acredito que isso é compartilhado por alguns dos nossos órgãos parceiros —, restringir-me a alguns pontos que podem ser atingidos com certa facilidade, com pouco trabalho da Câmara. São pontos que já estão sendo movimentados no Congresso Nacional e podem atingir bons resultados no cenário nacional no que tange aos crimes cibernéticos.\n\nO primeiro ponto que eu acho interessante tocar hoje é a Convenção de Budapeste sobre o Crime Cibernético, que já é de conhecimento da maioria ou de todos os presentes, e foi objeto de apreciação na Câmara dos Deputados, mas ainda não concluiu seu movimento no Congresso, dependendo de votação no Senado.\n\nEsse projeto é de suma importância, porque, a par das sugestões de crimes que ele prevê, cria uma série de mecanismos que permitem aos órgãos de percepção, por meio de colaboração ou pela própria atuação, conseguir resultados que hoje são impossíveis pela limitação do sistema.\n\nAlém da necessidade de esse projeto ser aprovado — e da própria convenção ser aprovada —, existe um projeto lateral que, na verdade, institui a parte criminal da Convenção de Budapeste no cenário nacional. A mera aprovação da convenção, por si só, não cria os crimes. Refiro-me ao Projeto de Lei nº 5.541, de 2020. Posteriormente, ele foi apensado ao Projeto de Lei nº 3.357, de 2015. Eu acredito que os Deputados que eventualmente procurarem por ele o encontrarão sob esse número.\n\nEsse projeto é bastante importante, e foi juntado esse PL 3.357/15, que não tem a mesma amplitude, na verdade, que o outro tem. Não estou fazendo nenhuma crítica ao PL 3.357/15, que é, inclusive, de um Deputado do meu Estado.\n\nDe qualquer maneira, o projeto ficou um tanto eclipsado por essa movimentação. O projeto é bastante interessante e, obviamente, comporta a discussão, e trata de todos esses crimes que são instituídos pela Convenção de Budapeste.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "George Lodder manifesta-se favoravelmente à aprovação da Convenção de Budapeste sobre o Crime Cibernético, que ainda depende de votação no Senado, por considerá-la de suma importância devido aos mecanismos de colaboração que cria e que permitiriam aos órgãos de persecução alcançar resultados hoje inviáveis por limitações do sistema. Sustenta, contudo, que a mera aprovação da convenção não cria tipos penais, defendendo por isso a tramitação do PL nº 5.541/2020, apensado ao PL nº 3.357/2015, que institui no Brasil a parte criminal da convenção. Observa que esse projeto abrange todos os crimes previstos na convenção, que tem amplitude maior do que o PL 3.357/2015 — sem, porém, criticar este último, que considera interessante e semelhante nesse ponto —, e que ficou eclipsado pela movimentação legislativa. Diante do curto prazo de manifestação e dos objetivos do MPF e de órgãos parceiros, opta por restringir-se a pontos de execução simples já em tramitação no Congresso, em vez de explorar amplamente os cenários mundial e nacional.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Aprovar o projeto de ratificação da Convenção de Budapeste sobre o Crime Cibernético, que depende de votação no Senado.",
+            "Aprovar o Projeto de Lei nº 5.541/2020 (apensado ao PL nº 3.357/2015), que institui no Brasil a parte criminal da Convenção de Budapeste."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente.",
+            "Indicador sem citação utilizável; conferir a fala inteira."
+          ]
+        },
+        {
+          "id": "f00005",
+          "ordem_no_debate": 8,
+          "texto": " Como eu disse, ele é um pouco mais abrangente do que o PL 3.357/15. Ele trata de temas mais amplos do que o projeto da FEBRABAN que alterou o Código Penal, e já trouxe algumas novidades no art. 154 e no art. 155, mas, de certa forma, eles atendiam mais ao interesse setorial dos bancos. Ainda é preciso evoluir bastante nisso aqui.\n\nHá outro tema que acho de suma importância, e vou deixá-lo mais claro. Hoje, vários crimes, principalmente crimes de pedofilia e alguns outros especificados na legislação, são objeto de comunicação obrigatória nas principais plataformas da Internet em razão da lei americana. A lei americana prevê que crimes como pedofilia e alguns outros sejam comunicados — lá o sistema é um pouco diferente — a uma instituição privada, o NCMEC, e posteriormente são enviados para órgãos de persecução. Normalmente, os crimes que são comunicados à Justiça americana, boa parte deles, quando acontecem no Brasil, são notificados para nós. Aí há uma atuação nossa, da Polícia Federal. Quando é necessário, nós declinamos competência para os órgãos estaduais.\n\nMas o que acontece é que não existe na legislação brasileira uma obrigação correspondente. De modo que, quando é uma empresa americana, nós temos sucesso em obter esses dados na maioria das vezes.Mas não acontece o mesmo, por exemplo, se for uma plataforma de origem em outro país — cito o TikTok, que é chinês. Nós tivemos casos de plataformas brasileiras que tinham informações desse quilate e as negavam para os órgãos de persecução. O que acontece é que seria bastante importante que a legislação brasileira trouxesse uma obrigação semelhante, pelo menos para esses crimes que estão previstos na legislação americana, até porque essas plataformas, a maioria delas, são interessadas e oferecem a oportunidade de compartilhar os dados que obtêm a partir dos seus meios de captura. Por exemplo, o próprio Google, a Microsoft, o TikTok e outras plataformas não se negam a fornecer dados. Elas simplesmente não os fornecem porque têm receio de que, pelo fato de o nosso marco legal não prever essa transferência, possam ser eventualmente responsabilizadas pela captura da informação e pela comunicação aos órgãos de persecução. Então, seria bastante oportuno que a nossa legislação fizesse essa previsão.\n\nO último projeto — não aquele do Senado, mas o que originalmente seria uma medida provisória editada pelo Governo — acabou sendo plenamente rechaçado em razão de alguma discussão que existia sobrefake news. Mas ele tinha alguns pontos positivos, e essa obrigação de notificar os órgãos de persecução sobre determinados tipos de crime constava desse projeto. Obviamente, deve-se discutir se isso passará desse jeito e estabelecer quais crimes devem entrar ou não, mas é importante que exista essa previsão.\n\nEssa medida provisória, no primeiro momento, foi devolvida e depois transformada em projeto de lei. Mas vejam que esse tema, que é de grande importância — integrava a medida provisória e acredito que integre também o projeto —, não consta hoje do projeto do Senado que trata defake news.Não necessariamente deveria existir lá, mas é importante que o Congresso tenha conhecimento desse tema e eventualmente produza legislação que permita aos órgãos de persecução serem abastecidos com informações sobre esses crimes, aos quais hoje as plataformas têm acesso, sabem que existem, mas não nos comunicam.\n\nHá outros temas para tratar, mas eu vejo que o tempo já está se esgotando. Enfim, eu acredito que boa parte dos temas que eu tinha pensado em abordar vão ser debatidos pelos palestrantes que vão me suceder.\n\nEu agradeço, em meu nome e em nome do Ministério Público Federal, a oportunidade de nos manifestarmos.\n\nDevolvo a palavra a V.Exa.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "George Lodder avalia que os projetos de alteração do Código Penal, incluindo o PL 3.357/15 da FEBRABAN, avançam em pontos dos arts. 154 e 155, mas atendem sobretudo a interesses setoriais bancários, sendo necessário evoluir bastante. Defende, como tema de suma importância, que a legislação brasileira crie obrigação semelhante à lei americana de as plataformas comunicarem aos órgãos de persecução crimes graves, como pedofilia, hoje reportados ao NCMEC. Sustenta, com base em sua atuação na Polícia Federal, que dados são obtidos com sucesso de empresas americanas, mas não de plataformas de outros países (cita o TikTok) ou de plataformas brasileiras que negam informações, e que empresas como Google e Microsoft não fornecem dados por receio de responsabilização diante da lacuna no marco legal. Critica a ausência desse ponto no projeto do Senado sobre fake news, observando que a medida provisória do governo, ainda que rechaçada, previa essa obrigação, e exorta o Congresso a legislar sobre o tema, ressalvando que caberá discutir a redação e quais crimes serão abrangidos.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Que a legislação brasileira estabeleça obrigação de as plataformas notificarem os órgãos de persecução sobre certos crimes (como pedofilia), semelhante à lei americana."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "REGILENE SIQUEIRA ROZAL",
+      "falas": [
+        {
+          "id": "f00007",
+          "ordem_no_debate": 10,
+          "texto": " Boa tarde.\n\nO senhor já me apresentou, mas quero dizer que estou aqui como representante da Associação dos Delegados da Polícia Civil do Distrito Federal — ADEPOL. Gostaria de dizer que, no fim das contas, também estou aqui representando a Delegacia Especial de Repressão aos Crimes Cibernéticos, inclusive com o colega Dário, com quem eu trabalho, com o Dr. Giancarlo e com a Dra. Letizia. Aqui nós discutimos o que poderia ser interessante falar. Como são muitas as sugestões, como são muitas as dificuldades, fizemos uma divisão do que cada um falaria, até porque o tempo é exíguo para cada manifestação.\n\nComo o próprio Deputado Luis Miranda disse na abertura do seminário, nós vivemos um período de muita dificuldade, de um grande avanço dos crimes cometidos em ambientes cibernéticos, sejam crimes de cunho patrimonial, sejam crimes de cunho não patrimonial, sejam crimes contra a honra, sejam crimes contra a ordem democrática, que normalmente acontecem principalmente nos anos eleitorais. Então, no Distrito Federal, na nossa delegacia, já vemos o ano de 2022 como um desafio, porque sabemos que a demanda vai ser muito grande.\n\nDentro dessa perspectiva da investigação cibernética, colocamos obviamente como ponto essencial que os poderes públicos em geral, em todos os níveis, têm de se preocupar com que haja investimento em polícia judiciária, no intuito de expandir as nossas tecnologias, porque, afinal de contas, a criminalidade avança e precisamos também avançar. Mas, fora isso, é indispensável a evolução legislativa para a regulamentação, para que se possa de fato avançar na investigação desse tipo de crime.\n\nComo o primeiro palestrante, o Dr. George, disse no começo, a Convenção de Budapeste, da qual o Brasil ainda não é signatário, precisa ser aprovada para ser incorporada ao nosso ordenamento, a fim de que tenhamos mecanismos efetivos de investigação.\n\nA título de sugestão, o que nós temos de dificuldade hoje? A preservação das provas produzidas em âmbito cibernético.Hoje não existe uma regulamentação muito específica em relação a isso. Dou um exemplo. Na polícia aqui, muitas coisas que nós documentamos, na verdade, nós inventamos formas de realizar as ações, porque a legislação não traz o mecanismo correto e que não poderia ser questionado no futuro. Por exemplo, hoje, nós usamos muito osprintsde tela de celular, mas isso é algo muito frágil. Por quê? Porque é passível de manipulação.\n\nEntão, talvez seja o caso de o Parlamento buscar mecanismos legislativos para regulamentar essa prática. Como seria aceitável a preservação disso? Como levar esse tipo de prova aos autos de um inquérito ou, até depois, aos autos do processo penal? Isso é muito importante. Por quê? Porque qualquer falha nesse sentido pode levar à invalidação das provas produzidas.\n\nPor outro lado, nós também temos muita dificuldade, mesmo quando dispomos de uma ordem judicial de quebra de sigilo de dados telemáticos em relação a um ou outro usuário que representamos, na comunicação com os provedores, porque os provedores nem sempre estão dispostos a fornecer dados, assim como o colega relatou no início. E temos essa dificuldade por quê? Porque o acesso é restrito, os canais de comunicação são restritos. Às vezes, os provedores até se negam a fornecer as informações, ou mesmo se omitem, porque eles simplesmente acreditam que ali está sendo ferido o direito à intimidade dos usuários.\n\nÉ fundamental que se dê importância a isso, porque atrapalha a nossa investigação e faz com que ela demore. E, se demorarmos, a prova se perde e não conseguimos concluir a investigação.\n\nPor fim, é importante também que busquemos a regulação dos provedores de conexão, porque nesse ambiente há falta de regulamentação. Os provedores de conexão não são apenas as maiores operadoras de telefonia que temos. Existem provedores de conexão pequenos, que não utilizam critérios na hora de cadastrar os usuários. Então, as pessoas usam as conexões, cometem crimes, mas não podem ser localizadas. Por quê? Porque os provedores não têm critério na hora de realizar o cadastro, na hora de fechar contratos. Portanto, seria importante que isso fosse objeto de regulamentação e que fosse mais efetivo esse controle.\n\nNo mais, eu gostaria de agradecer a oportunidade.\n\nO próximo a expor vai ser o meu colega Dário, que vai trazer outras soluções e talvez sugestões específicas, que possam ajudar nas investigações da nossa delegacia e das delegacias de todo o Brasil.\n\nInclusive, eu gostaria de ressaltar que não é toda Unidade da Federação que possui delegacia especializada, o que também é muito importante, porque, sem uma delegacia especializada em crime cibernético, é muito difícil chegar à autoria e à materialidade desse tipo de delito.\n\nAgradeço a todos a atenção. Não vou utilizar o meu tempo total.\n\nDevolvo a palavra ao Deputado Luis Miranda.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Nesta fala, Regilene Siqueira Rozal, em nome da ADEPOL e da Delegacia Especial de Repressão aos Crimes Cibernéticos do DF, posiciona-se favoravelmente ao acesso a dados para combater crimes digitais, sustentando que o avanço da criminalidade cibernética exige investimento em polícia judiciária e evolução legislativa. Ela defende a aprovação da Convenção de Budapesse para dotar o país de mecanismos efetivos de investigação e aponta desafios para 2022. Quanto às provas digitais, avalia que prints de tela são frágeis e passíveis de manipulação, defendendo regulamentação da preservação e juntada dessas provas para evitar invalidação. Sobre a obtenção de dados junto a provedores, relata que há resistência, omissão e canais restritos de comunicação no cumprimento de ordens judiciais de quebra de sigilo telemático, o que atrasa investigações e faz a prova se perder — descrições de comportamento dos provedores apresentadas como obstáculo. Sugere ainda regular provedores de conexão, inclusive pequenos, que hoje cadastram usuários sem critério, permitindo o anonimato de criminosos. A exposição é técnica e assertiva, sem ressalvas ou mudanças de posição, e encerra destacando a importância de delegacias especializadas em todas as UFs.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "O poder público, em todos os níveis, deve investir em polícia judiciária para expandir as tecnologias de investigação cibernética, acompanhando o avanço da criminalidade.",
+            "É indispensável avançar na evolução legislativa e na regulamentação para viabilizar a investigação de crimes cibernéticos.",
+            "Aprovar e incorporar ao ordenamento jurídico brasileiro a Convenção de Budapeste, da qual o Brasil ainda não é signatário, para dotar o país de mecanismos efetivos de investigação.",
+            "O Parlamento deve buscar mecanismos legislativos para regulamentar a prática de preservação de provas produzidas em ambiente cibernético (como prints de tela de celular), definindo como sua preservação e sua juntada aos autos do inquérito e do processo penal podem ser feitas de modo seguro e válido.",
+            "Dar importância e solução à dificuldade de comunicação com provedores no cumprimento de ordens judiciais de quebra de sigilo de dados telemáticos, hoje obstada por canais restritos e pela recusa ou omissão dos provedores em fornecer dados.",
+            "Regulamentar os provedores de conexão (inclusive os pequenos), exigindo critérios mínimos no cadastro e na contratação de usuários, de modo a permitir a localização dos autores de crimes e tornar mais efetivo o controle sobre esses provedores.",
+            "Proporcionar que todas as Unidades da Federação possuam delegacia especializada em crimes cibernéticos, condição considerada importante para chegar à autoria e à materialidade desses delitos."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "DÁRIO TACIANO DE FREITAS JUNIOR",
+      "falas": [
+        {
+          "id": "f00009",
+          "ordem_no_debate": 12,
+          "texto": " Boa tarde a todos.\n\nInicialmente, quero saudar o Exmo. Deputado Luis Miranda e agradecer-lhe o convite. Estou substituindo o Dr. Giancarlo, que pediu pessoalmente que eu deixasse uma saudação ao senhor, em nome de quem faço uma saudação a toda a Mesa participante deste seminário.\n\nPara iniciar, sendo breve, eu gostaria de elogiar a apresentação da Dra. Regilene Siqueira Rozal, que trabalha ao meu lado e tem obtido excelentes resultados a partir do momento em que compôs a nossa delegacia.\n\nQuanto ao que podemos contribuir, quanto à questão dos senhores legisladores e quanto às nossas dificuldades, cito um ponto iniciado pelo Exmo. Sr. Deputado, que é a questão dasfake news, a questão dos crimes contra a honra. Não era o que eu ia falar inicialmente, mas um ponto foi muito bem lembrado. Não somente em período eletivo, mas em todos os momentos, com representantes da população, na pós-pandemia, sobretudo, houve o crescimento de crimes que ocorreram em ambiente virtual: cibernéticos, digitais, virtuais, informáticos, os mesmos nomes com o mesmo fim.\n\nSomente crime de injúria, para ficar claro o tamanho do crescimento, em 2019, tivemos o registro de 39 ocorrências. Em 2020, período em que vivemos o auge da pandemia, a nossa Polícia Civil registrou, durante o ano, 353 boletins de ocorrência, o que representa uma variação de aproximadamente 805%. Então, não são somente os crimes contra a honra, mas todos os outros crimes patrimoniais e os cometidos em meio cibernético, como bem lembrado pelo excelentíssimo doutor palestrante, e também os crimes de pornografia infantojuvenil, contra os quais a nossa delegacia tem inclusive operações contínuas — uma, intitulada Coleciona-Dores; outra, intitulada Mensagens Violadas —, no intuito de reprimir esses crimes, que também têm crescido.\n\nEntramos em ponto de grande dificuldade. Seria interessante a discussão sobre como localizarmos essas pessoas. Sabe-se que houve uma alteração legislativa, por exemplo, nos crimes contra a honra, crimes patrimoniais, roubo, estelionato, com o aumento de pena. Isso foi muito bom. Se o crime contra a honra, por exemplo, for cometido em rede social, a pena pode ser triplicada. O crime de calúnia pode ter uma pena inicial de 18 meses a 6 anos. Mas, para contribuir e para se conseguir chegar a esses autores, seria interessante uma grande mudança, lógico, a ser discutida, que foi um ponto colocado no Marco Civil da Internet, sobre a inviolabilidade no fluxo das comunicações da Internet.\n\nCito o exemplo dos crimes contra a honra, porque todo o fluxo, todas as informações que a polícia precisa para encontrar o autor são baseadas, sobretudo, no IP. Para conseguirmos essa informação, é necessária uma ordem judicial. Só nos crimes contra a honra, seriam necessárias 356 representações, com a manifestação do Ministério Público e uma decisão judicial. Para citar um crime mais simples de ser praticado, basta a pessoa ter umsmartwatch, um celular, umtablet, um computador, para caçar uma pessoa que a gente sabe que vai ter a vida devastada por conta desse crime, dessa calúnia, dessa injúria, dessa difamação ocorrida pela Internet.\n\nEntão, deixamos aqui o primeiro ponto a ser debatido, sobre a viabilidade dessa ordem judicial, que fosse possível esse acesso ao IP, que é o principal para nossa investigação; que ele pudesse ser obtido com um ofício da autoridade policial, e não sob ordem judicial, porque estamos vendo um aumento exponencial do número de crimes.\n\nOs crimes de estelionato, por exemplo, tiveram um aumento de 1.080% pela Internet. Em cada crime desses, em cada fato desses, precisamos de uma representação, da manifestação ministerial e da decisão judicial. Com isso, sobrecarregamos todas estas instituições: polícias, Ministério Público e Poder Judiciário. Então, o primeiro ponto seria a possibilidade dessa informação. E essa regulamentação veio, sobretudo, com o Marco Civil da Internet. Esse seria um ponto importante, que melhoraria, e muito, o nosso trabalho.\n\nA nossa delegacia tem tido excelentes resultados, só que não temos meios e condições de conseguir todas essas informações, porque em cada fato desses, em cada crime ocorrido, precisamos de uma ordem judicial. Isso faz com que as investigações demorem, porque cada fato desses precisa de uma representação. E nós aguardamos a resposta judicial para, então, encaminhá-la aos provedores.\n\nO segundo ponto que já verificamos em legislações de outros países seria a previsão de situações de emergência. Sabemos que, na legislação americana, por exemplo, há essa previsão legal.No caso de uma pessoa que está sendo sequestrada, já se tem a informação que a pessoa está sendo ameaçada. Nós poderíamos ter essa previsão emergencial na legislação para conseguirmos essa informação diretamente com o provedor, de quem tem aquela informação, para conseguirmos chegar ao autor, e não uma representação judicial, a manifestação ministerial e a decisão judicial para nós termos essa resposta.\n\nO terceiro ponto, até para podermos tentar pontuar aqui o máximo de informações importantes para o debate, seria a possibilidade da participação de terceiros que tivessem conhecimento nessa área. Sabe-se que os policiais têm uma formação, mas é necessária aquela pessoa que tenha aexpertisepara cooperar com a polícia, e com previsão legal, de modo a não invalidar nenhum tipo de prova. Nós temos casos de ataques deransomwaree outros crimes. Se houvesse alguma pessoa comexpertisee se nós pudéssemos contratá-la de alguma forma, para que essa pessoa nos ajudasse e auxiliasse os órgãos de polícia judiciária — uma pessoa que tivesse conhecimento, usando um exemplo mais comum, em acesso a alguma página dadeep webouque soubesse realizar um ataque a uma pessoa que estivesse cometendo algum crime utilizando esses meios —, enfim, se nós tivéssemos essa possibilidade de ajuda seria muito importante e ajudaria muito a polícia judiciária a conseguir achar os autores dos crimes que ocorrem. Nós passamos todo o tempo envidando esforços para encontrá-los, com as dificuldades na legislação, porque não temos essa previsão legal.\n\nOutra razão para citar o assunto é porque, na nossa delegacia, nós temos tido êxito em algumas operações. Este ano, sobretudo, nós conseguimos realizar quase o dobro de operações em relação a 2020. A Dra. Regilene bem citou a importância de existir a estrutura de uma delegacia. A Polícia Civil tem verificado que os crimes pela Internet têm tido aumento e ela começa a vê-los com outros olhos, dando um suporte.\n\nNas nossas operações, nós temos observado, sobretudo, com análises de outras delegacias — como, por exemplo, a CORD, coordenação de repressão ao tráfico de drogas, de entorpecentes, e o próprio Departamento de Combate à Corrupção e ao Crime Organizado —, a questão da previsão legislativa, assim como existe em relação ao tráfico de drogas, de possibilidade de utilização dos bens apreendidos dos criminosos pelas próprias polícias judiciárias que atuam no combate ao crime cibernético.\n\nEssa seria, para poder fechar e não ultrapassar o tempo, uma última sugestão de debate aos senhores e que nos ajudaria, e muito, Excelência.\n\nMuito obrigado. Encerro, então, a minha fala aqui, dentro do tempo, conforme o combinado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Dário Taciano, em fala focada e de postura técnica, defende reformas legislativas para facilitar o combate a crimes digitais, apoiando-se na experiência de sua delegacia e em dados estatísticos. Ele registra o crescimento exponencial de crimes cibernéticos após a pandemia e critica o requisito de ordem judicial — associado ao Marco Civil da Internet — para obtenção de IP, que sobrecarrega polícia, MP e Judiciário e retarda investigações. Apresenta quatro propostas: (1) obtenção do IP por ofício da autoridade policial, dispensando decisão judicial; (2) previsão de situações emergenciais, à semelhança da legislação americana, para acesso direto do provedor em casos urgentes; (3) contratação de terceiros com expertise tecnológica sem invalidar provas; e (4) uso pelas polícias dos bens apreendidos, como no tráfico de drogas. Posiciona-se favorável a essas mudanças, apresentadas como sugestões a serem debatidas.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Permitir que o IP do investigado seja obtido mediante ofício da autoridade policial, dispensando a ordem judicial para cada investigação.",
+            "Prever, na legislação, situações de emergência em que a polícia obtenha a informação diretamente do provedor, sem representação, manifestação ministerial e decisão judicial.",
+            "Criar previsão legal para que terceiros com expertise tecnológica (inclusive contratados) cooperem com as polícias judiciárias sem invalidar provas.",
+            "Prever legalmente, semelhante ao que ocorre com tráfico de drogas, a possibilidade de as polícias judiciárias utilizarem os bens apreendidos de criminosos no combate ao crime cibernético."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "DIOGO RAIS",
+      "falas": [
+        {
+          "id": "f00011",
+          "ordem_no_debate": 14,
+          "texto": " Olá a todos. Boa tarde.\n\nEu gostaria de agradecer mais esta oportunidade de poder trocar experiências e, em especial, da pesquisa que temos desenvolvido a respeito desses temas aqui na Câmara dos Deputados, na Casa do Povo. É sempre uma alegria enorme estar aqui, ainda que no formatoon-linee com um distanciamento infelizmente necessário.\n\nDeputado Luis Miranda, quero parabenizá-lo por todo o trabalho realizado!\n\nEu vou aproveitar a oportunidade para cumprimentar todos os meus colegas de Mesa, em especial, e em nome do Carlos Afonso, assim como no do Thiago Tavares, a Regilene, o Dário e o George, que já trouxeram diversos ensinamentos para nós.\n\nDeixem-me apresentar de forma muito breve qual é a minha experiência. Eu sou professor de direito eleitoral e de direito digital na Universidade Mackenzie. Dou aula na graduação e na pós-graduação, no mestrado e no doutorado, e tenho pesquisado o temaDireito Eleitoral Digital. Basicamente, desde 2010, eu me dedico ao tema da tecnologia e das eleições. Então, a minha experiência não está no ângulo criminal da Internet, mas, sim, no ângulo político. É por isso que eu faço questão de trazer um pouco dessa experiência, porque desde 2010 tenho me dedicado ao tema da Internet nas eleições.\n\nEu mapeei alguns crimes digitais eleitorais que produzem efeitos e sua regulação diante de todo esse processo. Eu queria mencionar alguns aqui e também falar a respeito de algumas mudanças.\n\nPrimeiro, desde 2009, temos a Lei nº 12.034, que alterou a lei eleitoral, incluindo um crime eleitoral digital, entre outras mudanças. O art. 57-H prevê como crime contratar grupo de pessoas para ofender candidato adversário na Internet, para ofender alguém. Embora esse dispositivo esteja na nossa legislação desde 2009, até o momento nós não tivemos um caso julgado com base nele. Tivemos no Tribunal Superior Eleitoral um processo, mas não houve a finalização desse processo quanto ao mérito.Isso quer dizer que, embora haja uma lei que trata do crime de contratação de pessoas ou grupos de pessoas para ofender os adversários — e ela se aplica muito bem ao ambiente digital, aliás, ela está na seção de tecnologia da lei eleitoral —, nós não temos exemplos dessa atuação, o que mostra, talvez, que o dispositivo merece uma revisão ou os meios de fiscalização merecem outro apoio.\n\nA partir desses dois momentos, eu também vou falar a respeito de outro crime, que é o chamado boca de urna digital.\n\nQuanto ao dia das eleições, foi inserido, no art. 39, § 5º, da Lei das Eleições, um dispositivo que diz que quem cria conteúdo novo digital ou impulsiona conteúdo no dia das eleições comete o chamado crime de boca de urna, mas, nesse caso, em um ambiente digital. Então, nós temos outra previsão de crime eleitoral.\n\nQuanto especificamente ao tema dasfake newsnas eleições, eu preciso trazer algumas costuras a respeito disso e vou aproveitar esses meus 6 minutos para tentar fazê-las.\n\nEu pude participar de um encontro da Organização dos Estados Americanos — OEA, onde se desenvolveu um guia de combate à desinformação. Da elaboração desse guia participaram professores de diversos países, e nós fomos elencando os itens que acreditávamos que seriam importantes, para que os países, ao regularem asfake news,tomassem muito cuidado.\n\nEu sei o tamanho do desafio dasfake newse a dificuldade de se tratar esse tema. Eu sei quefake newsnão é uma mentira ou um boato; ela é muito mais do que isso e pode, sim, mudar um destino político. Em suma,fake newsé poder, e, onde há poder, há estruturas de negócios, de indústrias para a produção desse poder e para a troca desse poder por dinheiro.\n\nEu fiquei justamente no GT da OEA sobre legislação, e nós participamos de uma discussão sobre a criminalização defake news, se ela deveria existir e quais seus limites. Desde então, nós temos desenvolvido algumas pesquisas a partir desse encontro entrefake news,tecnologia e eleições.\n\nEu gostaria de dizer que, nesse espaço, nós temos uma preocupação muito grande com a liberdade de expressão de todos os envolvidos. Espalharfake newsnão é exercício da liberdade de expressão. A liberdade de expressão tem contornos, embora não tão claros no Brasil, mas necessários e que, de pronto, já podem afastar alguns comportamentos.\n\nAcontece que o desafio da desinformaçãoon-linedasfake newsé muito plural, multissetorial, fragmentado e difuso. Por isso, eu não acredito que a solução deveria vir de um lugar só. Seria necessário ter uma atuação multissetorial e também em camadas.\n\nO que isso quer dizer? Quer dizer que acredito que a repressão jurídica, ou seja, a normatização e a punição por meio do direito tem um espaço que pode ser muito importante para combater asfake news; porém, na minha opinião, não deveria ser o único e, talvez, nem o principal. Eu acredito que o grande desafio que asfake newsacaba impondo é justamente pelo seu potencial lesivo, danoso. Então, eu acredito que a legislação criminal sobre o tema deveria olhar para uma estrutura coordenada, organizada para a disseminação de conteúdo enganoso, que tem a capacidade de lesão ou potencial danoso.\n\nO que eu estou querendo distinguir aqui? Eu quero distinguir a vítima do agente. Eu acredito que buscar a punição da famosa \"tia do Zap\" ou \"tio do Zap\", daquela pessoa que enviafake news,porque não olhou direito ou gostaria de enviar e proteger você, não me parece o ideal. Não seria ideal para o direito buscar, por exemplo, a punição desse agente. Acredito que cabe ao direito olhar para esse fator em razão da dimensão do problema, ou seja, para a disseminação em massa desse conteúdo.\n\nPor isso, como o direito faz na Lei de Drogas, que distingue o usuário que porta uma substância ilícita, desde que em pequena quantidade para o seu uso próprio, do traficante, que porta a mesma substância, só que em maior quantidade para a venda, por exemplo, o direito também pode fazer essa distinção entre aquele que, no varejo, individualmente, não tomou cuidado com a checagem e aquele que tem um escritório montado com milhões de perfis falsos, que disparafake news,destrói reputações, interfere em resultados de eleições ou ainda que prejudique uma marca, uma pessoa ou qualquer outro tipo de reputação que nós possamos imaginar. Esse tratamento me parece que deve ser muito diferente.\n\nE chamo atenção para um dispositivo que teve alteração em agosto de 2021 e, portanto, valerá nessa próxima eleição. Creio eu que muitas pessoas não tenham percebido, talvez, a conexão desse dispositivo com o tema dasfake news.\n\nA lei que trata da violência política de gênero alterou o art. 323 do Código Eleitoral. Esse art. 323, que fala da disseminação de conteúdo, sabidamente inverídico, tirou o parágrafo único e inseriu alguns parágrafos. Esses parágrafos trazem a previsão de incidência do crime para aqueles que produzem vídeo adulterado.\n\nAté o momento, a legislação sempre olhou para as plataformas ou para os candidatos, e, em nenhum momento, parece-me, buscou os intermediários dos intermediários, ou seja, as pessoas que produzem e vendem, oferecem esse conteúdo. Com a redação dada pela lei de agosto de 2021, nós teremos, nessa eleição, pela primeira vez, um dispositivo legal que tratará precisamente defake news,embora fará isso apenas olhando para asfake newsem vídeo que se refere à propaganda eleitoral. Então, já se percebe que há um caminho do Legislativo sendo trilhado.\n\nAlém dela, há o Projeto de Lei nº 2.630, de 2020, que ficou muito conhecido como o PL das Fake News. Embora tão modificado no Senado e até o momento, tem sido um PL que olha mais para a regulação das plataformas do que para asfake newsem si. E lá também há uma previsão criminal que eu acredito que deva ainda ser revista, já que, da forma que está, poderia alcançar diversas pessoas que não deveriam ser o alvo desse procedimento.\n\nMuito obrigado, Deputado.\n\nAgradeço a todos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Diogo Rais, professor de direito eleitoral e digital, analisa crimes digitais eleitorais (art. 57-H, boca de urna digital, art. 323 do Código Eleitoral) e a regulação de fake news, sustentando que a resposta jurídica é útil mas não deve ser única nem principal, exigindo atuação multissetorial e em camadas. Defere que a legislação penal deve focar estruturas organizadas de disseminação em massa de conteúdo lesivo, distinguindo usuários casuais (\"tia do Zap\") de operadores industriais de desinformação, à maneira da distinção usuário/traficante da Lei de Drogas. Critica a ineficácia do art. 57-H, que nunca teve caso julgado; vê com esperança, embora restrita, a alteração de 2021 do art. 323 que alcanças produtores de vídeos adulterados; e critica o PL 2.630/2020 por focar plataformas e prever tipos penais que poderiam alcançar alvos indevidos. Afirma que espalhar fake news não é liberdade de expressão, reconhecendo o potencial lesivo e político-econômico da desinformação. O tema recebido — acesso a dados para combater crimes digitais — não é tratado na fala, que se concentra na política legislativa e nos limites da punição.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Revisar o art. 57-H da Lei Eleitoral (crime de contratar grupo para ofender adversário) ou o apoio aos meios de fiscalização, diante da ausência de casos julgados.",
+            "Adotar solução multissetorial e em camadas contra a desinformação, sem que a repressão jurídica seja a única ou a principal resposta.",
+            "Direcionar a legislação criminal sobre fake news à perseguição de estruturas coordenadas e organizadas de disseminação em massa de conteúdo enganoso, com capacidade lesiva.",
+            "Não punir o agente informal (\"tia/tio do Zap\") que compartilha fake news individualmente, distinguindo usuário disseminador ocasional do produtor organizado, à semelhança da distinção usuário/traficante na Lei de Drogas.",
+            "Revêr a previsão criminal do PL nº 2.630/2020, que, como está, poderia alcançar pessoas que não deveriam ser alvo."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "CARLOS AFFONSO SOUZA",
+      "falas": [
+        {
+          "id": "f00013",
+          "ordem_no_debate": 16,
+          "texto": " Muito obrigado.\n\nGostaria de dar boa tarde a todos os colegas aqui presentes nesse seminário, ao Dr. George, ao Dário, ao Ygor, à Regilene, ao Diogo Rais, ao Evandro, ao Aristides.\n\nÉ um prazer participar desse debate. Agradeço o gentil convite à Câmara dos Deputados, na pessoa do Deputado Luis Miranda. Como todo bom seminário, acho interessante podermos compartilhar e reagir aos comentários feitos pelos demais palestrantes. Isso não só torna este espaço rico em sugestões e proposições feitas à Câmara dos Deputados, mas também gera um debate sempre respeitoso e saudável sobre os temas aqui colocados.\n\nEu gostaria de começar com dois comentários rápidos sobre temas que já apareceram nesse seminário. Quero me colocar junto com o Prof. Diogo Rais na percepção de que, se, por um lado, esse é um seminário sobre o papel do Legislativo no aperfeiçoamento das leis sobre o direito penal no Brasil, por outro lado, é importante reconhecer que o papel do direito, em especial na questão dasfake newse no combate à desinformação, precisa ser casado com análises, atividades e iniciativas em outras frentes.\n\nO direito sozinho, com a aprovação de uma lei, não vai resolver um problema tão endêmico e profundo como a questão da desinformação na sociedade atual. É necessário entendermos as raízes econômico-financeiras da desinformação, pois desinformar hoje é um bom negócio. Desinformar em larga escala, especialmente, é algo que custa caro. Então, é importante entendermos a cadeia de financiamento da desinformação e entendermos também que existe um componente social e cultural de como as pessoas compreendem esse conteúdo, bem como o componente tecnológico, odesigndas próprias plataformas e dos próprios aplicativos, o que pode tornar mais fácil ou mais difícil o combate à desinformação.\n\nTrabalhando com um tema que foi trazido aqui pelo Dr. Dário, eu gostaria de colocar um ponto contraditório. Parece-me que o art. 10 do Marco Civil da Internet andou bem ao requerer a ordem judicial para a obtenção do IP. Nas discussões que levaram à aprovação do Marco Civil da Internet, em 2014, foi feita muita diferença em relação ao que seriam os dados cadastrais e ao que seriam os dados de IP, data e hora, detidos pelos provedores e obtidos apenas através de ordem judicial.\n\nO filtro da ordem judicial foi colocado com a intenção de proteger a privacidade dos dados pessoais de todos os usuários de todas as plataformas na Internet como um todo. É claro que isso cria certamente um processo distinto para a obtenção desses dados. No entanto, parece-me que esse é um tema que vale a pena realmente ser analisado e estudado com bastante cautela, até porque estamos vendo hoje uma situação em que mesmo esse filtro das ordens judiciais pode acabar levando a uma situação em que dados, de maneira bastante abrangente, são coletados e compartilhados com as autoridades investigativas. É o caso, por exemplo, do assassinato da Vereadora Marielle Franco e do motorista Anderson, que gerou uma situação em que a decisão judicial entregou dados de usuários que pesquisaram determinados termos em chave de busca ou que adotaram determinado comportamento na Internet dentro de um certo espaço de tempo.\n\nEntão, há aqui dois debates importantes. O primeiro é sobre a requisição de uma ordem judicial para acesso aos dados de IP. O segundo é sobre as condicionantes dessa ordem judicial, que pode ser mais abrangente ou mais específica.Agora temos visto esse debate sobre órgãos judiciais bastante abrangentes, e uma parcela importante da sociedade civil está entendendo que isso pode ser um risco à proteção da privacidade e aos dados.\n\nEu queria focar aqui a minha fala, no tempo remanescente, justamente no tema que foi sugerido pelo Deputado Luis Miranda, que é o combate à desinformação. Parece-me que esse é um ponto certamente importante. Faço comentários rápidos para dizer que é preciso prestar muita atenção nas propostas legislativas que saíram da CPI da Pandemia, realizada no Senado Federal. Por mais louváveis que tenham sido os trabalhos, as conclusões e todo o empenho da CPI da Pandemia, vale prestar atenção às proposições legislativas que foram oferecidas no relatório final, porque me parece que elas oferecem soluções que não resolvem o problema da desinformação, ao contrário, podem piorar a situação.\n\nChamo atenção à proposta que sai do relatório final da CPI sobre a inserção do art. 288-B no Código Penal, tipificando o crime de criação e divulgação de notícia falsa. Isso é preocupante especialmente porque, em primeiro lugar, chama de notícia falsa. Qualquer proposta legislativa sobre esse tema não deveria usar o termo \"notícia falsa\", porque a desinformação nem sempre se faz passar por notícia. Ela quer parecer um conteúdo jornalístico. Então, é importante entender que o combate à desinformação vai além dessa figura das chamadas \"notícias falsas\". Nós nos acostumamos a falar assim por uma tradução da expressãofake news, mas me parece que o ecossistema da desinformação é maior do que especificamente a notícia falsa.\n\nEssa proposta legislativa que sai da CPI da Pandemia também fala que é crime, então, criar ou divulgar notícia que sabe falsa para distorcer, alterar ou corromper gravemente a verdade.\n\nAqui eu chamaria atenção para o \"corromper gravemente a verdade\", porque me parece um termo muito subjetivo, especialmente para uma legislação penal. Então, esse é um tipo que realmente precisa ser revisto.\n\nGostaria não só de chamar a atenção para essas propostas legislativas que saem da CPI da Pandemia, mas também de lembrar que o tema do combate à desinformação, no seu aspecto criminal, passa pelo trabalho, pela discussão do Projeto de Lei nº 2.630, de 2020, que veio do Senado Federal como Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet, e que, no substitutivo do Deputado Orlando Silva, consta hoje o seu art. 36. E o art. 36 traz um crime, o de promover ou financiar, pessoalmente ou por interposta pessoa, ação coordenada mediante uso de contas automatizadas e outros meios ou expedientes não fornecidos diretamente pelo provedor de aplicação de internet, disparo em massa de mensagens que contenham fatos comprovadamente inverídicos e passíveis de sanção criminal, que causem danos à integridade física das pessoas e sejam capazes de comprometer a higidez do processo eleitoral.\n\nParece-me que esse é o tipo penal que, de maneira mais direta, enfrenta o tema que nós estamos aqui discutindo sobre o combate à desinformação. É importante também lembrar que o combate à desinformação não passa apenas e tão somente pela criação de um tipo penal. Existe uma série de outras medidas que podem aqui ser tomadas, como proibição dos disparos em massa de mensagens, por exemplo, e a criação de outros sistemas que possam combater esse mal.Vale lembrar que este dispositivo, o art. 36 do PL 2.630, certamente pode passar por alguns aperfeiçoamentos.Parece-me especialmente importante lembrar aqui que esse artigo traz uma série de verbos e cada verbo, numa lei penal, é uma conduta — promover, financiar — com vários elementos, com ação coordenada mediante o uso de contas automatizadas. O risco aqui é separar, como disse o Prof. Diogo Rais, o amador do profissional, aquele que de certa maneira se envolve nessa prática daquele que faz isso de maneira coordenada e de maneira profissional. Lembro também que é importante para uma lei penal que consigamos ter uma demonstração clara de que existe dolo e de qual é o dano que se está procurando coibir com a criação desse tipo penal. Então, eu gostaria de chamar a atenção para esse tipo penal do artigo do PL 2.630, porque é um dispositivo que merece a nossa atenção e existe espaço para aperfeiçoamento.\n\nNo mais gostaria só de agradecer, mais uma vez, esse gentil convite para fazer parte deste debate e dialogar aqui sobre os requerimentos para se ter acesso a dados como IP, o texto que sai da CPI da Pandemia e um olhar sobre esse dispositivo penal constante do PL 2.630, atualmente em tramitação na Câmara dos Deputados.\n\nObrigado mais uma vez.\n\nVolto a palavra para a Mesa, à qual agradeço na pessoa do Deputado Luis Miranda.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Carlos Affonso Souza sustenta que o direito isolado não resolve a desinformação, defendendo análise das raízes econômico-financeiras, sociais, culturais e tecnológicas (design das plataformas). Concorda que o art. 10 do Marco Civil da Internet andou bem ao exigir ordem judicial para obtenção de IP, mas alerta que ordens muito abrangentes — como no caso Marielle Franco — podem violar a privacidade. Critica as propostas da CPI da Pandemia, sobretudo o art. 288-B do Código Penal, por usar 'notícia falsa' e a expressão subjetiva 'corromper gravemente a verdade'. Vê o art. 36 do PL 2.630/2020 como o tipo que melhor enfrenta a desinformação, mas com espaço para aperfeiçoar, exigindo clareza sobre dolo e dano e separando amador do profissional. Ressalva que o combate não se esgota em tipos penais, podendo envolver proibição de disparos em massa.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Manter a exigência de ordem judicial para a obtenção de dados de IP (art. 10 do Marco Civil da Internet) como filtro de proteção da privacidade, analisando com cautela eventuais mudanças nessa exigência e nas condicionantes da ordem judicial (mais abrangente ou específica).",
+            "Estudar as redes econômico-financeiras de financiamento da desinformação, bem como os componentes social, cultural e tecnológicos (design das plataformas), como frentes complementares ao direito.",
+            "Não usar o termo \"notícia falsa\" em propostas legislativas sobre o tema, pois a desinformação nem sempre se faz passar por notícia e o ecossistema é maior que a fake news.",
+            "Rever o texto da proposta do art. 288-B do Código Penal, em especial a expressão \"corromper gravemente a verdade\", por sua subjetividade em legislação penal.",
+            "Adotar o art. 36 do PL 2.630/2020 como base para tipificar o disparo em massa coordenado de desinformação, submetendo-o a aperfeiçoamentos para separar o amador do profissional e exigir demonstração clara de dolo e do dano coibido.",
+            "Além do tipo penal, adotar medidas não criminais de combate à desinformação, como a proibição dos disparos em massa de mensagens e a criação de outros sistemas de combate."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ARISTIDES MOURA",
+      "falas": [
+        {
+          "id": "f00015",
+          "ordem_no_debate": 18,
+          "texto": " Boa tarde, Deputado Luis Miranda, na pessoa de quem eu cumprimento os demais companheiros da Mesa.\n\nQuero dizer que para nós da BRASSCOM é um grande privilégio estar aqui neste fórum de notáveis conversando a respeito dos desafios que nós temos no combate aos crimes cibernéticos no Brasil. Esse fenômeno definitivamente se mostra cada vez mais presente na nossa sociedade, na nossa realidade. É um fenômeno muito complexo que precisa certamente de ações complexas, ações coordenadas, ações concertadas dos vários componentes da sociedade, dos diversos atores, para que consigamos fornecer as respostas apropriadas.\n\nDo ponto de vista da indústria, eu acho que uma das coisas que mais sentimos falta e que mais nos impactam no combate aos crimes cibernéticos — e falo isso do ponto de vista realmente de componente dessa luta — é a falta de instrumentos que nos concedam segurança jurídica para que possamos agir. Quando falo isso, obviamente eu dou muito boas-vindas à acessão do Brasil à Convenção de Budapeste, o que, no meu entender, já poderia ter acontecido há mais tempo.No entanto, certamente, aqui no nosso País, os processos têm um tempo de maturação, e as coisas estão acontecendo no tempo propício.\n\nDa forma como vemos, a acessão do Brasil à Convenção de Budapeste vai fornecer ao nosso País a possibilidade de se integrar a esse ecossistema de combate aos crimes cibernéticos.\n\nComo já foi dito por tantos que me precederam aqui, o fenômeno dos crimes cibernéticos tem se avolumado, os números das ocorrências têm sido cada vez mais altos, a complexidade das ocorrências também tem sido cada vez maior. Antigamente, falávamos de pequenos ataques e, hoje, como V.Exa. bem mencionou, Deputado Luis Miranda, temos ataques à própria democracia, os quais não podem ser tolerados. E, definitivamente, a resposta a esses ataques passa por um concerto melhor, que vai ser possível aqui no nosso País também a partir da acessão à Convenção de Budapeste.\n\nÉ claro que, quando falamos da acessão, nós sabemos, como mencionou o Dr. George Lodder, que aderir à convenção não é o último passo; na verdade, é um dos primeiros. A partir dos compromissos assumidos pelo Brasil, nós vamos ter condições de melhor adaptar a nossa legislação, implementar novos tipos e novos procedimentos que vão permitir que colaboremos melhor, que trabalhemos juntos em diversas jurisdições para que consigamos fazer esse combate como precisa ser feito.\n\nEu vou correr o risco de ser repetitivo, mas sinto que preciso fazer isso, porque é um valor muito importante para nós da indústria. A adoção dessas atualizações legislativas — e aqui o papel do Parlamento, obviamente, é fundamental — é o que vai nos fornecer a segurança jurídica, para que possamos atuar, para que possamos responder, para que possamos cumprir com o nosso papel no combate aos crimes cibernéticos.\n\nNós da indústria de tecnologia, muitas vezes como custodiante de dados, ficamos numa situação muito complicada quando vemos que precisamos responder às determinações que são feitas pelas autoridades, mas acabamos não tendo instrumentos que nos garantam a segurança para que assim o façamos. E isso se desdobra numa série de problemas que inclusive têm a ver com a própria higidez das investigações que porventura aconteçam. As empresas vão cumprir a legislação, mas, se algum acusado, algum investigado entender que um dado foi entregue de forma irregular, isso pode vir a ser objeto de desafio no Judiciário e pode acabar invalidando uma investigação.\n\nEntão, eu realmente quero dizer aos senhores do Parlamento como um todo que, a partir do momento em que a acessão for finalmente feita, atualizações urgem serem iniciadas na legislação do Brasil, para que possamos ter os instrumentos necessários, tanto as autoridades para investigar, para trabalhar, quanto a iniciativa privada para responder às ordens que nos vão ser dadas.\n\nA legislação brasileira que aborda crimes cibernéticos — e penso aqui no nosso marco civil entre outras — são peças de legislação bastante avançadas, que cobrem uma boa quantidade de situações, só que estão desconectadas do resto do sistema jurídico internacional. E eu sempre faço uma comparação entre ela e um prédio muito bem acabado, muito bem colocado, só que fora da rede de energia.\n\nNós precisamos conectar essa nossa legislação, que não é ruim, embora seja incompleta, ao arcabouço jurídico internacional, para que, assim, consigamos todos, trabalhando em cooperação, como apropriado — sou um forte advogado da cooperação entre diferentes entes, Governo, iniciativa privada, cada um dentro das suas respectivas áreas de atuação, e, obviamente, digo sempre que o Governo não trabalha para a iniciativa privada e a iniciativa privada não trabalha para o Governo, mas ambos trabalhamos juntos para um bem maior —, levar a efeito essa melhor resposta, esse melhor combate aos crimes benéficos, que, por definição, são mais ágeis, são mais complexos, são multijurisdicionais e, por isso, precisam de um concerto melhor entre todos os atores que o combatam.\n\nEu encerro aqui a minha participação.\n\nDevolvo aos senhores alguns minutos e coloco a BRASSCOM também à disposição do Parlamento, para que possamos colaborar mais e fornecer mais informações, fornecer mais ideias para que essa discussão seja ainda mais aperfeiçoada.\n\nMuito obrigado e uma boa tarde.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Falando pela BRASSCOM e do ponto de vista da indústria de tecnologia, o orador apresenta o combate aos crimes cibernéticos como fenômeno crescente e complexo que exige ações coordenadas entre múltiplos atores da sociedade. Ele sustenta que a maior dificuldade sentida pela indústria — como custodiante de dados — é a falta de instrumentos que lhe dêem segurança jurídica para responder às determinações das autoridades, alertando que dados entregues sem amparo podem ser vistos como irregulares e vir a invalidar investigações no Judiciário. Dá boas-vindas à adesão do Brasil à Convenção de Budapeste, vista como porta de entrada para o ecossistema internacional de cooperação, embora lamente que já devesse ter ocorrido há mais tempo. Sustenta, porém, que a adesão é só o primeiro passo: urge iniciar atualizações legislativas para criar tipos e procedimentos que permitam colaboração multijurisdicional eficaz, amparando tanto as autoridades quanto a iniciativa privada. Elogia o marco civil e outras leis nacionais como avançadas, porém incompletas e desconectadas do sistema jurídico internacional — comparação metafórica com um prédio bem acabado fora da rede de energia —, e defende cooperação horizontal entre Governo e setor privado, em que cada um age na sua área em busca de um bem maior. Oferece-se para colaborar e coloca a BRASSCOM à disposição do Parlamento.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Iniciar com urgência atualizações na legislação brasileira após a acessão à Convenção de Budapeste, para fornecer instrumentos necessários às autoridades investigarem e à iniciativa privada responderem a ordens.",
+            "Conectar a legislação brasileira sobre crimes cibernéticos (como o marco civil) ao arcabouço jurídico internacional."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "YGOR VALERIO",
+      "falas": [
+        {
+          "id": "f00017",
+          "ordem_no_debate": 20,
+          "texto": " Obrigado pela palavra, Deputado Luis Miranda, na pessoa de quem cumprimento também os demais Parlamentares que mobilizaram o Parlamento em prol do debate sobre crimes cibernéticos nesta tarde.\n\nA minha exposição, depois de conversar um pouco sobre este excelente seminário com alguns dos colegas aqui presentes, vai se concentrar num tema específico, o da relação entre a garantia à privacidade e a garantia à segurança e o papel do Parlamento no desenvolvimento de legislação e de solução para conflitos desse gênero.\n\nA entidade que eu aqui represento nesta tarde está especificamente concentrada na proteção de direitos de propriedade intelectual. E a violação desses direitos é um dos tipos de crimes cibernéticos que devem ser investigados e reprimidos pelo Estado brasileiro.\n\nNessa seara, é importante fazer uma primeira menção ao fato de que já não estamos falando sobre crimes puramente cibernéticos,mas estamos falando do âmbito cibernético como uma dimensão geral da criminalidade.\n\nA ubiquidade, ou quase ubiquidade, de dispositivos eletrônicos faz com que os crimes em geral tenham sua cogitação, preparação, eventualmente execução acontecendo em ambiente cibernético, que é, por excelência, um ambiente que retém dados acerca dos usuários e acerca das comunicações ali havidas. Então, de uma perspectiva lógica, sendo a Internet um meio de comunicação cuja principal função, ainda que de maneira simplificada, é conectar dois pontos distintos geograficamente, é natural que as comunicações sejam objeto de atuação das autoridades na investigação e no deslinde de crimes em geral, sobretudo os crimes cibernéticos.\n\nGostaria de fazer uma menção inicial à necessidade da criação de instrumentos que lidem com esse natural conflito entre a garantia de privacidade e a garantia à segurança. Nesse sentido, Deputado, faço uma menção especial ao Projeto de Lei nº 4.939, de 2020, de iniciativa do Deputado Federal Hugo Leal — faço questão de mencioná-lo porque conheço o projeto com um pouco mais de detalhe —, que contou com o luxuoso auxílio de um dos maiores especialistas brasileiros da matéria, que é o Dr. Sauvei Lai, do Ministério Público do Rio de Janeiro. Eu vou ler a ementa do projeto:\"Dispõe sobre as diretrizes do direito da Tecnologia da Informação e as normas de obtenção e admissibilidade de provas digitais na investigação e no processo, além de outras providências\".\n\nDeputado, voltando à questão do aparente conflito entre privacidade e segurança, iniciativas desse gênero, projetos de lei desse gênero fazem com que o Parlamento cumpra um dos seus mais importantes papéis, que é justamente o de cristalizar em diretrizes legislativas a visão do Estado brasileiro sobre a solução desses conflitos. E aí eu uso como exemplo a lei das interceptações telefônicas — muito conhecida e muito importante —, que tem servido como base para as interceptações telemáticas no País.\n\nHá uma falsa impressão de que, quando se opõem distintas garantias individuais no dia a dia das investigações, a única autoridade capaz de resolver aquela situação em concreto é o Poder Judiciário, na distribuição pontual e concreta de justiça. É importante dizer que o Parlamento também tem esse papel. E a lei das interceptações telefônicas é um exemplo disso. Com a devida licença, eu cito um voto do Ministro Gilmar Mendes noHabeas Corpusnº 103.236, julgado em 14 de junho de 2010, que diz que a Lei nº 9.296, de 1996, justamente a lei de interceptação telefônica,\"nada mais fez que estabelecer as diretrizes para a resolução de conflitos entre a privacidade e o dever do Estado de aplicar as leis criminais\".\n\nDeputado, esse papel do Parlamento de resolver em concreto os conflitos entre as garantias individuais concedidas pela Constituição brasileira é um dos mais importantes no âmbito da solução e do combate aos crimes cibernéticos. As situações concretas em que deve prevalecer o direito à segurança pública sobre o direito individual à privacidade, muito fortalecido pelas recentes legislações brasileiras — inclusive foi objeto de proposta de emenda constitucional, como a PEC 17/19, que coloca uma pá de cal sobre a questão da inserção do direito à privacidade como garantia fundamental na Constituição, passa a integrar o art. 5º da Constituição —, esses conflitos surgem naturalmente no decorrer das investigações cibernéticas. Os juízes, por óbvio, têm a função primordial de decidir os casos concretos que lhes chegam, mas não podemos esquecer que o Parlamento tem a função essencial de resolver esses conflitos na forma de legislação.\n\nDeputado, há um déficit regulatório no País acerca do desenvolvimento de investigações criminais. Nesse contexto inicialmente colocado em que a cibernética é uma dimensão de toda a criminalidade existente no País e não mais um gênero específico de crime, urge que o Parlamento brasileiro se debruce cada vez mais sobre a solução em concreto desses conflitos que existem entre as garantias fundamentais concedidas pela Constituição brasileira.\n\nÉ nesse sentido, Deputado, que a minha exposição louva a existência de iniciativas legislativas como o PL 4.939/20 — cito-o novamente —, do Deputado Federal Hugo Leal. Eu tenho que ressalvar que faço esse apontamento independentemente do mérito das questões abordadas nesse projeto de lei. Eu faço esse apontamento para ressaltar a indispensabilidade de debates legislativos acerca do posicionamento do Estado brasileiro em determinados casos. São muitos os casos que carecem de orientação legislativa, desde o mais simples caso de um telefone encontrado na cena do crime bloqueado por um código inacessível para a autoridade policial e que acaba sendo relegado unicamente à apreciação do Poder Judiciário a casos bastante mais complexos, como a possibilidade ou não de que arquivos e comunicações pertencentes a pessoas jurídicas, por exemplo, seja objeto de busca e apreensão determinada judicialmente.\n\nEu deixo, ao final da minha exposição — meu tempo já se esgota —, uma especial menção aos meus colegas Dr. Aristides, Dr. Jonas e Dr. Carlos Affonso. É um prazer poder compartilhar esse seminário com vocês. Espero que essa oportunidade se repita ainda por muitas vezes em futuro próximo.\n\nObrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Ygor Valerio defende, em nome de entidade de proteção de propriedade intelectual, que o conflito entre privacidade e segurança em investigações criminais deve ser equacionado também pelo Parlamento, por meio de legislação que fixe diretrizes, e não apenas caso a caso pelo Judiciário. Parte da constatação de que o cibernético já não é gênero específico de crime, mas dimensão de toda a criminalidade, o que torna natural que comunicações e dados sejam objeto de atuação das autoridades. Louva o PL 4.939/20 (sobre provas digitais) e a lei das interceptações telefônicas como modelos, ressalvando que elogia a iniciativa independentemente de seu mérito. Aponta déficit regulatório e cita situações concretas carentes de orientação legislativa, como acesso a telefones bloqueados e busca de arquivos de pessoas jurídicas, sustentando haver casos em que a segurança pública deve prevalecer sobre a privacidade.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Criar instrumentos legislativos que resolvam o conflito entre privacidade e segurança, fixando diretrizes para obtenção e admissibilidade de provas digitais na investigação e no processo.",
+            "Adotar e desenvolver o PL 4.939/20 como instrumento para solucionar conflitos entre privacidade e segurança em investigações cibernéticas, independentemente do seu mérito.",
+            "O Parlamento deve legislar para regular ainda mais os conflitos entre garantias constitucionais em investigações criminais cibernéticas, solucionando casos concretos que hoje carecem de orientação legislativa."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00019",
+          "ordem_no_debate": 22,
+          "texto": " Exatamente, Deputado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala integral, YGOR VALERIO limita-se a dizer 'Exatamente, Deputado.', manifestando concordância breve dirigida a outro participante. Não há exposição substantiva ou referência explícita ao tema 'Acesso a dados para combater crimes digitais', de modo que não é possível determinar qual proposição está sendo endossada nem extrair posição própria perante o conteúdo temático. A intervenção é essencialmente procedimental/afirmativa, sem argumentação, proposta, invocação de fontes ou marcadores de credibilidade, e sem elementos que caracterizem postura argumentativa, técnica, afetiva ou de ataque. Trata-se de mera assentida ao interlocutor, cujo sentido substantivo depende de contexto não fornecido.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "JONAS ANTUNES COUTO",
+      "falas": [
+        {
+          "id": "f00021",
+          "ordem_no_debate": 24,
+          "texto": " Obrigado, Exmo. Deputado. Agradeço o convite na sua pessoa.\n\nGostaria de pedir licença para, diferentemente dos meus colegas, compartilhar a minha tela porque eu venho trazer alguns casos concretos da criminalidade cibernética em exercício. Falarei desse crime de violação de direito autoral a partir da Internet, crime que tanto aflige hoje a indústria e também os milhões de brasileiros que amam os filmes, os jogos, as séries. É por isso que eu peço licença para compartilhar minha tela, Deputado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Fala de caráter procedimental e introdutório: o orador agradece o convite e pede licença para compartilhar a tela, diferentemente dos colegas, a fim de apresentar casos concretos de criminalidade cibernética em exercício. Ele delimita que tratará da violação de direito autoral pela Internet, crime que afirma afligir a indústria e os milhões de brasileiros consumidores de filmes, jogos e séries. Não há desenvolvimento de posição de mérito sobre o acesso a dados para combater crimes digitais, tratando-se apenas de deferência protocolar ao presidente e de anúncio do tema a ser exposto.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00023",
+          "ordem_no_debate": 26,
+          "texto": " Muito obrigado.\n\nMuito rapidamente: a ABTA é a Associação Brasileira de Televisão por Assinatura. Hoje, congregamos os principais operadores de TV paga do Brasil, operações de telecomunicações como Claro, Sky, Vivo, Oi, mas também a maioria dos programadores de conteúdos, donos dos canais, como o Grupo Globo, Disney, Warner, grandes empresas que investem grandes cifras neste nosso Brasil.\n\nEu gostaria de dizer, Deputado, que a pirataria audiovisual que acomete o nosso negócio avança a passos largos com a penetração da Internet no Brasil.\n\nHoje existem milhares de ofertas piratas não autorizadas pelo detentor do direito, pelo proprietário do conteúdo audiovisual e que podem ser acessadas de diferentes maneiras pelos brasileiros, a partir desites —e sãositesque têm volumes muito grandes de acesso. Há alguns deles, como esse FuteMax, na segunda linha, que tem quase 9 milhões de visitas mensais. Existem algumas tantas caixinhas, mais de 800 modelos, já testadas em laboratório que violam o direito autoral e que não têm nenhum requisito de segurança nem de respeito à privacidade assegurado. Há outros tantos aplicativos que também oferecem esse acesso ilegal à propriedade de terceiros, propriedade essa construída com muito investimento, com envolvimento de muitos brasileiros e que precisa ser, de alguma maneira, protegida por este nosso Parlamento. É preciso ter noção de que o crescimento feroz dessa oferta ilegal coloca em risco, antes de tudo, o consumidor brasileiro, que acredita que, acessando esses conteúdos por essa forma, se dá bem.\n\nDeputado, estamos diante de riscos altíssimos. Existem hoje equipamentos... Aí eu estou a falar de TVs boxes. Daqui a pouco teremos a Internet das Coisas no Brasil, e todos os itens da sua casa estarão conectados à Internet. Como assegurar que esses itens não apresentem vulnerabilidades que vão ofender a privacidade e a segurança dos brasileiros? Nós temos relatos, já com laudo técnico provado, que uma dessas boxes era capaz de minerar bitcoin, era capaz de, a partir dessas diferentes boxes distribuídas em diferentes casas de brasileiros, cometer ataques asitesde autoridades públicas e asitesde empresas. Quando cuidaremos desses riscos?\n\nEu trago esses casos concretos para termos noção do risco que estamos correndo e que só cresce dia após dia. Nós, outro dia mesmo, fizemos um levantamento dos principaissitesdestreamingque são acessados pelos brasileiros —sitesilegais, por óbvio — que oferecem os conteúdos de propriedade de terceiros. De dez, oito tinham malwares,softwaresmaliciosos; outros tinhamsoftwaresque permitiriam todo o cometimento de crimes cibernéticos dos mais diversos. Se não bastasse, Deputado, esse crime que atinge cada um dos milhões de brasileiros, é importante saber, como o colega Ygor Valerio, que me antecedeu, comentou, que hoje já existe um envolvimento comprovado dessa prática, que parece inofensiva, com a criminalidade organizada. Já houve apreensões por parte de autoridades brasileiras como a Receita Federal, o ANCINE, a ANATEL de montas de TVs boxes, quantidades enormes, milhões de reais apreendidos, porque financiariam o crime organizado. Essa era a forma de criminosos se remunerarem.São as novas formas que surgem para o crime organizado se organizar e se fortalecer.\n\nA ABTA, já há algum tempo, realiza uma pesquisa que tenta dimensionar o tamanho de consumo pirata que nós temos hoje no âmbito da TVpor assinatura. Estamos a falar de mais de 5,6 milhões de lares. Outra pesquisa denotou que mais de 33 milhões de brasileiros, internautas com mais de 16 anos, têm algum tipo de comportamento ilegal. Essas perdas são da ordem de 10 bilhões para a indústria todos os anos. E não é só a indústria que perde, Deputado. O Erário público deixa de arrecadar um valor da ordem de 2 bilhões por ano só com os impostos que não são arrecadados, já que operações ilegais não pagam. São empregos importantes para a renda do brasileiro que não são gerados, que são eliminados. Estamos a falar de uma perda geral agregada, Deputado, de mais de 15 bilhões de reais por ano. É essa oferta ilegal que nós precisamos conter. E o Parlamento brasileiro é, de fato, chave nesse confronto. Existem, sim, alguns projetos de lei que tentam minimamente conter esses danos todos que a pirataria audiovisual, hoje, traz para o povo brasileiro.\n\nNós aqui, no âmbito da Associação Brasileira de Televisão por Assinatura, sempre estaremos abertos a discutir as formas para conter essa oferta ilegal. Não temos a expectativa de mudar o comportamento dos milhões de brasileiros, ou de boa parte deles, se não com uma restrição, uma contenção, uma impossibilidade de que essa oferta esteja disponível para ser consumida. Esse é o grande desafio, hoje, posto para a indústria, para o seu desenvolvimento sustentável em longo prazo, para que os investimentos continuem sendo feitos aqui no nosso Brasil, que tanto ama o futebol, o basquete, as diferentes novelas, filmes, séries. Se não corrigirmos esse problema grave, não teremos a oportunidade de seguir consumindo boa parte desses conteúdos.\n\nCom isso, Deputado, faço tão somente um alerta a partir de casos concretos do dia a dia, a partir de monitoramentos de equipes contratadas, de um envolvimento muito grande entre as diferentes empresas que congregam essa indústria. Nós gostaríamos de registrar isso e, mais uma vez, deixar aqui expresso que estamos à disposição deste Parlamento, desta Casa, para auxiliar no desenho das regras que certamente desincentivarão essa oferta ilegal da pirataria audiovisual e que, por decorrência, impedirão a remuneração e o financiamento de crimes muito mais graves, de uma criminalidade de que o Brasil não precisa.\n\nMuito obrigado. Devolvo-lhe a palavra, Deputado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Falando como representante da ABTA, o titular diagnostica a pirataria audiovisual como ameaça à indústria de TV por assinatura, ao consumidor e ao Erário, atribuindo sua expansão à penetração da Internet. Denuncia sites (como o FuteMax, com quase 9 milhões de visitas mensais), centenas de modelos de TV Boxes sem segurança ou privacidade e aplicativos que oferecem acesso ilegal a conteúdo protegido por investimentos. Aponta riscos concretos: laudo técnico de box que minerava bitcoin e permitia ataques a sites públicos e privados, malwares em oito dos dez principais sites de streaming ilegal e vínculo comprovado do crime organizado, citando apreensões por Receita Federal, ANCINE e ANATEL. Dimensiona perdas anuais acima de 15 bilhões de reais, incluindo 2 bilhões do Erário e empregos suprimidos, e conclama o Parlamento a criar restrições efetivas para conter a oferta ilegar (não a mudança de comportamento dos consumidores), oferecendo a ABTA como parceira no desenho dessas regras. A exposição é técnica e assertiva, com apelos à proteção do consumidor e à preservação de conteúdos como futebol e novelas. Não há posição explícita sobre acesso a dados para apurar crimes digitais.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Indicador sem citação utilizável; conferir a fala inteira."
+          ]
+        },
+        {
+          "id": "f00025",
+          "ordem_no_debate": 28,
+          "texto": " Só um minuto, Deputado. A culpa é minha. Vou ver se consigo de uma vez por todas retirar minha apresentação.\n\nRespondendo a V.Exa., nós, sim, estamos empenhados em seguir buscando os melhores caminhos relativos aos PLs. Existe um esforço desde 2007 em relação a um PL, o Projeto de Lei nº 239, de 2007. Esse é o que lembro aqui agora. A partir desse projeto, nós acreditamos que é possível, sim, desincentivar a oferta criminosa de violação de direito autoral na Internet.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, após um rápido reparo procedimental — em que pede desculpas e menciona retirar sua apresentação —, o titular responde a uma indagação afirmando empenho em buscar bons caminhos para os projetos de lei relacionados. Sustenta seu ponto com referência externa ao Projeto de Lei nº 239/2007, esforço que remonta a 2007 (com a ressalva de ser o projeto que recorda no momento), e expressa convicção de que, a partir dele, é possível desincentivar a oferta criminosa de violação de direito autoral na Internet. A postura é confiante e de cunho técnico-jurídico, centrada no instrumento legislativo e sua finalidade. Quanto ao tema central (acesso a dados para combater crimes digitais), não há posicionamento explícito: a exposição versa sobre propriedade intual e via legislativa contra conteúdo infrator, sem tratar diretamente do acesso a dados como ferramenta de combate a crimes digitais, de modo que a pertinência temática é periférica.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "EVANDRO MÁRIO LORENS",
+      "falas": [
+        {
+          "id": "f00027",
+          "ordem_no_debate": 30,
+          "texto": " Boa tarde a todos.\n\nSaúdo o Sr. Deputado Luis Miranda e, em sua pessoa, os demais palestrantes deste seminário e todos os internautas que nos acompanham.\n\nAgradecemos o convite e trazemos um abraço do Presidente da Associação Nacional dos Peritos Criminais Federais, o perito Marcos Camargo. Para nós, é uma honra participar deste debate e com ele colaborar, trazer nossas impressões e visões em relação ao importante assunto da proteção digital a crianças e a adolescentes.\n\nNos dias atuais, a proteção a crianças e a adolescentes é quase um consenso mundial — nós temos que dizer que é quase um consenso porque há lugares onde isso ainda não é considerado —, e, no contexto digital, não deve ser diferente. Por que esta proteção é necessária no contexto digital? Porque crianças e adolescentes são socialmente mais vulneráveis e influenciáveis, além de terem baixa capacidade para compreender as implicações da alta exposição digital. Um dos maiores problemas que nós temos hoje no contexto digital é a exposição excessiva, o que é mais grave no caso de crianças e de adolescentes. Eles têm menos conhecimento dos seus direitos e pouca maturidade para tomar decisões relacionadas à privacidade. Não há uma reflexão de sua parte com relação a questões de privacidade, que hoje são muito caras, muito importantes, dados os pontos que já foram abordados no seminário anterior sobre criminalidade digital. Crianças e adolescentes também são menos cientes dos riscos e das consequências do compartilhamento dos seus dados. Assim, nós vemos a proliferação de vários crimes que envolvem estes grupos, a começar pelo abuso infantil e juvenil, nome atualmente dado à pornografia infantil.\n\nNós concluímos que esta proteção é necessária. A sociedade precisa se mobilizar fortemente para atuar neste aspecto. Hoje, a coisa está bastante solta, digamos. Existe um nível de autorregulação, mas ainda temos um longo caminho a percorrer para que esta proteção seja feita.\n\nNa visão da APCF, nós precisamos trabalhar uma abordagem preventiva. Sem desmerecer ou ignorar a abordagem repressiva, que é extremamente importante, como já foi dito pelos outros painelistas, é preciso destacar que a abordagem preventiva vem ao encontro de uma necessidade bem específica, porque, quando não há uma atuação preventiva, a criança ou o adolescente pode ter danos permanentes por toda a vida. A falta de cuidado social em relação à criança e ao adolescente pode resultar em algo que vai acompanhá-los por toda a vida.\n\nA APCF também acredita que a proteção digital a crianças e a adolescentes é uma tarefa a ser compartilhada. Existem vários atores envolvidos. Eu gostaria de destacar os principais e depois, se possível, expandir este debate. Na nossa visão, a família é também responsável pela proteção digital de crianças e de adolescentes, na medida em que ela pode e necessitaconhecer, monitorar e controlar os hábitos digitais das crianças, bem como implementar configurações de segurança nos dispositivos que sejam de uso compartilhado por crianças, ou até uso exclusivo, como nós vemos hoje em dia.\n\nA escola também pode trabalhar na complementação do seu currículo uma questão mais forte de educação digital para trabalhar o desenvolvimento crítico e o combate à desinformação, assunto que já foi bastante mencionado neste importante seminário.\n\nCom relação ao poder público, nós precisamos de diretrizes claras e de legislações de alinhamento a padrões seguros de uso de recursos digitais. Vamos falar um pouquinho daqui a pouco sobre questões de padrões, de onde podemos buscar uma fonte de padrões seguros de uma legislação bastante atuante.\n\nNo papel de imprensa e de sociedade civil, nós gostaríamos de destacar o apoio e o desenvolvimento na cultura de segurança digital, observando o cuidado especial com as crianças e com os adolescentes. Hoje nós vemos algumas atuações pontuais, mas não existe um sistema que possa trabalhar no contexto de imprensa em parceria com a sociedade civil para apoiar e desenvolver a cultura de segurança digital. Na nossa visão, as iniciativas são isoladas, precisam se transformar em algo sistemático, algo que passe a fazer parte da nossa vida.\n\nPor último, relato o papel igualmente importante das plataformas de serviços digitais, que podem e devem fazer um controle rigoroso da idade, do acesso; podem atuar com mecanismos de análise de conteúdo inadequado. Assim como elas fazem em relação ao consumo, e nós recebemos diariamente ofertas de coisas que nos interessam, existe tecnologia suficiente para trabalhar num processo mais apurado de análise de conteúdo inadequado, seja automatizado, seja de alguma outra forma, mas é importante que esta tecnologia tão impressionante possa ser utilizada e, digamos, aperfeiçoada para trabalhar na proteção da análise de conteúdo para crianças e adolescentes.\n\nHá a questão da adequação do conteúdo que é acessado pelas crianças. Hoje nós vemos várias iniciativas louváveis, mas, da mesma forma como já dissemos, isso precisa se transformar numa iniciativa mais sistemática.\n\nEm se tratando da legislação, nós gostaríamos de falar da inspiração que a União Europeia nos traz. Existe um manual de legislação sobre os direitos da criança. Eu vou destacar alguns pontos. Qualquer informação dirigida a uma criança precisa ser adaptada para ser facilmente acessível e formulada numa linguagem clara e simples. Além disso, para a maioria dos serviçoson-line, é necessário o consentimento dos pais ou do tutor para proceder ao tratamento de dados pessoais. Isso é válido para compras, para redes sociais, enfim, para dados pessoais da criança na relação de consumo e nas relações de redes sociais, que precisam necessariamente do consentimento dos pais.\n\nPor último, muito importante este ponto, as empresas, ou seja, osplayersde serviços digitais têm necessariamente que realizar esforços razoáveis, tendo em conta a tecnologia disponível, para verificar se o consentimento dado para o acesso das crianças e dos adolescentes está efetivamente em conformidade com a lei. Estes esforços é que vemos que precisam ainda ser aperfeiçoados.\n\nNós gostaríamos de trazer nossas sugestões, as sugestões da APCF, da Associação Nacional dos Peritos Criminais Federais, ao Parlamento para, de forma integrada, trabalharmos em prol do fortalecimento institucional e legal do papel de cada um dos entes, estes que nós citamos: a família, as escolas, o poder público, a imprensa, a sociedade civil,as plataformas de serviços digitais. É preciso trabalhar a integração e o fortalecimento institucional e legal do papel de cada um destes entes.É importante, ainda, sugerir um rigor legislativo com as plataformas de serviços digitais, especialmente as redes sociais, nos controles preventivos de proteção que defendemos sejam mais implementados, mais apurados, relacionados ao acesso a serviços, como o controle de idade, e à análise de interações, a inteligência digital, que já é usada para definir o público-alvo de publicidade. As plataformas precisam ser acompanhadas neste processo. É preciso mostrar à sociedade o que pode ser feito para efetivamente atuar.\n\nUma questão muito importante é a comunicação acessível, clara e transparente sobre os riscos digitais à privacidade das crianças. Este é um trabalho preventivo que nós consideramos de bastante relevância: usar a linguagem das crianças para passar a elas as questões dos riscos digitais envolvidos.\n\nOutra sugestão ao Parlamento consiste em assumir protagonismo em campanhas educativas de rádio, TV, mídia impressa e na própria Internet sobre a proteção de dados das crianças, privacidade, orientação às famílias e às escolas, definição de orçamento específico para o apoio a iniciativas da sociedade civil organizada com relação às campanhas educativas. Nós ainda achamos que a educação é o melhor caminho.\n\nResumindo o que nós trouxemos para este debate hoje, nós da APCF acreditamos muito que o foco na prevenção e a atuação com os provedores e toda a sociedade podem ajudar neste processo de melhoria das condições de proteção à criança e ao adolescente neste novo contexto digital que estamos vivendo.\n\nAgradeço a oportunidade de participar e de usar a palavra, Sr. Presidente Luis Miranda.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Evandro Mário Lorens, falando em nome da Associação Nacional dos Peritos Criminais Federais (APCF), defende que a proteção digital de crianças e adolescentes é necessidade próxima de consenso, pois esse grupo é mais vulnerável, influenciável e sem maturidade para compreender riscos de privacidade e da exposição excessiva. Sem descartar a abordagem repressiva, considerada importante, prioriza a prevenção, já que a ausência de cuidado pode gerar danos permanentes. Enquadrando a proteção como tarefa compartilhada, atribui papéis à família (monitorar hábitos digitais e configurar dispositivos), à escola (educação digital e combate à desinformação), ao poder público (diretrizes e legislação alinhadas a padrões seguros), à imprensa e à sociedade civil (cultura de segurança digital de forma sistemática) e às plataformas digitais (controle rigoroso de idade e análise de conteúdo inadequado, tecnologia que considera existente e passível de aperfeiçoamento). Sugere ao Parlamento inspirar-se na legislação da União Europeia — linguagem clara para informações dirigidas a crianças, consentimento dos pais para tratamento de dados e esforços razoáveis das empresas para verificar esse consentimento —, além de rigor legislativo com redes sociais nos controles preventivos de acesso e interações, comunicação acessível sobre riscos digitais, campanhas educativas em diversos meios e orçamento específico para iniciativas da sociedade civil, concluindo que prevenção e atuação conjunta com provedores e sociedade são o melhor caminho, sendo a educação o melhor caminho.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Priorizar uma abordagem preventiva na proteção de crianças e adolescentes no contexto digital, sem descartar a repressiva.",
+            "Tratrar a proteção digital como tarefa compartilhada entre família, escola, poder público, imprensa, sociedade civil e plataformas de serviços digitais.",
+            "Famílias devem conhecer, monitorar e controlar os hábitos digitais das crianças e implementar configurações de segurança nos dispositivos de uso compartilhado ou exclusivo delas.",
+            "Escolas devem complementar o currículo com educação digital voltada ao desenvolvimento crítico e ao combate à desinformação.",
+            "Poder público deve editar diretrizes claras e legislações alinhadas a padrões seguros de uso de recursos digitais.",
+            "Imprensa e sociedade civil devem apoiar e desenvolver a cultura de segurança digital de forma sistemática, em parceria.",
+            "Plataformas de serviços digitais devem fazer controle rigoroso de idade e de acesso e atuar com mecanismos de análise de conteúdo inadequado.",
+            "Informações dirigidas a crianças devem ser adaptadas, de fácil acesso e em linguagem clara e simples.",
+            "Exigir consentimento dos pais ou do tutor para o tratamento de dados pessoais de crianças na maioria dos serviços on-line.",
+            "Empresas devem realizar esforços razoáveis, conforme a tecnologia disponível, para verificar se o consentimento dado para o acesso de crianças está em conformidade com a lei.",
+            "Sugerir ao Parlamento trabalhar de forma integrada o fortalecimento institucional e legal do papel da família, das escolas, do poder público, da imprensa, da sociedade civil e das plataformas de serviços digitais.",
+            "Sugerir rigor legislativo com as plataformas de serviços digitais, especialmente redes sociais, nos controles preventivos de proteção, como controle de idade e análise de interações.",
+            "Promover comunicação acessível, clara e transparente sobre os riscos digitais à privacidade das crianças, em linguagem própria delas.",
+            "Parlamento deve assumir protagonismo em campanhas educativas em rádio, TV, mídia impressa e Internet sobre proteção de dados e privacidade das crianças, com orientação às famílias e escolas.",
+            "Definir orçamento específico para apoiar iniciativas da sociedade civil organizada em campanhas educativas."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00039",
+          "ordem_no_debate": 42,
+          "texto": " Eu gostaria, em primeiro lugar, de agradecer esta oportunidade riquíssima que foi dada à APCF de participar de um debate tão rico, complayers, com pessoas tão importantes e tão envolvidas neste trabalho de proteção às crianças.\n\nA APCF também se coloca à disposição para apoiar e trabalhar em conjunto, para criarmos uma força ou frente maior que possa ajudar nestas demandas tão importantes que nós temos.\n\nComo o Rafael muito bem colocou e eu já tinha dito antes, além da repressão e do combate ao crime, nós precisamos trabalhar na prevenção, mas na prevenção em todos os aspectos, não somente no aspecto criminal, mas também na questão da saúde, da privacidade e da exploração de crianças.\n\nÉ muito importante conhecer um pouco mais o trabalho da SaferNet, com a fala do Thiago, com relação a aspectos que são muito relevantes no conjunto, no todo. Eu acho que, se pudermos resumir este encontro, este importante seminário de hoje, será uma integração. Esta é uma questão que precisa ser combatida em várias frentes, mas sempre com foco no bem-estar das crianças e dos adolescentes brasileiros e daqueles que se relacionam conosco.\n\nEu gostaria de agradecer e colocar a APCF, especialmente meu nome, à disposição para continuarmos estas colaborações em momentos futuros, para participarmos de outros debates e de outras conversas. Estamos à disposição.\n\nMais uma vez, trago um abraço do nosso Presidente Marcos Camargo a todos os participantes desta Mesa, especialmente ao Deputado Luis Miranda, que nos honrou com este convite.\n\nUm abraço a todos.\n\nMuito obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Evandro Mário Lorens se manifesta de modo favorável à integração e à colaboração entre agentes e organizações na proteção de crianças e adolescentes, defendendo que, além da repressão e do combate ao crime, é preciso trabalhar na prevenção em múltiplos aspectos — saúde, privacidade e exploração —, e não apenas no aspecto criminal. Coloca a APCF à disposição para atuar em conjunto em uma frente ampliada de apoio a essas demandas, com foco no bem-estar das crianças e adolescentes. O posicionamento substantivo é acompanhado de um tom majoritariamente protocolar, com agradecimentos, referências elogiosas a outros participantes e transmissão de cumprimentos de terceiros, marcando uma fala de encerramento de mesa. Não há manifestação específica sobre o acesso a dados e seus meios ou limites.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Trabalhar na prevenção em todos os aspectos — não apenas criminal, mas também na saúde, privacidade e exploração de crianças — além da repressão e do combate ao crime.",
+            "Promover a integração e a atuação em várias frentes para combater a questão, com foco no bem-estar das crianças e adolescentes.",
+            "Criar uma força ou frente ampliada de colaboração entre os atores envolvidos para apoiar essas demandas, com a APCF trabalhando em conjunto."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "THIAGO TAVARES NUNES DE OLIVEIRA",
+      "falas": [
+        {
+          "id": "f00029",
+          "ordem_no_debate": 32,
+          "texto": " Boa tarde, Deputado Luis Miranda. Em sua pessoa, eu cumprimento todos os demais Parlamentares e colegas que me antecederam.\n\nEu trouxe uma apresentação na qual faço um resumo da minha trajetória acadêmica e profissional, algo relevante para o debate sobre o tema de hoje.\n\nPara quem não conhece a SaferNet Brasil, nós somos uma organização não governamental sem fins lucrativos, sem nenhum tipo de vinculação político-partidária, ideológica ou sindical, que atua há mais de 15 anos no País, defendendo e promovendo direitos humanos fundamentais, sobretudo das crianças e dos adolescentes.\n\nNós somos os únicos membros da INHOPE, uma associação internacional que existe há mais de 20 anos, financiada pela Comissão Europeia, com sede em Amsterdã, na Holanda. Eu já fui um dos diretores da INHOPE. Nós instalamos aqui, em parceria com o Ministério Público Federal e com diversos outros Ministérios Públicos Estaduais, ohotline, canal de denúncias de crimes e de violações de direitos humanos, incluindo os crimes de abuso e de exploração sexual de crianças e de adolescentes.\n\nEste eslaide traz alguns números que evidenciam a escala dos problemas e dos desafios que nós temos. Este ponto já foi mencionado por outros expositores que me antecederam. Nos últimos 15 anos, aSaferNet recebeu mais de 1 milhão e 700 mil denúncias anônimas de conteúdos relacionados a abusos de exploração sexual de crianças e de adolescentes envolvendo mais de 430 mil páginas, das quais 340 mil foram removidas. Estas páginas estavam hospedadas em 101 países diferentes, o que denota a importância da cooperação internacional em se tratando de matéria de crimes cibernéticos.\n\nNós temos parceria com a Política Federal e com ela atuamos desde a fundação da instituição, desde 2006. Temos muito orgulho de termos o resultado do que foi construído ao longo desta parceria com a Polícia Federal em mais de 15 anos, que tem tido uma atuação enérgica. Nós vemos isso pelos números. O número de prisões só cresce. Aqui, por este gráfico, fica evidente que a trajetória da curva é muito ascendente: centenas de agressores sexuais são identificados e presos pela Polícia Federal todos os anos.\n\nAs Polícias Civis dos Estados também avançaram muito nos últimos anos, coordenadas pelo Ministério da Justiça e Segurança Pública através da série de operações da Luz na Infância—parece-me que já está na quinta ou na sexta edição. Ela também já detectou e prendeu milhares de agressores sexuais que usaram a Internet para abusar de crianças e de adolescentes aqui no Brasil.  É evidente que um problema como este exige uma cooperação multissetorial.\n\nO colega perito que me antecedeu acabou de falar da importância da família e da sociedade. Está insculpido no art. 227 da Constituição Federal:\"É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, o direito à vida, à saúde, à alimentação, à educação, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária, além de colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão\".\n\nÉ com este espírito e com este mandamento constitucional que nós atuamos no Brasil, em parceria com diversas instituições públicas.\n\nEu aproveito para fazer uma homenagem ao Ministério Público Federal, através do seu grupo de combate aos crimes cibernéticos, que é vinculado à 2ª Câmara de Coordenação e Revisão da PGR, a Câmara Criminal, que tem feito um trabalho extraordinário ao longo dos anos e espalhado diversas unidades do MPF que criaram grupos de combate aos crimes cibernéticos com foco nos crimes de ódio, mas, principalmente, com prioridade nos crimes de abuso de exploração sexual de crianças e de adolescentes.\n\nComo resultado desta cooperação — este é um balanço parcial divulgado pelo próprio MPF —, nos primeiros 18 meses de trabalho em conjunto,nós detectamos mais de 6 milsitesde pornografia infantil que resultaram em 832 investigações iniciadas apenas a partir da Procuradoria da República do Estado de São Paulo.\n\nHá um exemplo de um caso concreto, ou seja, uma operação que foi deflagrada pela Polícia Federal em 2009 com base em denúncias anônimas feitas à SaferNet — na época, o Orkut era muito popular no Brasil. Nós preparamos um relatório e fornecemos informações que permitiram à Polícia Federal deflagrar a Operação Turko, que mobilizou mais de 450 policiais federais, que cumpriram mais de 130 mandados de busca e apreensão e de prisão em todo o País, em todas as Unidades da Federação. Isso também permitiu que a Polícia Federal cooperasse com outras instituições e outras autoridades policiais através da Interpol, repassando dados que foram obtidos aqui no Brasil no curso das investigações por ela conduzidas a partir das denúncias anônimas encaminhadas pela SaferNet Brasil.\n\nNós temos a Lei nº 11.829, uma lei moderna votada por esta Casa, Deputado Luis Miranda, e aprovada por unanimidade, em vigor desde 2008, que atualizou o Estatuto da Criança e do Adolescente. É evidente que nós temos muitos desafios. Já foi mencionada aqui a necessidade de investimentos em estrutura das unidades de investigação responsáveis por crimes contra crianças e adolescentes, sobretudo os crimes sexuais contra crianças e adolescentes que são praticados por meio da Internet, e das delegacias especializadas em crimes cibernéticos nos Estados.\n\nAlguém aqui mencionou que não são todos os Estados brasileiros que têm delegacias especializadas em repressão a crimes cibernéticos. É fundamental que elas existam, mas não apenas nas capitais. É importante que as cidades médias também tenham capacidade própria para investigar crimes desta natureza quando praticados pela Internet.\n\nA ausência de investimentos acaba fazendo com que as investigações não sejam aprofundadas e não consigam atingir o nível de excelência indicado pela Interpol, por exemplo, o nível 8, que se dá quando a criança é localizada: a criança vítima de abuso sexual é localizada e resgatada da situação de abuso, e o perpetrador ou abusador é identificado, preso e condenado com celeridade, para que cumpra a pena estabelecida em juízo, dentro do devido processo legal, e responda pelos atos horrendos que tenha praticado.\n\nGeralmente, as investigações no Brasil acabam esbarrando nos mandados de busca e apreensão que são cumpridos e geram uma quantidade enorme de informação a ser analisada pela perícia, pelos times de peritos, que, mesmo tendo uma demanda absurda, são reduzidos. Existem outras operações sobre outros temas que também geram a necessidade de produzir laudos periciais, e os peritos acabam, muitas vezes, ficando assoberbados com o trabalho, porque faltam ferramentas, estrutura ou mesmo investimento em ferramentas, em estrutura de pessoal e em capacitação.\n\nAqui temos alguns dados da própria INTERPOL que eu procurei trazer. Eles mostram que o paradigma internacional vai nesta direção, ou seja, investigações mais aprofundadas que não se limitem apenas a quem está compartilhando imagens de abuso sexual infantojuvenil, mas que se voltem, principalmente, para quem está produzindo este conteúdo, para quem tem acesso a crianças em situação de abuso, e que se destinem a identificar e a resgatar estas crianças da situação de abuso e a coibir quem ganha dinheiro com isso, ou seja, coibir o financiamento, já que também existemsitescomerciais que se dedicam à compra e à venda de imagens de abuso sexual infantojuvenil.\n\nVemos aqui dados da INTERPOL que mostram que há uma evolução crescente também na identificação de vítimas em outros países. Já foi mencionado que existe, nos Estados Unidos, uma lei que determina que as empresas com sede naquele país reportem casos ao NCMEC, que é membro da INHOPE, uma das nossas parceiras, uma das instituições parceiras da SaferNet nos Estados Unidos. Estes dados são do próprio NCMEC; mostram uma evolução muito grande destes números nos últimos anos.\n\nAqui vemos um dado um pouco mais granular, que, aliás, explica os fatores que contribuem para este aumento exponencial no número de casos que envolvem abusos de exploração sexual de crianças e de adolescentes reportados proativamente pelas plataformas ao NCMEC.\n\nEsta é uma referência que eu trago do próprio Senado americano, uma audiência pública que aconteceu nos Estados Unidos. Aí está a referência com olinkpara quem quiser se aprofundar e ler os dados em detalhes.\n\nOutros dados mostram que, ao longo dos últimos anos, aumentou muito a capacidade de remoção destes conteúdos mais rapidamente. Hoje a estatística internacional é a de que 80% das imagens de abuso sexual de crianças e de adolescentes são removidas nas primeiras 72 horas, o que é um avanço propiciado principalmente pela tecnologia, algoritmos de inteligência artificial, de reconhecimento de imagem, que permitem uma detecção mais rápida.\n\nO Brasil recebe, como foi mencionado pelo Dr. George, relatórios com evidências e metadados dos crimes que são praticados a partir de conexões estabelecidas no território brasileiro. Este número, hoje, se aproxima de algo em torno de 600 mil relatórios por ano recebidos pelas autoridades brasileiras a partir de parceiros internacionais, sobretudo por meio do NCMEC nos Estados Unidos, relatórios que são produzidos proativamente pelas plataformas e encaminhados ao NCMEC, que os disponibiliza às autoridades brasileiras.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Em exposição institucional sobre o tema Acesso a dados para combater crimes digitais, o orador sustenta, a partir da experiência da SaferNet Brasil, que a cooperação multissetorial e internacional é essencial para enfrentar o abuso e a exploração sexual de crianças e adolescentes na internet, tema tratado de forma indireta ao denúncias e repasses de dados entre plataformas, NCMEC, Interpol, MPF e Polícia Federal. Elogia a atuação da Polícia Federal, das Polícias Civis e do MPF, e defende investimentos em estrutura, pessoal, ferramentas e capacitação, incluindo delegacias especializadas em crimes cibernéticos não apenas nas capitais, mas também em cidades médias. Propõe aprofundar as investigações no sentido do paradigma internacional: identificar produtores de conteúdo e resgatar vítimas, além de coibir o financiamento de sites comerciais de compra e venda dessas imagens. Registra ainda avanços tecnológicos de detecção e remoção rápida de conteúdos e o volume crescente de relatórios internacionais recebidos pelo Brasil.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Investir em estrutura das unidades de investigação responsáveis por crimes contra crianças e adolescentes, sobretudo os praticados por meio da Internet, e nas delegacias especializadas em crimes cibernéticos.",
+            "Criar delegacias especializadas em repressão a crimes cibernéticos em todos os Estados, não apenas nas capitais, e dar às cidades médias capacidade própria de investigação desses crimes.",
+            "Investir em ferramentas, estrutura de pessoal e capacitação para os times de peritos, que estão assoberbados com a análise dos materiais apreendidos.",
+            "Aprofundar as investigações na direção do paradigma internacional: focar em quem produz o conteúdo e tem acesso a crianças em situação de abuso, identificar e resgatar as vítimas e coibir o financiamento dos sites comerciais de compra e venda dessas imagens."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00031",
+          "ordem_no_debate": 34,
+          "texto": " Pois não, Deputado.\n\nInformações nós já temos muitas, mas faltam, como eu disse, estrutura e mais capacidade de investimento pessoal etc.\n\nNa abertura desta audiência, Deputado Luis Miranda, V.Exa. pediu aos convidados que fizessem comentários sobre a importância do combate à desinformação. Eu, evidentemente, fui colocado na Mesa sobre crianças e adolescentes e, como professor há mais de 20 anos, eu não poderia fugir ao tema e zerar a redação, mas também não poderia deixar de atender a convocação e a solicitação de V.Exa. Assim, eu incluí na minha apresentação uma coleção de eslaides sobre este assunto, com subsídios concretos e extremamente relevantes para que o Parlamento possa se debruçar sobre este tema.\n\nEu deixo todo este material à disposição da Comissão, de V.Exa., Sr. Presidente, e já me disponho, nesta ocasião, caso tenhamos tempo, ou em outra ocasião, a repassá-lo, pois me parece ser de grande valia para que a Comissão possa entender melhor as nuances econômicas das decisões regulatórias que podem ser tomadas.\n\nNós estamos falando de um mercado de 1 bilhão e 880 milhões de dólares por ano. O Brasil está entre os cinco países que mais geram demanda para a moderação de conteúdo, e esta demanda gerada no Brasil não se converte em oportunidades de geração de trabalho e de renda para a população, sobretudo para a população menos favorecida do País, que é o perfil típico do analista de conteúdo, que toma decisões sobre moderação de conteúdo.\n\nHoje, esta demanda é exportada sem nenhuma contrapartida e é atendida por empresas deoutsourcingque operam a partir de outros países: Angola, do sudeste asiático, a partir de diferentes países. Ainda que elas falem português — estas empresas deoutsourcingacabam contratando moderadores de conteúdo de países lusófonos, que falam português —, elas não conhecem o contexto brasileiro, não conhecem o português falado no Rio de Janeiro, o português falado na Bahia, em Porto Alegre, em Minas Gerais.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, responde a intervenção do Deputado afirmando que o problema não é falta de informações, mas de estrutura e capacidade de investimento. Relata ter preparado slides com subsídios sobre desinformação e as nuances econômicas de decisões regulatórias, disponibilizando-os à Comissão. Sustenta que o mercado global de moderação de conteúdo representa 1 bilhão e 880 milhões de dólares por ano e que o Brasil, entre os cinco maiores geradores de demanda, exporta essa demanda para empresas de outsourcing no exterior — Angola e países do sudeste asiático — sem gerar trabalho e renda no país, especialmente para a população menos favorecida, perfil típico do analista de conteúdo. Critica que moderadores lusófonos contratados no exterior desconheçam o contexto brasileiro e as variações regionais do português (Rio de Janeiro, Bahia, Porto Alegre, Minas Gerais), o que compromete a qualidade da moderação. Disponibiliza-se a repassar o material à Comissão.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Repassar ao Parlamento os slides e subsídios reunidos sobre o combate à desinformação, para que a Comissão possa compreender as nuances econômicas das decisões regulatórias.",
+            "Converter no Brasil a demanda de moderação de conteúdo em oportunidades de trabalho e renda para a população menos favorecida, em vez de exportá-la sem contrapartida para empresas de outsourcing no exterior."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00033",
+          "ordem_no_debate": 36,
+          "texto": " Sem dúvida.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Na intervenção integral, o orador limita-se a uma anuência breve e genérica (\"Sem dúvida.\"), sem desenvolver argumento, apresentar justificativa, exemplo, proposta ou qualquer conteúdo opinativo autônomo sobre o tema de acesso a dados para combater crimes digitais. Trata-se aparentemente de resposta afirmativa ou concordância a fala anterior, cujo objeto específico não é identificável no registro desta fala. Em consequência, não é possível extrair posição substantiva própria, ponderações, condições ou matizes sobre o tema: a expressão de concordância confirma algo, mas o quê, o texto desta intervenção não revela. A fala é, portanto, procedimental ou fática quanto ao conteúdo, sem tese verificável e sem elementos que permitam avaliar credibilidade, fundamentação ou direção de posicionamento perante o tema nomeado.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00035",
+          "ordem_no_debate": 38,
+          "texto": " Perfeito, Deputado!\n\nEu quero apenas fazer uma intervenção de agradecimento. Quero, mais uma vez, agradecer o convite e sua generosidade em conceder algum tempo adicional — eu já estourei o tempo — e permitir que toda a apresentação, o que inclui os eslaides que não deu tempo para apresentar, fique disponibilizada nositeda Comissão para que os Parlamentares e a sociedade em geral tenham acesso e possam se aprofundar um pouco mais neste debate. Lembro que todos os eslaides estão referenciados.\n\nAgradeço demais!\n\nFico à inteira disposição de V.Exa. para o debate, para as perguntas, a fim de contribuir em outras oportunidades.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Intervenção final de encerramento, sem conteúdo substantivo sobre o tema. Thiago Tavares Nunes de Oliveira agradece o convite e a concessão de tempo adicional, pede que a apresentação completa — incluindo slides não exibidos — fique disponível no site da Comissão para consulta de parlamentares e da sociedade, salientando que todos os eslaides estão referenciados, e se coloca à disposição para perguntas e debates futuros. Não manifesta concordância, discordância ou qualquer posição de mérito sobre o acesso a dados para combater crimes digitais; trata-se de fala puramente procedimental e de cortesia, com tom de gratidão.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00041",
+          "ordem_no_debate": 44,
+          "texto": " Obrigado, Deputado.\n\nMinhas considerações também são no sentido de reiterar o agradecimento pelo convite, falar da nossa inteira disposição em continuar contribuindo para os trabalhos da Comissão, mas reagir um pouco ao comentário do meu colega Rafael Zanatta, cuja trajetória acadêmica e profissional acompanho há mais de 10 anos e admiro muito.\n\nQuero dizer que eu tenho uma visão um pouco divergente da opinião dele sobre a Convenção de Budapeste. A Convenção do Budapeste é um documento que nasceu no âmbito do Conselho da Europa, um conselho tem uma história e uma trajetória relacionada a direitos humanos. Esta convenção já foi ratificada por mais de 50 países, e nós não estamos falando de ditaduras como Arábia Saudita ou Venezuela. Estamos falando de países como Dinamarca, Estados Unidos, Reino Unido, Suíça, Noruega, Canadá, Colômbia e Argentina, na América Latina, nossos vizinhos— nuestros hermanos—, além da Itália e do Japão. Estamos falando das principais democracias do mundo que assinaram e ratificaram a Convenção de Budapeste.\n\nO primeiro Protocolo Facultativo da Convenção de Budapeste trata justamente do combate ao racismo e à xenofobiaon-line. O segundo Protocolo Facultativo da Convenção de Budapeste é sobre o acesso a dados transfronteiriços. A visão e a perspectiva são de países democráticos, países que têm um olhar para os direitos humanos. É claro que todos os países, na sua soberania, podem adotar suas salvaguardas, e devem fazê-lo. Vários o fizeram. Os Estados Unidos, por exemplo, aderiram à Convenção de Budapeste com dez reservas, ou alguma coisa assim.\n\nEu acho que o debate e o estudo não devem ser colocados de forma a aderir ou não aderir. A SaferNet é a favor de que o Brasil faça a adesão e participe efetivamente dos debates, da construção dos protocolos facultativos, dos documentos e da negociação em torno destes documentos que resultam da Convenção de Budapeste. O Brasil não pode simplesmente se transformar numa ilha e dizer que não participa de uma ação internacional que tem mais de 50 democracias envolvidas. Então, a alternativa seria se vincular à Rússia, que tem uma proposta alternativa que está tramitando em outra instância. Eu acho que dificilmente terá a adesão como teve a mesma adesão da Convenção de Budapeste por mais de 50 democracias.\n\nNós somos favoráveis à adesão do Brasil. Eu acho que este é um passo importante, Deputado Luis Miranda, que o Parlamento deu. A Câmara aprovou e votou este decreto legislativo, que já está no Senado. É importante que o Senado vote e aprove e que as salvaguardas sejam discutidas para endereçar as questões que o Prof. Zanatta trouxe.\n\nEspero que nós possamos participar dos fóruns multissetoriais em torno da convenção e levar contribuições no sentido de que estas salvaguardas tenham a devida atenção e mereçam propostas de emendas de redação ao texto para torná-las mais evidentes e relevantes.\n\nEu agradeço novamente ao Deputado e permaneço à disposição. Cumprimento S.Exa. pela condução dos trabalhos e pela sua grande generosidade em relação ao tempo.\n\nMuito obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, o titular discorda da visão crítica de Rafael Zanatta sobre a Convenção de Budapeste e defende que o Brasil adira ao documento e participe ativamente de seus debates. Argumenta que a convenção nasceu no Conselho da Europa, com trajetória ligada a direitos humanos, e foi ratificada por mais de 50 democracias (cita Dinamarca, EUA, Reino Unido, Suíça, Noruega, Canadá, Colômbia, Argentina, Itália e Japão), lembrando que seus protocolos facultativos tratam de combate ao racismo/xenofobia on-line e de acesso transfronteiriço a dados. Posiciona-se favorável à adesão, sustentando que países podem adotar salvaguardas soberanas (como os EUA fizeram com reservas) e que o Brasil não deve se isolar diante da alternativa russa, de adesão improvável. Encaminha que o Senado aprove o decreto legislativo já em tramitação e que as salvaguardas sejam discutidas para endereçar as questões de Zanatta, propondo emendas de redação que as tornem mais evidentes, e manifesta disposição da SaferNet em seguir contribuindo com a Comissão.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Que o Brasil adira à Convenção de Budapeste e participe efetivamente dos debates, protocolos facultativos e documentos derivados da convenção.",
+            "Que o Senado vote e aprove o decreto legislativo e que as salvaguardas sejam discutidas para endereçar as questões levantadas.",
+            "Que se participe dos fóruns multissetoriais em torno da convenção, levando contribuições para que as salvaguardas recebam atenção e mereçam propostas de emendas de redação ao texto para torná-las mais evidentes e relevantes."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "RAFAEL ZANATTA",
+      "falas": [
+        {
+          "id": "f00037",
+          "ordem_no_debate": 40,
+          "texto": " Muito obrigado, Sr. Presidente.\n\nMuito boa tarde. É um prazer enorme estar aqui.\n\nAgradeço enormemente ao Deputado Luis Miranda a organização e a condução deste seminário. Agradeço também aos Deputados Silas Câmara, Coronel Chrisóstomo, Bibo Nunes e a todos os que fizeram o requerimento para que acontecesse esta conversa. Destaco também os nomes das Deputadas Angela Amin e Luiza Erundina.\n\nSou Rafael Zanatta, Diretor da Data Privacy Brasil de Pesquisa, associação integrante da Coalizão Direitos na Rede. A Coalizão Direitos na Rede, para quem não conhece, é uma rede de entidades que reúne mais de 48 organizações acadêmicas e organizações da sociedade civil em defesa dos direitos digitais e tem como temas principais o acesso à Internet, a liberdade de expressão, a proteção de dados pessoais e a privacidade.\n\nO endereço da coalizão édireitosnarede.org.br. Para quem não a conhece, fica o convite para conhecer o trabalho desta coalizão, que atuou fortemente na construção do Marco Civil da Internet e na criação da Lei Geral de Proteção de Dados Pessoais e está profundamente envolvida agora na discussão da legislação sobre liberdade e responsabilidade, a chamada Lei das Fake News, que tem um trabalho coletivo.\n\nEu quero organizar minha fala em três pontos principais, para discutirmos sobre crianças, adolescentes e crimes cibernéticos. Prometo que serei bastante breve, porque sou o último orador, e todos estão cansados. A primeira é a problemática geral sobre como construir confiança no processo de investigação por meio do uso de tecnologia e dados num cenário no qual o Brasil, diferentemente de outros parceiros europeus, não possui lei específica para o tratamento e o fluxo de dados nas investigações criminais.\n\nIsso é, de fato, um problema, na medida em que a inexistência de uma LGPD penal impede a construção de confiança mínima até mesmo para os acordos mais sofisticados que o Ministério Público Federal tem tentado construir por meio da EUROPOL e de outros arranjos de cooperação de dados no curso das investigações criminais que são intensivas em dados.\n\nUma questão colocada é que um trabalho sofisticado de inteligência, como o Thiago Tavares colocou, depende de análise e de pesquisa, depende de cooperação internacional, depende de fluxo de dados, depende de uma troca grande na escala internacional. Afinal, são crimes, de fato, organizados em escala internacional, e há a necessidade de um aparato mínimo para a construção de confiança neste processo, que passa pela aprovação de uma lei de dados penal voltada a estes fins.\n\nNisto o Brasil ainda não avançou. Este é um ponto importante para o começo da conversa. Falo da ideia de uma LGPD penal que pudesse criar confiança para esse tipo de investigação criminal voltada, aliás, para a problemática das crianças e dos adolescentes. Contudo, isso não aconteceu. Um anteprojeto foi pensado por uma comissão, mas não se gerou uma proposição legislativa. Esta é uma demanda dos investigadores. A pauta de uma legislação deste porte tem sido feita também pelas unidades técnicas do MPF e pela sociedade civil. Este é um assunto que precisa voltar, pois ele interessa a todos nós.\n\nA segunda problemática é que, mesmo que seja uma temática sempre muito delicada, por envolver crimes moralmente repulsivos, como a exploração sexual de menores, o tráfico internacional de menores, os problemas com os quais a SaferNet tem lidado tão bem, de forma tão magistral — cumprimento o Thiago Tavares por este trabalho de décadas, que é um parceiro da Coalizão Direitos na Rede —, isso também não pode gerar um espaço de campo de exceção para aprovação.\n\nCito como exemplo a Convenção de Budapeste e outros mecanismos de cooperação internacional. Esta situação pode fazer com que sejam implementados mecanismos comofishing expedition, ou seja, a varredura de dados em larga escala, sob o pretexto de identificação das condutas criminosas voltadas às crianças.\n\nEsta tensão está posta em vários países e é vista com muito cuidado nos Estados Unidos, que têm uma preocupação em seu Departamento de Justiça para garantir que este tipo de tática de coleta de dados massiva no curso da investigação criminal seja feito com o devido processo, com o amparo de legalidade, com a determinação dos suspeitos e com aprobable cause, a causa provável, que vai conduzir a investigação criminal, de modo a impedir que se crie um mecanismo em que varreduras massivas de dados e coletas massivas de dados simplesmente possam ser feitas no curso da investigação, sem a determinação do porquê, do como, de quais suspeitos, de que aparato de investigação por trás que dá sustentação a esta prática.\n\nEste é um assunto prioritário no Departamento de Justiça dos Estados Unidos. É um assunto prioritário na unidade de Justiça da União Europeia, que tem feito um alerta sobre como adotar corretamente a Convenção de Budapeste, como sofisticar os instrumentos de investigação criminal para que este tipo de tática mais agressiva, da perspectiva dos direitos coletivos, seja feito com cuidado. Este é um alerta importante sobre os próximos passos do Brasil.\n\nTivemos a aprovação da Convenção de Budapeste numa primeira etapa. Estamos num processo de discussão da reforma do Código de Processo Penal. Estamos num processo de discussão sobre o capítulo das provas digitais e os poderes de investigação que vão ser colocados ao Ministério Público, aos investigadores federais. Portanto, é preciso que o Brasil siga a tendência internacional de respeito aos direitos fundamentais na ampliação deste tipo de poder para instrumentalizar a correta investigação de crimes cometidos contra crianças.\n\nMeu terceiro e último ponto, antes de encerrar, é que a problemática das crianças e dos adolescentes e sua devida proteção também precisam ser ampliadas para uma dimensão que não seja tão somente esta que nós conhecemos e que é pública, dos crimes basicamente conhecidos, como pedofilia, tráfico internacional e outros. Falo de uma nova agenda que tem se descortinado, especialmente pelo trabalho que temos visto no Reino Unido, na Itália, em vários outros países. Trata-se da agenda de uma Internet segura para as crianças voltada também a uma contenção da exposição a telas e aos aplicativos, a uma agenda de portões de entrada, chamada deage gate.\n\nDados recentes produzidos pelo Fernando Paiva, por exemplo, mostram que, no Brasil, 30% das crianças de 0 a 2 anos já estão diante de tela e que há uma explosão de consumo desmartphonespara crianças de até 6 anos. Isso inaugura a agenda de olharmos com muito cuidado a exploração comercial das crianças na Internet e as táticas de induzir as crianças ao vício e a um comportamento danoso no ambienteon-line.\n\nEsta é uma agenda que tem mobilizado uma parceria entre autoridades nacionais de proteção de dados pessoais, investigadores federais desses países e uma agenda deon-linesafety,de segurança para as crianças. Isso é feito por meio também da conscientização, da educação, da ampliação sobre os próprios direitos nas escolas, da construção de uma agenda cívica sobre como usar a tecnologia de forma responsável e de muitos outros eixos educacionais.\n\nNós tivemos casos alarmantes, como o caso Antonella, que ficou famoso no começo deste ano, em que uma garota de 10 anos se suicidou depois de um jogo por meio de uma plataforma de Internet. Há outros exemplos dramáticos de induçãoon-lineao comportamento danoso nas crianças. Tudo isso faz parte do conjunto de preocupações do tipo de agenda que nós podemos construir no Brasil sobre crianças e adolescentes. Falo de uma agenda que não seja simplesmente voltada à identificação dos ilícitos e dos tipos penais e da ampliação da investigação penal, masque também olhe, com muito cuidado, para a estabilidade psicológica das crianças, que olhe com muito cuidado para a indução da coleta de dados massiva e do vício e para a indução de crianças numa exploração comercial, como tem trabalhado aqui o Instituto Alana, o Data Privacy, várias ONGs no Brasil, inclusive o ITS, que lançou recentemente um livro sobre proteção de dados de crianças, uma coletânea aberta com materiais de sobra para atacar este problema.\n\nCom isso, eu encerro com 1 minuto e meio de antecipação, provocando esta agenda maior que está na temática do seminário e coloco as entidades que integram a Coalizão Direitos na Rede à disposição do Deputado Luis Miranda, de seus assessores e da Câmara para prestar mais esclarecimentos, enviar a documentação destes eixos que eu citei e permanecer em constante colaboração com o Parlamento.\n\nÉ um prazer enorme estar aqui. Parabenizo-o, Deputado Luis Miranda, pela condução dos trabalhos.\n\nObrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Rafael Zanatta defende que o Brasil precisa de uma lei de dados penal (LGPD penal) para dar segurança jurídica e viabilizar a cooperação internacional no uso de dados em investigações criminais, hoje travada pela ausência de marco específico. Sustenta, porém, que a gravidade moral dos crimes contra crianças e adolescentes não pode gerar campo de exceção nem autorizar varreduras massivas de dados tipo fishing expedition: a investigação deve respeitar devido processo, suspeitos determinados e causa provável, conforme alertam o Departamento de Justiça dos Estados Unidos e a unidade de Justiça da União Europeia. Além disso, propõe ampliar a agenda de proteção para além da persecução penal, incluindo contenção da exposição a telas, age gates, freios frente à exploração comercial e à indução ao vício, educação e proteção de dados, citando casos dramáticos como o da menina Antonella e dados sobre uso de telas por crianças pequenas. Direção geral da fala é favorável ao uso de dados na investigação, com condicionantes de legalidade e direitos fundamentais, numa postura técnica, segura e pontuada por apelos à proteção das crianças.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Aprovação de uma lei de dados penal (LGPD penal) para o tratamento e o fluxo de dados nas investigações criminais, criando confiança e cooperação internacional.",
+            "Que a ampliação de poderes de investigação de crimes contra crianças (incluindo na reforma do Código de Processo Penal) seja acompanhada de garantias de devido processo legal, sujeitos determinados e causa provável, vedadas varreduras massivas de dados sem justificativa (evitando 'fishing expedition').",
+            "Ampliação da agenda de proteção de crianças para além da repressão de ilícitos, incluindo contenção da exposição a telas e aplicativos, implantação de portões de entrada (age gate), proteção contra exploração comercial e indução ao vício, com educação e conscientização sobre uso responsável da tecnologia nas escolas."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00043",
+          "ordem_no_debate": 46,
+          "texto": " Obrigado, Deputado.\n\nMeu obrigado também ao Thiago Tavares pelos comentários, uma pessoa que eu admiro profundamente e acompanho sua trajetória há 1 década. Nós estamos sempre nos encontrando.\n\nÉ importante que eu possa fazer um esclarecimento pelo Data Privacy, com a visão do Data Privacy sobre esse assunto, e não pela Coalizão, porque eu não posso falar pelo coletivo.\n\nNo Data Privacy, nós fizemos uma série de ensaios sobre a Convenção de Budapeste. De fato, ela tem o nascimento no Comitê da Europa, em 1996, com o Prof. Kaspersen, fazendo um diagnóstico sobre cibercriminalidade, depois sobre um trabalho importante de repensar e harmonizar os conceitos jurídicos.\n\nUm alerta importante de se fazer, Thiago, é que a professora europeia Mireille Hildebrandt, no livro dela, disse que a convenção sobre cibercrimes de Budapeste não pode ser lida extrapolando o que ela é. Ela não impõe às partes contratantes uma obrigação de decretar um poder legal para a Polícia invadir remotamente o sistema de computação.\n\nEntão o cuidado que temos que ter é com a interpretação da aplicação da Convenção de Budapeste após sua ratificação. O cuidado que temos que ter é com o que se faz após a ratificação e o uso disso num enfoque que tenha um equilíbrio entre a cooperação internacional criminal, as redefinições conceituais sobre cibercrimes e a proteção de direitos fundamentais relacionados aos dados pessoais.\n\nPor isso, minha fala foi no sentido de que nós temos uma tarefa de casa importante. A LGPD penal era um belíssimo instrumento, à altura dos instrumentos internacionais, que infelizmente não deslanchou, poderia ter deslanchado. A conversa que eu tenho feito com membros do MPF é que isso é importante para a cooperação internacional, isso fortalece a confiança e a pactuação feita na cooperação com parceiros europeus ou de outras jurisdições.\n\nO alerta que eu faço aqui é para não abandonarmos essas agendas e também cuidarmos das possíveis interpretações do que decorre da Convenção de Budapeste. Ela de fato tem berço democrático, tem um comprometimento da comunidade internacional. E nós do Data Privacy, nos nossos textos públicos, não fomos contra a Convenção e defendemos isso publicamente.\n\nAcho importante trazer também a complexidade em torno disso e os cuidados, porque existe leitura que vai além, existe tentativa de inclusão na própria reforma do CPP desses mecanismos defishing expeditionou da obrigação de retenção de dados e invasão de dispositivos, que acho que é um mau negócio. Entendemos que é um mau negócio para o Brasil fazer isso sem o dever de casa.\n\nEstou apenas reagindo aqui no espírito democrático, complementando o Thiago e agradecendo pela oportunidade de falar pelo Data Privacy e pela Coalizão.\n\nObrigado, Deputado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Falando pelo Data Privacy, o orador declara apoio à Convenção de Budapeste, que defendeu publicamente, mas sustenta que ela não obriga as partes contratantes a autorizar a polícia a invadir remotamente sistemas computacionais, devendo sua interpretação pós-ratificação equilibrar cooperação internacional penal e proteção de direitos fundamentais a dados pessoais. Solicita cuidado quanto a leituras ampliadas da Convenção, sem abandonar agendas de proteção de dados, e reforça a defesa da LGPD penal como instrumento importante para a cooperação internacional, cujo avanço lamenta não ter acontecido. Rejeita explicitamente a inclusão, na reforma do CPP, de mecanismos como fishing expedition, obrigação de retenção de dados e invasão de dispositivos, qualificando-os de mau negócio para o Brasil, sobretudo sem preparo prévio. Encerra declarando agir em espírito democrático, ao complementar o orador anterior.",
+          "objeto_do_posicionamento": "Acesso a dados para combater crimes digitais",
+          "propostas": [
+            "Não abandonar as agendas de proteção de dados pessoais e adotar cautela na interpretação do que decorre da Convenção de Budapeste.",
+            "Retomar e avançar com a LGPD penal como instrumento de cooperação internacional em matéria de cibercrimes.",
+            "Não incluir na reforma do CPP mecanismos como fishing expedition, obrigação de retenção de dados e invasão de dispositivos."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    }
+  ],
+  "notas_revisao": [],
+  "arquivo_auditoria": "auditoria/debate_linha_00098_47e8c7d3d44a_anotado.json"
+}

@@ -1,0 +1,950 @@
+{
+  "formato": "debate_por_participante_v1",
+  "debate_id": 28,
+  "tema": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+  "status": "anotado_aguardando_revisao_humana",
+  "participantes": [
+    {
+      "nome": "Jorge Braz",
+      "falas": [
+        {
+          "id": "f00001",
+          "ordem_no_debate": 1,
+          "texto": " Bom dia a todos!\n\nDeclaro aberta a reunião.\n\nEsta reunião de audiência pública foi convocada conforme Requerimento nº 62, de 2023, de minha autoria e do Deputado Celso Russomanno, e Requerimento nº 68, de 2023, de minha autoria, para debater oMonopólio dos softwares de reparos de veículos pelas concessionárias.\n\nInicialmente, agradeço a presença de todos e passo à apresentação dos Srs. expositores: Sr. Thomas Paris Caldellas, Coordenador da Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços — SDIC/MDIC, por favor; Sr. Vitor Hugo do Amaral Ferreira, Diretor do Departamento de Proteção e Defesa do Consumidor da Secretaria Nacional do Consumidor — SENACON/MJ, que estáon-line;Sr. Marcelo Luiz Dias da Silva Gabriel, Assessor Especial do Sindicato da Indústria de Reparação de Veículos e Acessórios — SINDIREPA Brasil,on-line;Sr. Celso Mattos, Presidente do Sindicato da Indústria de Reparação de Veículos e Acessórios — SINDIREPA, tambémon-line; eo Sr. Gilberto Martins, Gerente de Assuntos Técnicos da Associação Nacional dos Fabricantes de Veículos Automotores — ANFAVEA, que acabou de chegar, na hora exata.\n\nOrganização dos trabalhos. Esclareço que a reunião está sendo gravada e transmitida ao vivo na página da Comissão, no aplicativo Infoleg, e no canal da Câmara dos Deputados pelo Youtube. Para o bom ordenamento dos trabalhos, adotaremos os seguintes critérios: os convidados terão o prazo de 10 minutos para fazerem sua exposição, não podendo ser aparteados; os Deputados inscritos para os debates poderão interpelar os convidados sobre o assunto da exposição pelo tempo de 3 minutos; o interpelado terá 3 minutos para responder, facultadas a réplica pelo mesmo prazo e a tréplica por 2 minutos, não sendo permitido ao orador interpelar qualquer dos presentes; os autores dos requerimentos terão precedência sobre os demais para interpelar os convidados.\n\nAntes de conceder a palavra, daqui a pouquinho, ao Sr. Thomas Paris Caldellas, Coordenador da Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços do MDIC, para sua exposição, eu gostaria primeiramente de registrar a presença conosco da Deputada Gisela Simona, além de outros também presentes.E gostaria ainda de fazer uma introdução, desde já pedindo desculpas aos senhores, porque me obrigam a falar algumas coisas em inglês aqui, que é um dos meus grandes problemas na vida. Ninguém é perfeito.(Risos.)E, depois de certa idade, isso é perdoável. Então, por favor, se alguém puder me corrigir, ainda que seja coisa simples...\n\nAudiência pública, de 29 de novembro de 2023. Srs. expositores, eu sempre peço ao meu gabinete que faça um apanhado razoável e atual do tema para já passarmos uma ideia e não começarmos do zero. O tema é oMonopólio dos softwares de reparos de veículos pelas concessionárias,e os requerimentos são meus e do Deputado Celso Russomanno, registrando que isso não é algo pessoal. Pelo contrário. Na verdade, é uma direção, um pedido que me fizeram pela Internet. Como defendemos aqui certas posições e certas situações em nosso País, alguém nos direcionou isso, e eu pedi que se fizesse um levantamento.\n\nO movimentoright to repairiniciou-se em 2017, por meio da ONG The Repair Association, que se estabeleceu em 18 Estados norte-americanos. Destaca-se que tal iniciativa teve como inspiração uma legislação de 2012. Ou seja, já estamos 11 anos após os Estados Unidos começarem a mexer nesse sentido. Aprovada em Massachusetts e conhecida como Outright Repair, garantiu o direito ao conserto de automóveis, permitindo que mecânicos independentes também tivessem acesso às peças oficiais do fabricante. Conforme pontuado pela The Repair Association, tal legislação, ao longo do tempo, mostrou-se benéfica aos consumidores sem impactar negativamente os fabricantes — isso é muito importante —, de forma que os motoristas puderam aproveitar seus veículos por maior prazo e as montadoras foram recompensadas com a maior satisfação de seus clientes e com o aumento da fidelidade à marca. No mérito, uma das bases por trás da ideia doright to repairé a economia circular, que é um modelo de proteção e consumo que envolve compartilhar, alugar, reutilizar, reparar, reformar e reciclar produtos pelo máximo tempo possível, de maneira a estender ao máximo o seu ciclo de vida. Na prática, tal modelo de produção acarretaria uma redução dos resíduos, pois, quando o produto chegasse ao fim da sua vida útil, seus materiais seriam mantidos circulando na economia sempre que possível, de forma a continuar gerando valor.Nesse contexto, a economia circular se afasta do tradicional modelo de economia linear, considerando que se desestimula a produção desenfreada e se tem como objetivo não mais o consumo em si, mas, sim, um desenvolvimento econômico aliado ao melhor uso dos recursos naturais. Seguindo esse raciocínio, oright to repairpode ser melhor visualizado por meio da ideia de que, se um cidadão comprou um produto, ele deve ser capaz de repará-lo ou levá-lo a um técnico de sua escolha de maneira consciente e responsável, e não somente a um técnico autorizado pelo fabricante.De acordo com a The Repair Association, os objetivos desse modelo são: garantir informação aos consumidores, que é a grande base do CDC, por meio de manuais de serviço público, esquemas de diagrama de circuitos e permissão de atualizações desoftwarespelos proprietários, inclusive por distribuidores independentes; contratos transparentes de licença de uso, para que se torne claro no momento da compra quais os elementos que estão inclusos; disponibilizar peças e ferramentas para serviço de reparo de dispositivos, abrangendo ferramentas de diagnóstico e incluindo preços não discriminatórios; permitir desbloqueio, além da adaptação e modificação de qualquer parte do produto, incluindo osoftware;adequar odesigner,que deveria auxiliar na reparação, consoante as práticas do ecodesign, ou seja, técnicas e estratégias que promovem o uso consciente dos recursos naturais.\n\nConforme é sabido, o Brasil ainda não apresenta legislação que trate especificamente do tema. Com efeito, destaca-se que o movimento do direito de reparar encontra amparo no próprio Código de Defesa do Consumidor — CDC, qual seja, o direito à educação e à divulgação do consumo adequado de produtos e serviços, assegurando liberdade de escolha e igualdade nas contratações (art. 6º, inciso II), bem como o direito à informação adequada e clara (art. 6º, inciso III). Ademais, também cabe mencionar a obrigação do fornecedor à reposição de peças durante a vida útil do produto que pode ser vislumbrada no art. 32 do Código de Defesa do Consumidor.\n\nA propósito, destaco que reparar veículos motorizados tornou-se uma operação de alta tecnologia que necessita de ferramentas de diagnóstico por computador. Desse modo, mesmo diante da devida liberdade de escolha por parte dos consumidores, impreteríveis se fazem a segurança e a manutenção dos veículos em circulação de maneira adequada. Nesse sentido, informações amplas e transparentes sobre o funcionamento das peças, dos produtos e bens assegurariam a segurança dos consumidores.\n\nNessa linha de raciocínio, privilegiando as normas de proteção e defesa do consumidor bem como garantindo a livre concorrência de mercado, prevista no art. 170 da Constituição Federal, a vigência de uma legislação específica que fosse complementar aos princípios e dispositivos já consagrados no Código de Defesa do Consumidor dirigiria crescentemente no País, de modo a orientar as melhores escolhas para todos os consumidores, visando facilitar o desenvolvimento de uma economia circular diante de um consumo consciente, de uma equilibrada relação de consumo dos envolvidos.\n\nDestarte, a pesquisa sobre a existência e limites doright to repairestá cada vez mais presente em países ao redor do mundo, e sua aceitação também vem aumentando.\n\nSeguindo essa linha de raciocínio, é salutar observar a importância desta discussão no Brasil, com essenciais ações para educação e conscientização da população bem como dos fabricantes de veículos, para uma maior efetividade desse direito.\n\nEntão, essa é a ideia geral a respeito deste assunto. Isso já existe. Já está em vigor essa discussão fora do País há mais de 10 anos.\n\nA ideia é que iniciemos essa discussão, Deputada, aqui no País. Acho que já estamos atrasados. O Brasil, com sua imensidão, tem como base os veículos. Eu acho que as pessoas precisam ter um pouco mais de acesso aos seus direitos de reparar. Isso certamente trará um pouquinho mais de justiça amanhã.\n\nEntão, a ideia é que consigamos criar e desenvolver uma base de legislação auxiliar e que isso possa fazer o País se desenvolver. É lógico que não temos nenhum interesse em atingir os fabricantes e produtores de veículos. Muito pelo contrário, a ideia é que tenhamos um relacionamento muito mais justo no nosso País.\n\nDito isso, passo a palavra ao Sr. Thomas Paris Caldellas.\n\nPor favor, Sr. Thomas, o senhor tem 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Na fala integral recebida, o titular, atuando como presidente da reunião, combina formalidades de abertura e organização dos trabalhos com exposição substantiva acerca do tema 'Monopólio dos softwares de reparos de veículos pelas concessionárias'. Ele se posiciona de forma favorável à criação de legislação brasileira sobre o direito de reparo, sustentando que o país está atrasado em relação a outros onde o movimento right to repair é debatido há mais de uma década. A exposição apoia-se em referências externas — a ONG The Repair Association, a legislação de Massachusetts de 2012, os arts. 6º (II e III) e 32 do CDC e o art. 170 da Constituição — e em conceitos técnicos como economia circular e ferramentas de diagnóstico por computador. O orador argumenta que uma legislação específica, complementar ao CDC, beneficiaria consumidores e fabricantes ao promover relacionamento mais justo, afirmando explicitamente que não há interesse em atingir fabricantes e produtores de veículos. A fala enfatiza direito à informação, livre concorrência e acesso dos consumidores ao reparo de seus veículos, além de propor ações de educação e conscientização para efetivar esse direito, sem detalhar modalidades normativas específicas nem enfrentar aspectos controvertidos do projeto legislativo em discussão.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [
+            "Criar e desenvolver uma base de legislação específica sobre o direito de reparo, complementar aos princípios e dispositivos do Código de Defesa do Consumidor.",
+            "Realizar ações de educação e conscientização da população e dos fabricantes de veículos para efetivar o direito de reparo.",
+            "Iniciar no Brasil a discussão legislativa sobre o direito de reparo (right to repair), tratando o país como atrasado no tema."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00003",
+          "ordem_no_debate": 3,
+          "texto": " Obrigado, Sr. Thomas. Certamente, esperamos que haja desenvolvimento daqui para frente, afinal este é o início da conversação, do debate a esse respeito.\n\nAgradeço a exposição do Sr. Thomas Paris Caldellas e concedo a palavra ao Sr. Vitor Hugo do Amaral Ferreira, Diretor do Departamento de Proteção e Defesa do Consumidor, da Secretaria Nacional do Consumidor — SENACON.\n\nSr. Vitor Hugo, o senhor tem 10 minutos.(Pausa.)\n\nO Sr. Vitor Hugo está com a câmera desligada.(Pausa.)\n\nEnquanto o Sr. Vitor não se posiciona, vamos passar ao Sr. Celso Mattos, Presidente do Sindicato da Indústria de Reparação de Veículos e Acessórios — SINDIREPA, que tem 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Intervenção exclusivamente procedimental. O orador agradece a exposição anterior, expressa esperança de que o debate sobre o tema se desenvolva, tratando-o como início da conversação, mas sem adotar qualquer posição substantiva sobre a reivindicação de lei para equipamentos e softwares de diagnóstico e reparo de veículos. Concede a palavra e regula o tempo dos participantes seguintes, faz observação logística sobre câmera desligada e, diante da ausência de manifestação, transfere a vez a outro orador. Nenhuma opinião substantiva, proposta ou posicionamento sobre o mérito é expresso.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00005",
+          "ordem_no_debate": 5,
+          "texto": " Agradeço as palavras do Sr. Celso Mattos, Presidente do Sindicato da Indústria de Reparação de Veículos e Acessórios — SINDIREPA.\n\nPasso a palavra agora ao Sr. Vitor Hugo do Amaral Ferreira, Diretor do Departamento de Proteção e Defesa do Consumidor, da Secretaria Nacional do Consumidor — SENACON, que tem 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental do presidente da mesa, sem qualquer manifestação sobre o tema da audiência. O titular agradece as palavras do orador anterior, Celso Mattos, e passa a palavra a Vitor Hugo do Amaral Ferreira, do SENACON, fixando o tempo de fala em 10 minutos. Nenhuma opinião substantiva é expressa sobre equipamentos e softwares para diagnóstico e reparo de veículos.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00007",
+          "ordem_no_debate": 7,
+          "texto": " Agradeço a exposição do Sr. Vitor Hugo do Amaral Ferreira, que foi muito importante e sucinta.\n\nConcedo a palavra por 10 minutos ao Sr. Marcelo Luiz Dias da Silva Gabriel, que é Assessor Especial do Sindicato da Indústria de Reparação de Veículos e Acessórios — SINDIREPA Brasil.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental de presidência: Jorge Braz agradece a exposição anterior do Sr. Vitor Hugo do Amaral Ferreira, qualificando-a como muito importante e sucinta, e concede a palavra por dez minutos ao próximo participante, Sr. Marcelo Luiz Dias da Silva Gabriel, apresentado como Assessor Especial do SINDIREPA Brasil. A intervenção não expressa opinião substantiva sobre a proposta de lei sobre equipamentos e softwares para diagnóstico e reparo de veículos, não se posicionando a favor ou contra, e não mobiliza argumentação, evidências ou juízos técnicos sobre o tema.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00009",
+          "ordem_no_debate": 9,
+          "texto": " Muito obrigado, Sr. Marcelo Gabriel, pela sua exposição.\n\nConcedo a palavra ao Sr. Gilberto Martins, Gerente de Assuntos Técnicos da Associação Nacional dos Fabricantes de Veículos Automotores — ANFAVEA, por 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "A fala é exclusivamente procedimental. O titular das discussões agradece ao expositor anterior, Sr. Marcelo Gabriel, pela exposição realizada e concede a palavra ao próximo participante, Sr. Gilberto Martins, apresentando-o como Gerente de Assuntos Técnicos da Associação Nacional dos Fabricantes de Veículos Automotores (ANFAVEA) e fixando o tempo de fala em 10 minutos. Não há qualquer manifestação de opinião, concordância, discordância ou dúvida sobre o tema da reivindicação de lei sobre equipamentos e softwares para diagnóstico e reparo de veículos.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00011",
+          "ordem_no_debate": 11,
+          "texto": " Agradeço a exposição do Sr. Gilberto Martins.\n\nDe fato, é muito bom saber, Sr. Thomas Caldellas, que a ANFAVEA está aberta a essa discussão. Na verdade, isso já é algo que está em estágio avançado, até porque, como disseram, já acontece nos Estados Unidos e na Europa. E não há como isso não acontecer no Brasil, não só no caso dos carros, dos automóveis, como colocou o Sr. Thomas, anteriormente, emoff, mas em outros setores também. Quer dizer, não dá para ficarmos somente com meia dúzia de pessoas autorizadas a fazer os serviços. Ou seja, com isso, tira-se a abrangência do nosso CDC, que é muito boa. Eu acho que isso vai nos incentivar bastante a aperfeiçoar essa ideia.\n\nEu queria dizer aos presentes que a ideia básica desta audiência pública é a seguinte. Já temos um projeto de lei a respeito do assunto na Casa. Eu, particularmente, sou autor de um projeto que está ainda em processo de construção. Então, esta é a ideia: fazer isso com eficácia, com a visão dos senhores, que conhecem o assunto, com a visão dos representantes dos setores, em conjunto com os nossos técnicos da Casa. Ou seja, temos que fazer de fato algo que não vá gerar muitas brigas. Precisamos fazer o Brasil avançar. Daí a importância da presença dos senhores.\n\nPassemos aos debates. Temos a lista dos oradores inscritos.\n\nA Deputada Gisela Simona tem a palavra.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Nesta fala, o orador se posiciona de modo favorável e confiante à regulamentação sobre equipamentos e softwares de diagnóstico e reparo de veículos. Ele celebra a abertura da ANFAVEA à discussão, sustentando que o modelo já praticado nos Estados Unidos e na Europa deve também se aplicar ao Brasil e a outros setores, pois restringir os serviços a poucos autorizados reduz a abrangência do CDC. Como autor de um projeto ainda em construção, defende que a lei seja elaborada com eficácia, em conjunto com os setores envolvidos e os técnicos da Casa, de modo a evitar litígios e fazer o país avançar. Parte da fala é procedimental, ao explicar a finalidade da audiência pública e passar aos debates.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00013",
+          "ordem_no_debate": 13,
+          "texto": " Sr. Gilberto, ainda que eu imagine que o senhor vá falar no credenciamento estabelecido anteriormente — creio eu —, o senhor pode responder o questionamento.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental e de condução de turno: o orador convida o Sr. Gilberto a responder um questionamento pendente e antecipa, de forma hipotética e com expressões cautelosas (\"ainda que eu imagine\", \"creio eu\"), que a resposta poderia versar sobre um credenciamento estabelecido previamente. Não há qualquer posição de mérito sobre a reivindicação de lei para equipamentos e softwares de diagnóstico e reparo de veículos, não havendo conteúdo substantivo que permita avaliar alinhamento, fontes de sustentação, postura ou favorabilidade em relação ao tema.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00015",
+          "ordem_no_debate": 15,
+          "texto": " Mais algum expositor gostaria de fazer uso da palavra?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "A fala de Jorge Braz é inteiramente procedimental: ele apenas pergunta se algum expositor gostaria de fazer uso da palavra, encaminhando a abertura de novos turnos de fala na audiência. Nela não há qualquer manifestação de apoio, oposição, abstenção ou ambiguidade em relação à reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos, tampouco argumentos, alegações fáticas, apelos afetivos ou articulação de conceitos técnicos. Trata-se, portanto, de intervenção de organização dos trabalhos, sem opinião substantiva sobre o mérito do tema.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00018",
+          "ordem_no_debate": 18,
+          "texto": " Mais algum expositor gostaria de se posicionar?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: Jorge Braz, na função de moderador, apenas indaga se algum expositor gostaria de se posicionar, sem qualquer manifestação de opinião sobre o tema da reivindicação de lei para equipamentos e softwares de diagnóstico e reparo de veículos.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00020",
+          "ordem_no_debate": 20,
+          "texto": " Por favor.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "A fala de Jorge Braz é inteiramente procedimental e reduz-se à expressão de cortesia \"Por favor.\", sem qualquer comentário, argumento ou tomada de posição sobre o tema da lei sobre equipamentos e softwares para diagnóstico e reparo de veículos. Não há exposição de mérito, manifestação de concordância ou discordância, relato técnico, alegação ou proposta que permita inferir opinião substantiva do orador. Trata-se apenas de pedido de atenção ou de palavra, sem elementos avaliáveis quanto a alinhamento temático, credibilidade, posicionamento ou postura argumentativa.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00023",
+          "ordem_no_debate": 23,
+          "texto": " Muito obrigado, Sr. Marcelo.\n\nMais alguém gostaria de fazer a observação. Sr. Thomas?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental de mediação do fluxo da audiência: o titular agradece a manifestação anterior, indaga se alguém mais deseja fazer observação e encaminha a palavra ao Sr. Thomas. Não exprime qualquer posição — de concordância, discordância ou abstensão — em relação à reivindicação de legislação sobre equipamentos e softwares para diagnóstico e reparo de veículos, não mobilizando argumentos, credenciais, referências externas, dados técnicos ou recursos retóricos sobre o tema.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00026",
+          "ordem_no_debate": 27,
+          "texto": " Muito obrigado, Prof. Celso Mattos.\n\nTem a palavra o Sr. Thomas Caldellas.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Jorge Braz, atuando como moderador da audiência, limita-se a agradecer o orador anterior, Prof. Celso Mattos, e a conceder a palavra ao próximo inscrito, Sr. Thomas Caldellas. Trata-se de fala exclusivamente procedimental, sem qualquer manifestação de opinião, argumento ou posicionamento sobre a reivindicação de lei sobre equipamentos e softwares para diagnóstico e reparo de veículos.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00028",
+          "ordem_no_debate": 29,
+          "texto": " Mais uma observação importante para tentarmos aperfeiçoar o máximo possível a legislação sobre o funcionamento dos reparos em nosso País, até porque isso é questão de vida. Quando falamos de reparos, estamos falando de vidas, estamos falando de famílias que amanhã poderão continuar tendo uma vida ampla ou, quem sabe, falecer em acidente, caso o reparo tenha sido malfeito. E a ideia, de fato, não é essa, ainda que, penso eu, o brasileiro, criativo que é, sempre dá um jeito.\n\nNa verdade, essas coisas, Sr. Gilberto, já acontecem informalmente, mas acontecem. As pessoas se livram do tempo da garantia do veículo numa concessionária. Depois desse tempo, elas ficam livres, como se diria normalmente. E isso tem dado certo, até porque uma questão que não foi falada aqui, para a qual eu quero chamar a atenção, é o preço. No final, você leva o automóvel a uma concessionária, e o preço vai lá para cima. O preço das peças é absurdo. Então, quando falamos dessa maior abertura, estamos falando efetivamente de maior acesso, em função, Dr. Thomas, de preço, para que o serviço se torne mais acessível para as pessoas.\n\nNós temos o exemplo de um dos técnicos que está nos ajudando a fazer isto aqui.Ele teve um problema no carro e levou à concessionária. A peça custava 18 mil reais há um bom tempo. Na época, era o preço de um carro popular, normal, dependendo do modelo.\n\nEntão, às vezes, a coisa é muito braba, é muito absurda, e nós precisamos efetivamente mexer nisso. Sou Deputado, estou fazendo isso, mas claro que não faço da minha cabeça. Acho que tem muito a ver a direção que o Dr. Gilberto Martins, da ANFAVEA, deu. De fato, tem que se seguir passos de segurança, de aprimoramento, de treinamento e tal, mas creio que o grande ponto, o ponto principal, de fato, é a liberação de acesso a esses códigos, a essas peças, bem como o treinamento de pessoas. E o risco vamos ter de correr. De fato, hoje, as tecnologias, os equipamentos eletrônicos e ossoftwaressão imensos. É preciso adequá-los. É lógico que não vai ser para qualquer um, mas precisamos abrir, efetivamente, esse espaço, esse leque de opções para os consumidores.\n\nPara encerrar, vamos às considerações finais de cada participante. Se alguém quiser acrescentar mais alguma coisa... De qualquer forma, eu já considero que esta abertura foi bastante razoável, dentro do que pretendemos. Já valeu, certamente.\n\nPara fazer as considerações finais, passo a palavra aos senhores convidados.\n\nTem a palavra o Sr. Thomas Paris Caldellas.\n\nO senhor tem a palavra para suas considerações finais. Por favor!\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "O deputado Jorge Braz defende o aperfeiçoamento da legislação sobre reparos de veículos no país, tratando o tema como questão de segurança e de vida, pois um reparo malfeito pode custar vidas de famílias. Seu argumento central é de acesso mais barato: aponta que concessionárias praticam preços abusivos de peças, citando o caso de um técnico que colabora com a iniciativa e cuja peça custava R$ 18 mil — equivalente, segundo ele, ao preço de um carro popular. Para ele, o ponto principal é liberar o acesso a códigos e peças e treinar profissionais, de modo que o serviço se torne acessível e haja mais opções para o consumidor. Reconhece, porém, ressalvas: é preciso seguir passos de segurança, aprimoramento e treinamento, incorporando e adequando tecnologias e softwares eletrônicos; admite que há risco a correr e que a abertura não será 'para qualquer um'. Afirma atuar com base na direção dada por Dr. Gilberto Martins (ANFAVEA) e não por conta própria. A fala transita, ao fim, para procedimentos da audiência: considera a abertura da discussão razoável e passa a palavra aos convidados para suas considerações finais.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [
+            "Aperfeiçoar a legislação sobre o funcionamento dos reparos de veículos no país, vinculando-a à segurança e à preservação de vidas.",
+            "Liberar o acesso aos códigos e às peças de diagnóstico/reparo e treinar profissionais para que o serviço se torne mais acessível.",
+            "Seguir passos de segurança, aprimoramento e treinamento na abertura do mercado de reparos.",
+            "Abrir o leque de opções para os consumidores, incorporando e adequando as tecnologias e softwares aos equipamentos eletrônicos, admitindo que não será para qualquer um."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00030",
+          "ordem_no_debate": 31,
+          "texto": " O.k. Muito obrigado, Sr. Thomas. Vamos trabalhar esses pontos específicos, sensíveis.\n\nVitor Hugo do Amaral Ferreira, o senhor tem a palavra para suas considerações finais. Por favor!\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, o titular atua apenas na condução procedimental da audiência: agradece ao orador anterior (Sr. Thomas), afirma que se trabalharão pontos específicos e sensíveis e concede a palavra ao próximo participante, Vitor Hugo do Amaral Ferreira, para suas considerações finais. Não emite qualquer opinião substantiva sobre o tema do diagnóstico e reparo de veículos, não sustenta posição de concordância ou discordância e não mobiliza argumentos, experiências ou recursos retóricos. Trata-se, portanto, de intervenção meramente organizatória, sem conteúdo opinativo a registrar.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00032",
+          "ordem_no_debate": 33,
+          "texto": " Muito obrigado, Sr. Vitor Hugo.\n\nConcedo a palavra ao Sr. Marcelo Gabriel.\n\nPor favor, Sr. Marcelo, suas considerações finais.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental de moderação. Jorge Braz agradece ao Sr. Vitor Hugo, concede a palavra ao Sr. Marcelo Gabriel e solicita suas considerações finais. Nenhum posicionamento substantivo é expresso quanto ao tema da lei sobre equipamentos e softwares para diagnóstico e reparo de veículos.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00034",
+          "ordem_no_debate": 35,
+          "texto": " Muito obrigado, Sr. Marcelo.\n\nConcedo a palavra ao Sr. Celso Mattos, para suas considerações finais.\n\nPor favor, Sr. Celso.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental: o titular agradece ao Sr. Marcelo e concede a palavra ao Sr. Celso Mattos para suas considerações finais. Nenhuma opinião substantiva é expressa sobre a reivindicação de lei sobre equipamentos e softwares para diagnóstico e reparo de veículos.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00036",
+          "ordem_no_debate": 37,
+          "texto": " Muito obrigado, Sr. Celso Mattos, Presidente do SINDIREPA Nacional.\n\nConcedo a palavra, para suas considerações finais, para o Sr. Gilberto Martins.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Trata-se de fala estritamente procedimental. O titular agradece ao Sr. Celso Mattos, presidente do SINDIREPA Nacional, e concede a palavra ao Sr. Gilberto Martins para suas considerações finais. Não há qualquer manifestação de opinião sobre o tema da reivindicação de lei sobre equipamentos e softwares de diagnóstico e reparo de veículos.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00038",
+          "ordem_no_debate": 39,
+          "texto": " Muito obrigado.\n\nNós estamos chegando ao final da reunião. Eu considero que foi bastante proveitosa esta audiência pública. Quero dizer que, certamente, convidaremos os expositores e os representantes de cada órgão para que façamos uma reunião fechada para decidir. Como eu costumo dizer, vamos fazer isso para tentar errar menos, porque certamente a coisa é complexa. Não faremos uma maravilha. O gênio da lâmpada mágica não aparecerá para resolver o problema. Certamente, vamos errar, mas vamos errar menos. Fazemos fazer com que o Brasil fique um pouquinho melhor, para que os consumidores sofram um pouco menos.\n\nVamos conversar então,a posteriori,com os nossos técnicos da Casa, nossos consultores do gabinete, da Comissão, para que tiremos daqui um projeto bastante razoável. A grande solução de treinos através do SENAI já está se resolvendo ali a incógnita colocada pelo Sr. Gilberto Martins, da ANFAVEA, ou seja, daqueles pontos importantes que essas oficinas independentes precisarão ter, porque, de fato, não são mais carros de carburadores. Então, a coisa precisa ter garantia. Mas creio que atingimos o nosso objetivo e vamos ter uma condição de melhor concorrência um pouco mais à frente.\n\nEu agradeço a todos os participantes. Muito obrigado. Atingimos o início do nosso objetivo. É muito bom saber que todos concordam e, de fato, precisamos ter esse desenvolvimento que está acontecendo no mundo inteiro e precisamos que ele se efetive aqui no Brasil.\n\nMuito obrigado a todos.\n\nNada mais havendo a tratar, declaro encerrada a reunião às 11h19min, antes convocando-os para a reunião extraordinária deliberativa, na sequência, neste Plenário 8.\n\nEstá encerrada a reunião 2.",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Na fala de encerramento, o participante avalia a audiência pública como bastante proveitosa e afirma que o objetivo inicial foi atingido, com todos os participantes concordando quanto à necessidade do desenvolvimento tecnológico do setor, que deve se efetivar no Brasil. É favorável à elaboração de um projeto sobre equipamentos e softwares de diagnóstico e reparo, a ser construído em reunião fechada com expositores e órgãos e posteriormente com técnicos e consultores da Casa, visando mais concorrência e menos sofrimento para os consumidores. Com realismo sobre a complexidade da matéria, admite que haverá erro, mas busca 'errar menos', afastando a expectativa de solução milagrosa. Indica que a questão dos treinamentos via SENAI encaminha a solução dos pontos levantados pela ANFAVEA para as oficinas independentes, dada a complexidade dos veículos atuais, com exigência de garantias. A fala tem forte caráter procedimental de encerramento, inclusive com convocação de reunião deliberativa seguinte.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "THOMAS PARIS CALDELLAS",
+      "falas": [
+        {
+          "id": "f00002",
+          "ordem_no_debate": 2,
+          "texto": " Muito obrigado, Deputado Jorge Braz, em nome do Ministro, agradeço o convite para o Ministério do Desenvolvimento, Indústria, Comércio e Serviços.\n\nEu acho que é muito salutar o início destas discussões.\n\nQueria cumprimentar também a Deputada Gisela Simona, que está presente, e os representantes da ANFAVEA, SINDIREPA e da SENACON.\n\nEste tema nós acompanhamos no meu departamento, que é o de desenvolvimento das indústrias de alta e média complexidade, de forma tangencial. Essa discussão, na Europa, teve início há mais de 10 anos. Começou com uma nova fase de um programa de controle de emissões.A coisa lá começou com a discussão do acesso à informação para realizar reparo e manutenção de veículos, pensando nessa mudança de fase.\n\nNo âmbito do Ministério, ainda não temos uma posição fechada sobre esse tema, porque ele envolve vários departamentos, não só o industrial, mas também o de serviços e o de defesa da concorrência. Ele envolve também questões relativas à propriedade intelectual, isso tudo com uma visão de direito do consumidor. Eu espero que numa próxima oportunidade nós tenhamos mais a agregar, mas hoje não temos como fazer isso. A nossa ideia é ouvir as visões das diferentes entidades, para construirmos um consenso e um pensamento interno interligado entre todas as áreas do Ministério.\n\nEntão, mais uma vez eu agradeço o convite, Deputado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": [
+              "Neutro"
+            ]
+          },
+          "resumo": "O titular acolhe o início das discussões, classificando-o como salutar, mas não adota posição de mérito sobre a proposta de lei. Informa que o Ministério do Desenvolvimento, Indústria, Comércio e Serviços ainda não tem posição fechada sobre o tema, que envolve diversos departamentos — industrial, serviços e defesa da concorrência —, além de questões de propriedade intelectual e direito do consumidor, sendo acompanhado apenas de forma tangencial pelo seu departamento de indústrias de alta e média complexidade. Contextualiza que na Europa a discussão teve início há mais de dez anos, quando uma nova fase de programa de controle de emissões trouxe a questão do acesso à informação para reparo e manutenção de veículos. A fala é essencialmente procedimental e expositiva: manifesta a intenção de ouvir as visões das diferentes entidades presentes para construir consenso e um pensamento interno articulado entre todas as áreas da pasta, deixando para uma próxima oportunidade contribuições mais substanciais sobre o mérito da proposta.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [
+            "Construir, no âmbito do Ministério, um consenso e um pensamento interno interligado entre as diferentes áreas, ouvindo as visões das diversas entidades sobre o tema."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00027",
+          "ordem_no_debate": 28,
+          "texto": " Muito obrigado, Deputado.\n\nQuero apenas lembrar essa questão, como foi mencionada. O credenciamento talvez seja uma solução adequada para o avanço do tema. Além disso, abordo a questão da responsabilidade solidária. No momento em que você credencia uma empresa, caso aquele agente não haja de forma tão correta, você acaba também tendo toda essa responsabilidade solidária por trás da montadora. E, para fazer um reparo, você precisaria de um acesso pelo menos da ferramenta de diagnóstico, das ferramentas para o conserto adequado e do manual também de reparo.\n\nLembro que na Europa, apesar de você ter uma abertura aparentemente um pouco maior, por outro lado existe uma inspeção técnica veicular, que costuma ser anual, mas que obrigatoriamente precisa ser feita pelo menos a cada 2 anos. Então, por outro lado, você também garante que aquele veículo que está circulando foi reparado corretamente e tem uma necessidade mais constante de reparo. Aqui no Brasil isso está previsto no Código de Trânsito de 1998, mas infelizmente até hoje não há essa regulamentação tornando obrigatória essa inspeção, Deputado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": null,
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [
+            "Adotar o credenciamento de empresas para avançar no tema, com responsabilidade solidária da montadora caso o agente credenciado não atue corretamente.",
+            "Garantir acesso às ferramentas de diagnóstico, às ferramentas de conserto adequado e ao manual de reparo para realizar reparos.",
+            "Regulamentar e tornar obrigatória a inspeção técnica veicular no Brasil, com periodicidade anual ou, no máximo, a cada dois anos."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Falha do modelo no resumo (Resposta truncada/recusada (Resumo desta fala, finish_reason=length). Não repetida automaticamente. Confira --max-saida-tokens; falas não serão divididas para contornar o limite.); revisar manualmente."
+          ]
+        },
+        {
+          "id": "f00029",
+          "ordem_no_debate": 30,
+          "texto": " Obrigado novamente, Deputado.\n\nEu acho que este é o início frutífero de um diálogo que precisa avançar no País. Só uma outra colocação: à medida que formos avançando com esse tema, um outro assunto que também está sendo debatido em outros países é: no momento em se que torna obrigatório esse acesso a determinadossoftwaresou informações de reparo, a partir de qual momento isso precisa entrar em vigor? Isso seria para novos projetos, a partir daquela data, ou retroagiria? A meu ver, isso pode ser um pouco mais complexo.\n\nSeria somente isso.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": [
+              "Neutro"
+            ]
+          },
+          "resumo": "Paris Caldelas vê com otimismo o que chama de início frutífero de um diálogo que, em sua opinião, precisa avançar no País, tratando o tema como promissor. Em seguida, sua intervenção se concentra em um ponto de implementação, sem posição fechada sobre o mérito da lei: diante da eventual obrigatoriedade de acesso a softwares ou informações de reparo, ele pergunta a partir de quando a norma entraria em vigor — se apenas para novos projetos a partir de determinada data ou se retroagiria. Observa que essa questão também está sendo debatida em outros países e pondera, a seu ver, que definir esse marco temporal pode ser um pouco mais complexo, sem responder às próprias perguntas nem fixar posição sobre o alcance temporal da medida.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "CELSO MATTOS",
+      "falas": [
+        {
+          "id": "f00004",
+          "ordem_no_debate": 4,
+          "texto": " Presidente, quero agradecer o convite e desejar um bom dia a todos.\n\nBom dia, Deputada Gisela, colegas da ANFAVEA, Vitor Hugo e Marcelo.\n\nEu não trouxe uma apresentação para exibir, porque esse tema é recorrente, antigo e nos traz grande preocupação, Srs. Parlamentares. Embora reconheçamos a contrariedade da ANFAVEA nesse caso específico, entendemos que o consumidor tem direito a ter seu carro reparado da forma correta.\n\nAí, entramos em outro tema, que é a segurança. Se o reparador não tem informação para fazer a adequada correção do veículo, ele pode colocar em risco a segurança de quem está dirigindo e de quem está transitando nas vias.\n\nÉ de conhecimento de todos que as concessionárias não conseguem reparar os veículos que existem hoje. Elas acabam pegando apenas aqueles carros com 1 ano, com 2 anos, aqueles que estão na garantia.Hoje, nem isso estão conseguindo fazer mais, seja por falta de peças, seja por falta de concessionária, seja falta de mão de obra no mercado. Por causa disso, são criadas oficinas independentes, que empregam milhares de pessoas.\n\nO proprietário do veículo tem direito de levar seu carro para consertar aonde ele quiser, assim como o consumidor tem direito de escolher o médico que ele quiser; o tipo de televisão que ele quiser, seja Netflix, seja Sky, seja qualquer outro tipo; o transporte que ele quiser, seja Uber, seja táxi.\n\nEu peço à ANFAVEA que consigamos amadurecer em conjunto esse tema. Se o reparador tiver ferramenta para consertar o veículo da forma correta, ele vai falar bem daquela marca. O que acontece hoje é que ele não consegue ter acesso à informação, e ele faz o reparo conseguindo osoftwarenecessário na Dark Web, emsitesamericanos ou europeus. Mas isso não é o certo. Eu acho que não se precisa dificultar isso, é possível facilitar o processo, para todos caminharem juntos com o amadurecimento do tema.\n\nEu acredito que o Marcelo vai trazer outros argumentos, quando for contribuir com o debate.\n\nPresidente, para encerrar, eu queria novamente me colocar à disposição para que juntos possamos construir uma saída definitiva para o problema. Essa saída não pode demorar mais, porque esse assunto já perdura por, no mínimo, 20 anos.\n\nNós nos colocamos à disposição da ANFAVEA para construirmos a melhor solução para o consumidor final.\n\nObrigado.\n\nTenham todos um bom dia.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Celso Mattos defende que reparadores independentes tenham acesso irrestrito a informações, ferramentas e softwares de diagnóstico e reparo de veículos. Ele argumenta que o consumidor tem o direito de reparar seu carro onde quiser, comparando essa liberdade à escolha de médico, serviço de TV ou transporte, e defende que a falta de informação adequada compromete a segurança viária. Afirma que concessionárias não dão conta da demanda de reparos — não conseguindo atender sequer veículos em garantia, seja por falta de peças, concessionárias ou mão de obra —, o que impulsionou a criação de oficinas independentes que empregam milhares de pessoas. Critica o cenário atual, em que reparadores obtêm software pela Dark Web ou sites estrangeiros por falta de acesso legítimo, dizendo que isso não é o correto. Reconhece a contrariedade da ANFAVEA, mas pede amadurecimento conjunto, facilitação em vez de dificuldade no processo e uma solução definitiva para um problema que já dura, segundo ele, no mínimo 20 anos, colocando-se à disposição para dialogar com a entidade em favor do consumidor final.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00021",
+          "ordem_no_debate": 21,
+          "texto": " Eu também pediria a palavra depois, Deputado, por favor.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: Celso Mattos apenas solicita formalmente à presidência da sessão que lhe seja concedida a palavra posteriormente, sem apresentar qualquer opinião, argumento ou manifestação sobre o tema em discussão, a reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos. Trata-se de mero pedido de retomada da palavra, sem conteúdo substantivo.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00024",
+          "ordem_no_debate": 24,
+          "texto": " Sr. Presidente, eu gostaria de fazer uso da palavra, por favor.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "A fala é exclusivamente procedimental: Celso Mattos apenas solicita formalmente ao presidente o uso da palavra, por meio de pedido educado e protocolar. Não há qualquer exposição de opinião, argumento ou proposta sobre o tema do diagnóstico e reparo de veículos, não se podendo extrair posicionamento substantivo, fundamentação ou traço próprio de postura além do tratamento cordial da solicitação.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [
+            {
+              "participante": "Jorge Braz",
+              "texto": " Tem a palavra o Sr. Celso Mattos.\n\n",
+              "apos_caractere_do_texto": 66,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "Retomada ainda não observada."
+            }
+          ],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00025",
+          "ordem_no_debate": 26,
+          "texto": " Eu queria aproveitar, Presidente, a fala da Deputada Gisela Simona, que bem falou sobre questão do consumidor, para complementar um pouquinho o que o Marcelo falou.\n\nNós temos uma instituição chamada SENAI, ligada às federações e à Confederação Nacional da Indústria — CNI. O SENAI forma o profissional, treina o profissional. E ele treina o profissional para poder utilizar essas ferramentas. E, após o treinamento, eles vão para as oficinas independentes. Então, eu acho que temos um caminho para seguir.\n\nO que não podemos fazer — e o Marcelo falou que existe uma lei de 2003 — é ficar esperando mais 20 anos para voltar a discutir o assunto. Já existe o SENAI, e todo mundo reconhece o patamar de ensino elevado dessa instituição.\n\nAs oficinas são, sim, treinadas para utilizar os equipamentos. Acontece que tem aquelas que os utilizam de forma correta e aquelas que não os utilizam de forma correta. Assim como nós sabemos que diversas concessionárias terceirizam os serviços delas para uma oficina independente, que conserta o seu veículo com aquele equipamento.\n\nEntão, não faz sentido proibir a oficina independente de ter acesso a essa informação. Eu acho que temos que ser um pouco mais objetivos e parar de prejudicar o consumidor final, porque quem está sendo prejudicado é o consumidor final, e eu não tenho dúvida disso.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Celso Mattos posiciona-se favoravelmente ao acesso das oficinas independentes aos equipamentos e informações de diagnóstico e reparo de veículos. Argumenta que o SENAI, ligado às federações e à CNI, já forma e treina profissionais para usar essas ferramentas, que seguem depois para as oficinas independentes, apontando esse como um caminho a seguir. Critica a inação legislativa desde uma lei de 2003, afirmando que não se pode esperar mais 20 anos para voltar a discutir o assunto, e sustenta que não faz sentido proibir a oficina independente de acessar essa informação. Ressalva que há oficinas que usam os equipamentos corretamente e outras que não, sem que isso invalide o direito de acesso, e observa que diversas concessionárias terceirizam serviços para oficinas independentes, que consertam veículos com esse mesmo equipamento. Encerra com firmeza, pedindo objetividade e afirmando não ter dúvida de que a restrição prejudica o consumidor final.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [
+            "Avançar rapidamente na discussão e definição do assunto, sem postergar por décadas a regulamentação sobre acesso a equipamentos e informações de reparo, aproveitando o papel do SENAI na formação e treinamento de profissionais para as oficinas independentes.",
+            "Não proibir a oficina independente de ter acesso à informação necessária para diagnóstico e reparo, deixando de prejudicar o consumidor final."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00035",
+          "ordem_no_debate": 36,
+          "texto": " Primeiro, quero agradecer ao Deputado Jorge Braz a iniciativa de ter acompanhado e ter aceitado esse pleito que veio da Internet. Esse é um tema pesado e caro para o reparador independente.\n\nQuero agradecer à Deputada Gisela Simona pelas colocações surpreendentes, positivas, em convergência total com o setor. Quero agradecer ao Sr. Vitor Hugo, que representa o Secretário Nacional do Consumidor, com quem teremos ainda muitos assuntos para tratar. Quero agradecer ao Thomas Caldellas, do Ministério do Desenvolvimento, Indústria, Comércio e Serviços. Quero agradecer a participação de todos.\n\nEu queria novamente reforçar, assim como disse o Dr. Vitor Hugo, especialista em defesa do consumidor, que o assunto é urgente e precisa ser tratado. Essa urgência não é uma urgência sobre a qual daqui 20 anos vamos voltar a falar. É uma urgência que precisa ser resolvida agora.\n\nO SENAI do Ipiranga forma os profissionais; o SENAI de Jacarepaguá, no Rio de Janeiro, forma profissionais; o SENAI de Resende forma o pessoal das montadoras; que são os mesmos que formam os profissionais que vão para as oficinas.\n\nEntão, profissionais treinados nós temos. Nós temos recursos e temos onde treinar esses profissionais. O que nós precisamos, de fato, é abrir essa informação ou esperar que alguém morra, porque uma informação foi realizada de forma errada, num freio que não funcionou, ocasionando uma morte?\n\nCom isso, eu finalizo dizendo o seguinte: se podemos simplificar, não precisamos dificultar.\n\nAgradeço a presença de todos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Emocional",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Celso Mattos posiciona-se favoravelmente à aprovação de uma lei sobre equipamentos e softwares de diagnóstico e reparo de veículos, atuando a partir da perspectiva do reparador independente e classificando o tema como pesado e caro para esse segmento. Ele sustenta que a urgência do tratamento legislativo é imediata, rejeitando adiamentos prolongados. Seu argumento central é que a formação técnica e a infraestrutura de capacitação já existem — identificando unidades do SENAI (Ipiranga, Jacarepaguá e Resende) que formam profissionais tanto para as montadoras quanto para as oficinas —, de modo que o que falta, na sua avaliação, é abrir o acesso à informação técnica necessária ao diagnóstico e ao reparo. Para reforçar a relevância dessa abertura, ele recorre a um cenário de risco à segurança, sugerindo que a restrição de informação pode culminar em serviços executados de forma incorreta — citando a falha de um freio — e, em consequência, em mortes. Encerra sustentando que, sendo possível simplificar, não se deve dificultar, e agradece a presença e a atuação de parlamentares e de representantes de órgãos do governo envolvidos na discussão.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [
+            "Abrir (tornar acessível) a informação técnica necessária ao diagnóstico e reparo de veículos, para treinamento e atuação dos profissionais, em vez de mantê-la restrita."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "VITOR HUGO DO AMARAL FERREIRA",
+      "falas": [
+        {
+          "id": "f00006",
+          "ordem_no_debate": 6,
+          "texto": " Bom dia a todos e a todas.\n\nQuero cumprimentá-los, agradecer o convite da Comissão de Defesa do Consumidor da Câmara dos Deputados, e saudar o Deputado Jorge Braz.\n\nÉ sempre uma alegria e uma satisfação representar a Secretaria Nacional do Consumidor nas audiências públicas. Eu reitero que, sempre que possível, a minha preferência é estar presente aí na Câmara. Mas quando a agenda aperta, quando os compromissos ficam marcados para um intervalo de tempo reduzido, acabamos tendo que participaron–line, que é a situação de hoje.\n\nEsse tema é muito sensível e caro para a Secretaria Nacional do Consumidor, porque ele não surgiu neste momento, ele se discute há bastante tempo.Essa pauta é discutida desde a origem do direito do consumidor, mesmo que em outro contexto. A base principiológica da defesa do consumidor se estrutura em alguns pilares, como segurança, informação, liberdade de escolha e direito de participação do consumidor. A situação em debate afronta basicamente um dos alicerces da defesa do consumidor, que é a liberdade de escolha.\n\nO que se popularizou chamar de venda casada é proibido. Quando o consumidor compra um produto como um veículo e não pode exercer a sua liberdade de escolher levar o veículo ao lugar em que ele tem mais confiança, em que os códigos possam ser acessados por alguém que vai consertar o problema e que seja da sua confiança, ou mesmo da sua escolha, por qualquer razão, existe, sim, ofensa ao Código de Defesa do Consumidor. Há ofensa à liberdade de escolha, ofensa a questões que ultrapassam o Código de Defesa do Consumidor e entram numa matéria constitucional, como está escrito na justificativa do requerimento assinado pelo Deputado Jorge Braz e pelo Deputado Celso Russomanno.\n\nNós falamos aqui de livre concorrência, falamos de questões que envolvem proteção e manutenção de um viés constitucional. Antes mesmo da criação do Código de Defesa do Consumidor, o alicerce constitucional do art. 5º, inciso XXXII, fala desse direito e dessa garantia fundamental. Então, impedir que o consumidor tenha acesso aos seus direitos é violar, antes de tudo, a proteção desse consumidor como um direito e uma garantia fundamental. O art. 170, inciso V, considera a defesa do consumidor como um dos princípios constitucionais da ordem econômica. A livre concorrência, a proteção ao meio ambiente, a garantia de reparação de veículos como instrumento de justiça, esses princípios também se fundamentam na ideia de liberdade de escolha do consumidor, na livre concorrência e na defesa do consumidor, constantes do art. 170, inciso V.\n\nAlém de ser prudente levantar esse debate, é urgente avançarmos em um ponto crucial e muito básico. Nós agradecemos esta oportunidade de discutir, agradecemos o espaço dado para a Secretaria Nacional do Consumidor contribuir com esse tema, mas lamentamos que esse tema ainda precise ser discutido. Nós temos que avançar e permitir que os consumidores que tenham adquirido produtos, especialmente veículos, tenham a liberdade de executar consertos e reparos onde quer que seja, segundo a livre escolha desses consumidores.\n\nNós atendemos aqui questões que envolvem transparência, informação, livre concorrência.A ideia crucial do nosso tema passa pela liberdade de escolha e pela proibição da venda casada imposta aos consumidores.Eu novamente parabenizo a Câmara dos Deputados e esta Comissão, que tem trazido temas relevantes e de suma importância.\n\nAgradeço a oportunidade de participar e o convite feito à Secretaria Nacional do Consumidor. Eu coloco toda a Secretaria e me coloco, como diretor, à disposição desta Casa, desta Comissão e desta pauta que nos é tão importante.\n\nMuito obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Autoridade Própria"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "O orador, em nome da Secretaria Nacional do Consumidor, defende que restringir a escolha do consumidor sobre onde realizar diagnóstico e reparo de seu veículo configura venda casada e ofende a liberdade de escolha, pilar do CDC, além de princípios constitucionais (art. 5º, XXXII, e art. 170, V), como livre concorrência e defesa do consumidor. Ele é favorável à reivindicação por lei sobre equipamentos e softwares de diagnóstico, considerando urgente avançar para que o consumidor possa consertar seu produto onde quiser, com acesso à informação e transparência, e lamenta que o tema ainda precise ser discutido.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00031",
+          "ordem_no_debate": 32,
+          "texto": " Reiterando, mais uma vez, quero agradecer a oportunidade de fala da Secretaria Nacional do Consumidor e cumprimentar esta Casa. Este é um tema urgente e pertinente. Nós não falamos disso somente agora. É algo que vem de uma longa escala.\n\nCompreendendo e dando atenção a todas as falas que me antecederam e também às falas posteriores à minha, ainda sustento que o direito do consumidor deve prevalecer.Ele deve ter, sim, a liberdade de escolha, desde que as informações sejam claras.\n\nDe tudo o que foi apontado pelo Marcelo, é importante que o consumidor esteja ciente de quais são os riscos do que pode acontecer, quais são as circunstâncias de se apagar um comando. Mesmo assim, ele deve ter o direito de fazer essa escolha. Até porque, se ele levar o veículo para manutenção em uma oficina que, porventura, delete um comando que aciona oairbag, essa empresa vai ser responsabilizada. Então, nós precisamos dar ao consumidor essa liberdade de escolha.\n\nQuero também cumprimentar a Deputada Gisela, que, por ter sua origem também no movimento do direito consumidor, sempre faz suas colocações de forma muito pontual e muito lúcida naquilo que nos move, naquilo que nos motiva a estar aqui, que é a defesa do consumidor acima de qualquer outro argumento que possa sustentar a questão econômica.\n\nPara encerrar, parabenizo também, mais uma vez, a disponibilidade, a boa vontade e o engajamento forte do Deputado Jorge Braz.\n\nMuito obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "O titular defende o direito do consumidor como sendo o fator que deve prevalecer, sustentando que ele deve ter liberdade de escolha sobre o reparo de seu veículo, desde que as informações sejam claras e ele esteja ciente dos riscos de apagar comandos que acionam o airbag. Reitera essa posição mesmo após ouvir os demais participantes, classifica o tema como urgente e pertinente e de longa data, e argumenta que a eventual deleção de comando por uma oficina importa responsibilização dessa empresa, o que justifica assegurar ao consumidor a escolha informada. Ao final, posiciona a defesa do consumidor acima de argumentos econômicos e encerra com saudações protocolares a outros participantes.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MARCELO LUIZ DIAS DA SILVA GABRIEL",
+      "falas": [
+        {
+          "id": "f00008",
+          "ordem_no_debate": 8,
+          "texto": " Bom dia a todas e todos.\n\nSaúdo o ilustre Deputado Jorge Braz e todos os Parlamentares participantes da Comissão de Defesa do Consumidor.\n\nSaúdo também o Sr. Thomas Caldellas, do Ministério do Desenvolvimento, Indústria, Comércio e Serviços, representando o Poder Executivo; o Dr. Vitor Hugo Ferreira — chamo-o de doutor, porque ele é doutor em direito do consumidor e já nos ilustrou com uma breve aula, representando a SENACON; o Sr. Gilberto Martins, nosso companheiro da ANFAVEA, que também representa os interesses das montadoras; e o nosso companheiro Celso Mattos, do SINDIREPA do Rio de Janeiro, que muito abrilhanta esta sessão.\n\nDeputado, eu começo agradecendo o convite para participar desta audiência pública para discutir esse tema tão relevante.\n\nMuito foi falado sobre a importância do mercado automotivo. Cabe destacar que o Brasil é o quarto maior mercado de reposição automotiva do mundo, ficando atrás apenas dos Estados Unidos, da China e do Japão. Então, isso já traz a relevância que esse setor tem para a economia brasileira.\n\nO nosso foco aqui é sempre o direito do consumidor, o direito à livre escolha, o direito à liberdade. Como bem disse o Celso, o consumidor tem direito de escolher o cardiologista que vai operá-lo, mas não tem condição de escolher aonde ele pode levar o carro para fazer um reparo.\n\nNo começo do mês de novembro, o Congresso norte-americano tramitou em uma das comissões o que eles chamam do Repair Act, que é uma legislação federal que já tem aderência de 37 dos 50 Estados norte-americanos e que trata do acesso aos dados. Na semana passada, a Scania perdeu uma ação na corte europeia de justiça em relação ao acesso aos dados. Então, esse assunto é extremamente atual e relevante.\n\nOutro ponto importante é a dimensão continental do Brasil. O País tem 5.570 Municípios, como é sabido por todos. Hoje, a ANFAVEA terceiriza a comercialização e os serviços tanto da venda de carros quanto de peças e serviços a uma rede de concessionárias, e essa rede é hipossuficiente para atender a demanda.Em 2010, quando era Presidente da FENABRAVE, Sérgio Reze disse que a rede instalada era capaz de atender, no máximo, 20% da frota circulante. Isso foi falado em 2010. De lá para cá, agravou-se o problema de redução do número de concessionárias, e hoje há carros que esperam até 6 meses por peças, justamente por essa hipossuficiência da rede.\n\nSr. Presidente, o consumidor tem direito de ter seu carro reparado onde ele quiser. Isso vai totalmente em direção à justificativa que o senhor apresentou sobre economia circular. Lembro que a economia circular se baseia na redução, na reciclagem, na reutilização e na reparação de produtos. A reparação tem a ver com preservação de recursos naturais e manutenção do meio ambiente como um todo.\n\nO posicionamento da Associação dos Sindicatos da Reparação tem foco na escolha e na soberania do consumidor. Lembro que, por força da Lei nº 6.729, de 1979, que é mais conhecida como Lei Renato Ferrari, as montadoras já têm a prerrogativa de delegar para oficinas independentes e para comerciantes independentes a manutenção e a venda de peças.\n\nEsse é um assunto relevante, que está pautado no mundo. Nós nos colocamos à disposição desta Comissão e dos demais envolvidos para discuti-lo e chegarmos a um bom termo, devido à sua importância e relevância, mundialmente falando.\n\nAgradeço novamente o convite.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Nesta fala, MARCELO LUIZ DIAS DA SILVA GABRIEL posiciona-se de forma favorável ao direito do consumidor à livre escolha no reparo do veículo e ao acesso ampliado a dados e peças por oficinas independentes, tema classificado como periférico em relação à reivindicação específica de lei sobre equipamentos e softwares de diagnóstico. Ele sustenta sua posição com referências externas: o Repair Act em tramitação nos EUA, a derrota da Scania na corte europeia quanto a acesso a dados, dados de mercado e a declaração de Sérgio Reze (2010) de que a rede de concessionárias atenderia no máximo 20% da frota, além da Lei nº 6.729/1979 (Lei Renato Ferrari), que já permitiria delegação a independentes. Usa recurso retórico, como a analogia com a escolha de cardiologista, para defender a liberdade de escolha, e vincula a reparação à economia circular. Conclui disponibilizando-se para diálogo, mantendo tom técnico e confiante ao longo da exposição.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [
+            "Garantir que o consumidor possa reparar seu carro na oficina de sua escolha, ampliando a liberdade de escolha na reparação de veículos.",
+            "Viabilizar o acesso aos dados de veículos para diagnóstico e reparo, alinhando-se a iniciativas internacionais como o Repair Act.",
+            "Ampliar a delegação para que oficinas independentes e comerciantes independentes realizem a manutenção e a venda de peças, com base na Lei nº 6.729/1979 (Lei Renato Ferrari)."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00019",
+          "ordem_no_debate": 19,
+          "texto": " Eu gostaria, Deputado, se for possível.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: MARCELO LUIZ DIAS DA SILVA GABRIEL apenas solicita a palavra ao Deputado, de forma breve e cortês, sem apresentar qualquer opinião, argumento ou posicionamento sobre o tema da reivindicação de lei sobre equipamentos e softwares para diagnóstico e reparo de veículos.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00022",
+          "ordem_no_debate": 22,
+          "texto": " Deputada Gisela Simona, o tema que a senhora trouxe é muito importante. Eu queria apenas falar de uma questão histórica, porque na Europa existe a Lei Monti, aprovada em 2003 — é uma lei que tem 20 anos —, que autorizava o acesso à reparação. Ou seja, não existe o monopólio da garantia, como existe no Brasil, em que você precisa carimbar o manual do carro na concessionária para manter a garantia. Essa é uma lei de 2003 na Europa. Trata-se da Lei Monti. O autor e o Relator foi o Deputado Mario Monti, que depois foi o Primeiro-Ministro da Itália.\n\nEssa proposta da ANFAVEA já existe na Europa desde 2003, em que as montadoras credenciam as oficinas. Existem credenciados Citroen e Peugeot na França, mas, como existe esse direito à reparação, ela não é vinculante. Então, você não é obrigado a ser credenciado a uma marca para fazer o reparo. Como a Lei Monti já garante acesso à reparação, o consumidor vai para o livre mercado, que é um assunto bem relacionado ao que estamos discutindo aqui, tanto no Ministério do Desenvolvimento, Indústria, Comércio e Serviços, quanto na SENACON. Quem tem a melhor proposta e a melhor oferta vai ter as oficinas em si.\n\nEntão, entendo que esse modelo que está sendo proposto pela ANFAVEA atende em parte, mas continua vinculante. Enquanto na Europa nós já temos uma jurisprudência que mostra que não é vinculante. Eu acho que temos que tratar um pouco mais a fundo essa questão do direito à reparação, para chegarmos depois à questão específica que está sendo tratada em tela.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "O orador apoia o tema trazido pela deputada, porém critica o modelo brasileiro de monopólio da garantia — em que o consumidor precisa carimbar o manual na concessionária — e propõe aprofundar o direito à reparação à luz da experiência europeia da Lei Monti (2003), na qual o credenciamento de oficinas pelas montadoras não é vinculante e predomina o livre mercado. Considera que a proposta da ANFAVEA atende apenas em parte, pois continua vinculante, e sustenta que a discussão do direito à reparação deve ser tratada a fundo antes da medida específica em tela, com implicações nas agendas do MDIC e da SENACON, de modo que a melhor oferta conquiste oficinas e consumidores via concorrência.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00033",
+          "ordem_no_debate": 34,
+          "texto": " Eu inicio parabenizando novamente a iniciativa do Deputado de trazer este assunto a uma audiência pública, que transcende os nossos interesses. Esse é um interesse da sociedade, como todo o direito do consumidor.\n\nRessaltando um pouco o que o Celso falou sobre o SENAI, o nosso Sistema S, cabe destacar que a rede de técnicos das montadoras é treinada no SENAI do Ipiranga, aqui em São Paulo, que é ohubde treinamento da Ford, uma montadora que abandonou o País. Os mesmos professores que treinam e formam os mecânicos independentes são os que formam os da rede das concessionárias. Então, nós não devemos nada do ponto de vista da qualificação.\n\nNosso amigo Gilberto, da ANFAVEA, trouxe a questão da porta OBD2, mas há uma questão que não foi colocada, um avanço tecnológico chamado Securite Gateway.Já não existe mais a porta OBD2, e a informação vai direto para a nuvem, sem passar pelo consumidor. Então, teria que ser trazida também a questão dessa conectividade em nuvem. Isso envolve também a LGPD, porque quem está gerando esse dado é o motorista. Ele é o dono do dado.\n\nOutra questão que eventualmente pode vir a ser colocada — e aí eu trago minha experiência de 25 anos atuando na indústria metalúrgica — é sobre as peças. E o nobre Deputado falou do preço de uma peça na concessionária. Elas são absolutamente idênticas. São as mesmas peças. Em 25 anos militando na indústria, eu desconheço fabricantes que tenham duas linhas de montagem, uma para fornecer à montadora e outra para fornecer ao mercado de reposição. Então, do ponto de vista da estrutura mercadológica, estamos bastante amparados para seguir adiante com esse projeto.\n\nParabenizo também, a exemplo do Dr. Vitor Hugo, a Deputada Gisela, pela assertividade de suas colocações.\n\nMuito obrigado, Sr. Deputado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Nesta fala, o orador manifesta apoio explícito ao projeto, apresentando argumentos técnicos em favor da equiparação entre mecânicos independentes e concessionárias. Sustenta que a qualificação é equivalente (mesmos professores do SENAI do Ipiranga) e que as peças são idênticas, sem linhas de montagem separadas, com base em sua autoridade própria advinda da experiência na indústria metalúrgica. Acrescenta uma questão complementar sobre Securite Gateway, nuvem e LGPD (o motorista como dono do dado), sem contestar o objetivo, e critica indiretamente a postura da ANFAVEA sobre OBD2 por omissão.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "GILBERTO MARTINS",
+      "falas": [
+        {
+          "id": "f00010",
+          "ordem_no_debate": 10,
+          "texto": " Bom dia a todos.\n\nEm nome da ANFAVEA, agradeço ao Presidente Deputado Jorge Braz o convite para discutir esse tema.\n\nAgradeço aos demais presentes, à Deputada Gisela Simona e aos convidados participantes da Mesa: Thomas, do MDIC; Vitor Hugo, da defesa do consumidor; Marcelo e Celso, do SINDIREPA.\n\nEntendemos que este é um tema importante e muito atual, como já foi falado aqui pelos demais participantes. Grandes mercados como Estados Unidos e Europa estão discutindo agora, nesse momento, como fazer o acesso a esses códigos de falhas que estamos comentando aqui.\n\nEntão, obrigado pela oportunidade de debater esse tema.\n\nEu preparei poucos eslaides, apenas para ilustrar o assunto que estamos tratando e para definir aonde queremos chegar. Acho que conseguiremos trabalhar bem esse tema hoje. O Thomas comentou que ainda não tem uma posição definida, e acho que podemos começar a trabalhar para chegar a um bom termo.\n\nPeço que se coloque em modo apresentação, por favor.\n\nEu preparei as lâminas, porque, quando falamos sobre código de falhas esoftware, nós temos que entender que isso está muito ligado à evolução tecnológica dos veículos. Então, quando colocamos no mapa, vemos que os veículos vieram lá do começo, quando falávamos de carburador, de implementação de injeção eletrônica, de implementação da tecnologiaflex, em que foram colocados diversos sensores para o veículo entender qual era o combustível que estava sendo consumido naquele momento, se era o etanol ou a gasolina. Mais recentemente, em segurança veicular, falamos deairbag,deABS, de controle eletrônico de estabilidade. Mais recentemente ainda, falamos de injeção de combustível, se ela vai ser direta ou indireta, de novas tecnologias de propulsão, veículos elétricos, híbridos, híbridosplug-in.Por fim, quando pensamos um pouco mais à frente, vemos a conectividade, quando o veículo vai estar conversando com o próprio veículo, vai estar conversando com semáforos, vai estar conversando com a infraestrutura, o que é a chamada Internet das Coisas.\n\nEntão, toda essa evolução que os veículos vêm passando é eletrônica, ésoftwaree é onde chegamos na discussão da disponibilização de código de falha, da disponibilização dossoftwares.\n\nComo eu disse, toda essa evolução tecnológica muda o conceito do veículo. Então, há no veículo chicotes eletrônicos, sensores eletrônicos, os famososchipsque foram tão debatidos ultimamente no País. Há a central eletrônica, a ECU, que são os computadores que monitoram todo o sistema eletrônico embarcado no veículo para conseguir atender diversos pontos que nós, como montadora fabricante, e para atender a legislação, precisamos seguir.\n\nAli, como exemplo, em toda essa eletrônica embarcada, quando falamos de emissões, temos sensores e controles para monitorar se o veículo está seguindo a regra de limite de emissões de poluentes. A eletrônica embarcada controla a quantidade de combustível que vai ser injetado no veículo. Para quê? Para a eficiência energética, para a melhoria do consumo.\n\nLigado à segurança veicular, quando falamos em toda essa eletrônica, citamos o ABS. O que é o ABS? O ABS é um freio eletrônico que entende a dinâmica do veículo e freia os pneus e a roda da maneira mais correta possível no momento de uma friagem brusca. No acionamento deairbag, a bolsa de ar é inflada de acordo com a dinâmica do acidente. Então, para que isso aconteça, são sensores, chicotes eletrônicos,chips eECUs que controlam essa dinâmica do veículo no momento de um acidente.\n\nO controle eletrônico de estabilidade é algo que está sendo implementado nos veículos mais recentemente.É um sistema mais conhecido. Quando você sai numa linha reta, tem alguma ocasião de acidente e faz uma mudança brusca de rota, o sistema entende aquele movimento e consegue controlar os freios e as rodas, para que o veículo não capote ou não saia de pista. Isso é eletrônica embarcada.\n\nEsta aqui é a parte da segurança, da segurança pública, eu diria. Na maior parte dos veículos hoje, a chave é codificada. O que é uma chave codificada? É a chave que conversa com o sistema de injeção. Se aquela chave não for compatível com a eletrônica do sistema de injeção, ele não dará a partida. Então, isto aqui é a segurança que é colocada nos veículos através desoftware.\n\nAqui está um exemplo: o do hodômetro. A quilometragem que o veículo mostra no painel fica marcada dentro dos computadores eletrônicos do veículo.\n\nEntão, toda essa eletrônica embarcada controla diversos pontos, como emissões, segurança veicular e segurança, pontos importantes tanto para a indústria, para atender os regulamentos previstos, quanto para os consumidores, para que estejam seguros ao andarem naquele veículo.\n\nComo eu disse, todos aqueles sensores,chips, ECUs fazem parte de um mapa, de uma arquitetura eletrônica, do veículo. É com essa arquitetura eletrônica do veículo que chegamos ao tema do debate, que são os códigos. Esses códigos programados no veículo podem gerar código de falha no veículo, quando o veículo não está funcionando da maneira adequada com a qual ele foi programado.\n\nEsses códigos, dentro do veículo, são basicamente uma programação computacional. Trata-se de um computador sobre rodas. O veículo hoje é um computador sobre rodas. E o acesso a esse computador, dentro do veículo, é feito através de uma única porta, conhecida por porta OBD. Foi comentado aqui pelo Thomas, se me recordo bem, que os Estados Unidos e a Europa começaram a discutir este assunto em 2012. Ele começou a discutir este assunto, lá em 2012, sobre a OBD, sobre a legislação de emissões. Então, a mesma porta que controla emissões, segurança e a parte de segurança pública é um conector que conecta uma ferramenta que se chamascan tool, uma ferramenta descanner, para se conseguir ter acesso a toda aquela programação que a montadora, ou o fabricante de veículo, fez dentro do computador central para que o veículo possa andar da maneira mais segura possível, atendendo todos os requisitos.\n\nIsto aqui é só para ilustrar. Não se atentem ao que está escrito ali. Os códigos de programação são exatamente uma programação computacional. Isto aqui é só apenas um exemplo.\n\nIsto é o que aparece nessa ferramenta descannerquando você conecta com a porta OBD. São esses os códigos que permitem acesso para fazer um diagnóstico do veículo e um possível reparo. Quando você acessa o veículo para esse fim, a finalidade de reparo, a finalidade de diagnóstico, para entender como o veículo está funcionando, isso é positivo. Mas temos que entender que isso é um computador. Com o computador temos que ter a segurança chamada cibernética, a segurança cibernética, porque também é possível o lado ruim desta história.\n\nQuando você acessa essa porta OBD, acessa esses códigos programáveis, por algum motivo, pode fazer uma atualização de códigos. O que seria uma atualização de código? Mudar alguma coisa no seu computador de bordo do veículo para melhorar uma performance, talvezaumentar a potência, aumentar a velocidade, e ocasionar a piora dos limites de emissões.Eu faço a modificação em um código, uma atualização de código, e acabo não conseguindo mais controlar as emissões de poluentes daquele veículo ou, então, por algum motivo, por engano, por falta de conhecimento, eu deleto um código já previsto pela montadora. E esse código pode ser um código de acionamento deairbag. Eu levo o veículo para fazer um reparo, e, por algum motivo, deletam um código que não era para ser deletado, e esse código é de acionamento doairbag. O consumidor pega esse carro, vai para a rua e, por algum motivo, sofre um acidente, e aqueleairbagnão é acionado porque o código de acionamento foi deletado.\n\nPor fim, há a inclusão de códigos. Quando se tem acesso a essa porta, pode-se incluir códigos, por exemplo, o código de uma chave pirata. Com uma chave que não é a original do veículo, pode-se ter acesso a um veículo qualquer e conseguir levar aquele bem da pessoa por terem sido feitas uma programação e uma inclusão de código.\n\nComo foi colocado aqui, a discussão é bem ampla, atual, mas necessita de muitos detalhes para que consigamos chegar a um denominador comum em que seja possível acessar os códigos com certos critérios, certas responsabilidades.\n\nPara finalizar, eu coloco o que seria um diagnóstico seguro. Qual seria a sugestão, como o pessoal do SINDIREPA colocou, pensando na segurança do veículo? Para amadurecer o assunto, uma proposta seria pensarmos em algo relacionado a treinamento, para que aquela oficina independente, aquela oficina de assistência técnica onde será feito o reparo tenha o treinamento adequado para mexer naquela ferramenta, que ela conheça de programação, saiba o que está fazendo.\n\nOutro ponto, como foi comentado, ter a ferramenta adequada, ter oscan tooladequado, ter a ferramenta descanneradequada. Não pode ser uma ferramenta paralela, não pode ser uma ferramenta que não é própria para aquele uso.\n\nHá outros dois pontos: confidencialidade e controle e responsabilidade. A pessoa que está acessando aquele código, modificando aquele código para fazer o reparo vai ter que ter um controle do que está fazendo. E a oficina que está fazendo aquilo tem que ter o controle sobre aquela pessoa que está mexendo nosoftware. Então, confidencialidade, controle e responsabilidade são primordiais para dar acesso a qualquer tipo de porta que tenha códigos programáveis.\n\nComo uma sugestão, como um ponto que foi até levantado pela Lei Ferrari, as montadoras já podem fazer isso. Talvez seria o caso de haver algum tipo de credenciamento, para que as oficinas independentes pudessem fazer esse tipo de reparo, com um diagnóstico seguro do veículo, de forma segura, para não ocasionar aqueles pontos que eu comentei de possíveis exclusão e modificação de códigos.\n\nEnfim, é um computador. Quando é um computador, nós temos que tomar cuidado. Tem que haver a segurança de que não vai acontecer nada que não está sendo previsto.\n\nEra isso o que a ANFAVEA tinha para trazer hoje. Nós entendemos o momento. Sabemos que esse tema está surgindo na Europa e nos Estados Unidos, apesar de ser uma longa discussão. É o momento de amadurecermos o assunto e tentarmos ir em frente com esse tema.\n\nMuito obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Pela ANFAVEA, o orador trata o tema como importante e atual e apoiou a discussão, sem rejeitar o acesso aos códigos de falha para diagnóstico e reparo, que considerou positivo, mas condicionou essa abertura a um 'diagnóstico seguro'. Após explicar tecnicamente a evolução da eletrônica embarcada e o acesso pelo porta OBD com scan tool, alertou para riscos de segurança cibernética: alteração de códigos (impactando emissões), exclusão indevida de códigos (ex.: de acionamento de airbag) e inclusão de códigos, como o de chave pirata. Como saída, sugeriu critérios e responsabilidades ao acesso: treinamento das oficinas independentes, uso de ferramenta adequada e própria (não paralela), confidencialidade, controle e responsabilidade sobre quem mexe no software, além de possível credenciamento das oficinas. Defendeu ser momento de amadurecer o tema e avançar, já discutido na Europa e EUA, com disposição de chegar a bom termo.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [
+            "Estabelecer treinamento adequado para que oficinas independentes, onde será feito o reparo, conheçam programação e saibam operar a ferramenta de diagnóstico.",
+            "Exigir o uso de ferramenta adequada e própria, como o scan tool ou scanner, e não ferramentas paralelas ou inapropriadas.",
+            "Assegurar confidencialidade, controle e responsabilidade no acesso e na modificação dos códigos programáveis, com a oficina controlando quem mexe no software.",
+            "Criar algum tipo de credenciamento para que oficinas independentes possam realizar esse tipo de reparo com diagnóstico seguro."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00014",
+          "ordem_no_debate": 14,
+          "texto": " Eu entendo o ponto que foi colocado, mas é justamente esse ponto que a ANFAVEA está trazendo como necessidade de estudo e de aprimoramento sobre o conserto que essa oficina independente vai fazer. Entendo que, quando V.Exa. diz que uma concessionária pode fazer algum tipo de codificação errada — e isso pode acontecer —, ela tem responsabilidade porque tem o credenciamento da montadora que diz que ela tem que fazer de determinada forma. Então, ela tem essa responsabilidade.\n\nA ANFAVEA está trazendo nada mais do que isso. Se os códigos para reparo, como V.Exa. colocou, podem ser feitos por oficinas dependentes, é preciso que elas sigam o mesmo rito das concessionárias, com credenciamento,softwaree ferramentas, que são disponibilizados pela montadora, para que consigamos atingir o mínimo possível de erro no reparo.\n\nRespondendo à sua pergunta, entendemos que credenciamento, treinamento e ferramentas adequadas são necessários para que se pacifique o mesmo conhecimento de uma concessionária com o de uma oficina independente. Eu entendo que é isso o que os grandes mercados estão fazendo com oright to repairnos Estados Unidos, por exemplo, em que há sistemáticas do fornecimento desoftware, através de compra desoftware, como é feito nas concessionárias.\n\nEntão, eu acho que a padronização entre concessionárias e oficinas independentes é o caminho a ser feito para que pacifiquemos o assunto.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "A fala, representando a ANFAVEA, é favorável à participação de oficinas independentes no reparo de veículos via acesso a software e ferramentas, porém defendo uma padronização entre concessionárias e oficinas independentes como caminho para resolver o assunto. O orador entende que as oficinas devem seguir o mesmo rito das concessionárias, incluindo credenciamento, treinamento e ferramentas fornecidas pela montadora, para minimizar erros de reparo e codificação, apontando que concessionárias também erram mas respondem por terem credenciamento. Cita o padrão do right to repair nos Estados Unidos como referência de fornecimento de software.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [
+            "Oficinas independentes devem seguir o mesmo rito das concessionárias, com credenciamento, software e ferramentas disponibilizados pela montadora, para minimizar erros no reparo.",
+            "Credenciamento, treinamento e ferramentas adequados devem ser exigidos para equiparar o conhecimento de concessionárias e oficinas independentes.",
+            "Deve-se adotar a padronização entre concessionárias e oficinas independentes como caminho para resolver o assunto."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Falha do modelo nesta tarefa (Resposta truncada/recusada (Opinião da fala, finish_reason=length). Não repetida automaticamente. Confira --max-saida-tokens; falas não serão divididas para contornar o limite.); preencher manualmente."
+          ]
+        },
+        {
+          "id": "f00017",
+          "ordem_no_debate": 17,
+          "texto": " Eu entendo que o aprofundamento da discussão desta audiência pública vai ter que chegar a este ponto. Estabelecer os limites que terão que ser impostos para que essa oficina independente possa trabalhar da melhor forma.\n\nEntão, em relação ao credenciamento, como foi comentado, se eu não me engano, pelo pessoal do SINDIREPA, a Lei Ferrari já permite que uma montadora autorize uma concessionária a vender e a ter tambémuma assistência técnica credenciada. Eu acho que, com o aprofundamento do estudo com base nesta audiência pública muito bem proposta pelo Deputado, vamos chegar a esse dominador comum, juntando SINDIREPA, que é a parte do sindicato de reparadores, a ANFAVEA, do lado dos fabricantes, e o representante da Defesa do Consumidor, o consumidor em si. Eu acho que essas três partes conseguem chegar a um consenso sobre o tipo de credenciamento necessário.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Na fala, GILBERTO MARTINS posiciona-se de modo favorável ao avanço da discussão regulatória, entendendo que a audiência pública deve chegar ao ponto de estabelecer os limites a serem impostos para que oficinas independentes possam trabalhar da melhor forma. Ele sustenta que a Lei Ferrari, conforme relato do SINDIREPA, já permitiria que uma montadora autorize concessionária a vender e também manter assistência técnica credenciada, usando essa referência para argumentar que o credenciamento é viável. Apostando no aprofundamento do estudo a partir da audiência, projeta que SINDIREPA (reparadores), ANFAVEA (fabricantes) e o representante da defesa do consumidor cheguem a um denominador comum — expresso por ele como 'dominador comum' — e a um consenso sobre o tipo de credenciamento necessário. A postura é assertiva e técnica, embora matizada por expressões de dúvida e opinião ('se eu não me engano', 'eu acho'), e o enfoque recai sobre credenciamento e arranjo entre as partes, sem detalhar equipamentos e softwares de diagnóstico.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00037",
+          "ordem_no_debate": 38,
+          "texto": " Gostaria de agradecer à Comissão de Defesa do Consumidor, em nome do Presidente Jorge Braz, à Deputada Gisela Simona. É importantíssima a presença da ANFAVEA nesta reunião, colocando-se à disposição para se aprofundar no assunto.\n\nEu acho que é muito importante termos entendimento do que esses grandes mercados, como a Europa e os Estados Unidos, estão fazendo. Falamos de 20 anos atrás, mas a questão de código de falha e desoftwarenão são assuntos de 20 anos atrás. São assuntos atuais, deste momento. A Europa tem implementado isso. Alguns pequenos países têm começado agora em 2023 a falar sobresoftware. Então, eu acho que é o momento, sim, dessa discussão, sempre pensando em possibilitar ao consumidor acesso a uma oficina que seja segura, para que ele consiga reparar o seu veículo.\n\nAgradeço e fico à disposição para maiores esclarecimentos posteriormente.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Nesta fala, Gilberto Martins posiciona-se favoravelmente ao tema, defendendo que a discussão sobre código de falha e software de diagnóstico veicular é atual e urgente, contrapondo-se à ideia de que seriam assuntos ultrapassados. Ele sustenta sua posição com referências externas, citando a Europa e os Estados Unidos como grandes mercados que já implementam essas regras e observando que alguns países começaram a tratar de software em 2023, o que, em sua visão, torna oportuna a discussão. O orador articula conceitos do setor com postura técnica e confiante, sem detalhar mecanismos específicos de regulação. Seu objetivo declarado é possibilitar ao consumidor acesso a uma oficina segura para reparar o veículo, apresentado como finalidade prática da medida, e não como apelo emocional. A fala inclui agradecimentos protocolares e apoio à presença da ANFAVEA na reunião, bem como oferta de esclarecimentos posteriores, sugerindo domínio do assunto.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "GISELA SIMONA",
+      "falas": [
+        {
+          "id": "f00012",
+          "ordem_no_debate": 12,
+          "texto": " Presidente Jorge Braz, Presidente desta Comissão, e todos os nossos convidados, quero, primeiro, agradecer a presença dos senhores aqui para podermos esclarecer o assunto a esta Comissão.\n\nVejam que nós estamos numa audiência pública para tratar desse monopólio dossoftwaresnos reparos de veículos pelas concessionárias. Eu entendo quando o Sr. Gilberto, que representa as montadoras deste País, fala da necessidade da confidencialidade. Ele exemplificou aqui os chicotes eletrônicos, oschipseletrônicos, as chaves codificadas, para dar uma segurança maior ao conserto, ao reparo desses veículos. Mas nós jamais podemos nos esquecer de que nós estamos dentro do território brasileiro, e o Brasil tem um Código de Proteção e Defesa do Consumidor que estabelece alguns direitos para o consumidor, aos quais as montadoras e as concessionárias têm que se submeter.\n\nEu não estou falando aqui, como muito bem disse o representante da SENACON, da liberdade de escolha do consumidor. Eu estou falando da venda casada, que é vedada pela Lei 8.078, de 1990. Eu estou falando da livre concorrência, que está na nossa Constituição Federal. Então, eu quero, na verdade, ouvir dos expositores o que devemos fazer para que a lei seja cumprida, simplesmente.Isso não é uma opção, é a lei que existe no território brasileiro.\n\nNós estamos suscetíveis, mesmo numa concessionária, a falhas numa manutenção, à descodificação de códigos, o que é muito comum. Eu sou oriunda do PROCON, e nós observamos muitas falhas ocasionadas por concessionárias também.\n\nPortanto, acredito que, na medida em que você tem o dever de permitir que outros, desde que devidamente credenciados, possam fazer esse conserto, nós temos que ter alternativas nesse sentido. Então, quero saber como que fica isso, em respeito às normas brasileiras e ao direito do consumidor, que estão postos na nossa Constituição, porque hoje o consumidor fica numa situação muito ruim, como foi dito aqui. Às vezes, ele fica 5 meses, 6 meses, aguardando uma peça para reparo do seu veículo, aguardando a concessionária, sendo que nós temos outros técnicos, sim, devidamente habilitados no Brasil para fazer esse conserto.\n\nEntão, eu quero saber dos senhores a forma de conciliar isso com o ordenamento jurídico brasileiro, a partir dessa realidade que foi posta, mas ao mesmo tempo preservando os direitos que nós consumidores temos no Brasil.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Gisela Simona reconhece as razões de segurança invocadas pelas montadoras para justificar a confidencialidade de chicotes, chips e chaves codificadas, mas sustenta que concessionárias e montadoras devem submeter-se ao Código de Defesa do Consumidor, à vedação da venda casada (Lei 8.078/1990) e à livre concorrência constitucional. Defende que outros técnicos ou estabelecimentos, desde que devidamente credenciados, possam realizar reparos como alternativa às concessionárias. Apoiando-se em sua experiência no PROCON, alega que concessionárias também apresentam falhas e aponta que o consumidor pode ficar meses aguardando peças ou reparo. Por fim, pergunta aos expositores como conciliar as práticas atuais com o ordenamento jurídico brasileiro, preservando os direitos do consumidor.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [
+            "Permitir que outros estabelecimentos, desde que devidamente credenciados, possam realizar o conserto/reparo de veículos, como alternativa às concessionárias."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00016",
+          "ordem_no_debate": 16,
+          "texto": " Como é feita essa limitação, porque são pouquíssimas as oficinas que hoje estão habilitadas com esse credenciamento? Eu não sei hoje quais são as regras internas, se existe uma forma interna de vocês deliberarem sobre essa expansão.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Gisela Simona adota postura técnica e procedimental, sem assumir posição sobre a reivindicação de lei para equipamentos e softwares de diagnóstico e reparo de veículos. Ela questiona como se dá a limitação do credenciamento de oficinas, observa que pouquíssimas estariam habilitadas — afirmação apresentada sem sustentação — e indaga se existem regras internas para deliberar sobre uma eventual expansão, admitindo desconhecê-las. Trata-se de indagação genuína sobre critérios e procedimentos de habilitação, voltada ao tema, mas sem apoio ou rejeição explícitos à demanda legislativa.",
+          "objeto_do_posicionamento": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    }
+  ],
+  "notas_revisao": [],
+  "arquivo_auditoria": "auditoria/debate_linha_00028_be1824068695_anotado.json"
+}

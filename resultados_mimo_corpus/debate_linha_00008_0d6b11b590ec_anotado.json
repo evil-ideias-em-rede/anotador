@@ -1,0 +1,734 @@
+{
+  "formato": "debate_por_participante_v1",
+  "debate_id": 8,
+  "tema": "Regulação do mercado de criptomoedas no Brasil",
+  "status": "anotado_aguardando_revisao_humana",
+  "participantes": [
+    {
+      "nome": "Aureo Ribeiro",
+      "falas": [
+        {
+          "id": "f00001",
+          "ordem_no_debate": 1,
+          "texto": " Havendo número regimental, declaro aberta a 17ª Reunião da Comissão Parlamentar de Inquérito destinada a investigar indícios de operações fraudulentas sofisticadas na gestão de diversas empresas de serviços financeiros que prometem gerar patrimônio por meio de gestão de criptomoedas.\n\nNos termos do parágrafo único do art. 5º do Ato da Mesa nº 123, de 2020, fica dispensada a leitura da ata.\n\nEm votação a ata da 16ª Reunião, realizada no dia 31 de agosto.\n\nOs Deputados que a aprovam permaneçam como se encontram.(Pausa.)\n\nAprovada.\n\nInformo que não há expediente.\n\nO tema desta reunião é o aprimoramento da legislação de criptomoedas sob a perspectiva dos órgãos técnicos.\n\nTemos para a audiência de hoje três convidados. Estão conosco presencialmente e convido para compor a Mesa os senhores convidados Otávio Ribeiro Damaso, Diretor de Regulação do Banco Central; e Alexandre Pinheiro dos Santos, Superintendente-Geral da Comissão de Valores Mobiliários. Participará por videoconferência, pelo nosso sistema híbrido, o Sr. Thiago Bueno, Procurador da República e membro do Grupo de Combate aos Crimes Cibernéticos do Ministério Público Federal, que já se encontra presente na sala virtual.\n\nPassemos então às exposições.\n\nQuero agradecer aos nossos convidados pela participação.\n\nConcedo a palavra, por até 15 minutos, ao Sr. Otávio Ribeiro Damaso, Diretor de Regulação do Banco Central do Brasil.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental de abertura da 17ª Reunião da CPI pelo titular na condição de presidente. Ele declara aberta a sessão, dispensa a leitura da ata e submete à aprovação a ata da reunião anterior, informa a inexistência de expediente, enuncia o tema (aprimoramento da legislação de criptomoedas sob a perspectiva dos órgãos técnicos), apresenta os três convidados — do Banco Central, da CVM e do MPF — e concede a palavra ao primeiro expositor. Não há qualquer posicionamento substantivo sobre o tema da regulação de criptomoedas.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00003",
+          "ordem_no_debate": 3,
+          "texto": " Agradeço ao Sr. Otávio.\n\nAgora, concedo a palavra por até 15 minutos ao Sr. Thiago Bueno, Procurador da República e membro do Grupo de Combate aos Crimes Cibernéticos do Ministério Público Federal, pelo nosso sistema híbrido.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Intervenção estritamente procedimental de Aureo Ribeiro na condição de condutor dos trabalhos. Ele agradece ao orador anterior, Otávio, e concede a palavra, pelo sistema híbrido e com tempo de até 15 minutos, ao Sr. Thiago Bueno, identificado como Procurador da República e membro do Grupo de Combate aos Crimes Cibernéticos do Ministério Público Federal. A fala não contém qualquer manifestação de opinião sobre o tema da regulação do mercado de criptomoedas no Brasil, tampouco propostas, ataques, apelos emocionais ou argumentação técnica substantiva: restringe-se à condução regimental dos trabalhos e à apresentação do próximo orador.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00005",
+          "ordem_no_debate": 5,
+          "texto": " Eu agradeço ao Sr. Thiago Bueno e concedo a palavra, por até 15 minutos, ao Sr. Alexandre Pinheiro dos Santos, Superintendente Geral da Comissão de Valores Mobiliários.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental, sem qualquer posicionamento sobre a regulação do mercado de criptomoedas no Brasil. O orador agradece a Thiago Bueno e concede a palavra, por até 15 minutos, a Alexandre Pinheiro dos Santos, Superintendente Geral da CVM. Não há argumento, proposta ou manifestação de concordância ou discordância quanto ao tema.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00007",
+          "ordem_no_debate": 7,
+          "texto": " Agradeço a exposição do Sr. Alexandre.\n\nPasso às perguntas. Farei três perguntas inicialmente ao Banco Central.\n\nComo os reguladores impedirão que as corretoras de criptomoedas se envolvam em fraudes como pirâmides financeiras? Como os reguladores, de maneira geral, protegerão os investidores de perderem o seu dinheiro em investimentos em criptomoedas, uma vez que se trata de ativos especulativos? Que medidas serão tomadas para evitar que as corretoras de criptomoedas sejam utilizadas para facilitar a lavagem de dinheiro e outras atividades criminosas?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala procedural e inquisitiva, Aureo Ribeiro não expressa posição própria sobre a regulação do mercado de criptomoedas no Brasil, limitando-se a explorar o tema de forma focalizada por meio de três perguntas ao Banco Central. Ele indaga como os reguladores impedirão fraudes em formato de pirâmide por parte de corretoras de criptoativos, como protegerão investidores de perdas diante da natureza especulativa desses ativos e que medidas evitarão o uso dessas corretoras para lavagem de dinheiro e outras atividades criminosas. O tom é técnico, voltado a procedimentos e políticas públicas, sem adesão, crítica ou conclusão sobre o tema.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00009",
+          "ordem_no_debate": 9,
+          "texto": " Como os reguladores garantirão que as corretoras de criptomoedas forneçam informações claras e transparentes aos investidores? Como os regulamentos serão aplicados? E qual é o papel do Banco Central do Brasil na aplicação da regulamentação?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta intervenção, o orador não assume posição própria sobre a regulação do mercado de criptomoedas no Brasil, limitando-se a formular três perguntas procedimentais e investigativas. Indaga como os reguladores garantirão que as corretoras forneçam informações claras e transparentes aos investidores, como os regulamentos serão aplicados e qual será o papel do Banco Central do Brasil na aplicação da regulamentação. A abordagem é técnica, voltada aos mecanismos de supervisão, fiscalização e transparência, sem apresentar tese, medida proposta, concordância ou discordância quanto ao tema.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00011",
+          "ordem_no_debate": 11,
+          "texto": " Qual é o papel de outros órgãos governamentais na aplicação dos regulamentos? Qual é o papel do setor privado na aplicação dos regulamentos? Como o Banco Central vê a entrada de instituições financeiras tradicionais como grandes bancos no setor de criptoativos?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala recebida, Aureo Ribeiro limita-se a formular três perguntas sobre o tema da regulação do mercado de criptomoedas no Brasil, sem expressar posição ou opinião própria. Indaga qual seria o papel de outros órgãos governamentais e do setor privado na aplicação dos regulamentos e como o Banco Central vê a entrada de instituições financeiras tradicionais, como grandes bancos, no setor de criptoativos. A atuação é técnica e procedimental, centrada na distribuição de responsabilidades regulatórias e na postura do Banco Central, sem qualquer tom assertivo, emocional ou agressivo.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00013",
+          "ordem_no_debate": 13,
+          "texto": " Qual é o cronograma para a implementação dos regulamentos? O Banco Central adotará procedimentos de interação com o mercado nesta nova regulação, como foi feito com o Fórum Pix? Quais são os próximos passos da regulamentação das corretoras de criptomoedas no Brasil? Quais são os desafios da regulamentação em torno das criptomoedas no nosso País?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Em fala estritamente procedimental, o titular formula quatro perguntas sobre a regulação do mercado de criptomoedas no Brasil: questiona o cronograma de implementação dos regulamentos, indaga se o Banco Central adotará procedimentos de interação com o mercado na nova regulação a exemplo do Fórum Pix, pergunta pelos próximos passos da regulamentação das corretoras de criptomoedas no país e pelos desafios dessa regulação. A fala tem cunho técnico-informativo e não expressa posição opinativa própria sobre o tema.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00015",
+          "ordem_no_debate": 15,
+          "texto": " Pergunta ao Ministério Público Federal: o que o senhor acha da participação de artistas einfluencersem propagandas de esquemas financeiros?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala, Aureo Ribeiro se limita a formular uma pergunta ao Ministério Público Federal sobre o que o interlocutor pensa a respeito da participação de artistas e influenciadores em propagandas de esquemas financeiros, sem apresentar resposta, avaliação ou posição própria sobre o tema. O enquadramento sugere preocupação com a responsabilização ou regulação dessa publicidade, mas o titular não assume explicitamente concordância ou discordância, tratando-se de intervenção interrogativa e procedimental, por meio da passagem da palavra ao MPF.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00017",
+          "ordem_no_debate": 17,
+          "texto": " Como o Ministério Público tem trabalhado para rastrear, bloquear e restituir os valores investidos pelas vítimas nos esquemas de pirâmide? Há algo que o Poder Legislativo possa fazer para aprimorar esse trabalho?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta intervenção, o titular não defende posição substantiva sobre a regulação do mercado de criptomoedas, atuando de modo procedimental e inquisitivo. Formula duas perguntas: uma sobre como o Ministério Público tem trabalhado para rastrear, bloquear e restituir valores investidos por vítimas em esquemas de pirâmide, e outra sobre eventuais medidas do Poder Legislativo para aprimorar esse trabalho. O tratamento é técnico-institucional, centrado em mecanismos de persecução e reparação, sem adesão ou rejeição explícita a proposta regulatória.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00019",
+          "ordem_no_debate": 19,
+          "texto": " Perguntas à CVM: qual é a posição atual da CVM em relação à regulamentação das criptomoedas? A CVM pretende editar regulamentações específicas? Qual regulamentação da CVM possibilitou a oferta do fundo ETF, baseado em criptomoedas, ainda não regulamentadas no Brasil, pela empresa? A CVM pretende harmonizar sua regulação de investimento com tributação de criptomoedas no Brasil pela Receita Federal do Brasil? Quais regulamentações a CVM pretende utilizar contra fraudes quanto a criptomoedas e lavagem de dinheiro no Brasil?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental e interrogativa: o orador formula perguntas dirigidas à CVM sobre a regulação de criptomoedas no Brasil, sem declarar posição própria sobre o tema. Indaga qual é a posição atual da autarquia e se pretende editar regulamentações específicas, qual regulamentação possibilitou a oferta de fundo ETF baseado em criptomoedas ainda não regulamentadas no país, se pretende harmonizar sua regulação de investimento com a tributação de criptomoedas tratada pela Receita Federal do Brasil e quais regulamentações pretende utilizar contra fraudes e lavagem de dinheiro. Não há opinião substantiva assumida, apenas cobrança de esclarecimentos e informações junto ao órgão.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [
+            "O orador questiona se a CVM pretende editar regulamentações específicas para criptomoedas.",
+            "O orador indaga se a CVM pretende harmonizar sua regulação de investimento com a tributação de criptomoedas pela Receita Federal do Brasil.",
+            "O orador pergunta quais regulamentações a CVM pretende utilizar para combater fraudes e lavagem de dinheiro com criptomoedas no Brasil."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00021",
+          "ordem_no_debate": 21,
+          "texto": " A CVM tem ou planeja alguma iniciativa para fomentar pesquisa e desenvolvimento de criptomoedas no Brasil, por exemplo, nos moldes do Laboratório de Inovações Financeiras e Tecnológicas — LIFT, do Banco Central?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Aureo Ribeiro formula pergunta dirigida à CVM indagando se o órgão tem ou planeja iniciativa para fomentar pesquisa e desenvolvimento de criptomoedas no Brasil, sugerindo como referência os moldes do LIFT — Laboratório de Inovações Financeiras e Tecnológicas do Banco Central. A fala tem caráter interrogativo e procedimental, voltada à obtenção de informação, sem tomada de posição explícita sobre regulação do mercado de criptomoedas. Ainda assim, a sugestão do exemplo do LIFT indica, de forma implícita, uma proposta de eventual replicação desse modelo de fomento à inovação no âmbito da CVM.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [
+            "Que a CVM adote iniciativa para fomentar pesquisa e desenvolvimento de criptomoedas no Brasil, nos moldes do LIFT do Banco Central"
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente.",
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00023",
+          "ordem_no_debate": 23,
+          "texto": " Quais regulamentações a CVM planeja para proteção ao investidor em criptomoedas no Brasil? A CVM pretende tratar de regulamentação? Quais são os principais desafios da CVM para a promoção de regulação inovadora no Brasil? Qual é o papel do setor privado na regulação das criptomoedas no Brasil, da ANBIMA e outros órgãos? Quais são os desafios de fazer cumprir a regulamentação das criptomoedas no Brasil?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala recebida, o titular formula uma sequência de perguntas voltadas à regulação do mercado de criptomoedas no Brasil, sem exprimir posição própria sobre o tema. Indaga quais regulamentações a CVM planeja para proteção ao investidor em criptomoedas, se a CVM pretende tratar de regulamentação e quais seriam os principais desafios para a promoção de regulação inovadora no país. Questiona, ainda, qual é o papel do setor privado na regulação das criptomoedas, mencionando a ANBIMA e outros órgãos, e quais são os desafios de fazer cumprir a regulamentação. O conjunto é estritamente interrogativo, com tom técnico e foco nos desafios regulatórios, sem concordância, discordância ou proposta afirmativa por parte do orador.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00025",
+          "ordem_no_debate": 25,
+          "texto": "(Falha na transmissão)regulamentação de moedas estáveis, lastreadas em moedas como o dólar e frequentemente usadas para crime, como lavagem de dinheiro?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Neste fragmento, afetado por falha na transmissão, o orador formula uma pergunta sobre a regulamentação de moedas estáveis lastreadas em moedas como o dólar, mencionando que são frequentemente usadas para crimes como lavagem de dinheiro. A fala não apresenta tomada de posição explícita — não se identifica concordância, discordância nem ambiguidade quanto à regulação do mercado de criptomoedas, pois se trata apenas de indagação em trecho incompleto. A referência a usos criminosos das moedas estáveis integra a formulação da pergunta e constitui alegação do orador, sem sustentação em fontes ou dados citados no registro. O enquadramento da questão em conceitos de regulação, lastro e ilícitos financeiros sugere tratamento técnico do tema, ainda que a falha na transmissão limite a avaliação do conteúdo integral.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00027",
+          "ordem_no_debate": 27,
+          "texto": " Com o projeto do real digital, do Banco Central, em andamento, atualmente em fase piloto, a CVM pretende fomentar a \"tokenização\" de valores mobiliários no Brasil?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta intervenção, Aureo Ribeiro não expressa opinião substantiva sobre a regulação de criptomoedas, limitando-se a formular uma pergunta dirigida à CVM: se a autarquia pretende fomentar a \"tokenização\" de valores mobiliários no Brasil, em contexto em que menciona, como premissa factual, o projeto do real digital do Banco Central estar em andamento e em fase piloto. A fala é interrogativa, focalizada no tema e de tom técnico, sem concordância, discordância ou apelo argumentativo.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00029",
+          "ordem_no_debate": 29,
+          "texto": " Agradeço ao Sr. Otávio Ribeiro Damaso, ao Sr. Alexandre Pinheiro dos Santos e ao Sr. Thiago Bueno pela participação na Comissão Parlamentar de Inquérito, em audiência pública, para nortear o nosso relatório.\n\nAgradeço a todos pela presença.\n\nNada mais havendo a tratar, convoco reunião para a próxima terça-feira, dia 5 de setembro, às 10 horas, para audiência pública.\n\nEstá encerrada a reunião.",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Trata-se de fala exclusivamente procedimental de encerramento de reunião. O titular agradece aos três convidados presentes à audiência pública da CPI, afirmando que suas contribuições servirão para nortear o relatório, agradece a presença geral do público, convoca nova reunião para audiência pública na terça-feira, dia 5 de setembro, às 10 horas, e declara encerrada a sessão. Não há qualquer manifestação de posição do titular sobre a regulação do mercado de criptomoedas no Brasil, nem uso de recursos de credibilidade, sustentação técnica, ataques ou apelos afetivos; os agradecimentos são mera cortesia protocolar.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "OTÁVIO RIBEIRO DAMASO",
+      "falas": [
+        {
+          "id": "f00002",
+          "ordem_no_debate": 2,
+          "texto": " Exmo. Deputado Federal Aureo Ribeiro, Presidente da CPI das Pirâmides Financeiras; Exmo. Deputado Ricardo Silva, Relator da CPI; prezado Alexandre dos Santos Pinheiro, Superintendente-Geral da CVM; Exmas. Sras. Deputadas, Exmos. Srs. Deputados, senhoras e senhores; é com grande satisfação que compareço a esta Comissão Parlamentar de Inquérito como representante do Banco Central do Brasil para trazer nossas considerações acerca do objeto de investigação desta CPI.\n\nComo o Exmo. Deputado mencionou, vou focar a minha intervenção no esforço que está em curso, na parte de regulação, tendo em vista que, no final de 2022, o Congresso aprovou uma legislação e, a partir de junho deste ano, o Exmo. Presidente da República designou o Banco Central para ser o órgão que vai cuidar da regulação e também da supervisão das entidades que tratam de criptomoedas.\n\nPrimeiro, vou fazer uma breve exposição. Desde que começamos a acompanhar a tramitação do projeto aqui, ainda com o Exmo. Deputado que ia propor a legislação que foi aprovada, o Banco Central vem se debruçando em conhecer esse mercado, entendê-lo melhor. Naturalmente, temos uma participação nos fóruns internacionais de regulação e supervisão dos mercados financeiros. Isso também traz um grande grau de conhecimento. Nós começamos a entender um pouco melhor esse mercado, que, diga-se de passagem, é um mercado que não é ainda no Brasil regulado nem supervisionado. Então, também estamos no processo de conhecer, aprender a dinâmica desse mercado.\n\nAlgumas características ficam bem claras, das quais conseguimos obter um desenho. Primeiro, é um mercado bem diverso que conta com empresas, entidades que operam com diferentes níveis de complexidade interna, plataformas próprias, às vezes com completa terceirização, empresas que prestam serviços que chamamos de Crypto as a Service, assim como há o Banking as a Service, e também algumas instituições reguladas. Estou falando de instituições financeiras, de instituições bancárias que operam nesse mercado, mas via parcerias. Elas acabam oferecendo produtos e serviços que são ofertados por terceiros — elas mesmas não têm essa operação.\n\nEsse mercado, como mencionei, é diverso, em termos de escalas e portes, com diferentes tipos deplayers. Diga-se de passagem, pelas conversas que temos tido, pelos estudos que temos realizado, inclusive com algumas associações, parte das entidades deseja a regulamentação, deseja entrar no perímetro regulatório de supervisão do Banco Central, porque identifica um valor; e outras entidades não desejam entrar no perímetro regulatório. Naturalmente, quando definimos o perímetro regulatório, quem se enquadrar vai ter que entrar, mas, diga-se de passagem, hoje, parte do mercado não deseja isso; e outra parte, sim. E temos conversado com quem tem esse desejo. Portanto, há questões diferentes.\n\nSegundo, há grandes diferenças, em termos de constituição dessas empresas. Algumas delas são interessantes. O sistema financeiro é muito baseado na centralização, nas infraestruturas de mercados centralizadas. Essas instituições, geralmente, vão para o mundo do DeFi, de organizações descentralizadas. Há situações de entidades que detêm a chave privada; outras entidades não a detêm, e entra a figura da operação P2P; há entidades que estão no Brasil; e há entidades que operamoffshore, em outras jurisdições internacionais. Naturalmente, hoje, com o mundo da Internet, isso é possível. Então, esse é um desafio que o regulador vai ter aqui.\n\nQuando falamos dessas parcerias que existem com entidades reguladoras, é interessante notar que elas adotam uma série de protocolos de procedimentos e de requerimentos que estão presentes na regulação do sistema financeiro tradicional. Então, nisso há um ganho. Naturalmente, quem não está nesse mundo de parceria ou quem está fora do perímetro regulatório, esses tipos de protocolos não são seguidos. Esse vai ser um desafio para essas empresas quando forem para o mundo regulado.\n\nEm termos de números, eu estou falando do que o Banco Central conseguiu apurar até agora e o que temos conversado, não só com outros órgãos do Governo. No caso, a CVM é uma grande parceira na construção desseframeworkcompleto.Não só quanto à regulamentação de VASPs, mas também quanto a outras questões relacionadas a valores mobiliários, nós temos uma interação quase diária — há uma estimativa de que existam, em termos de usuários, 2 milhões de CPFs e, em termos de CNPJ, 70 mil que operam com essas criptomoedas.\n\nVou destacar os três principais motivos da utilização. No caso, principalmente de PJ, muitas vezes está voltado a pagamento de importações; e, no caso de PF, a envio e recebimento de recursos do exterior; também há muito investimento, onde vemos grande quantidade de pessoas entrando em investimento especulativo, na expectativa de que aquele criptoativo tenha uma valorização, a pessoa ganhe algum recurso nisso. Esses são os três principais tipos de motivação que vemos. Existem outras motivações, mas esses são os três principais, pelas pesquisas que temos realizado.\n\nEm termos de empresas que colocaríamos nesse universo de VASPs, empresas corretoras de criptomoedas, a nossa expectativa, nas conversas com o mercado, é de um universo de umas 50, que viriam para o âmbito do perímetro regulatório. Estou falando de um número que pode ser maior, ou que pode ser menor, mas é uma expectativa. Como mencionei no início, ainda estamos tomando conhecimento desse mercado. Alguns perfis dessas empresas: algumas prestam, sim, serviço de negociação de cripto e o foco delas é principalmente na corretagem. Ela oferece um instrumento cripto, e onde ela obtém a receita dela é por meio da cobrança de corretagem, muito similar ao que ocorre no sistema financeiro tradicional ou mesmo na prestação de serviço. Em alguns casos, assemelha-se a um agente autônomo; em outros casos, assemelha-se a esses Banking as a Service. Ela presta o apoio tecnológico de infraestrutura para alguém operar, mas é um tipo de instituição que está mapeada dentro do nosso contexto.\n\nNo lado da regulamentação, eu acho que vale notar o que os fóruns internacionais têm focado, em termos de regulamentação. Eu vou destacar quatro. Primeiro, o Fundo Monetário Internacional tem estudado e tem força-tarefa para focar a parte dos criptoativos muito pela ótica da estabilidade macrofinanceira. E aí, vendo um pouco o perfil e o mandato do FMI, olhando para a questão principalmente destablecoine como o desenvolvimento dessas moedas vai impactar as moedas soberanas e as economias dos sistemas financeiros das diferentes nações. Esse é o foco do FMI.\n\nO Comitê de Basileia tem um olhar muito prudencial para as instituições que estão sob a jurisdição dele, no caso, sob a jurisdição do Banco Central, mas sob a jurisdição do arcabouço prudencial de Basileia. Então, é uma questão prudencial relacionada a essas instituições financeiras: como esses ativos, essas criptomoedas, ou mesmostablecoins,podem levar risco à solvência de cada instituição.Já existem também recomendações, em termos de regras prudenciais, para as instituições financeiras, quando elas operarem com esses tipos de ativos.O Financial Stability Board, um órgão do G20, tem um foco voltado para o risco, a estabilidade financeira. Então, o BIS olha muito a instituição individual; e o Financial Stability Board olha mais o sistema como um todo — ele tem um foco nisto, no sistema como um todo. E cabe destacar que ele ainda não identifica esse universo como um segmento que impõe riscos relevantes à estabilidade financeira, hoje; no futuro, isso pode ter um impacto. Por isso ele está monitorando, inclusive a questão do crescimento desses segmentos, e naturalmente também há recomendações.\n\nPor fim, o GAFI traz recomendações em dois dos seus pontos. Primeiro, na implementação de regulação específica para esses VASPs, como são conhecidos lá fora, no mínimo no que diz respeito ao aspecto de PLD, prevenção à lavagem de dinheiro, e está muito semelhante para o que estamos caminhando aqui; e também dotravel rule, que é identificação das partes, outra recomendação do GAFI.\n\nEntão, quando estamos construindo o arcabouço regulatório, estamos olhando para todas essas dimensões e, naturalmente, seguindo o que está prescrito na legislação, para fazer a regulamentação.\n\nQuanto à regulamentação, alguns aspectos acho que vale a pena mencionar, e aí está tudo em debate: a definição dos tipos de VASPs que vão existir, as funções e atividades, se eles vão ser intermediários, custodiantes, ofertantes, ou distribuidores; a delimitação de operadores de um segmento, nesse segmento de ativos virtuais; os próprios VASPs, se as corretoras e distribuidoras vão poder prestar esse serviço, como se fosse uma carteira de ativos virtuais. Estão indo nessa linha os bancos, a Caixa — a Caixa Econômica Federal, as Caixas, como chamamos.\n\nEsse universo de instituições reguladas mais as que são específicas para a corretagem, para a oferta desses produtos de criptomoedas, estamos entendendo que todos eles vão ter a possibilidade de trabalhar com esses ativos e, naturalmente, vão estar sujeitos à regulamentação específica.\n\nO que nós, até o momento, identificamos que vai ficar fora desse processo de negociação dos criptoativos? Seriam as próprias infraestruturas do mercado financeiro, porque, por princípio, elas têm que manter uma neutralidade; e alguns tipos de instituições que hoje são reguladas, específicas, como instituições de pagamento, as financeiras e as próprias fintechs de crédito, quando elas só têm aquele tipo de negócio. Nós, em um primeiro momento, achamos que, nesses casos, não cabe trazer a questão do criptoativo.\n\nEsse é um desenho que ainda vai ser objeto de discussão, mas é como estamos colocando, pensando para frente.\n\nNaturalmente, sempre pensamos em questões de salvaguardas, a segregação de recursos dos ativos do clienteversusos da própria instituição. E aí eu acho que toda a questão que houve no debate, na tramitação do projeto de lei de segregação patrimonial, é um ponto importante.\n\nO posicionamento do Banco Central e, acredito, também o da CVM — depois, o colega Alexandre vai poder expor — nós apoiávamos. Isso não saiu no relatório final, mas, se voltar, nós vemos com bons olhos. Na ausência do dispositivo legal, há mecanismos de não fazer o papel que o dispositivo legal iria cumprir, mas criar mecanismos que tentam segregar um pouco essa questão dos recursos vis-à-vis entre cliente e instituição. Então, esse é um aspecto que eu acho importante e que vai estar na discussão.\n\nAgora, outro ponto, além da regulamentação específica que vai ser trabalhada para essas entidades, para um mercado específico, é que há toda uma regulamentação que pode ser chamada de complementar, que existe no sistema financeiro e que nós também estamos estudando como adaptar e como introduzir para essa nova figura, essas novas entidades. Então, vão entrar questões como prevenção à lavagem de dinheiro e financiamento ao terrorismo, proteção ao consumidor,know your client,clientes de parceiros, regras prudenciais — no caso, já há as recomendações do Comitê de Basileia —, reporte de informações de contabilidade, governança, auditoria interna independente,compliance, enfim, regras de segurança cibernética. Então, todos esses são arcabouços regulatórios que hoje se aplicam a instituições financeiras e que nós estamos avaliando como trazer também para esse novo tipo de entidade que vai entrar no perímetro regulatório. Tudo isso está em discussão.\n\nQuais são o nosso cronograma e os próximos passos no aspecto da regulação? Nós estamos numa fase de muita conversa com o segmento. Nós estamos 100% abertos para conversar com as associações, com as entidades. Várias entidades têm nos procurado, inclusive entidades estrangeiras.\n\nEu acho que essas discussões aqui no Congresso são sempre muito importantes, trazem sempre muito subsídio para o regulador. Então, parabenizo-os pela iniciativa de nos convidar. Nós agradecemos, porque essa é uma forma de expor e também de escutar as opiniões.\n\nDentro do nosso cronograma, nós prevemos fazer uma consulta sobre alguns aspectos ainda no início do quarto trimestre. Nós vamos colocar algumas questões para o mercado opinar. E, até o final do quarto trimestre de 2023, nós pretendemos colocar em consulta pública a regulamentação. Correndo dentro desse cronograma, as regras definitivas sairiam provavelmente até o final do primeiro semestre de 2024.\n\nPara finalizar, eu acho que vale a pena destacar alguns desafios. Os desafios são: as entidadesoffshore, que são entidades que, por mais que se coloque uma regulamentação aqui, dado o contexto de acesso via Internet, via canais eletrônicos, sempre vão continuar existindo fora do País, sem o alcance do regulador, do supervisor.\n\nEu acho que a segregação patrimonial é um ponto que nós vemos com bons olhos.Se o Congresso tiver o interesse de retomar essa discussão, o Banco Central e outros órgãos do Governo, acredito que a própria CVM, teriam interesse em contribuir com essa discussão aqui. Mas, como eu avisei, no âmbito da regulação, algumas coisas nós conseguimos fazer, mas não é a blindagem legal que o Congresso confere. Eu acho que há um desafio de nós discutirmos um pouco essecrypto as a service, qual é o papel deles. Há uma discussão que nós temos feito de forma intensa, Banco Central e CVM, quando é um ativo, quando migra para um valor mobiliário.\n\nE outro aspecto, olhando talvez até fora desse perímetro de criptoativos que vão ser regulados aqui por essa regulação, que é uma agenda sobre a qual o Banco Central tem se debruçado bastante, é todo um processo de tokenização dos ativos que vão vir para a frente, não só os ativos que já existem hoje no mercado tradicional, mas outros que vão passar a ser incorporados no âmbito das negociações do sistema financeiro. E nós acreditamos que essa agenda é enorme, inclusive, uma agenda até maior do que a agenda dos próprios criptoativos tradicionais que nós conhecemos, porque esse é quase um estágio final do processo de digitalização, que pode trazer muitos ganhos em termos de eficiência, de transparência e de negociação com o sistema financeiro. Nesse contexto, o projeto que o Banco Central tem conduzido, que é a moeda digital, o Drex, como foi apelidado, faz uma interação muito importante entre as finanças tradicionais e essas finanças da tokenização, do DeFi, como temos conhecido.\n\nEntão, essas são as considerações iniciais que eu gostaria de colocar. Novamente, eu gostaria de agradecer o convite para estar hoje aqui nesta Comissão. Parabenizo o Exmo. Deputado Aureo Ribeiro pela iniciativa. E, naturalmente, estou 100% disponível para debater após a reunião, assim como for demandado.\n\nMuito obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Em nome do Banco Central, o titular apresenta exposição técnica sobre a construção do arcabouço regulatório para criptomoedas, descrevendo o mapeamento do mercado (diverso, com VASPs, plataformas terceirizadas, operações P2P, DeFi e entidades offshore), os focos de FMI, Basileia, FSB e GAFI, o desenho preliminar do perímetro regulatório e os prazos de consulta e regras definitivas (até o primeiro semestre de 2024). Manifesta apoio à segregação patrimonial — que defendeu durante a tramitação do projeto de lei, ainda que não constasse do relatório final — e defende que, na ausência do dispositivo legal, mecanismos regulatórios busquem separar recursos de clientes e instituições; aberta para contribuir caso o Congresso retome a discussão legislativa. Considera as discussões parlamentares importantes por fornecerem subsídios ao regulador e vê a agenda de tokenização de ativos (incluindo o Drex) como potencialmente maior que a dos criptoativos tradicionais, com ganhos de eficiência e transparência. Ressalva desafios como entidades offshore fora do alcance do regulador e a definição do papel de 'crypto as a service', e observa que parte do mercado deseja e parte não deseja entrar no perímetro regulatório.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [
+            "Incluir as corretoras e distribuidoras (VASPs) e demais instituições reguladas no perímetro regulatório com possibilidade de prestar serviço de carteira de ativos virtuais, com regulação específica aplicável.",
+            "Manter fora da negociação de criptoativos as infraestruturas do mercado financeiro (para preservar sua neutralidade) e instituições de pagamento, financeiras e fintechs de crédito que operem apenas nesses negócios específicos.",
+            "Construir mecanismos na regulação que promovam a segregação de recursos do cliente frente aos da própria instituição, na ausência do dispositivo legal de segregação patrimonial.",
+            "Retomar a discussão legislativa sobre segregação patrimonial, com contribuição do Banco Central e de outros órgãos de Governo.",
+            "Aplicar às entidades virtuais regulação complementar do sistema financeiro, incluindo PLD/FTP, proteção ao consumidor, know your client, regras prudenciais, reporte contábil, governança, auditoria independente, compliance e segurança cibernética.",
+            "Regulamentar previamente os VASPs no aspecto de prevenção à lavagem de dinheiro e adotar a travel rule (identificação das partes), conforme recomendações do GAFI.",
+            "Realizar consulta ao mercado no início do quarto trimestre, consulta pública da regulamentação até o final do quarto trimestre de 2023 e emitir regras definitivas até o final do primeiro semestre de 2024."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00008",
+          "ordem_no_debate": 8,
+          "texto": " Muito obrigado, Excelência.\n\nEu acho que o primeiro aspecto que é importante enfatizar é o seguinte: assim que a regulamentação entrar em vigor, nós vamos ter um conjunto de corretoras que vão se adequar à regulação e vão entrar no bojo não só da regulação, mas do processo de autorização e no processo de supervisão do Banco Central.\n\nTudo que eu comentei na minha intervenção inicial, o fato de que vamos trabalhar formas de regulação prudencial, regulação de conduta, o atendimento à transparência, à contabilidade, vai se aplicar a essas entidades, que vão estar sob o nosso guarda-chuva. Esse conjunto de regras visa, no final, proteger o consumidor, o investidor e naturalmente a integridade do sistema financeiro como um todo.\n\nCom relação à pirâmide, eu acho que esse conjunto de regras protege. Com relação à perda decorrente de um ativo especulativo, o que é importante, e a CVM também foca muito nisso, é o fato de que o investidor tem que saber o risco que ele está correndo, pois um ativo especulativo pode tanto valorizar, quanto desvalorizar. Isso vai valer não só para o ativo financeiro, para o ativo virtual, como também vale para as ações nas bolsas, para os títulos de valores mobiliários, para os ativos financeiros, para ascommodities.\n\nO investidor, quando faz esse investimento, precisa conhecer o ativo, entender a dinâmica do ativo e avaliar se o grau de risco inerente àquele ativo, a volatilidade, se ele está disposto a assumir, se for o caso, aplica. Se não estiver, ele vai para um investimento mais baixo.\n\nMas, com relação à fraude, à pirâmide, o Banco Central vai ter todo tipo de instrumento para punir não só a instituição, mas também os seus dirigentes, os seus funcionários, se eles desrespeitarem a regra.\n\nAgora, é importante ficar claro também, como eu mencionei, Deputado, que há um conjunto dessas corretoras que éoffshore, operam lá fora, e o investidor, eventualmente, vai fazer uma aplicação via Internet. É uma entidade que não vai estar sob a nossa jurisdição. Não vamos ter o poder de regulação e de punição sobre ela. Quando entendemos e identificamos algum desvio em relação à legislação fora do nosso perímetro de supervisão, também fazemos as denúncias a órgãos competentes para que eles atuem, mas, quando entram em um perímetro de regulação e de supervisão do Banco Central, cabe ao Banco Central não só aplicar a regra, não só aplicar todo esse arcabouço regulatório, não só exigir transparência e todas as regras de prudência, mas também supervisionar e punir, se for o caso.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, dirigida a um Deputado, o titular (Banco Central) defende que, com a entrada em vigor da regulamentação, as corretoras passarão pelo processo de autorização e supervisão do Banco Central, submetendo-se a regulação prudencial e de conduta, transparência e contidade, com o fito declarado de proteger consumidor, investidor e a integridade do sistema financeiro. Sustenta que esse conjunto de regras protege contra pirâmides e que, havendo fraude, o Banco Central terá instrumentos para punir a instituição, seus dirigentes e funcionários. Quanto a perdas em ativos especulativos — incluindo ativos virtuais, ações, títulos e commodities —, afirma que o investidor precisa conhecer o ativo, sua dinâmica e sua volatilidade e decidir se aceita o risco. Alerta, porém, que corretoras offshore, acessíveis pela internet, ficam fora da jurisdição e do poder de punição do Banco Central, cabendo, nesse caso, apenas denúncias a órgãos competentes.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [
+            "Estender às corretoras de criptomoedas o arcabouço de regulação prudencial, regulação de conduta, transparência e contabilidade sob supervisão do Banco Central, com processo de autorização e supervisão.",
+            "Dotar o Banco Central de instrumentos para punir instituições, dirigentes e funcionários que desrespeitem as regras em casos de fraude ou pirâmide.",
+            "Encaminhar denúncias a órgãos competentes quando forem identificados desvios de legislação em entidades fora do perímetro de supervisão do Banco Central."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00010",
+          "ordem_no_debate": 10,
+          "texto": " Em relação ao cumprimento, por exemplo, para todo tido de instrumento financeiro, para um instrumento que é oferecido pelas instituições financeiras, há um regramento de que ela tem que prestar aquelas informações sobre o produto, como se dá a rentabilidade, qual o risco do produto, qual é o tipo de carência que o produto tem. Então, volto a falar, isso tudo, para uma instituição autorizada, regulada e supervisionada, é obrigatório, e nós fazemos todo o monitoramento dessas práticas, se estão sendo aplicadas, além da questão de prudência das instituições financeiras.\n\nEntão, vai caber ao cliente, se o apetite dele ao risco é compatível com o risco daquele instrumento. Conhecendo aquele risco, ele vai optar ou não por fazer aquele investimento.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador descreve o funcionamento do regramento vigente aplicável a instrumentos financeiros ofertados por instituições financeiras autorizadas, reguladas e supervisionadas: é obrigatório prestar informações ao cliente sobre rentabilidade, risco e carência do produto, práticas que passam por monitoramento regulatório e observância de prudência. Pronuncia-se de modo expositivo e técnico, sem tomar posição explícita sobre a regulação do mercado de criptomoedas. Encerra atribuindo ao cliente a decisão sobre a adequação de seu apetite de risco ao risco do instrumento, com liberdade de optar ou não pelo investimento, uma vez conhecido aquele risco.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00012",
+          "ordem_no_debate": 12,
+          "texto": " Eu acho que vários órgãos têm papéis distintos e complementares. O Alexandre foi muito feliz nessa interação contínua que temos com a CVM, mas não só com ela, temos com a SUSEP, que regula a parte de seguros, com a PREVIC, que regula fundos de pensão, interações também com outros órgãos como o Ministério Público Federal, com a Secretaria de Defesa do Consumidor. Então, cada um está na sua área de atuação, mas, naturalmente, há uma coordenação ampla nesse aspecto e uma contínua comunicação entre as partes.\n\nEntão, esse processo é dinâmico. Naturalmente identificamos quando envolve alguma atribuição ou algum tipo de interesse ou que se aproxima da esfera de competência da CVM. Nós nos reunimos e conversamos com eles. Já houve até ocasiões em que tivemos comunicados conjuntos. Isso é comum, inclusive o primeiro comunicado que soltamos sobre os riscos das criptomoedas — se não me engano, em 2016 ou 2017 — foi um comunicado que fizemos em conjunto, o teor era igual, mas as duas casas comunicaram à sociedade que aquele tipo de instrumento não era regulado ou supervisionado nem pelo Banco Central, nem pela CVM. Então, há essas atuações conjuntas.\n\nE isso vale tanto para a CVM quanto para os demais órgãos que ou de forma direta fazem parte do arcabouço geral de regulação e supervisão do sistema financeiro amplo — e vamos chamar amplo porque envolve o mercado de capitais também —, ou aqueles que são mais genéricos, como a Secretaria de Defesa do Consumidor, ou mesmo dos que fazem uma supervisão das questões criminais, como o Ministério Público.\n\nHoje em dia, o Banco Central tem uma interação muito grande com o Ministério Público em várias das suas câmaras. No caso da Diretoria de Regulação, temos uma interação muito grande com a 3ª Câmara, que é a Câmara de Defesa do Consumidor, que trata de assuntos referentes ao consumidor.\n\nEm relação a como o mercado vai também monitorar essa aplicação da norma, é muito comum, nos mercados regulados, as entidades se organizarem em associações.\n\nEntão, você tem associação dos bancos, associação dos bancos médios, associação dasfintechs, associação das empresas de consórcio, enfim, uma série de associações que olham o mercado e ajudam na interlocução daquele segmento com o órgão regulador — no caso, o Banco Central.\n\nVolta e meia, eles fazem denúncias ao órgão regulador e ao órgão supervisor de práticas que estão sendo desviadas do que foi definido na regulação e também adotam a autorregulação. A autorregulação é uma iniciativa deles, uma iniciativa para aspectos que não estão definidos especificamente na regulação ou que eles entendem que têm quer ir um pouco além do aspecto que está definido na regulação. Então, eles também adotam a autorregulação. Não cabe ao Banco Central criticar ou falar dessa autorregulação, se ela estiver alinhada com o que está na legislação e na nossa regulamentação. Nós vemos com bons olhos esse tipo de iniciativa deles de promover a autorregulação.\n\nAssim como em outros segmentos, já existem associações focadas nesse universo de criptoativos. São associações com as quais, inclusive, nós temos mantido diálogo, porque, geralmente, quando eles se organizam nessas associações, eles estão pró movimento de regulação, porque entendem que a regulação vai trazer mais segurança e mais credibilidade para o segmento.\n\nEntão, eles também têm munido o Banco Central de informações sobre como o mercado funciona, a quantidade de empresas, o perfil dos clientes que hoje atuam nessas empresas ligadas a essas associações. Esse aspecto, nós vemos com bons olhos, porque é um fortalecimento do segmento.\n\nPorém, como eu falei no início, Exmo. Deputado, sempre haverá aquelas empresas que vão buscar ficar à margem da lei. Aí, é um caso de polícia, um caso de órgãos de controle fora do Banco Central.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "OTÁVIO RIBEIRO DAMASO faz uma exposição predominantemente descritiva e técnica sobre a regulação do mercado de criptomoedas no Brasil, centrada na articulação institucional. Relata que órgãos como Banco Central, CVM, SUSEP, PREVIC, MPF e Senacon possuem papéis distintos e complementares, com interação contínua e comunicação permanente, tendo havido episódios de atuação conjunta — como o comunicado sobre riscos das criptomoedas, no qual Banco Central e CVM alertaram que aqueles instrumentos não eram por eles regulados ou supervisionados. Sobre o papel do mercado, ele defende, com juízo explícito de aprovação, a organização setorial em associações, a autorregulação alinhada à legislação e o diálogo com entidades de criptoativos, que munem o regulador de informações operacionais e contribuem para fortalecer o segmento, frequentemente em favor de regulação. Mantém postura confiante e explanatória, e encerra com a ressalva de que empresas que buscam ficar 'à margem da lei' configuram 'caso de polícia', a cargo de órgãos de controle externos ao Banco Central. A fala não expressa concordância ou discordância quanto a medida específica de regulação apresentada ao debate, consistindo antes em descrição de como se dá a coordenação regulatória.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00014",
+          "ordem_no_debate": 14,
+          "texto": " Em termos de interação, sim, nós estamos em plena interação com o mercado — não só com essas associações que eu comentei, mas também com outras associações de incumbentes que têm interesse em operar com criptoativos. Nós temos feito essa interação quase de forma permanente.\n\nTemos recebido também as empresas que atuam no mercado nacional. Essas empresas ainda não são sujeitas ao perímetro regulatório, assim como empresas e entidades que hoje ainda não atuam diretamente no mercado nacional, que não estão aqui, mas que têm interesse em constituir uma entidade no mercado brasileiro. Isso tudo vai alimentando o nosso processo de conhecimento desse setor, para naturalmente fazer uma regulação adequada.\n\nEsse processo de diálogo com o mercado é fundamental, porque é onde nós conhecemos. Nós temos condições de reunir elementos suficientes para dar o primeiro passo na construção da regulação. Eu considero que isso está avançado. Nós já vimos estudando isso há algum tempo, inclusive no período em que o projeto de lei estava em tramitação no Congresso. Nós fizemos várias investidas, inclusive conhecendo o funcionamento nos mercados internacionais.\n\nEm termos de cronograma, a nossa expectativa é fazer uma consulta sobre alguns aspectos agora, no início do quarto trimestre. Nós vamos perguntar ao mercado algumas questões específicas sobre como ele imagina que possa caminhar e como ele vê esses pontos específicos. Até o fim do ano, a nossa expectativa é colocar a proposta de regulamentação do negócio em consulta pública. Esse é um procedimento que o Banco Central vem fazendo e que traz inúmeros benefícios para a construção do arcabouço regulatório, principalmente no caso em tela, que é um segmento novo para nós, um segmento em que ainda estamos aprendendo. A nossa expectativa é que as regras definitivas, Exmo. Deputado, estejam divulgadas até o fim do primeiro semestre de 2024.\n\nOs desafios são enormes. Primeiro, há o desafio de conhecer o mercado e o negócio. Nós falamos de banco, mas conhecemos o banco, sabemos como funciona, sabemos como são os negócios, conhecemos a estrutura. Esse é um mercado novo, que estamos conhecendo agora. Então, eu acho que esse é o principal desafio, mas já avançamos bastante.\n\nHá desafios como a questão dessas empresas que, mesmo constituídas no Brasil, vão fazer de tudo para ficar fora do perímetro regulatório. Isso é um negócio que nós estamos estudando. Há as entidades prestadoras de serviço que estão fora do território brasileiro.\n\nQuanto à segregação patrimonial, naturalmente a blindagem total seria muito bem-vinda na legislação. Nós estamos estudando como podemos fazer — naturalmente, sem a qualidade que existiria se houvesse a definição no arcabouço legal —, como podemos trabalhar algum tipo de segregação para evitar que o recurso da entidade se misture com o recurso do investidor. Isso vai dar proteção plena para o investidor, caso a entidade tenha algum problema? Não. A única coisa que daria uma proteção legal plena seria naturalmente o dispositivo legal. Mas, até para fins de regulação, para fins de supervisão, em algumas situações, isso é extremamente importante, porque você não mistura os recursos da entidade com o recurso do investidor. Assim, naturalmente, a rentabilidade da entidade será com base naquelafeeque ela recebe pelas transações. Então, esse é um desafio.\n\nHá o desafio de empresas que prestam serviços, que são ascrypto as a services.\n\nO arcabouço regulatório para as finanças tradicionais, nós vamos aplicar ou não para esse novo tipo de entidade, que são os prestadores de serviços de ativos virtuais? Existe todo um arcabouço regulatório que é exigido para diferentes instituições financeiras. Nós estamos avaliando se vai ser aplicado e como vai ser aplicado também para essas entidades que vão entrar.\n\nEm relação aos incumbentes, ou seja, às instituições financeiras, aos bancos, às corretoras que hoje já operam no mercado, uma vez que a questão do ativo virtual, das criptomoedas, passe a ser objeto da regulação do Banco Central, não vemos nenhum problema em também operarem.\n\nComo eu mencionei na minha fala inicial, você tem várias formas de tratar isso. Estamos estudando. Precisa ser uma entidade segregada dentro de umaholding? Pode ser dentro do próprio modelo de negócio? Passa a ser um produto que ele vai oferecer, assim como oferece algum tipo de ativo financeiro? Como ele dá acesso à negociação de ação, ele também vai ter uma carteira de criptomoedas?\n\nEntão, há várias formas que podemos delimitar na regulação, assim como a instituição financeira depois tem a liberdade de falar:\"Isso aqui eu quero que esteja numa entidade específica e isso aqui eu quero que esteja na prateleira da minha entidade propriamente dita\". Você vê vários tipos de organização.\n\nUma vez que entre no perímetro do olhar do Banco Central, não vemos problema em a grande maioria das instituições financeiras também operarem com isso, naturalmente seguindo as regras prudenciais.\n\nExistem alguns tipos de instituições mais simples, mais focadas em um ou em outro produto, que não achamos adequado misturar. Como eu falei, bancos e corretoras são instituições que naturalmente vão ter interesse, e provavelmente nós vamos autorizar. Para alguns outros tipos, como as IPs, as instituições de pagamento, que têm um propósito muito específico, muito delimitado, talvez não seja o caso de autorizar essa nova carteira, como chamamos no âmbito da regulação.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, OTÁVIO RIBEIRO DAMASO trata da construção da regulação do Banco Central para criptoativos, mantendo foco estrito no tema e adotando postura técnica e confiante, com linguagem de procedimento regulatório e alguns recursos retóricos (comparação com o setor bancário, pergunta respondida pelo próprio orador, exemplo hipotético de organização societária). O tema recebido apenas nomeia assunto amplo, sem tese direcionada, de modo que a fala não expressa concordância ou discordância formal; ela registra o engajamento do regulador e apresenta opiniões substantivas sobre aspectos da construção normativa. Ele sustenta que o diálogo permanente com o mercado — associações de incumbentes, empresas nacionais fora do perímetro regulatório e entidades estrangeiras interessadas em ingressar no país — é fundamental para conhecer o setor, para o que invoca autoridade própria do Banco Central (experiência com bancos) e referência externa procedimental (oitivas, estudo de mercados internacionais, consulta pública), sem citar dados ou estudos específicos. Aponta cronograma: consulta sobre pontos específicos no início do quarto trimestre, proposta em consulta pública até o fim do ano e regras definitivas até o fim do primeiro semestre de 2024. Reconhece como desafio principal conhecer mercado e negócio novos, além de empresas que buscarão escapar do perímetro, entidades estrangeiras, serviços 'crypto as a service' e a definição de quanto do arcabouço prudencial tradicional será aplicado. Sobre segregação patrimonial, considera desejável a blindagem total, mas admite que a via regulatória alcança apenas trabalho parcial, insuficiente para proteção plena do investidor — reserva esta dependente de dispositivo legal. Quanto aos incumbentes, não vê problema na atuação de bancos e corretoras, via entidade segregada ou prateleira de produtos, com flexibilidade de organização e regras prudenciais, enquanto sugere não autorizar essa carteira a instituições de propósito específico, como as de pagamento.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [
+            "Realizar consulta ao mercado sobre aspectos específicos, no início do quarto trimestre.",
+            "Colocar a proposta de regulamentação do negócio em consulta pública até o fim do ano.",
+            "Publicar as regras definitivas até o fim do primeiro semestre de 2024.",
+            "Trabalhar algum tipo de segregação patrimonial, por via regulatória e de supervisão, para evitar que os recursos da entidade se misturem com o recurso do investidor.",
+            "Avaliar se e como o arcabouço regulatório das finanças tradicionais será aplicado aos prestadores de serviços de ativos virtuais.",
+            "Autorizar bancos e corretoras já operantes a operarem com criptoativos, seguindo as regras prudenciais.",
+            "Não autorizar instituições de pagamento a operarem essa nova carteira de ativos virtuais, dada sua finalidade específica."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "THIAGO BUENO",
+      "falas": [
+        {
+          "id": "f00004",
+          "ordem_no_debate": 4,
+          "texto": " Boa tarde a todos e a todas. Inicialmente, eu saúdo o Exmo. Sr. Aureo Ribeiro, Presidente desta Comissão Parlamentar de Inquérito. Saúdo também o Exmo. Sr. Deputado Federal Ricardo Silva, Relator da CPI, e estendo os meus cumprimentos a todos os Exmos. e Exmas. Parlamentares presentes, ao Sr. Otávio Damaso, representante do BACEN, e ao Sr. Alexandre dos Santos, representante da CVM.\n\nEssa questão de regulação envolvendo esses crimes de pirâmide financeira, esquemas Ponzi, envolvendo criptoativos, é algo relevante, urgente. E o Congresso Nacional, atento a isso, ano passado editou a Lei nº 14.478, que vem a ser regulamentada pelo decreto citado pelo Sr. Otávio, representante do BACEN, esse decreto de junho deste ano, que outorgou ao BACEN a atribuição para fazer a regulamentação.\n\nDesde 2009, com o advento do bitcoin, viu-se a possibilidade de efetivamente se fazerem transferências de valores diretamente entre as partes, sem que seja necessária a intervenção de qualquer terceiro, seja esse terceiro um agente do Estado ou uma instituição financeira. Essa possibilidade de fazer essa transmissão direta,peer-to-peer,acabou trazendo grandes implicações. E no enfrentamento a esse tipo de situação, como bem colocou o Sr. Otávio, as orientações dos órgãos internacionais têm se voltado aos VASPs —virtual asset service providers, ouexchanges, que são essas instituições que acabam fazendo o intercâmbio, a interlocução que permite a conversão dos criptoativos em moeda soberana.\n\nE quando falamos de utilização de criptoativos, especificamente para essa prática de crimes no âmbito do sistema financeiro, de crimes de pirâmides financeiras, uma facilidade que os criptoativos têm é a sua natureza intangível, porque eles não têm existência física, eles são virtuais. Não há o que se mostrar fisicamente, não há o que ser tocado, é algo intangível.\n\nEssa criminalidade que é fundada nos esquemas de pirâmide é muito antiga. Até o nome como é conhecido no sistema que se utiliza da língua inglesa éPonzi scheme, por conta de Ponzi, que foi um sujeito que, no começo do século passado, engendrou um esquema de arregimentamento de dinheiro de forma escalonada, de modo que quem estava no topo dessa organização estrutural recebia a partir do dinheiro que era retirado das vítimas que estavam no ponto mais baixo dessa escala piramidal.\n\nDesde então, são vários os exemplos que nós temos de instrumentos que são utilizados como chamariz para que as vítimas acabem sendo atraídas para esse tipo de crime. Eu me lembro de uma situação nos anos 90, que envolvia o comércio de gado, por exemplo. Com os criptoativos agora, é muito mais fácil fazer esse chamariz, porque não há o que se mostrar para as vítimas. Eu repito, os criptoativos não têm existência física. Então, isso é algo que torna mais fácil trazer a vítima para o esquema, porque quem está praticando essa conduta promete um ganho normalmente irreal, em pouco tempo, que acaba se valendo dessa arregimentação.\n\nOutro ponto que também facilita o esquema é a volatilidade. Por vezes, como esse mercado de criptoativos oscila muito, em situações em que o mercado está numa volatilidade ascendente, o preço está subindo, esses criminosos podem fazer dinheiro com essa oscilação, de modo que eles conseguem mais clientes e atraem mais vítimas. Então, vejam que, além dessa característica de intangibilidade dos criptoativos, a própria volatilidade pode contribuir.\n\nOutro ponto determinante, como bem citou o Sr. Otávio, é a falta de regulação. Ainda não existe uma regulação dos atores que trabalham hoje nesse sistema de intercâmbio, de conversão de moeda soberana, de real, em criptoativos.Como eu disse, a partir da edição da lei de dezembro do ano passado e como bem colocou o Sr. Otávio Damaso, o BACEN vem trabalhando nessa regulação a partir do decreto de junho deste ano. Haverá, sim, a regulamentação. Como bem colocado, mais do que fazer a regulação — isso já é um desafio enorme, porque são diversos os atores e os tipos de serviços que são prestados —, hão de ser feitas também, depois, as auditorias, as inspeções para fiscalização do cumprimento dessas regras, porque é a proteção dos consumidores, é a proteção do mercado, como bem disse o Sr. Otávio. Há toda uma série de atores sérios trabalhando nesse mercado. Eles querem a regulação, de modo que o mercado se mostre hígido, para que só os atores que têm bons propósitos possam efetivamente exercer suas atividades e alavancar essa ferramenta nova. Então, este é um ponto muito importante.\n\nAlém disso, é preciso que haja, em um segundo momento, após essa implementação, instrumentos capazes de fazer a auditoria, a avaliação e a penalidade, como existem hoje instrumentos já no mercado de valor mobiliário, e a CVM vem atuando com excelência há muito tempo. Inclusive, não quero entrar aqui no ponto da CVM, porque o Sr. Alexandre dos Santos, com muita propriedade, vai falar, mas a CVM, ano passado, elaborou um documento em que trazia as indicações das singularidades dos criptoativos, as diversas formas detokens, e como, a depender de como eles sejam oferecidos, eles podem constituir como contrato de investimento coletivo e ficar em atuação, sob intervenção da CVM.\n\nEste é um ponto muito importante também, porque os criptoativos são um gênero, e a partir deles foram desenvolvidas várias propriedades que permitem a utilização para as mais diversas formas. Começamos com bitcoin,em 2009, que era um sistema de transferência de valores, para a evolução, como bem colocou o Sr. Otávio, de uma economia tokenizada ultimamente.\n\nO último ponto que eu queria tocar, com relação à regulação, foi uma discussão que ocorreu também no projeto de lei que acabou sancionado, no ano passado, quanto a essa questão de proteção da higidez do mercado, de proteção do consumidor, que acabou sendo aprovada. Posteriormente, foi sancionada a criação do art. 171-A, que é uma modalidade de estelionato envolvendo criptoativos, ao passo que havia outra proposta de alteração da lei de crimes contra o sistema financeiro que incluiu o art. 4º-A, que previa a criação do crime de gestão fraudulenta deexchange, que é justamente essa entidade que hoje é chamada de prestadora de serviços de ativos virtuais na nova lei. Então, criava a figura de gestão fraudulenta deexchange, com uma qualificadora com penas mais graves, quando houvesse um esquema de pirâmide financeira.\n\nE a diferença é sensível do estelionato para o crime contra o sistema financeiro — sendo bem breve, só vou fazer uns pequenos apontamentos —, porque no estelionato a vítima é individualmente considerada, é o crime contra o patrimônio, enquanto que a lei de crime contra o sistema financeiro, a Lei nº 7.492, de 1986, já busca uma proteção macro.Ela busca, como o próprio nome da lei diz, a proteção do sistema financeiro. Inclusive, à época do processo legislativo, a Associação Nacional dos Procuradores da República apresentou um documento em que era feita essa comparação e defendida a aprovação desse art. 4º-A, porque, desse modo, poderiam fazer uma proteção maior do bem jurídico do sistema financeiro e das vítimas coletivamente consideradas, quando comparado com a alteração que ficou no Código Penal, a partir do art. 171-A.Bom, essas são as considerações que inicialmente eu queria fazer.\n\nColoco-me à disposição de todos e todas.\n\nObrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala recebida, o orador trata da regulação do mercado de criptomoedas no Brasil como questão relevante e urgente no enfrentamento de crimes de pirâmide financeira (esquemas Ponzi) e estelionatos. Afirma que a natureza intangível dos criptoativos e sua volatilidade facilitam a atração de vítimas e o funcionamento de fraudes, e que a ausência de regulação dos prestadores de serviços de ativos virtuais (VASPs/exchanges) agrava o problema. Defende uma regulação apoiada na Lei nº 14.478 e no decreto que atribuiu ao BACEN a regulamentação, seguida de auditorias, inspeções e penalidades para proteger consumidores e a higidez do mercado, com elogios à atuação da CVM e às orientações internacionais sobre VASPs. Sustenta uma preferência pela figura do art. 4º-A (gestão fraudulenta de exchange na Lei nº 7.492/86), acompanhando a Associação Nacional dos Procuradores da República, por tutelar macro o sistema financeiro, em contraste com o art. 171-A do Código Penal, que considera voltado ao patrimônio individual. Também registra que a regulamentação operacional ficará em aberto mediante atuação posterior do BACEN.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00016",
+          "ordem_no_debate": 16,
+          "texto": " Excelência, essas situações são casos que acabam provocando realmente... É uma situação demarketingjustamente para chamar a atenção para o produto. É preciso avaliar, caso a caso, qual é o grau de efetiva participação desse profissional que está sendo contratado com o que está sendo vendido, ou seja, qual é o grau de conhecimento dele a respeito disso.\n\nEntão, não consigo fazer uma análise aprofundada sem ter o conhecimento específico do caso.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Thiago Bueno trata as situações mencionadas como casos tipicamente usados de forma de marketing para chamar a atenção ao produto, sustentando que a análise deve ser feita caso a caso. Propõe como critério avaliar o grau de efetiva participação do profissional contratado e o grau de conhecimento dele a respeito do que está sendo vendido. No entanto, encerra fazendo uma ressalva expressa: sem o conhecimento específico do caso concreto, não consegue realizar uma análise aprofundada. Assim, oferece um enquadramento técnico (marketing e critério de responsabilização conforme conhecimento e envolvimento do contratado), mas se abstém de tomar posição conclusiva, não avançando em juízo sobre a regulação do mercado de criptomoedas.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00018",
+          "ordem_no_debate": 18,
+          "texto": " Excelência, a atuação do Ministério Público acaba sendo feita caso a caso, dentro da distribuição dos processos, que obedece ao princípio do promotor natural.\n\nComo já foi dito na minha apresentação, eu faço parte do Grupo de Combate aos Crimes Cibernéticos. Não houve nenhuma demanda para atuação desse grupo envolvendo qualquer caso de cripto. Então, eu, pessoalmente, inclusive na condição de integrante do grupo, não fui demandado para a atuação de nenhum grupo.\n\nNós sabemos que o rastreio pode ser feito de duas formas, falando de um modo geral. Como os registros são feitos emblockchaine nós temos ferramentas de fonte aberta, ferramentasopen source, é possível fazer a busca a partir delas. E nós temos as ferramentas comerciais, que são desenvolvidas por empresas que trabalham não só com órgãos de investigação e persecução penal, mas também com empresas do setor financeiro, para que justamente elas saibam os clientes com quem estão lidando e para evitar fraudes. O que se tem visto é que há um grau de eficiência muito maior quando há a atuação dessas ferramentas que são privadas.\n\nQuanto à atuação do Congresso Nacional no auxílio às investigações, eu volto a reforçar, como eu já disse na minha primeira fala, a grande importância da fundamental atuação do Parlamento brasileiro com a edição dessa lei de dezembro do ano passado, porque, a partir de agora, serão estendidas as obrigações que os atores do sistema bancário e financeiro têm que fazer: registrar suas transações, conhecer seus clientes, prestar informações para as autoridades estatais. Quando verificarem indícios de atividades criminosas, todos esses deveres que os atores do sistema bancário e financeiro tradicional têm já de longa data na estrutura do Estado brasileiro, asexchanges, as empresas prestadoras de serviços virtuais, a partir da edição da lei de dezembro do ano passado, com a regulamentação a ser feita pelo Banco Central, também terão como obrigação. Isso, sem dúvida, facilitará a atuação do Ministério Público.\n\nQuando tratamos de um caso, por exemplo, envolvendo o sistema financeiro tradicional, nós temos ferramentas hoje que, inclusive, são frutos de experiências produtivas no âmbito da ENCCLA, da qual participam o BACEN e a CVM. Por exemplo, nós temos a ferramenta SIMBA, um instrumento através do qual, a partir da autorização judicial, é disparada uma ordem eletrônica para todas as instituições bancárias no Brasil, para que seja feito o bloqueio de eventual numerário que estiver depositado numa instituição bancária. Isso é algo que nós não temos hoje para asexchanges, para as prestadoras de serviços de ativos virtuais. Com a atuação do Congresso, com o posterior decreto de junho e com a regulamentação do BACEN, nós poderemos também ter esse tipo de ferramenta aplicado para ativos virtuais.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Thiago Bueno descreve a atuação do Ministério Público como caso a caso, sob o princípio do promotor natural, e afirma que, como integrante do Grupo de Combate aos Crimes Cibernéticos, não foi demandado para atuar em nenhum caso envolvendo criptoativos. Em tom técnico, distingue duas formas de rastreio em blockchain — ferramentas de fonte aberta e ferramentas comerciais — sustentando que estas últimas apresentam grau de eficiência muito maior. Posiciona-se favoravelmente ao marco regulatório, enaltecendo a atuação do Congresso na edição da lei de dezembro, que estenderá às exchanges e prestadoras de serviços de ativos virtuais obrigações típicas do sistema bancário e financeiro, como registro de transações, KYC e prestação de informações às autoridades, o que, segundo ele, facilitará a atuação do Ministério Público. Cita ainda a ferramenta SIMBA, nascida da ENCCLA, que permite bloqueio eletrônico de numerário em instituições bancárias mediante autorização judicial, e aponta como lacuna a inexistência de instrumento semelhante para exchanges — deficiência que, em sua avaliação, deve ser suprida pelo decreto de junho e pela regulamentação do Banco Central, viabilizando bloqueios também em ativos virtuais.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ALEXANDRE PINHEIRO DOS SANTOS",
+      "falas": [
+        {
+          "id": "f00006",
+          "ordem_no_debate": 6,
+          "texto": " Muito obrigado, Exmo. Sr. Deputado Federal Aureo Ribeiro, Presidente desta Comissão, que é — é importante que registremos aqui — alguém que já tem prestado, na sua atuação parlamentar, um serviço público relevante em relação a essa temática dos ativos virtuais, dos criptoativos. Isso, inclusive, é distante da conjuntura atual, em que algumas questões surgem ou se notabilizam, algo que tem contribuído paulatinamente para elevar o nível de segurança jurídica no próprio arcabouço jurídico brasileiro, editado pelo Parlamento, como, aliás, deve ocorrer em qualquer Estado Democrático de Direito. As balizas, a moldura, realmente, de algo com o interesse público dessa característica, isso é algo que precisa mesmo ser editado aqui. Então, esse registro me parece oportuno e pertinente.\n\nTambém quero saudar aqui o Exmo. Sr. Deputado Federal Ricardo Silva, Relator desta Comissão, e saudar igualmente aqui os demais e as demais Exmos. e Exmas. Srs. e Sras. Deputados e Deputadas Federais que integram esta CPI.\n\nQuero também cumprimentar igualmente companheiros e parceiros aqui nesta bancada, o prezado Otávio Damaso, Diretor de Regulação do Banco Central; o Thiago Bueno, parceiro no Ministério Público Federal, Ministério Público Federal com o qual a CVM tem, em especial a partir da segunda metade da década de 2000, diversas atuações conjuntas ou coordenadas nas áreas administrativa, de interesse de cada qual, em que se pode contribuir reciprocamente, civil coletiva, tutela coletiva, inclusive com atuações já conjuntas em juízo, com medidas cautelares exitosas de bloqueio de recursos de possíveis praticantes do ilícito deinsider trading,uso indevido de informação privilegiada. Isso foi algo que ensejou, com a atuação, inclusive, da CVM como assistente de acusação, ainda em 2011, a primeira sentença penal condenatória no Brasil porinsider trading, a partir de um tipo penal que está no art. 27-D da Lei nº 6.385, de 7 de dezembro de 1976, que cria a CVM e dispõe sobre o mercado de capitais, algo que este Parlamento também entregou para a sociedade brasileira, com vigência a partir de 2002. Tivemos a primeira sentença penal condenatória em 2011, fruto do trabalho conjunto e coordenado. Temos ações civis públicas movidas em conjunto na área do mercado de capitais.\n\nComo também adiantou o Thiago — e o fez muito bem, Thiago, não se preocupe em adiantar —, nós temos parceria,é um trabalho articulado, temos diversas outras iniciativas de orientação e de troca de informações para que possamos contribuir, inclusive, com relação à temática de interesse mais direto desta CPI.\n\nCumprimento novamente o Thiago e, claro, todas e todos que nos assistem aqui na Casa do Povo, presencialmente ou remotamente.\n\nEu quero trazer aqui um cumprimento especial ao Deputado Aureo Ribeiro do nosso Presidente João Pedro Nascimento. Sabe V.Exa. como valorizamos o trabalho que esta CPI vem realizando, o que de interesse público está presente aqui. Temos uma contribuição direta com esta CPI, inclusive com o colega que aqui está, o Florisvaldo.\n\nDeputado, quero renovar aqui, em nome do João Pedro, da CVM, e em meu nome, que vamos seguir com a CPI, fazendo tudo o que pudermos, que seja necessário ou útil, e, depois dela, nos desdobramentos, nos frutos, nos produtos, naquilo que esta CPI apresente de proposição, inclusive, para que possamos continuar fazendo o que procuramos fazer até agora com V.Exa., nas demais iniciativas envolvendo essa área.\n\nDe outro lado, eu preciso fazer aqui um clássicodisclaimerde que falo pela CVM, mas, é claro, não vinculo todas as instâncias, atores e atrizes internos, procurarei aqui fazer uma fala institucional, sob minha responsabilidade direta.\n\nSenhoras e senhores, depois da fala do Otávio e do Thiago, fica sobremaneira facilitada a minha abordagem, não mais em relação a ativos virtuais e criptoativos em si, porque, como já bem delineado, com dados e informações, como disse o Otávio, alguns deles, inclusive, trocados entre nós, nós temos a CVM e o Banco Central, além da relação de coordenação, com base na lei, um convênio que conta com a minha atuação como administrador, junto com o grupo de coordenação, tendo como contraparte o Secretário Executivo do Banco Central, o Leonardo, e conta com participação ativa dos demais membros do Banco Central, sendo o Otávio um companheiro de longa data. Aliás, não apenas ali, Otávio, mas em diversos outros fóruns da administração central do Estado brasileiro.\n\nNesse convênio, vimos discutindo, há bastante tempo, as pautas, não com base no que cada um tem no seu mandato específico, mas de interesse do sistema financeiro como um todo. Daí me facilita bastante o que já disse o Otávio em relação à temática de cripto e também o Thiago, para que eu possa fazer uma abordagem agora mais em relação a uma ilustração que procurarei fazer sobre como os temas cripto e ativo virtual visitam a CVM sob as vestes ou sob a feição do que aqui nesta CPI está sob foco mais direto, que são as fraudes, mais especificamente com características de estrutura piramidal, ou ainda com estrutura de esquema Ponzi.\n\nO Thiago trouxe à lembrança o italiano, imigrante, dos Estados Unidos, que, na década de 10 do século findo, até a década de 20, efetivamente, trabalhou uma fraude muito conhecida, numa estrutura Ponzi, que acabou ganhando o seu nome, que na verdade tem bases essenciais semelhantes à pirâmide clássica, em que ele conseguiu, com uma fraude especulativa relacionada aos selos postais, cativar corações, mentes e investimentos, o que é mais problemático, para algo que na base não tinha, efetivamente, um empreendimento real, genuíno.Ali, basicamente, o que havia era o clássico esquema piramidal de financiamento daquelas pessoas, que, de alguma forma, tinham algo a receber do empreendedor em si, recursos e rendimentos daquelas pessoas que aportavam recursos, basicamente com aquilo que era aportado pelos demais participantes do esquema, até que aconteceu o que acontece em toda a pirâmide, com uma estrutura clássica, que data de séculos, o que envolveu especulação com tulipas, com todo tipo de ativo. A depender da conjuntura, aproveita-se que determinado ativo está no lado virtuoso, em destaque, para então o lado humano, da natureza humana, que não constrói, apropriar-se daquela possibilidade para também adaptar as suas fraudes, ainda que clássicas.Na verdade, a estrutura piramidal, por exemplo, levou, como todas e todos sabem, é notório, a uma pena de 150 anos de prisão para o Sr. Madoff, já falecido, que ensejou uma série de abordagens, seja na literatura, seja no cinema, seja em documentário. Por anos, houve a base de uma estrutura pirâmide/Ponzi. Esse senhor, no empreendimento que dizia existir, obteve bastante investimento, diga-se de passagem, de todo tipo de estrato social nos Estados Unidos ou ao redor do mundo, inclusive, de instituições e pessoas que se julgavam, naquela oportunidade, com total condição, pelos usos e costumes e pela diligência adotada, ordinariamente, de detectar vários pontos de atenção ou até de problemas naqueles investimentos.\n\nO que eu quero enfatizar? Em ativo virtual, cripto, em si, como tal, não há nenhum problema. De resto, ativo nenhum, em si, é um problema, como qualquer coisa cuja característica seja a de instrumento. Não se pode ver, num instrumento, um problema. Há neutralidade em relação ao instrumento. O uso é que muitas vezes acaba sendo fraudulento ou inadequado. E o que tem ocorrido com o ativo de que se trata, com cripto ou ativo virtual, é infelizmente, um uso crescente para a montagem de esquemas clássicos de pirâmide ou Ponzi.\n\nTrata-se de algo, por exemplo, que faz com que tenhamos na CVM, de 2017 até este momento, com base em levantamento que atualizei da nossa Superintendência de Proteção e Orientação aos Investidores, por denúncia, reclamação ou detecção, mais de cem casos de fraudes, com algum tipo de referência a ativo virtual ou a cripto e, nessas bases mais clássicas, com alguma variação. Isso tem sido levado à CVM, dado que ela não tem mandato específico em relação ao ativo virtual e cripto em si, como bem enfatizou o Otávio. Isso é algo que o Brasil não tinha e passou a ter com o aporte importante deste Parlamento. Agora, com o ato regulamentar da Presidência da República, o Banco Central vai se ocupar daquilo que tem consonância com o espectro dessa regulamentação.\n\nNo caso da CVM, ela não tem ingerência ou atuação em relação ao cripto em si, como de resto em relação a pirâmides, enquanto tais, ou esquemas Ponzi. Porém, isso sendo levado à CVM, é claro, uma vez detectado, faz com que ela adote as providências exigíveis, no tempo útil, inclusive, em parceria com as demais instituições interessadas. Nesses casos que eu mencionei — mais de cem casos —, a CVM, tomou as providências exigíveis de comunicar isso ao Ministério Público de cada Estado com atribuição e à Secretaria Nacional do Consumidor, mais especificamente para a atuação do seu Departamento de Proteção e Defesa do Consumidor.\n\nEm relação ao dinamismo disso, ainda há, inclusive, situações, neste momento, sob apreciação, com chance de terem o mesmo tipo de providência, até porque nós temos um ilícito criminal já bastante antigo na nossa legislação, na Lei dos Crimes Contra a Economia Popular, Lei nº 1.521, de 1951. O art. 2º, inciso IX, já prevê como crime, há bastante tempo, bola de neve, pirâmide, Ponzi, qualquer coisa correlata. Então, há essa comunicação para as providências exigíveis. Mas não é só isso o que a CVM faz em relação a este tema, embora este tema não tenha relação direta com o seu mandato legal.\n\nA CVM, ciente, consciente do seu papel enquanto integrante do Estado, enquanto reguladora de um segmento relevantíssimo para o desenvolvimento econômico do País, conforme, aliás, prevê, precipuamente, o art. 192 da Constituição Federal, preocupa-se com tudo aquilo que traga, no mínimo, abalo à credibilidade do Sistema Financeiro Nacional. Então, ela atua em articulação com as demais instituições, com o próprio Banco Central e também tem iniciativas de educação e de orientação, inclusive em conjunto com a Secretaria Nacional do Consumidor.\n\nHá algum tempo, temos a edição de um boletim conjunto explicando o que é pirâmide financeira, o que émarketingmultinível, algo lícito, por vezes, utilizado indevidamente para informar esquemas piramidais. Sabemos que a venda direta, omarketingmultinível dá a remuneração por isso e por aquilo que se faz, por se vender produtos e serviços ou por se trazer outros participantes e, de alguma forma, concorre para a sua atuação depois nesse negócio, que é um modelo de negócio ilícito. Muitas vezes, isso é utilizado para, na verdade, fazer-se algum esquema piramidal. No fundo, no fundo, não há um negócio real, como não há de resto em pirâmides, ou, pelo menos, não há claramente um negócio que genuinamente se persiga ali.\n\nNa verdade, no fundo, muitas vezes, o que se tem na base é o financiamento constante de quem está entrando e daqueles que já estão ali, até que entre em colapso, seja porque não há mais condição, mesmo matemática, de se arcar com o que cabe aos demais, seja porque alguém, por exemplo, corre e diz que há algum problema. Aí é aquela coisa clássica de corrida aos bancos, como nós conhecemos bem. Ficam indo atrás, infelizmente, como já foram, da nossa área de atuação mais específica, quando se trata de contrato de investimento coletivo, que é valor mobiliário. Ficam atrás dos animais. Já tivemos problemas com questões envolvendo criação de avestruz, engorda de boi, engorda de camarão, plantio de palmeira real, tudo aquilo que se possa empacotar como empreendimento e levar ao público investidor como contrato de investimento coletivo.\n\nEu vou falar mais à frente disso, que não se confunde com pirâmide, embora muitas vezes carregue também, na sua configuração completa, uma estrutura piramidal, junto com o que é especificamente o contrato de investimento coletivo colocado.\n\nNo caso das pirâmides propriamente ditas, a CVM tem esse papel de orientação e de educação de qualquer forma de fraudes em geral. Nosite, há orientações sobre isso. Na Secretaria Nacional do Consumidor, há também ositecom orientações. Eu recomendo que isso seja visitado.\n\nE mais ainda a CVM fez. Em 2022, como o Dr. Thiago, querido amigo, sabe bem, nós coordenamos com a Polícia Federal a Ação nº 8, de 2022, da Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro — ENCCLA, na qual estamos integrados atuando com os parceiros aqui em outras instituições de controle, regulação e persecução. Inclusive, eu atuo, pela CVM, no Gabinete de Gestão Integrada da ENCCLA.\n\nA Ação nº 8, de 2022, gerou resultados positivos no tratamento de questões envolvendo pirâmides e prevenção à lavagem de dinheiro, ao financiamento do terrorismo e à proliferação de armas de destruição em massa, como, por exemplo, um anteprojeto de lei que busca o aperfeiçoamento e a atualização sobre os tipos de pirâmides, mediante a identificação de esquemas que possuem características típicas. Inclusive, delineou-se melhor esses tipos, de forma que se identifique aquilo que é da atribuição e da competência da esfera federal ou da atribuição e competência da esfera estadual, a fim de que haja, então, condições de maior segurança jurídica para tratar do tema com o delineamento adequado e com as consequências cabíveis.\n\nEsse projeto está tramitando hoje no Senado Federal. A Senadora Soraya Thronicke está à frente desse anteprojeto e de sua decorrência naquela Casa. Inclusive com o papel que vem desempenhando nesta temática de cripto e no que vai vir de subsídio desta CPI, parece-me que o diálogo interno no Parlamento sobre o conteúdo que ali está, em alguma medida, para qualquer iniciativa nesse sentido, é algo que vale a pena e para o que já nos oportunizamos a seguir contribuindo.\n\nEm verdade, com esta ação, de alguma forma, nós coroamos um trabalho que vai além da preocupação só com o mandato, e é importante dizer que a CVM não tem jurisdição específica e direta com relação à cripto, pirâmide ou Ponzi.\n\nOutro ponto que eu quero tratar é a questão das pirâmides em geral. Nós temos algo preocupante, que é o fato de que, em 2020, em uma das fases mais agudas da pandemia vivenciada no Brasil e ao redor do mundo — depois de quase 100 anos de um fato que nem semelhante foi, mas que até tentam aproximar, pois foi impactante para a conjuntura da época quase tanto quanto para algumas pessoas agora —, naquele auge, com a vulnerabilidade humana no nível em que estava, o fraudador, o que não constrói se aproveita, e isso é historicamente comprovado. Lavagem de dinheiro, ilícitos de toda ordem e o índice desse tipo de fraude também cresceu.\n\nPara terem uma ideia, eu tenho uma atribuição na CVM, como Superintendente Geral, de fazer comunicações dos indícios de crime de ação penal pública. E houve um recorde do número de questões envolvendo pirâmides ou fraudes naquele ano. Em um universo de 325 comunicações, 175 envolviam esta temática. É algo realmente alarmante. Eu já tenho mais de 30 anos na CVM, contando com o primeiro ingresso como estagiário. Após sete funções, virei Procurador Federal de carreira. Ainda advogado concursado lá, fui Procurador-Chefe durante muitos anos. Já estou há quase 12 anos como Superintendente Geral e posso dizer que a situação é alarmante, inclusive por ter tido vivências em diferentes posições nesse trem do Estado Brasileiro, na lida com isso. Foi algo que realmente me impactou.\n\nPassando muito rapidamente ao que é de fato da jurisdição da CVM, entra o que é valor mobiliário e, mais especificamente quanto ao interesse maior desta CPI, o que é ofertado publicamente como um valor mobiliário, um contrato de investimento coletivo ou um título que seja levado a público investidor, público indeterminado, qualquer pessoa interessada, onde se acene uma perspectiva de resultado positivo, por exemplo, um rendimento, havendo um empreendimento subjacente, que pode ser qualquer coisa lícita que caracterize a possibilidade de um empreendimento. Circunstancialmente pode haver cripto e tudo aquilo de que já falei, como criação de avestruz, engorda de boi, plantio de palmeira real, etc.\n\nUma vez levada a informação dessa forma ao público investidor e o aporte sendo feito — e a condução disso é preponderantemente do empreendedor que coloca aquilo ou de terceiro —, está caracterizado um valor mobiliário. Se isto estiver posto de verdade, não em uma estrutura piramidal ou um esquema Ponzi puro e simples, embora possa haver algo com essa característica também, é considerado um ilícito do mercado de capitais. A partir daí, cabe atuação da CVM, como quando, por exemplo, há algum ator ou algum prestador de serviço nela regulado ou com essa característica também.\n\nUma vez posto, trata-se de um ilícito da área do mercado de capitais, e, a partir daí, a CVM pode atuar, como quando, por exemplo, há algum ator ou prestador por ela regulado que pratique atos envolvendo cripto fora do balizamento aplicável.\n\nNo caso de oferta pública irregular de contratos de investimento coletivo envolvendo cripto, há também a caracterização de um crime previsto na Lei nº 7.492, de 1986, que tipifica os crimes do colarinho branco. Em seu art. 7, inciso II, mais especificamente, há o coração do que é essa ilicitude de colocar publicamente títulos — no caso o valor mobiliário e contrato de investimento coletivo — sem o registro e a autorização da autoridade competente.\n\nEnfim, senhoras e senhores, esse é um balizamento inicial. Eu só quero enfatizar o que o Otávio disse. Como eu falei, nós temos uma articulação — e ele já tinha adiantado — permanente. Nós temos esse convênio. Inclusive, eu atuo na coordenação, na administração direta, e estamos tratando do tema tokenização e de ativos virtuais, com a prioridade que o tema merece, independentemente dos mandatos específicos.\n\nTemos um subgrupo dedicado somente para tratamento de tokenização e de ativos virtuais, não é mesmo, Otávio? Portanto, embora o Banco Central tenha a competência — e agora bem delineada — para, naquilo que lhe cabe, tratar das questões envolvendo ativos virtuais, não se fará, bem como já não está sendo feito, nada para o interesse do Sistema Financeiro Nacional como um todo ou para a estabilidade financeira doméstica ou transnacional, nada disso passará à margem de uma atuação articulada de conversação e intercâmbio, para que, inclusive, prevenirmos a arbitragem regulatória em relação àquilo que remanesça para a CVM, que, volto a dizer, de qualquer forma, envolve valores mobiliários.\n\nÉ importante lembrar que essa questão da estabilidade financeira, especialmente depois da crise que eclodiu em 2008 e seus desdobramentos de crise financeira para crise econômica, é um aprendizado que temos. Uma das recomendações centrais que proveio de tudo aquilo foi a de que as instituições reguladoras de sistemas financeiros precisam, cada vez mais, se articular e ter um olhar para a estabilidade como um todo.\n\nPara encerrar, senhoras e senhores, eu queria apenas lembrar um clássico ensinamento, que inclusive está na boca do povo, que é o mais afetado — é por isso que estamos falando aqui:\"Quando houver algum aceno de investimento bom demais para ser verdade, assuma que não é verdade, ainda que excepcionalmente possa ser\". Por que estou falando isso? Porque se trabalharmos somente a ideia do que é claramente lícito ou ilícito, não vamos caminhar bem nessa seara. Entre o fraudador e a vítima, pura e genuína, existe sempre no meio a ideia de achar que se conseguiu uma coisa melhor do que os demais, mesmo que tudo indique que não está razoável diante da comparação com coisas semelhantes. Portanto, não pense apenas se o que você vai fazer é ou não uma ilicitude. Na dúvida, como uma placa de trânsito sabiamente diz, não ultrapasse.\n\nMuito obrigado. Boa tarde. Permaneço aqui à disposição, bem como a CVM, o Presidente João Pedro e todos os demais.\n\nMuito obrigado, Sras. e Srs. Deputados.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador, em nome da CVM, sustenta que criptoativos e ativos virtuais são instrumentos neutros, sem problema em si mesmos, sendo o uso indevido — crescente — o que enseja fraudes clássicas de pirâmide e esquema Ponzi. Reporta mais de cem casos com referência a cripto comunicados pela CVM desde 2017 e um recorde de comunicações de indícios de crime em 2020 (175 de 325), postura que embasa sua avaliação de situação alarmante, sustentada em sua trajetória de mais de 30 anos na autarquia. Esclarece que a CVM não tem mandato direto sobre cripto, pirâmide ou Ponzi, mas atua sobre ofertas públicas irregulares de contratos de investimento coletivo (valores mobiliários), comunicando ilícitos ao MP estadual e à Senacon, e prestando orientação educativa em conjunto com o Banco Central e a Senacon. Destaca a articulação permanente entre CVM e Banco Central (convênio com subgrupo sobre tokenização), a atuação na ENCCLA, cuja Ação nº 8/2022 resultou em anteprojeto de lei sobre tipos de pirâmide em tramitação no Senado, propondo diálogo interno no Parlamento com subsídio da CVM. Defende a coordenação institucional para evitar arbitragem regulatória e encerra com alerta ao investidor: oferta bom demais para ser verdade deve ser tratada como não verdadeira, e, na dúvida, não ultrapassar. A apresentação de agradecimentos e saudações é estritamente procedimental.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [
+            "Realizar diálogo interno no Parlamento, envolvendo as iniciativas legislativas sobre tipos de pirâmide já em tramitação, para contar com o subsídio da CVM.",
+            "Adotar, como orientação a investidores, o princípio de assumir que oferta de investimento bom demais para ser verdade não é verdade (na dúvida, não investir)."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00020",
+          "ordem_no_debate": 20,
+          "texto": " Muito obrigado, Exmo. Sr. Deputado Presidente Aureo Ribeiro.\n\nEu vou sublinhar aqui, aproveitando o ensejo, o que disseram o Otávio e o Thiago em relação aos aspectos da regulamentação específica no que diz respeito ao ativo virtual cripto enquanto tal.\n\nDe fato, como o Otávio, em especial, adiantou e agora o Thiago saudou o contexto em que está inserido, na verdade, depois desse aporte relevantíssimo pelo Parlamento — repetindo, Exmo. Sr. Presidente Aureo: inclusive com uma atuação de V.Exa. que precede no tempo e em muito o que se faz neste momento nesta CPI —, depois de ato presidencial de regulamentação, temos tudo que se delineará, em especial no âmbito do Banco Central, quanto à regulamentação do ativo virtual de cripto em si, enquanto tal.\n\nEntão, não temos propriamente na CVM, como primeira razão para isso, aquele fato de que ela... No seu mandato legal específico, ela não tem papel com relação a cripto ou ativo virtual em si. Aqui procurei lembrar alguns casos que já tivemos de oferta pública de contrato de investimento coletivo envolvendo qualquer tipo de ativo ou empreendimento que se possa licitamente erigir. Falei aqui de avestruz, plantio de palmeira-real, etc. Cripto, o ativo virtual em si, está envolto em algo com aquelas características que mencionei de contrato de investimento coletivo levado a público investidor que aporta seus recursos na expectativa de um resultado positivo. E o que se fará ali, em termos de gestão, é algo feito pelo empreendedor que coloca isso ou por um terceiro por ele indicado. Uma vez presente isso, sim, a CVM tem atuação. Circunstancialmente, havendo ativo virtual lá, haverá uma atuação específica, que envolve a partida para se fazer isso licitamente. É claro que é possível fazer licitamente. Antes de mais nada, é preciso um registro na CVM ou a dispensa desse registro. Uma vez não se fazendo isso, há irregularidade no âmbito da CVM.\n\nEntão, não haverá propriamente algo de regulamentação específica. Porém, eu quero sublinhar — é muito pertinente, Exmo. Sr. Presidente, essa indagação — aquele aspecto da articulação com o Banco Central no convênio, com o Ministério Público Federal naquela atuação articulada com essas históricas atuações, com o termo de cooperação que temos desde 2008, que prorrogamos, neste ano, pela terceira vez, entre a CVM e o Ministério Público Federal, no qual trabalhamos, inclusive, com relação à dinâmica dos acordos de colaboração e de leniência, acordos de supervisão, termos de compromisso e acordos de não persecução, como um que recentemente foi aprovado pelo colegiado da CVM. Tudo isso seguirá, porém nós não temos na pauta específica da CVM, antes de mais nada, por conta daquele mandato legal que aqui delineei, algo programado para tratar do ativo virtual enquanto tal.\n\nPorém, essa pergunta me dá também outra oportunidade, Excelência. Aliás, também me dão outra oportunidade essas perguntas que tratam de eventual regulamentação futura quanto a cripto e ativo, que não haverá, como eu já esclareci, por essas razões. Mas trago aqui a lembrança de que, quando isso caracteriza valor mobiliário, é preciso ter atenção, sim, para a regulamentação existente no âmbito da CVM. Então, por exemplo, se alguém vai ofertar publicamente, fazer distribuição pública de valores mobiliários, há a necessidade de observância da Resolução nº 160, de 2022, com registro, dispensa e uma série de requisitos baseados essencialmente no princípio central da regulação de mercado de capitais. Nesse campo, há algo com inspiração inclusive na experiência estadunidense que antecedeu ocrashda Bolsa de Nova York e tudo que dali decorreu. Inclusive, é claro, isso informou outros fatores, como sabemos, até a grande depressão.\n\nO princípio a que me refiro aqui é o princípio dofull and fair disclosure, o princípio da transparência, o princípio da informação completa, precisa, consistente, para que o investidor ou a investidora do outro lado, como juiz competente por seus investimentos, como bem aponta a literatura especializada aqui e ao redor do mundo, possa ter condições, em simetria com qualquer outra ou outro, de decidir se aporta os seus recursos para aquele empreendimento; se retira os recursos no momento em que entender que é o caso; se se desfaz daquilo — ele adquire, vende, desfaz-se ou mantém. Isso vale para potenciais investidores também. Esse princípio marca a regulação da CVM em termos centrais nessa área e, por exemplo, está na base de uma regulamentação com uma distribuição de valores mobiliários, que está lá em termos centrais colocada hoje na Resolução nº 160, de 2022.\n\nPorém, também me dá outra oportunidade importante o rol de indagações, Exmo. Sr. Presidente Aureo, quando se menciona aqui o aspecto relacionado com regulamentação de cripto, não obstante o meudisclaimer, para que eu fale sobre algo que o Thiago elogiou — eu agradeço ao parceiro Thiago. Quero dizer uma vez mais, Thiago, que isso que foi feito na CVM, como de resto, com a sua regulação em geral, é algo que se alimenta e se informa, inclusive, pelos aportes do Ministério Público Federal, assim como da sociedade em geral. A CVM tem consultas públicas permanentemente. É bastante ativa nisso a CVM. Bastante ativo é o ambiente do mercado regulado, o rol de participantes do mercado regulado.\n\nNós tivemos lá toda uma discussão que embasou a edição do Parecer de Orientação nº 40, de 2022, mencionado aqui pelo Thiago. Se é verdade que não trata de cripto enquanto tal como algo da jurisdição da CVM, ele consolida toda a regulamentação da CVM pertinente às atividades e prestações de serviço no âmbito da autarquia, com foco no que se possa fazer envolvendo cripto. Ele marca muito bem ali também que um vetor central a ser observado é esse da transparência da informação, que está embasado, em última análise, no princípio maior da regulação, dofull and fair disclosure.\n\nEntão, enfatiza isso e traz uma série de nuances sobre aquilo que se pode fazer na área do mercado de capitais quando houver valor mobiliário circunstancialmente com cripto. Por exemplo, liquidantes, analistas de valores mobiliários, qualquer intermediação, tudo isso deve observar os ditames da regulação, se estiver por lá, circunstancialmente, criptoativo virtual, mas, na verdade, tratando a coisa ali de valor mobiliário colocado.\n\nEsse parecer também traz algo importante, que já foi lembrado aqui e que esta Casa tem tido o cuidado de fazer. Aliás, o Exmo. Sr. Deputado Federal Aureo, já no início da CPI, se me permite, fez questão de dizer, publicamente, que não se estava a tratar nesta CPI de algo que viesse na contrariedade do que de lícito possa se fazer nessa área. O ativo virtual, o criptoativo, não é, enquanto tal, lícito ou ilícito. Lembrem-se daquilo que falei mais cedo e lembrei aqui: ele é um ativo, é um instrumento. Ele é neutro. O uso dele pelo ser humano é que pode se tornar problemático ou até irregular.\n\nNessa perspectiva também, a CVM enfatiza no parecer algo de baliza já existente na sua seara, relacionado com o lado virtuoso do criptoativo, do ativo virtual, aquela representação digital, por meio da \"tokenização\", de algo que envolva bem, direito, etc., e que possa, na seara da CVM, se configurar. A CVM tem trabalhado muito na pauta de, por exemplo, inovação. Há um olhar para isso e para o que está adjacente a isso, a própria tecnologiablockchain, etc., para eventualmente ter mais segurança, inclusive a regulação com relação a vários aspectos da prestação de serviços no mercado.\n\nEntão, a CVM faz menção a isso, a título do que cabe ali em termos de inovação, inclusive do ponto de vista do que precisarmos fazer em relação a essa seara. Quando houver valor mobiliário ou algum interesse nisso, nas tecnologias adjacentes, no que de virtuoso há ali, há inclusive a perspectiva dosandbox, do aprendizado conjunto do regulador e do regulado com relação às inovações, de forma que ele aprenda, balize, mas não sufoque ou até mate sem querer as inovações com uma regulação com o mesmo peso e a mesma característica daquilo que já seja regulado tradicionalmente. Há todo um cuidado com isso. Aliás — não é, Otávio? — o nosso Banco Central temsandbox, a SUSEP temsandbox, assim como as diversas parceiras e os diversos parceiros que estão conosco no COREMEC e em diversos órgãos. Isso se comunica. No nosso convênio, nós temos trocas constantes em relação à nossa experiência comsandboxnesse aprendizado conjunto, inclusive com o regulado. Então, nós temos também esse lado virtuoso. Esse parecer traz uma abordagem sobre isso.\n\nÉ importante dizer mais: nós temos um Laboratório de Inovação Financeira. A CVM, com outros atores, outras instituições, vem atuando diretamente ali, no seu âmbito. Há um grupo de trabalho, entre outros, voltado à inovação. Ele inicia com foco emfintechs, mas trabalha uma série de aspectos de inovação. Inclusive, ali também se discute potencialidade, aquilo que, envolto na perspectiva virtuosa no que diz respeito a ativo virtual ou criptoativo, possa trazer algo realmente positivo não só no âmbito econômico regulado, mas para a sociedade em geral.\n\nObviamente, há reguladores que respeitam — como a CVM, o Banco Central e outros reguladores —, que precisam e que fazem o tempo inteiro o balizamento constitucional do livre empreender, do livre investir, a partir do art. 170 da Constituição, de forma que o Estado aqui não venha para deter as inovações, não venha com preconcepção sobre aquilo de novo que ocorrerá, porque isso seria uma contradição com a regulação de um dinâmico domínio econômico. Não! Ele de alguma forma olha para isso, aprende e regula, fixando as balizas e salvaguardas mínimas, para que as coisas ocorram ali apenas nas condições de mercado. Ele vai atuar preponderantemente quando alguém faz algo que seja o não mercado.\n\nEnfim, Excelência, essa seria a contribuição neste momento.\n\nMuito obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala, Alexandre Pinheiro dos Santos sustenta que a CVM não editará regulamentação específica sobre criptoativo enquanto tal, por isso extrapolar seu mandato legal (competindo a regulamentação ao Banco Central após ato presidencial), mas a CVM atua quando o ativo se configura como valor mobiliário ou quando há oferta pública de contrato de investimento coletivo (exemplificando com avestruz e plantio de palmeira-real), exigindo registro na CVM ou dispensa, sob pena de irregularidade. Reforça que, havendo valor mobiliário, aplicam-se a Resolução nº 160/2022 e o princípio do full and fair disclosure (transparência e informação completa ao investidor), lembrando a experiência estadunidense anterior ao crash da Bolsa de Nova York. Valida o parecer de orientação nº 40/2022, a articulação da CVM com Banco Central e MPF (termo de cooperação desde 2008, com acordos de leniência e não persecução) e as iniciativas de sandbox e de inovação (Laboratório de Inovação Financeira, tokenização), defendendo, com base no art. 170 da Constituição, regulação que balize sem sufocar inovações. Por fim, posiciona-se de modo assertivo ao afirmar que o criptoativo é instrumento neutro, sendo o uso humano o que pode se tornar irregular, em consonância com o escopo lícito da CPI.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [
+            "Promover, no âmbito da CVM, aprendizado conjunto entre regulador e regulado por meio de sandbox, para balizar inovações (incluindo tokenização e tecnologias adjacentes de criptoativos) sem sufocá-las com regulação pesada equivalente à já tradicional.",
+            "Mantêa articulação institucional entre CVM, Banco Central e Ministério Público Federal (via convênios e termos de cooperação, inclusive em acordos de colaboração, leniência, supervisão e não persecução) como forma de atuação coordenada sobre criptoativos."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00022",
+          "ordem_no_debate": 22,
+          "texto": " Muito obrigado, Exmo. Sr. Presidente Aureo.\n\nEm realidade, na oportunidade, eu enfatizo esse ponto do Laboratório de Inovação Financeira. De fato, esse nosso laboratório não é exatamente a mesma experiência, mas nós temos esse intercâmbio, inclusive no convênio dessas experiências. No nosso Laboratório de Inovação Financeira, naquela vertente do grupo,fintechse aspectos de inovação, com toda a participação ativa de diversas atrizes e atores no âmbito do mercado e interessados em geral também da sociedade, nós temos, sim, um olhar para esse tipo de coisa no entorno do ativo virtual, inclusive as tecnologias adjacentes e tudo que dali pode advir de positivo, até mesmo no âmbito daquilo que hoje se diz na administração central — temos agora uma pauta priorizada sobre isso — do ambiental, do social, da governança, do famoso ASG ou, em inglês, ESG, etc., das coisas relacionadas com sustentabilidade.\n\nComo tem dito e repetido o Presidente João Pedro Nascimento, o futuro é verde e digital. Boa parte do que se pode fazer ou do que já se vem fazendo com ativo virtual pode, sim, contribuir inclusive nessa pauta. Temos coisas com tecnologia adjacente que têm ajudado muito em relação ao controle daquilo que é a origem de alimentos. O rastreamento, nas pautas de sustentabilidade, é algo importante. Isso vem sendo veiculado.\n\nEu até aproveitarei o ensejo, se me permite S.Exa., para falar de um caso específico do rol anterior, porque me recordei agora de que houve menção a ele, e também para responder à pergunta, claro, sem entrar em detalhamentos agora, que inclusive se referem a um trabalho técnico. Eu, como Superintendente-Geral, faço a supervisão e a coordenação das áreas técnicas da CVM, inclusive dessa que trata desse assunto. Porém, é um trabalho diretamente feito no âmbito da área técnica. De todo modo, eu posso, sim, mencionar aquela situação de ETF que foi trazida.\n\nAquilo ali envolve um ETF, um fundo de ativos. No fundo, no fundo, o que nós temos é, sim, algo que tem cripto e ativo virtual no investido, digamos assim, no exterior, e não há problema nenhum do ponto de vista da regulação brasileira. Na época, isso se baseou na Instrução nº 359, de 2002 — hoje é tratado na Resolução nº 175, da CVM —, e em ofícios circulares da nossa área técnica competente, que é a Superintendência de Supervisão de Investidores Institucionais, que está à testa hoje mais diretamente da regulação da indústria de fundos no nosso âmbito.\n\nAliás, a indústria de fundos brasileira é das mais relevantes hoje ao redor do mundo. Sabemos que o mercado de capitais brasileiro vem se desenvolvendo de maneira importante, em especial nos últimos anos. Passamos de 5 milhões de CPFs no ambiente da Bolsa, da B3, ainda no ano passado. Por muito tempo, até 2018, giramos com algo abaixo de 1 milhão de CPFs. Temos hoje algo em torno de 700 companhias sob a jurisdição da CVM. Mais especificamente nesse âmbito, eu destacaria as companhias abertas, aquelas que têm aptidão para levar suas ações, seus títulos e seus valores mobiliários a poupadores populares\n\nNo caso daquele ETF, o que se compreendeu foi que aquilo era algo que se poderia fazer. Aquele ativo era elegível. Aquilo era licitamente algo que se poderia fazer. E o que se poderia fazer em termos de investimento ali... É claro que, não obstante isso — e, nessa oportunidade, nós temos, inclusive, ofícios circulares da área que se desenvolveram ali —, houve orientação quanto ao balizamento que já estava na regulação, mas com orientações e explicações típicas de ofícios circulares, para os prestadores de serviços em relação à diligência que devem adotar, no interesse do cliente e segundo a análise daquilo que se está a fazer em termos de investimento. Neste caso ou em casos semelhantes, há, sim, um balizamento para se fazer.\n\nAliás, é importante enfatizar que a vida, ordinariamente, é lícita. Nós todas e todos sabemos bem disso. E V.Exas. têm essa assunção. A vida não é ilícita, a vida é lícita. O ilícito nos visita porque isso, antes de mais nada, é da natureza humana. Então, tudo que falamos a respeito de qualquer coisa,a priori, deve ser sobre o que há nisso de lícito, de correto. Então, sim, pode-se fazer aplicação naquela forma que se fez naquele fundo de ativos, desde que preenchidos os pressupostos legais para isso, desde que os prestadores de serviços regulados pela CVM respeitem o balizamento para o seu atuar, no interesse do cliente, com a diligência mínima, com os controles necessários para isso, com prestação de contas à sociedade. Por isso, são autorizados na CVM.\n\nÉ possível ofertar publicamente contrato de investimento coletivo que envolva ativo virtual. É claro que se pode fazer isso! O ativo virtual é lícito em si. Vai ter até uma regulação agora. O que não se pode é levar isso ao público investidor com aquelas características que eu mencionei, por exemplo, sem o registro ou desrespeitando o princípio da informação, quando, pelo balizamento central, as informações devem ser dadas e levadas a qualquer investidor para uma decisão consciente de investimento.\n\nAssim, também não se pode trabalhar numa seara de colocação pública com esquemas piramidais ou em Ponzi ou qualquer outra modalidade fraudulenta, que sai completamente daquilo que está abalizado pelo Estado como grande pactuação, aquilo que está abalizado entre todas e todos nós num pacto social antes de mais nada, que, aliás, tem neste Parlamento, nesta Casa do Povo, um órgão central de representação nossa.\n\nEnfim, Excelência, seriam esses os pontos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala, Alexandre Pinheiro dos Santos, Superintendente-Geral da CVM, defende que os ativos virtuais e as tecnologias adjacentes são lícitos em si e têm potencial positivo, inclusive na pauta ambiental, social e de governança (ESG), destacando o papel do Laboratório de Inovação Financeira. Para ele, é possível ofertar publicamente contratos de investimento coletivo que envolvam ativos virtuais, desde que cumpridos os pressupostos legais, o registro, o princípio da informação e a diligência dos prestadores de serviços regulados, com prestação de contas à sociedade. Ele exemplifica com um caso de ETF com criptoativo investido no exterior, que considera elegível e lícito à luz da Instrução nº 359/2002 (hoje Resolução nº 175) e de ofícios circulares da área técnica. Ressalva, contudo, que não se admite colocação pública com esquemas piramidais, Ponzi ou fraudes, que violam o dever de informação ao investidor e o pacto social. A exposição é predominantemente técnica e institucional, sem avaliar proposição normativa específica.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00024",
+          "ordem_no_debate": 24,
+          "texto": " Muito obrigado, Exmo. Sr. Deputado Federal Presidente Aureo.\n\nEm relação à regulamentação específica, com aqueledisclaimerque eu já fiz, penso que há alguns pontos aqui que podem ser aproveitados naquilo que diz respeito à própria ambiência da CVM ou até mesmo nas articulações e no intercâmbio que vimos fazendo com o Banco Central.\n\nA prevenção à ilicitude em relação, por exemplo, à proteção de investidores e tudo que está em jogo, na verdade, aqui na seara da CVM, acaba ocorrendo com aquelas regulamentações que mencionei ou outras relacionadas com os prestadores de serviços, por exemplo, que atuam ali, e fundos de investimento, etc. Aqui, em termos centrais do que estamos tratando mais especificamente nesta CPI, ocorre por aquela regulação hoje na Resolução nº 160, de 2022, que mencionei, relacionada com colocação pública de valores mobiliários no princípio dofull and fair disclosure,da informação que deve ser levada com aquela precisão e completude para os investidores, etc.\n\nTambém aqui é importante mencionar outra regulamentação, nesta oportunidade, que é a nossa regulamentação relacionada com a prevenção a lavagem de dinheiro, financiamento do terrorismo ou proliferação de armas de destruição em massa. Nós temos a Resolução nº 50 tratando disso nos dias atuais, além da nossa atuação no GAFI, quando necessário, com a delegação brasileira. Eu tenho inclusive um colega que atua diretamente junto a mim, na Superintendência-Geral, uma atribuição central em relação a isso, dados a característica estratégica do tema e o prestígio que se dá a esse assunto. O próprio Presidente João Pedro tem uma atenção especial para isso. Nós temos a ENCCLA — Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro e uma série de outros fóruns. Porém, temos essa regulamentação específica para a prevenção a lavagem de dinheiro, financiamento do terrorismo ou proliferação de armas de destruição em massa, que traz, independentemente se cripto ou não o ativo virtual, uma série de balizas para a prevenção ou o combate a esse tipo de ilicitude, que por vezes traz, no seu âmbito, algo também referenciando cripto, certamente não no seu lado virtuoso.\n\nEm relação aos aspectos da inovação, eu quero sublinhar um ponto, se V.Exa. me permitir, que é osandbox. Temos tido, de fato, uma experiência muito positiva em relação a inovações, a tecnologias, mesmo adjacentes a esses pontos que aqui mencionamos ou aquilo que está no objeto desta CPI e que envolve ativo virtual criptoativo.\n\nAqui penso que tivemos já um aprendizado interessante, mas certamente há grandes potencialidades, notadamente agora que o Brasil se beneficiará disso que o Parlamento trouxe como arcabouço, daquilo que é a regulamentação da Presidência da República e da futura regulamentação do Banco Central, para a qual a CVM vai, no que puder, também trocar e contribuir, no mínimo, para que tenhamos aquela simetria mínima em aspectos centrais.Essa simetria, inclusive, é como aquilo que pode prevenir o mais possível a arbitragem regulatória naquilo que possa a CVM vir a fazer, a partir de então, quanto ao valor mobiliário.\n\nSeria isso, Excelência.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala, Alexandre Pinheiro dos Santos (CVM), após ressalva prévia, defende que pontos da regulamentação em discussão podem ser aproveitados na atuação da CVM e nas articulações com o Banco Central. De cunho técnico, descreve mecanismos de prevenção à ilicitude: proteção de investidores via Resolução 160/2022 (colocação pública de valores mobiliários, com base no princípio do full and fair disclosure) e combate à lavagem de dinheiro, financiamento do terrorismo e proliferação de armas de destruição em massa, pela Resolução 50, em articulação com GAFI e ENCCLA, normas que alcançam ativos virtuais independentemente de sua natureza. Traz posicionamento favorável à regulação vigente e ao arcabouço trazido pelo Parlamento e à regulamentação presidencial, prevendo contribuição da CVM à futura norma do Banco Central, com vistas a assegurar simetria mínima em aspectos centrais e prevenir arbitragem regulatória sobre valores mobiliários. Elogia o sandbox como experiência positiva em inovação e tecnologia, apontando grandes potencialidades. As avaliações são de próprio autor em intercâmbio com normas e organismos citados, em tom confiante, sem ataques ou apelos emocionais.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [
+            "Aproveitar pontos discutidos para a ambiência regulatória da CVM e nas articulações e intercâmbio com o Banco Central.",
+            "O sandbox deve ser sublinhado como ponto relevante em termos de inovação e tecnologias.",
+            "A CVM deve trocar experiências e contribuir com a futura regulamentação do Banco Central sobre criptoativos.",
+            "Buscar simetria mínima em aspectos centrais entre as regulamentações, a fim de prevenir a arbitragem regulatória quanto a valores mobiliários."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00026",
+          "ordem_no_debate": 26,
+          "texto": " Muito obrigado, Exmo. Sr. Presidente Aureo.\n\nEm específico, não, por aquelas razões que eu procurei trazer aqui de que nós não temos essa ingerência, o mandato legal específico para tratar do ativo virtual em si. Porém, isso me dá a oportunidade de enfatizar esse ponto relacionado com a prevenção à lavagem de dinheiro, com esse foco que foi trazido, ao financiamento do terrorismo ou à proliferação de armas de destruição em massa.\n\nAli, também, nós temos uma atenção especial para as questões envolvendo ativos virtuais. Aliás, nós tivemos, por mais de 1 ano, uma ação na ENCCLA focando este assunto. Nós tivemos inclusive uma ação inicialmente, quando ainda não tínhamos sequer a própria Receita Federal com aquela sua primeira regulamentação. A Receita Federal está lá, como eu aqui lembrei. A Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro, que eu já integro há muitos anos, inclusive diretamente atuando pela CVM no Gabinete de Gestão Integrada, conjuga uma atuação de instituições de controle, persecução e regulação. Estamos todas e todos lá representados: Polícia Federal, Ministério Público Federal — temos visita e representação também de ambientes dos Estados em relação a essa temática —, CGU, TCU, etc., Banco Central, CVM, SUSEP.\n\nAli, nós tivemos mais de uma ação envolvendo as perplexidades que vinham já começando a se delinear com fraudes ou ilícitos utilizando ativo virtual, até que nós tivemos, como eu aqui mencionei mais cedo, a Ação nº 8, de 2022, a ação que coordenamos com a Polícia Federal em 2022 e que gerou aqueles insumos que eu mencionei, relacionados com o anteprojeto de lei que hoje já se encontra aqui neste Parlamento. Depois, no que for de interesse desta CPI, se possível, um diálogo interno que aproveite aquele conteúdo em alguma medida, nós pensamos que ele pode trazer um grande aporte para a questão do tipo penal hoje que envolve pirâmides, esquemas Ponzi, etc., dando mais segurança jurídica inclusive para isso.\n\nAli, nós temos a Polícia Federal conosco, que é, inclusive, uma parceira com a qual também temos acordos de cooperação e, desde 2010, diversas atuações conjuntas e articuladas também nessa seara que envolve alguma coisa que possa ter visitado a CVM a título de presença de valores mobiliários e que envolva ativo virtual. Ali, naquele âmbito, com a Polícia Federal, nós tivemos esse desdobramento e esse projeto de lei, que decorre do anteprojeto ali proposto. No momento, se esta CPI julgar que é algo que pode ser conveniente, como um passo adicional, Exmo. Sr. Presidente Aureo, àquilo que já vem fazendo nessa área para a segurança jurídica maior, penso que ali há um conteúdo legitimado por todas essas instituições que eu mencionei que pode ajudar aqui, no Parlamento, em discussões de aperfeiçoamento desse tipo penal, para o que, quero renovar, já nos colocamos uma vez mais aqui mais do que à disposição. Nós estamos engajados aqui com V.Exas., inclusive depois da CPI, para qualquer contribuição que julguem que possamos dar — eu, diretamente, o Florisvaldo, que está diretamente aqui hoje com a CPI, e qualquer outra colega ou outro colega. Nós temos toda a disponibilidade para contribuir com isso.\n\nEu tenho certeza de que posso falar em nome do Thiago, do Ministério Público Federal, das colegas e dos colegas dos Ministérios Públicos dos Estados e dos colegas da própria ENCCLA. Certamente, nós temos condições de contribuir para este Parlamento uma vez mais.\n\nMuito obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O titular informa que sua instituição não possui mandato legal específico para tratar diretamente de ativos virtuais, respondendo negativamente a indagação específica sobre ingerência no tema. Sustenta, contudo, atuação relevante pela ótica da prevenção à lavagem de dinheiro e ao financiamento do terrorismo e à proliferação de armas de destruição em massa, área em que há atenção especial a ativos virtuais. Descreve o trabalho na ENCCLA, estratégia que reúne instituições de controle, persecução e regulação (PF, MPF, CGU, TCU, Banco Central, CVM, SUSEP, além de representantes estaduais), e destaca a Ação nº 8 de 2022, coordenada com a Polícia Federal, a qual gerou insumos para um anteprojeto de lei hoje tramitando no Parlamento. Oferece, em nome próprio e de parceiros do MPF, dos Ministérios Públicos dos Estados e da ENCCLA, contribuição à CPI e ao aperfeiçoamento do tipo penal relativo a pirâmides e esquemas Ponzi, argumentando que isso traria maior segurança jurídica. A postura é técnica e cooperativa, baseada em autoridade própria e referências institucionais, sem manifestar posição favorável ou contrária quanto à regulação do mercado de criptomoedas em si.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00028",
+          "ordem_no_debate": 28,
+          "texto": " Muito obrigado, Exmo. Sr. Deputado Presidente Aureo Ribeiro.\n\nNa verdade, nós não temos um projeto específico com essa característica. É até um ponto importante. A CVM tem, no seu mandato legal, em termos centrais, um papel, que é o desenvolvimento do mercado regulado — porém, do mercado regulado por ela —, com aqueledisclaimersobre o fato de que ela não tem, quanto a ativo virtual em si, 'tokenização\", enquanto tal, um mandato legal específico para tratamento disso.\n\nEsse desenvolvimento no mercado de capitais, por outro lado, não é algo de fomento, como, por exemplo, poderia se tirar no âmbito do BNDES em uma das suas vertentes de atuação. Ele é algo relacionado, como eu disse mais cedo, à atuação, inclusive com o arcabouço regulamentar, para a manutenção das salvaguardas mínimas, para que o mercado — ele próprio — se desenvolva, em prestígio àquele princípio constitucional, enunciado a partir do art. 170 e desdobrado, do livre empreender e do livre investir aqui.\n\nEntão, mantém-se, inclusive depois de se criarem salvaguardas mínimas, isso hígido e se atualiza, quando necessário, para que o próprio mercado possa se desenvolver, além, é claro, do papel de supervisão e deenforcement, de atuação inclusive no campo sancionador da CVM diante de irregularidades.\n\nPorém, também me dá uma oportunidade importante essa pergunta, Exmo. Sr. Presidente Aureo, para que eu sublinhe aqui aquele ponto da atenção para com a inovação. Embora não seja com essa característica de fomento em sentido estrito, nós olhamos com atenção, acompanhamos, estamos bastante interessados nas potencialidades já existentes naquilo que se vem discutindo ou se desenvolvendo, inclusive com interações com instituições que hoje tratam, no campo associativo, de um olhar para isso, para empreendedores que tratam disso — participamos inclusive de eventos e interações a respeito do assunto —, com o interesse no que isso pode trazer de benefício enquanto inovação, mesmo com aquela limitação específica do mandato legal quando a CVM olha para isso isoladamente.\n\nEntão, não temos propriamente algo programado de fomento em específico, porém essa atenção é permanente. Aliás, lá no Parecer de Orientação nº 40, quando se fala dos aspectos de inovação, daquilo que se diz com osandbox, o aprendizado constante, inclusive com os regulados, quanto a inovações e o que vale também para esse campo, certamente esse olhar e essa atenção nós temos mantido. E pretendemos seguir assim.\n\nMuito obrigado, Deputado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O expositor, em nome da CVM, esclarece que a autarquia não tem mandato legal específico sobre ativos virtuais e tokenização nem programa de fomento nessa área, diferentemente do que poderia ocorrer no âmbito do BNDES. Sustenta que a atuação da CVM se traduz no desenvolvimento do mercado regulado por ela mesma, mediante arcabouço regulamentar com salvaguardas mínimas, supervisão e atuação sancionadora, em prestígio à liberdade de empreender e de investir decorrente do art. 170 da Constituição. Sublinha, ainda, a atenção permanente e o interesse da CVM pelas potencialidades da inovação, com interações com entidades associativas e empreendedores do setor, mantendo olhar aberto e aprendizado constante, inclusive no contexto do sandbox tratado no Parecer de Orientação nº 40. Não há proposta normativa ou defesa política substantiva: trata-se de explicação sobre atribuições e postura institucional, sem tomada de posição sobre a conveniência da regulação.",
+          "objeto_do_posicionamento": "Regulação do mercado de criptomoedas no Brasil",
+          "propostas": [
+            "Manter e, quando necessário, atualizar o arcabouço regulamentar com salvaguardas mínimas para permitir que o mercado se desenvolva, mantendo a supervisão e o enforcement sancionador",
+            "Manter atenção permanente e acompanhamento atento às potencialidades da inovação (incluindo tokenização), com interações com associações e empreendedores do setor"
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    }
+  ],
+  "notas_revisao": [],
+  "arquivo_auditoria": "auditoria/debate_linha_00008_0d6b11b590ec_anotado.json"
+}

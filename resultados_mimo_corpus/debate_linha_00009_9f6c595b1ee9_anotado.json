@@ -1,0 +1,563 @@
+{
+  "formato": "debate_por_participante_v1",
+  "debate_id": 9,
+  "tema": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+  "status": "anotado_aguardando_revisao_humana",
+  "participantes": [
+    {
+      "nome": "Pinheirinho",
+      "falas": [
+        {
+          "id": "f00001",
+          "ordem_no_debate": 1,
+          "texto": " Bom dia a todos. Muito obrigado a cada um dos senhores e das senhoras pela presença.\n\nDeclaro aberta a reunião de audiência pública da Comissão de Defesa dos Direitos da Pessoa Idosa.\n\nEsta reunião foi convocada para tratar do tema certidão negativa de antecedentes criminais para o cuidador de pessoas idosas, em atendimento ao Requerimento nº 9, de 2024, de minha autoria.\n\nComunico a todos que o tempo previsto para a exposição de cada convidado será de 10 minutos. Comunico que será lançada pela Secretaria a presença do Parlamentar que, pela plataforma de videoconferência, usar da palavra nesta audiência pública.\n\nInicialmente, tenho a satisfação de apresentar os convidados ao debate. Vamos contar com a presença da Monize Marques, Juíza do Tribunal de Justiça do Distrito Federal e Coordenadora da Central Judicial do Idoso; da Sra. Olinda Vicente Moreira, Defensora Pública Federal e Coordenadora do Grupo de Trabalho de Atendimento à Pessoa Idosa e à Pessoa com Deficiência da Defensoria Pública da União; o Sr. Kenio Costa de Lima, Coordenador-Geral de Políticas de Envelhecimento Saudável da Secretaria Nacional de Defesa do Ministério dos Direitos Humanos e da Cidadania; da Patrícia Moreira, Assessora Especial da Frente Parlamentar da Longevidade e do Fórum São Paulo da Longevidade; e do Sr. Mauro Moreira de Oliveira Freitas, Secretário-Geral Adjunto da Comissão de Defesa dos Direitos dos Idosos da OAB-DF.\n\nDe antemão, já agradeço muito a todos os senhores e senhoras que aceitaram participar conosco desta audiência para debatermos este tema, que é muito importante e que merece cada vez mais a nossa atenção, haja vista que a nossa população, com a melhora da expectativa de vida e a diminuição da taxa de natalidade, tem envelhecido, e os casos de violência contra a pessoa idosa têm aumentado significativamente nos últimos anos. Então, é muito importante que façamos esta discussão.\n\nGostaria de passar a palavra para a primeira convidada a fazer uso, que será a Sra. Monize Marques.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Na abertura da audiência pública, o titular cumpre funções procedimentais — declara a sessão iniciada, fixa o tempo de 10 minutos para cada exposição, apresenta os convidados e passa a palavra à primeira debatedora — e, ao justificar o requerimento de sua autoria, sustenta brevemente que o tema merece atenção, pois o envelhecimento populacional (maior expectativa de vida e menor taxa de natalidade) e o aumento significativo de casos de violência contra a pessoa idosa tornam necessária a discussão sobre a exigência de certidão negativa de antecedentes criminais para o cuidador de pessoas idosas. Trata-se, porém, de manifestação essencialmente procedimental: o titular não detalha se a exigência deve ou não ser imposta, tampouco aborda exceções ou condições, de modo que não se extrai posição substantiva sobre o mérito da proposta.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00003",
+          "ordem_no_debate": 3,
+          "texto": " Muito obrigado, Dra. Monize Marques, pelas importantes contribuições.\n\nDando prosseguimento, vamos ouvir agora o Sr. Kenio Costa de Lima, Coordenador-Geral de Políticas de Envelhecimento Ativo e Saudável, da Secretaria Nacional dos Direitos da Pessoa Idosa do Ministério dos Direitos Humanos e da Cidadania.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: o titular encerra o turno anterior agradecendo à Dra. Monize Marques pelas \"importantes contribuições\" e dá prosseguimento à audiência anunciando o próximo ouvinte, o Sr. Kenio Costa de Lima, identificado como Coordenador-Geral de Políticas de Envelhecimento Ativo e Saudável da Secretaria Nacional dos Direitos da Pessoa Idosa do Ministério dos Direitos Humanos e da Cidadania. Não há qualquer manifestação de opinião, concordância, discordância ou ambiguidade sobre o tema recebido — a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas —, que sequer é mencionado. O elogio às contribuições anteriores é fórmula de cortesia de coordenação de mesa e não constitui posição substantiva. Não há alegações técnicas, dados, propostas ou referências jurídicas a analisar.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00005",
+          "ordem_no_debate": 5,
+          "texto": " Muito obrigado.\n\nAgora participará de forma virtual a Defensora Pública Federal, Olinda Vicente Moreira. (Pausa.)\n\nDoutora, ainda não estamos escutando a senhora. Doutora, parece que estamos com um probleminha técnico aqui. Não está chegando o som da senhora aqui. Eu vou pedir a gentileza para a senhora aguardar mais um pouquinho enquanto tentamos esclarecer.\n\nEnquanto isso, eu vou convidar aqui a Sra. Patricia Moreira, que é Assessora Especial da Frente Parlamentar da Longevidade e do Fórum São Paulo da Longevidade.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental de coordenação dos trabalhos, sem qualquer manifestação de mérito sobre o tema da exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas. O titular agradece, anuncia uma participação virtual da Defensora Pública Federal Olinda Vicente Moreira, relata que não se ouvia a oradora por problema técnico de áudio e pede que aguarde enquanto a falha era esclarecida. Em seguida, para aproveitar o intervalo, convida outra participante, a Sra. Patricia Moreira, Assessora Especial da Frente Parlamentar da Longevidade e do Fórum São Paulo da Longevidade. Não há tomada de posição, concordância ou discordância em relação ao tema, nem construção argumentativa, sustentação de alegações ou mobilização de conceitos, normas ou dados técnicos. O resumo se limita a registrar a condução administrativa da mesa, sem extrair opinião substantiva inexistente no texto.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00007",
+          "ordem_no_debate": 7,
+          "texto": " Muito obrigado, Sra. Patricia Moreira.\n\nVamos ouvir agora a Sra. Olinda Vicente Moreira.(Pausa.)\n\n\n\n A tecnologia nos ajuda muito, mas muitas vezes também causa alguns pequenos transtornos, que já estão sendo resolvidos.\n\nAcredito que, dentro de alguns instantes, a Sra. Olinda terá condições de participar conosco. Aos que estão nos acompanhando de forma remota, por vídeo, quero informar que nós tivemos a exposição da Sra. Monize Marques, Juíza do Tribunal de Justiça do Distrito Federal, do Sr. Kenio Costa de Lima, Coordenador-Geral de Políticas e Envelhecimento Saudável, da Secretaria Nacional de Defesa do Ministério dos Direitos Humanos e da Cidadania, e da Sra. Patrícia Moreira, Assessora Especial da Frente Parlamentar da Longevidade e do Fórum São Paulo da Longevidade. Todas as três contribuições foram muito importantes, porque elencaram temas fundamentais para as políticas da pessoa idosa.\n\nUm dos principais pontos abordados nesta reunião foi a necessidade de buscarmos avanços na regulamentação da profissão, com a separação do empregado doméstico, que é fundamental para que consigamos avançar. O que percebemos é que a pessoa idosa tem, sim, que ser colocada no foco, com um olhar prioritário. Confesso que foi um aprendizado para mim saber que o Brasil já é um país envelhecido. Eu ainda não havia ouvido isso de alguém.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Em fala predominantemente de condução da sessão, o titular agradece expositora anterior, anuncia a próxima participante, comenta transtornos técnicos em resolução e resume as contribuições anteriores como fundamentais para as políticas da pessoa idosa. Na parte substantiva, defende avanços na regulamentação da profissão com a separação do empregado doméstico e sustenta que a pessoa idosa deve ser colocada no foco, com olhar prioritário. Relata, como aprendizado pessoal, ter ouvido que o Brasil já é um país envelhecido. A fala não manifesta posição explícita sobre a exigência de certidão negativa de antecedentes criminais para cuidadores, tratando o tema geral das políticas para idosos de modo próximo, porém periférico e sem desenvolver esse instrumento específico.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [
+            "Avançar na regulamentação da profissão, com a separação do empregado doméstico",
+            "Colocar a pessoa idosa no foco, com um olhar prioritário"
+          ],
+          "interrupcoes": [
+            {
+              "participante": "PATRICIA MOREIRA",
+              "texto": " V.Exa. está muito longe disso.\n\n",
+              "apos_caractere_do_texto": 1345,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "Retomada ainda não observada."
+            }
+          ],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00008",
+          "ordem_no_debate": 10,
+          "texto": " Eu também estou ficando velho. Um dado interessante me chamou a atenção: o de que o nosso País é um país envelhecido. Eu não estava atento para esse importante número que o Kenio nos trouxe hoje.\n\nPortanto, nesta Comissão da Câmara dos Deputados temos feito vários debates sobre o assunto. E temos que buscar, cada vez mais,  compartilhar esses assuntos com a população, para que a população tome conhecimento disso. E, com a conscientização da população, certamente vamos poder trazer muitos outros avanços.\n\nEstá franqueada a palavra aos participantes enquanto aguardamos a Sra. Olinda.\n\nTem a palavra a Dra. Monize Marques.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Pinheirinho faz uma intervenção breve, majoritariamente expositiva e procedimental. Comenta de passagem que o Brasil é um país envelhecido, admite que não estava atento ao dado trazido por Kenio e defende que os assuntos ligados ao envelhecimento sejam cada vez mais compartilhados com a população, para gerar conscientização e, com isso, avanços futuros. Sustenta essa preocupação com a menção aos debates já realizados na Comissão da Câmara dos Deputados e encerra anunciando a ordem dos trabalhos e dando a palavra à próxima participante. Não há manifestação direta sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [
+            "Compartilhar cada vez mais os assuntos sobre envelhecimento da população com o público, visando à conscientização"
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00010",
+          "ordem_no_debate": 12,
+          "texto": " Muito obrigado, Dra. Monize.\n\nA Dra. Olinda conseguiu entrar. Vamos passar a palavra a ela.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental, sem qualquer conteúdo temático. O titular agradece à Dra. Monize pela condução, registra que a Dra. Olinda conseguiu entrar na sessão e lhe passa a palavra. Nenhum posicionamento — concordância, discordância, abstenção ou ambivalência — é manifestado sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas, tampouco há alegações, propostas ou fundamentos a avaliar. Trata-se apenas de transição de turno e coordenação da audiência.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00012",
+          "ordem_no_debate": 14,
+          "texto": " Muito obrigado, Dra. Olinda. Pudemos ouvir com muita clareza a maior parte da sua contribuição. Somente agora, nos últimos 30 segundos, quando a senhora finalizava, o som acabou ficando um pouco ruim, dificultando um pouco a nossa percepção. A senhora fez excelentes comentários. Agradecemos muito sua contribuição, sem dúvida alguma.\n\nColoco nosso mandato à disposição de todos os senhores que contribuem com esta audiência pública.\n\nPrecisamos avançar no debate de muitos outros temas, além do tema central que havia sido proposto para esta audiência pública. O nosso mandato está à disposição para trazer para a Câmara dos Deputados qualquer proposta que seja importante, que vá contribuir.\n\nConcedo a palavra ao Sr. Kenio para fazer suas considerações finais.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala de natureza estritamente procedimental de presidência dos trabalhos. O titular agradece a contribuição da oradora anterior, registra dificuldade técnica de áudio nos segundos finais que comprometeu parcialmente a percepção e elogia a qualidade das colocações ouvidas. Em seguida, coloca o próprio mandato parlamentar à disposição dos participantes da audiência para encaminhar propostas consideradas importantes, sinalizando interesse em ampliar o debate a outros temas além do eixo central da audiência, sem, contudo, detalhar quais. Por fim, concede a palavra ao próximo orador. Não há manifestação de opinião sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas, nem tomada de posição, concordância ou discordância quanto ao tema; o registro é de condução e transição, sem conteúdo argumentativo substantivo.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00014",
+          "ordem_no_debate": 16,
+          "texto": " Muito obrigado, Sr. Kenio.\n\nEu vou passar agora a palavra à Sra. Patrícia Moreira, para as considerações finais.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: Pinheirinho agradece ao Sr. Kenio e transfere a palavra à Sra. Patrícia Moreira para as considerações finais. Não há qualquer manifestação de opinião, posicionamento, concordância ou discordância em relação ao tema da exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas. Trata-se apenas de ato de mediação protocolar de passagem de turno, sem conteúdo substantivo ou argumentativo sobre o em debate.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00016",
+          "ordem_no_debate": 18,
+          "texto": " Muito obrigado, Sra. Patrícia.\n\nAgora, para as considerações finais, eu vou convidar a Sra. Monize.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Intervenção puramente procedimental, sem qualquer manifestação sobre o tema da exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas. O titular agradece à presidência, anuncia o encerramento da etapa em curso e convida a próxima oradora a proferir as considerações finais. Não há argumentação, pedido, defesa de medida ou tomada de posição sobre a proposta em debate.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00018",
+          "ordem_no_debate": 20,
+          "texto": " Muito obrigado, Sra. Monize.\n\nTem a palavra a Sra. Olinda para considerações finais.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental do presidente de mesa: Pinheirinho agradece a Monize e concede a palavra a Olinda para considerações finais. Não há qualquer opinião sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de idosos, nem posicionamento, sustentação argumentativa ou postura expressiva sobre o tema — trata-se apenas de transição de turno.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00020",
+          "ordem_no_debate": 22,
+          "texto": " Muito obrigado, Dra. Olinda.\n\nAgradeço, mais uma vez, a todos que compareceram a esta reunião e a todos que nos acompanharam de forma remota. Foram contribuições aqui muito importantes.\n\nQuero aproveitar para fazer um esclarecimento. O PL que ora nos oportunizou o debate desta audiência permite que o contratante faça a exigência da certidão. Não seria uma obrigatoriedade que todo contratante exigisse a certidão. Aquele que, assim o desejar, teria o direito de exigi-la pela proposta apresentada. E, pela proposta apresentada, não haveria nenhum impeditivo caso a certidão fosse positiva. Ele faria o juízo de valor do conteúdo da certidão, se assim entendesse, para avaliar a possível contratação.\n\nEntão, eu espero que possamos estar juntos novamente para discutir não só esse tema específico que discutimos hoje, mas outros temas, tendo em vista que a política da pessoa idosa é muito ampla. E, como foi dito aqui, são várias as discussões a serem feitas. Ainda estamos num momento embrionário, inicial, se analisarmos as atuais políticas públicas e legislações.\n\nEu tenho certeza de que teremos ainda muitos desafios pela frente. E mais uma vez eu me coloco à disposição dos senhores e das senhoras, assim como também gostaria de permanecer com esse contato com os senhores e senhoras, para continuarmos discutindo e conversando sobre esses temas, essas políticas públicas.\n\nAgradeço muito a presença dos ilustres convidados, que muito nos honraram com suas exposições, e a todos que compareceram à reunião.\n\nNada mais havendo a tratar, vou encerrar os trabalhos. Antes, porém, convocando reunião deliberativa para o dia 8 de maio do corrente ano, às 13 horas, seguida de audiência pública para apresentar os resultados da Política Nacional de Autocuidados, em atendimento ao Requerimento nº 5, de 2024, de autoria da Deputada Flávia Moraes, neste mesmo Plenário.\n\nDeclaro encerrada a presente reunião.",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Pinheirinho esclarece o alcance do projeto de lei em debate: a certidão de antecedentes não seria obrigatoriedade para todo contratante, mas faculdade de quem quisesse exigí-la na proposta apresentada, sem que eventual certidão positiva constituísse impeditivo automático de contratação, cabendo ao contratante avaliar livremente seu conteúdo. Posiciona-se favoravelmente a esse desenho facultativo da medida e ressalta que o tema das políticas para pessoas idosas ainda é amplo e se encontra em estágio inicial frente às atuais políticas públicas e legislações, havendo muitos desafios pela frente. Reitera disponibilidade para continuar debatendo e encerra a reunião, convocando nova sessão deliberativa e audiência pública sobre a Política Nacional de Autocuidados.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MONIZE DA SILVA FREITAS MARQUES",
+      "falas": [
+        {
+          "id": "f00002",
+          "ordem_no_debate": 2,
+          "texto": " Bom dia. Cumprimento a todos os presentes e também a quem nos acompanha virtualmente. É uma honra fazer parte deste espaço destinado à proteção das pessoas vulneráveis, que acompanhamos há tanto tempo.\n\nRecebi com gratidão este convite, Deputada, mas confesso que, no primeiro momento, eu me surpreendi um pouco com o tema do nosso debate, porque, para as pessoas que estão envolvidas nesse tipo de proteção, não há muita divergência a respeito dessa necessidade. Eu acho que poderíamos inclusive aproveitar um pouquinho esta oportunidade para expandirmos as nossas reflexões a respeito deste tema.\n\nAlém de buscar algumas respostas a respeito deste tema, eu gostaria de acrescentar algumas perguntas e o faço em nome de todos aqueles que temos atendido no Tribunal de Justiça, que, no último ano, somou 37 mil acolhimentos na Central Judicial da Pessoa Idosa,demonstrando o grau de vulnerabilidade a que as pessoas idosas estão sendo submetidas no Distrito Federal. Se nós expandirmos isso, vamos perceber que essa condição de vulnerabilidade e as interseccionalidades acabam aumentando em outros espaços, a respeito da nossa definição de profissão, de ocupação.\n\nUm questionamento que fica é que atualmente precisamos fazer a divisão dos cuidadores formais e dos informais. Grande parte dos cuidadores que se responsabilizam pelo trato da pessoa idosa são familiares que não recebem nenhum tipo de subvenção para o exercício desse cuidado. Nesse caso, por óbvio, não vamos ter condições de exigir uma certidão criminal, porque os vínculos que são formados não o são por opção, mas dizem respeito a questões familiares mesmo.\n\nPara os cuidadores formais, ou seja, aqueles que estão prestando uma atividade profissional, parece-me que não há dúvida a respeito da possibilidade de ser exigida essa certidão negativa. Mas entramos em outra questão jurídica relevante que, sem uma ocupação específica prevista hoje, inclusive consolidada na Justiça do Trabalho, eles são registrados formalmente como empregados domésticos, trabalhadores domésticos.\n\nE como trabalhadores domésticos, não poderíamos fazer uma distinção dos demais trabalhadores domésticos, cuja certidão negativa não seria obrigatória, e vamos ter que identificar se seria obrigatória ou não essa exigência. Melhor seria que tivéssemos, então, uma definição específica dessa ocupação, para que pudéssemos trazer, além da previsão da certidão negativa, outras exigências relacionadas ao próprio processo de cuidar: capacitação em áreas específicas da saúde, do trato, mediação de conflitos, a depender do que a sociedade compreender como imprescindível para essa relação, que vai além da função do trabalho doméstico, normalmente vinculado a uma assistência não pessoal de atividades profissionais.\n\nTrazer uma pessoa para a sua casa, apesar de todo obstáculo financeiro que essa opção já traz, porque o processo de cuidar é 24 horas, 7 dias por semana, e isso aumenta sobremaneiramente os custos que a família tem, precisamos considerar ainda a necessidade de se ter uma pessoa de confiança que vai fazer o manejo da pessoa idosa em suas intimidades, que vai fazer a troca e implementação de medicação, enfim, todas essas circunstâncias.\n\nEntão, inicio a minha fala me colocando à disposição nesse sentido, tentando abranger um pouquinho mais do que o tema específico, porque não vislumbrei onde poderíamos ter como um debate especificamente a questão da certidão negativa para cuidadores de pessoas idosas, levando em consideração o que seriam os cuidadores formais e os informais e a necessidade de ter uma regulamentação ocupacional.\n\nÉ neste sentido que eu me coloco à disposição dos demais batedores para podermos tentar, juntamente com a mediação de V.Exa., encontrar um caminho para facilitar a condução dos trabalhos.\n\nNós trabalhamos há aproximadamente 10 anos na regulamentação. O projeto de lei, à época, era capitaneado pela Deputada Cristiane Brasil, foi aprovado e vetado pela Presidência da República à época.A justificativa foi a questão da regulamentação do exercício livre das profissões, mas, de lá para cá, ainda não vimos um debate com essa amplitude, no sentido de aprovar uma regulamentação que trouxesse, além da questão dos antecedentes, outros que pudessem fazer parte do exercício dessa profissão tão importante.Eu me coloco à disposição. Obrigada.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "A oradora considera praticamente consensual a necessidade de proteção dos idosos e de exigir certidão negativa de antecedentes criminais aos cuidadores formais, que prestam atividade profissional. Ela ressalva que a exigência não se aplica aos cuidadores informais (familiares sem remuneração), cujos vínculos decorrem de laços familiares e não de escolha. Critica a ausência de regulamentação ocupacional específica: sem categoria própria, os cuidadores formais são registrados como trabalhadores domésticos, o que dificulta impor certidão e outras qualificações sem distinção indevida dos demais domésticos. Defende que a regulamentação da profissão inclua, além dos antecedentes criminais, capacitação em saúde, trato e mediação de conflitos, dada a confiança e o manejo de intimidades que a relação exige. Aponta dados do Tribunal de Justiça do DF (37 mil acolhimentos) como sinal de vulnerabilidade crescente, relata que projeto de lei anterior foi vetado e coloca-se à disposição para ampliar o debate e colaborar com a condução dos trabalhos, o que revela também uma faceta procedimental e um tom técnico e confiante.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [
+            "Exigir certidão negativa de antecedentes criminais para os cuidadores formais de pessoas idosas, que prestam atividade profissional.",
+            "Criar uma definição específica de ocupação/profissão para o cuidador de pessoa idosa, distinta de trabalhador doméstico, prevendo a certidão negativa e outras exigências.",
+            "Exigir capacitação em áreas específicas (saúde, trato, mediação de conflitos) para o cuidador de pessoa idosa, conforme o que a sociedade considerar imprescindível.",
+            "Aprovar uma regulamentação da profissão de cuidador de pessoa idosa que vá além da exigência de antecedentes criminais.",
+            "Ampliar o debate para além do tema específico da certidão negativa, abrangendo a distinção entre cuidadores formais e informais e a regulamentação ocupacional."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00009",
+          "ordem_no_debate": 11,
+          "texto": " Eu vou aproveitar a oportunidade, então, para trazer algumas preocupações da vida real.\n\nDesde 2023, nós estamos coordenando o Grupo de Trabalho do Conselho Nacional de Justiça.  Publicamos a Resolução nº 520, de 2023, relativa à Política Nacional de Atenção à Pessoa Idosa e suas interseccionalidades no âmbito do Poder Judiciário. O nome é enorme, parece abstrato, mas o que temos visto na prática é o aumento considerável de demandas judiciais envolvendo pessoas com 60 anos ou mais, e isso não reflete especifica e exclusivamente o critério cronológico de quem litiga, mas tem a ver com os conflitos relacionados ao envelhecimento propriamente dito.\n\nNós percebemos, Dr. Kenio, que não somente 15% da população hoje é idosa, mas essa correlação se reflete nos processos. Em todo o Brasil, os tribunais apontam aproximadamente 15% dos processos relativos a pessoas com 60 anos ou mais.\n\nNa nossa avaliação, os processos que têm crescido consideravelmente têm a ver com questões relativas à autonomia da vontade, à curatela, a tratamentos experimentais, tudo relacionado à ortotanásia e a outras questões de tratamentos e manutenção da vida, sem a possibilidade de que a pessoa idosa seja protagonista dos seus cuidados. Os processos dizem respeito também aos cuidados paliativos e à divergência que existe entre os filhos sobre qual tratamento dar sequência, às vezes até contra a vontade das pessoas que estão no processo de finitude; dizem respeito a cuidadores e ao aumento considerável de demandas na Justiça do Trabalho, refletindo como esse cuidado que entra no contexto familiar, sob a rubrica de trabalhador doméstico, acaba assumindo uma complexidade maior, que é o do processo do cuidado. Nós temos também processos relativos a planos de saúde, ahome care;temos processos relativos à paternidade tardia, à alienação dos filhos em relação aos pais, a abandono material, e também processos de compensação indenizatória a respeito de abandono afetivo dos filhos em relação aos pais. Ou seja, gente, a sociedade mudou. Nós no Judiciário estamos sentindo isso e chegamos a reboque daquilo que acontece na vida real.\n\nO que temos percebido é que a sociedade tem vivido uma complexidade enorme de processos relativos a ter uma pessoa envelhecida no contexto doméstico. O Dr. Kenio mencionou que essa questão ainda recai normalmente sobre uma filha — e é isso que percebemos nos processos —, que precisa deixar o seu emprego formal para voltar para o contexto doméstico. Assim, ela precisa acumular o cuidado com os filhos com o cuidado com os pais; e vai precisar utilizar parte da renda dos pais para a manutenção dos seus filhos. E partimos para outras questões relacionadas à violência financeira, porque, quando envolve dinheiro, mesmo que haja um vínculo parental, o conflito tem uma porta de entrada.\n\nEntão, Deputado, o meu apelo é para que saiamos daqui com proposições, para que saiamos daqui com compromissos, porque estamos atrasados. Em termos de Alzheimer, segundo a Sociedade Brasileira de Alzheimer, nós somos, em números absolutos, o segundo país do mundo em número de pessoas com demência. Nós só perdemos para a Turquia. Isso significa que grande parte das famílias vai precisar alocar recursos humanos ou materiais para cuidar de pessoas com demência. E estamos assistindo a isso sem tomar uma atitude proativa. O que temos visto a respeito das aposentadorias é só a ponta doicebergem relação ao que vai acontecer em todos os outros contextos da sociedade: acessibilidade, cuidado, educação. A UnB já abriu o vestibular para pessoas com 60 anos ou mais. Em relação ao protagonismo, não falamos só de proteção; falamos de protagonismo.Então, falamos de pessoas não somente em relação ao critério cronológico, mas também às suas condições, segundo os marcos do envelhecimento ativo, de manter sua aprendizagem ao longo da vida. Essa discussão é muito ampla e merece compromissos formais para avançarmos na conquista de um pequeno espaço de prevenção e naquilo que recebemos no Tribunal de Justiça.\n\nO Poder Judiciário está aberto a fazer essa discussão. Estamos saindo da inércia e tomando atitudes em relação a políticas públicas, embora essa não seja a nossa função precípua. Como coordenadores de uma política nacional, temos percebido que os tribunais precisam se antecipar em algumas situações que poderiam ser discutidas no Legislativo e no Executivo, em virtude da sua vocação institucional.\n\nEu trago uma preocupação e faço um apelo, um convite para que aproximemos nossos esforços e façamos a velhice ter mais dignidade para todos, independentemente do estado e da condição social. Esse é o único fator que vai alcançar qualquer setor e recorte. População LGBT, população negra, população de qualquer gênero, PCD, indígena, quilombola, todos nós vamos envelhecer. Sendo seres viventes, chegaremos lá.\n\nA sociedade ainda é muito preconceituosa, muito discriminatória em relação ao envelhecimento. Chegou a hora de encarar isso numa perspectiva não de quem reage, mas de quem propõe de forma preventiva.\n\nEu coloco novamente o tribunal à disposição. Eu me coloco, como pesquisadora da área e mestre em gerontologia, à disposição.\n\nCreio que podemos avançar nesse tema, que é extremamente importante, mas ele é apenas um pedaço do todo. Precisamos olhar para o todo e, a partir daí, trazer deduções mais proativas em relação ao envelhecer e à dignidade no envelhecer.\n\nEu agradeço a oportunidade de estar aqui e me coloco à disposição. Obrigada.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Coordenadora de GT do CNJ sobre envelhecimento no Judiciário, a oradora relata o aumento expressivo de demandas judiciais envolvendo pessoas idosas (autonomia da vontade, curatela, tratamentos experimentais, ortotanásia, cuidados paliativos, planos de saúde/home care, paternidade tardia, abandono material e afetivo, cuidadores na Justiça do Trabalho, violência financeira) e defende sair da inércia. Faz apelo por proposições e compromissos formais numa perspectiva preventiva (envelhecimento ativo, dignidade na velhice universal), colocando o tribunal e sua expertise à disposição.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [
+            "Que a audiência e o debate resultem em proposições e compromissos concretos para avançar na atenção à pessoa idosa e no enfrentamento à demência.",
+            "Adoção de uma perspectiva preventiva e proativa em relação ao envelhecimento, em vez de mera reação aos conflitos.",
+            "Aproximação de esforços entre instituições e tomadores de decisão para assegurar mais dignidade na velhice, de forma universal e independente de condição social.",
+            "Tratar o envelhecimento de forma ampla, olhando para o conjunto de dimensões (acessibilidade, cuidado, educação) em vez de aspectos isolados como as aposentadorias."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00017",
+          "ordem_no_debate": 19,
+          "texto": " Dr. Kenio, Dra. Olinda e Dra. Patrícia, muito obrigada por ombrearem essa discussão comigo.\n\nAgradeço em especial ao Deputado pela oportunidade.\n\nEsse é um tema que mexe muito comigo — dá para perceber, não é?\n\nEm 2003, o Estatuto da Pessoa Idosa foi publicado com a previsão de educação em todos os níveis. Então esse assunto já deveria estar sendo discutido nas escolas. Envelhecer não é para os com 60 ou mais, mas para todas as idades, senão haverá muita dificuldade de uma convivência intergeracional saudável. Nós precisamos discutir isso com todas as idades, de fato. Nós estamos atrasados.\n\nQuando começa o ano na escola dos meus filhos, eu já procuro a escola para saber o que vai ser falado sobre intergeracionalidade, sobre qual assunto querem usar, se vai ser usado o Dia dos Avós. Esse é um assunto que precisa ser revisto sem estereótipos, sem a D. Benta dos livrinhos, sem aquela ideia do vovozinho decrépito. Qual é o tipo de envelhecimento que queremos hoje? Isso acaba ampliando a nossa percepção do envelhecer como a legislação traz: 60 anos ou mais é um critério cronológico.\n\nQuem tem 60 anos ou mais e é ativo e saudável não se enxerga nessa classificação etária. Isso diminui a visibilidade do grupo. Nem quem é se aceita como, porque faz uma associação de que pessoa idosa é uma pessoa debilitada. Então, precisamos rever isso dentro de casa, assumir, bater no peito e falar:\"Estou envelhecendo com saúde; a segunda opção\"— como o Dr. Kenio disse —\"não me convém\". Não existe idoso jovem; existe idoso saudável. Jovem é jovem; idoso é idoso. Precisamos tratar isso com mais intencionalidade.\n\nEu tenho uma proposta para fazer, para pelo menos finalizarmos essa nossa discussão com algo mais objetivo. A pessoa que é contratada formalmente para o cuidado assume muitas funções no contexto do cuidar, sendo algumas para suporte motor em atividade da vida diária, como levar ao banheiro, mas respeitando a integridade e a autonomia da pessoa que tem ainda condições de expressar suas preferências e vontades. Nós também percebemos que alguns acamados e adoentados mentalmente precisam de suporte maior ainda. Então, a depender da função que é exercida pelo cuidador, vamos perceber que ele pode exercer mais ou menos influência em relação às condições da vida que lhe é submetida. Então, a minha proposta é no sentido de que seja exigida, em vez de certidão negativa, uma certidão de antecedentes, para que a pessoa que vai ser cuidada, se lúcida e com a sua autonomia preservada, tenha condições de avaliar se a atividade que vai ser exercida pelo cuidador vai ser comprometida com a pertinência temática do delito.\n\nPor exemplo, se a pessoa foi presa por embriaguez no trânsito, não vejo como um impedimento para o exercício da atividade de cuidado; mas, se a pessoa foi presa por estelionato, já existe um risco maior de que haja algum tipo de comprometimento da autonomia da pessoa.\n\nEntão, a minha proposta é que haja, sim, a possibilidade, não uma obrigação, de que o contratante peça uma certidão, e, a partir das funções que vão ser exercidas pelo cuidador, ele faça uma avaliação da pertinência temática do delito com as atribuições das atividades que vão ser realizadas pela pessoa contratada.\n\nEntão, poderíamos trabalhar na ponderação dos interesses, já que muitas das prerrogativas da pessoa que está no exercício da profissão precisam ser contrapostas à proteção de alguém que está, em tese, necessitando do auxílio do Estado para a manutenção da sua dignidade. Penso que poderíamos fazer um contraponto entre a necessidade e a possibilidade das duas pessoas envolvidas no processo de cuidar.\n\nSão essas as minhas considerações. Eu agradeço a oportunidade. Como disse, coloco o meu trabalho à disposição da Comissão.\n\nObrigada.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Contrário"
+            ]
+          },
+          "resumo": "Nesta fala, a oradora se posiciona contrariamente à exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas, sustentando sua discordância com base em experiência própria e referências legais. Começa afirmando, com envolvimento emocional explícito, que o envelhecimento e a intergeracionalidade devem ser discutidos em todas as idades, criticando estereótipos como a 'D. Benta' e o 'vovozinho decrépito' que associam pessoa idosa a debilidade e reduzem a visibilidade do grupo. Na sequência, propõe que, em substituição à certidão negativa, se exija certidão de antecedentes, articulando o conceito de 'pertinência temática do delito': caberia ao contratante idoso, se lúcido e com autonomia preservada, avaliar se eventual condenação guarda relação com as funções de cuidado — exemplificando que embriaguez no trânsito não impede o exercício, mas estelionato sugere risco à autonomia de quem é cuidado. A proposta é expressamente apresentada como possibilidade facultativa, não obrigatória, e sustentada pela ponderação entre as prerrogativas de quem cuida e a proteção da dignidade de quem é cuidado. O tom combinado é técnica e emotivo, sem dirigir críticas a pessoas presentes.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [
+            "Discutir o envelhecimento e a intergeracionalidade em escolas de todos os níveis, de modo intencional e sem estereótipos.",
+            "Rever, dentro de casa, a associação entre pessoa idosa e debilidade, assumindo e valorizando o envelhecimento com saúde.",
+            "Exigir, em substituição à certidão negativa, uma certidão de antecedentes para o cuidador de pessoa idosa.",
+            "Permitir (como faculdade, não obrigação) que o contratante peça a certidão e avalie a pertinência temática do delito com as atribuições do cuidador.",
+            "Ponderar, no contraponto contratual do cuidar, a necessidade da pessoa cuidada com a possibilidade das duas pessoas envolvidas, preservando autonomia e integridade."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "KENIO COSTA DE LIMA",
+      "falas": [
+        {
+          "id": "f00004",
+          "ordem_no_debate": 4,
+          "texto": " Bom dia a todas as pessoas que estão presentes e as que nos ouvem remotamente. É um prazer estar aqui neste momento. Agradeço ao Deputado Pinheirinho o convite.\n\nPara nós que fazemos parte do Ministério dos Direitos Humanos e Cidadania, especificamente da Secretaria Nacional de Direitos da Pessoa Idosa, é extremamente salutar este momento para que consigamos, de fato, trazer alguns elementos para este debate.\n\nEstava ouvindo atentamente a Monize, que me antecedeu, e reforço o que ela nos trouxe. Na verdade, sou o Coordenador-Geral de Políticas de Envelhecimento Ativo e Saudável e, quando falamos de envelhecimento ativo e saudável, basicamente falamos de quatro pontos principais: saúde, educação, proteção e segurança e participação.\n\nEntão, dentro da proteção e segurança, permeando tudo isso, podemos trazer questões relacionadas ao cuidado e ao cuidado da pessoa idosa. Este é um debate que não é novo, hoje estamos com a Política Nacional de Cuidados acontecendo, sendo construídos a Política e o Plano Nacional de Cuidados e, paralelamente, estamos fazendo, no Ministério, um Plano de Direitos Humanos da Pessoa Idosa.\n\nNesse sentido, é importante que entendamos que o processo de cuidar saiu de uma discussão de necessidade que todos nós identificamos, para uma lógica de discussão de trabalho, que acho que é o motivo que nos traz aqui hoje e, também, avançando essa lógica como um todo, uma lógica de direito. Hoje, claramente, já existe uma discussão em nível internacional acerca do direito do cuidado em relação a cuidar, a ser cuidado e a autocuidar-se. Precisamos avançar no sentido dessa lógica de entender a questão do cuidado como um direito.\n\nPensando nisso, quando trazemos o foco para as pessoas idosas, obviamente, hoje, no Brasil, o último dado que temos é relacionado, por exemplo, a pessoas idosas que estiveram acamadas nas duas últimas semanas.Temos um dado que é em torno de 4,3%. Isso significa 1,4 milhão de pessoas idosas que estiveram acamadas nas últimas duas semanas. Não é um dado tão atual, que é da PNS 2019, mas é o dado que nós dispomos. Isso significa, necessariamente, que essas pessoas precisam de cuidado.\n\nE quem cuida dessas pessoas? Entramos para esta discussão, que a Dra. Monize trouxe muito bem, de que precisamos ter o olhar para a regulamentação dessa profissão. Esse é um ponto inicial. E por quê? Porque o tema central desta discussão hoje é acerca do certificado de antecedentes criminais. Mas, veja, temos um contingente de pessoas idosas que são cuidadas por cuidadores informais, não remunerados, que obviamente podem praticar violência, da mesma maneira, e a essas pessoas não é exigido nenhum tipo de certificado de antecedentes criminais.\n\nNo entanto, para as pessoas que estão num trabalho formal, sobretudo aquelas pessoas que estão cuidadoras de pessoas idosas ou de crianças relacionadas a instituições, aí sim, isso é exigido. Então, se uma pessoa é cuidadora de uma ILPI, vai ter lá como uma formação, vai ser um trabalho formal, aí sim, há uma exigência.\n\nMas, para o trabalho informal, na sua grande maioria, como a Dra. Monize trouxe, são classificados como trabalhadores domésticos, mulheres, sobretudo mulheres negras que estão envolvidas nesse processo, e fazer essa solicitação, na verdade, não tem uma fundamentação legal clara, de modo que precisamos entender, inclusive, que muitas vezes essa solicitação pode ser considerada como um ato discriminatório. Temos, inclusive, discussões relacionadas a assédio moral a essas pessoas. Este é um debate que precisamos entender.\n\nPara além deste debate, que acho que tem uma importância muito maior, é a de pensarmos nessa regulamentação da profissão de cuidador de pessoas idosas e em como vamos trazer este debate, uma vez que essa lógica do cuidado é uma coisa que está presente na vida de todas as pessoas. Como já falamos, ele passa da necessidade para a discussão do trabalho, discussão da economia do cuidado, para agora uma discussão de direito e, se é direito, precisamos entender essa dinâmica como um todo e pensar especificamente que a solicitação, por exemplo, de um certificado de antecedentes criminais pode, de nenhuma maneira, resolver o problema, porque temos um contingente de pessoas que estão na informalidade.\n\nOs dados mais recentes sobre a América Latina trazem que 50% dos trabalhadores que estão na população economicamente ativa, que está na força de trabalho, é verdadeiramente trabalho informal. E precisamos entender essa dinâmica para poder fazer com que essa solicitação ou não tenha realmente o fundamento legal e que consiga ter o verdadeiro alcance do que estamos propondo.\n\nInclusive, um debate acerca disso traz que a lógica é que mesmo que a pessoa não tenha liberado o certificado, ou que, por exemplo, não seja concedido o certificado de antecedentes criminais para ela, ela não pode ser impedida de exercer aquela função desde que o crime não tenha sido relacionado àquele ofício. Então, precisamos ter um olhar mais ampliado para essa discussão para poder entender, de fato, essa nossa solicitação.\n\nEu acho que, para começarmos o debate, é importante saber como pensar essas questões. Acho que dois pontos são fundamentais neste debate: um, a questão da profissionalização do trabalho de cuidador; dois, esse grande contingente que temos de pessoas idosas que vão necessitar de cuidado. Portanto, precisamos pensar num sistema de cuidados que dê cabo a essa demanda.\n\nEu costumo sempre dizer — eu sou pesquisador na área do envelhecimento há muito tempo — que nem que haja umbaby boomagora iremos reverter a condição demográfica do nosso País. O Brasil é um País envelhecido. Não adianta ficarmos dizendo que estamos em franco envelhecimento. Nós estamos. Mas hoje nós somos um País envelhecido. Qualquer área, qualquer território, bairro, vila, cidade, que tenha mais de 15% de pessoas idosas é um país envelhecido. E nós somos isso. Hoje, o Brasil tem 15,8% de população idosa. Aliás, já é mais do que isso. Esse dado foi um dado do Censo 2022. O índice de envelhecimento do Brasil é 80, ou seja, o Brasil tem 80 pessoas acima de 60 anos para cada 100 pessoas com menos de 15 anos. E isso está em franco ascensão. Precisamos parar e olhar para essa situação, porque as pessoas idosas precisam de cuidado. E, do mesmo modo, também precisamos olhar para quem cuida dessas pessoas. Porque eu acho que esse é um outro ponto. Precisamos apoiar as pessoas que cuidam, e não necessariamente criminalizar essas pessoas.\n\nBasicamente, são esses os pontos para começar o nosso debate e nós estamos aqui abertos para essa discussão, que eu acho que pode ser bastante profícua. Obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Contrário"
+            ]
+          },
+          "resumo": "Na fala integral, o Coordenador-Geral de Políticas de Envelhecimento Ativo e Saudável posiciona-se contrário à exigência de certidão de antecedentes criminais para o cuidado informal de pessoas idosas, ao mesmo tempo em que apoia a regulamentação e a profissionalização da profissão de cuidador como ponto central do debate. Sustenta que o cuidado evoluiu de lógica de necessidade para trabalho e, mais recentemente, para lógica de direito (de cuidar, de ser cuidado e de autocuidar-se), defendendo a construção da Política e do Plano Nacional de Cuidados, do Plano de Direitos Humanos da Pessoa Idosa e de um sistema de cuidados que dê conta da crescente demanda, dado que o Brasil já é um país envelhecido. Sobre o certificado, argumenta que a maior parte do cuidado é prestada por trabalhadoras informais, não remuneradas e majoritariamente mulheres negras, para as quais a exigência não tem fundamentação legal clara e poderia configurar ato discriminatório ou assédio moral. Reconhece, contudo, que a exigência já ocorre no trabalho formal institucional (como cuidadores em ILPI), que não contesta explicitamente, e defende que a negativa ou falta de certificado não impeça o exercício da função quando o crime não se relaciona ao ofício. Conclama a apoiar quem cuida, em vez de criminalizar essas pessoas.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [
+            "Regular a profissão de cuidador de pessoas idosas, como ponto inicial do processo de cuidado, em conjunto com a Política e o Plano Nacional de Cuidados e o Plano de Direitos Humanos da Pessoa Idosa.",
+            "Avançar na compreensão do cuidado como um direito (de cuidar, de ser cuidado e de autocuidar-se), tratando a questão de forma ampliada e integrada.",
+            "Construir um sistema de cuidados que atenda à demanda destas pessoas idosas que vão necessitar de cuidado.",
+            "Não imputar bastas restrições à pessoa cuidadora informal que não teve o certificado criminal liberado, evitando ainda que ela seja impedida de exercer a função quando o crime registrado não seja relacionado àquele ofício; e apoiar as pessoas que cuidam, em vez de criminalizá-las."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00013",
+          "ordem_no_debate": 15,
+          "texto": " Obrigado mais uma vez, Deputado.\n\nOuvi atentamente a Dra. Olinda e a Dra. Monize.\n\nFalo em nome do Secretário Alexandre que a Secretaria Nacional dos Direitos da Pessoa Idosa tem tido uma preocupação muito forte relacionada a esses aspectos. Desde o ano passado, constituímos dois programas importantes, e vou tentar rapidamente contextualizar a dinâmica deles. O programa denominado Envelhecer nos Territórios trabalha com a formação de agentes de direitos humanos da pessoa idosa nos territórios de vários Municípios brasileiros. Esse agente vai estar em contato, nos diversos territórios, com pessoas idosas, identificando violação de direitos humanos.\n\nEu disse ao Rafael, que preside o Conselho Nacional, que é preciso constituir uma rede de proteção à vida das pessoas idosas nos territórios, nos locais onde as relações são reproduzidas, onde as diferenças econômicas e sociais são constituídas. Para fazer isso, precisamos de pessoas atuando no território a partir desse debate sobre o grande contingente de pessoas idosas. É preciso trabalhar a cultura da paz e a prevenção da violação de direitos. Já existem instrumentos para diagnosticar a violência e a violação. Os Estados já têm instrumentos como números de telefone para captar essas ocorrências. Precisamos constituir agora uma rede de proteção, senão essas violações tendem a aumentar.\n\nPodemos fazer também a discussão relacionada às pessoas que cuidam. O cuidado pode ser violento. A partir do momento em que a autonomia e a independência de alguém são cerceados, há violação de direitos. Achamos que estamos cuidando mas, na verdade, estamos cerceando o direito daquela pessoa. Precisamos estar muito atentos a esse aspecto, porque o limite é muito estreito.\n\nPermeando toda essa discussão existe o grande idadismo institucional, em todos os espaços. Acredita-se que aquela pessoa não tem voz e não tem direitos, e vamos invadindo a vida dela. Isso é idadismo, e idadismo não é combatido com medidas transversais. Ele é combatido com medidas longitudinais. Precisávamos já ter começado isso, e não começamos em nenhuma das instâncias.\n\nDois pontos são fundamentais, de acordo com a literatura e com evidências científicas, para fazer esse combate. O primeiro ponto é a educação para o envelhecimento nos diversos níveis, que não existe. O segundo diz respeito a práticas intergeracionais presenciais com as pessoas. Não adianta combater violência somente pensando em criminalizá-la. É preciso trabalhar fortemente antes de todo o processo. A Comissão de Defesa dos Direitos da Pessoa Idosa, ano passado, debatia o aumento em um terço das penas para crimes contra pessoa idosa quando for exercida por cuidador ou pessoa no exercício da profissão.\n\nNa prática, precisamos trabalhar fortemente a construção e o significado do envelhecimento na vida das pessoas. Qualquer política pública, de qualquer esfera, como saneamento básico, transporte, educação, transferência de... Pode ser qualquer uma. A medida do sucesso dessa política é o envelhecimento da população. Se isso é fato, precisamos descobrir como trabalhar para contemplar a educação para o envelhecimento, para que todas as pessoas consigam compreender que isso é uma fase da vida. O curso da vida leva ao envelhecimento. Há uma alternativa, mas ninguém desta sala gostaria de seguir outra alternativa que não seja envelhecer.\n\nNem todas as pessoas têm tido o direito de envelhecer. No Brasil, determinados grupos sociais, territorializados ou não, não têm tido oportunidade de envelhecer. Destaco a população quilombola, a população indígena, a população ribeirinha, as pessoas em situação de rua, as pessoas LGBTQIA+, vários grupos populacionais. Na Secretaria, fizemos o Programa Viva Mais Cidadania, que vai atuar na promoção dos direitos dessas pessoas e garantir que elas consigam envelhecer. Não é socialmente justo que essas pessoas não consigam envelhecer. No Norte do País, o envelhecimento não ocorre da mesma maneira que ele ocorre no Rio Grande do Sul, que está sofrendo hoje. Obviamente, os mais acometidos são os idosos.\n\nPrecisamos repensar e ressignificar como nós, que fazemos os diversos poderes, podemos atuar para entender essa dinâmica do envelhecimento, trabalhar com a lógica da educação para o envelhecimento, de práticas intergeracionais que consigam aproximar...\n\nTambém é preciso pensar numa rede de proteção para a vida da pessoa idosa, desde a promoção da cultura da paz até a prevenção das violações de um modo geral. Temos condições de, minimamente, iniciar a constituição dessa rede em parceria com vários Ministérios — temos tentado —, com os defensores de direitos das pessoas idosas, com Ministério Público e com a Justiça, de modo geral.\n\nNós temos, essencialmente, só um objetivo, que é melhorar a vida das pessoas que estão no processo de envelhecimento e que já envelheceram e dar dignidade a elas. Acho que isso tem que ficar bem claro para podermos entender toda essa base que vai constituir o envelhecimento e, especificamente, as violações de direitos.\n\nObrigado, Deputado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Kenio Costa de Lima não se posiciona diretamente sobre a exigência de certidão negativa de antecedentes criminais para cuidadores, tratando o tema apenas de modo periférico. Falando em nome do Secretário Alexandre e da Secretaria Nacional dos Direitos da Pessoa Idosa, apresenta os programas Envelhecer nos Territórios e Viva Mais Cidadania e defende a construção de uma rede de proteção à vida dos idosos nos territórios, em parceria com Ministérios, defensores de direitos, Ministério Público e Justiça. Alerta que o cuidado pode se tornar violento quando cerceia autonomia e independência, e propõe combater o idadismo institucional por meio de educação para o envelhecimento e de práticas intergeracionais, além de formação de agentes de direitos humanos da pessoa idosa. Critica soluções meramente criminalizantes, embora registre deliberação da Comissão sobre aumento de penas para crimes contra idosos praticados por cuidadores, e defende políticas voltadas a grupos que não têm tido o direito de envelhecer — quilombolas, indígenas, ribeirinhos, pessoas em situação de rua e pessoas LGBTQIA+ — com o objetivo de promover dignidade às pessoas em processo de envelhecimento.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [
+            "Constituir uma rede de proteção à vida das pessoas idosas nos territórios, desde a promoção da cultura da paz até a prevenção das violações, em parceria com vários Ministérios, defensores de direitos das pessoas idosas, Ministério Público e Justiça.",
+            "Promover práticas intergeracionais presenciais com as pessoas como medida de combate ao idadismo e à violência.",
+            "Promover a educação para o envelhecimento em diversos níveis, contemplando-a como política transversal de combate ao idadismo institucional.",
+            "Trabalhar a formação de agentes de direitos humanos da pessoa idosa nos territórios de vários Municípios brasileiros, para identificar violações de direitos junto a pessoas idosas.",
+            "Ampliar a compreensão sobre o cuidado que pode ser violento, chamando atenção ao cerceamento da autonomia e independência como violação de direitos, e formatar a discussão sobre quem cuida.",
+            "Promover os direitos e o envelhecimento de grupos sociais historicamente excluídos desse direito (quilombolas, indígenas, ribeirinhos, pessoas em situação de rua, pessoas LGBTQIA+) por meio do Programa Viva Mais Cidadania."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "PATRICIA MOREIRA",
+      "falas": [
+        {
+          "id": "f00006",
+          "ordem_no_debate": 6,
+          "texto": " Bom dia a todos, bom dia Sr. Kênio Costa, Exma. Juíza.\n\nSou Patricia, Assessora do Deputado Pinheirinho, que é o autor do requerimento desta audiência pública. Fico muito honrada de estar representando o Sr. Walter Feldman aqui. Walter Feldman é um ex-Deputado Federal, Presidente hoje do Fórum da Longevidade, cuja sexta edição acontece este ano. Já se foram cinco edições que aconteceram em São Paulo. É um grande evento para o setor sênio. Nesse Fórum, temos vários expositores, 200 expositores e mais de 800 palestras sobre esse tema. Temos também a Frente Parlamentar, que foi instalada, no final do ano passado, para debater e impulsionar as proposições legislativas sobre esse tema.\n\nEu me sinto até honrada e pequenininha diante de vocês todos com tanto conhecimento.\n\nEsse é um tema muito interessante. Nós sabemos que o Brasil, como o Kênio falou, não está envelhecendo, ele já é envelhecido. Nós temos mais de 57 milhões de brasileiros com mais de 50 anos, 37 milhões e meio com mais de 60 anos. Desse modo, a parte dos cuidados especiais para os idosos é um debate que tem que ser realmente validado não só na área jurídica no que tange à profissionalização dos cuidadores, que é um grande problema. Eu, particularmente, vivi isso com a minha mãe, que é idosa e tem agora câncer. Os familiares ficam muito inseguros, mesmo quando são privilegiados, têm plano de saúde. Ainda que esse não seja o nosso caso, nós temos que pensar no contexto geral do Brasil, que, infelizmente, não tem essa facilidade; pelo contrário, não tem essa segurança. Porque as empresas que prestamhome care, por exemplo, para os pacientes, elas têm a certidão, mas elas não passam isso para os familiares. E isso gera, realmente, muita insegurança. Eles estão entrando no âmago do lar, no lugar mais sagrado que as pessoas podem ter, as pessoas que mais amamos. E todos nós aqui vamos ter pais e avós que demandarão a vida inteira um cuidado especial por nós. Então, eu acho que esse debate não deve se dar só na área legislativa embora estejamos no lugar certo visto que a regulamentação das profissões tem que se dá em âmbito nacional. Este é um momento, sim, de falar sobre a profissão. Mas não adianta exigirmos a certidão, no meu ponto de vista, a certidão de antecedentes criminais, se não temos a regulamentação da profissão.\n\nO que acontece, segundo eu tenho lido e pesquisado, é que essas denúncias de maus-tratos vêm muito de pessoas cuidadores que são indicadas por outras pessoas. Alguém que cuidou de alguém e que pode cuidar de você. E você acaba tendo um constrangimento em pedir um antecedente criminal. Isso que deveria ser uma exigência do direito também acaba sendo uma proteção.\n\nIsso deveria ser uma exigência natural, sem que houvessebullying.Assim como o Kenio falou, não deveria haver preconceito com as pessoas que estão querendo trabalhar nessa área. Nós ainda temos um bom caminho pela frente.\n\nEu vi a senhora falando do PLC de 2016, e em 2019 houve a sanção presidencial. Vários Parlamentares têm iniciativas por meio de proposições legislativas. Portanto, penso que a Casa precisa debater isso. Acho que este é o momento certo, no local certo. A iniciativa do Deputado Pinheirinho foi muito boa, porque nós temos um longo caminho.\n\nTenho um pedido do Sr. Walter Feldman, Presidente do Fórum da Longevidade, que represento, para que tenhamos um estande sobre cuidados especiais. Esse fórum terá início no dia 29 de setembro, com término no dia 1º de outubro, Dia Nacional do Idoso. Uma das coisas que mais tem sido debatidas são os cuidados especiais, que são necessários, além de toda essa regulamentação.\n\nColocamo-nos à disposição da Comissão. Convidamos todos vocês, que são da área, a participarem do fórum. Serão 3 dias muito interessantes — o senhor também vai, não é, Deputado? —, em que todos poderão nos ajudar a ampliar e fomentar esses assuntos que estão em debate.\n\nEstou à disposição da Comissão.\n\nAgradeço.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Patricia Moreira, representando Walter Feldman e o Fórum da Longevidade, posiciona-se favoravelmente à exigência de certidão de antecedentes criminais para cuidadores de idosos, mas sustenta que essa exigência só é eficaz se acompanhada da regulamentação nacional da profissão de cuidador. Argumenta que a certidão, sozinha, não resolve: empresas de home care têm acesso às certidões mas não as repassam aos familiares, gerando insegurança em quem contrata. Relata experiência pessoal com mãe idosa e doente para ilustrar o temor das famílias. Segundo leituras e pesquisas da própria oradora, denúncias de maus-tratos partiriam sobretudo de cuidadores indicados por terceiros, nos quais há constrangimento em pedir antecedentes, o que tornaria a exigência legal também uma proteção — para quem contrata e para o próprio trabalhador, sem estigma ou preconceito contra quem busca atuar no setor. Defende que o debate parlamentar é necessário e no momento certo, dada a dimensão do envelhecimento populacional brasileiro, e questiona que o tema não se esgote apenas na via legislativa. Encaminhamentos procedimentais: divulga o Fórum da Longevidade (29 de setembro a 1º de outubro), pede estande sobre cuidados especiais e convida os presentes.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00015",
+          "ordem_no_debate": 17,
+          "texto": " Diante do que vocês falaram, eu concordo com tudo. Eu já tinha estado em outra reunião com o Kenio, que é um estudioso da longevidade. Eu acredito que esse conhecimento, essa educação de que ele fala para os cuidadores e também para as pessoas em geral, acontece dentro de casa. Eu vivo muito essa situação hoje. Nós não estamos preparados para ter idosos dentro de casa. A vida está muito corrida, as pessoas só pensam em trabalhar, em sair, em constituir família, e o idoso vai ficando para trás.\n\nEntão, dentro do Legislativo, nós temos a obrigação moral de criar essa rede de proteção, como o Kenio falou. Eu acredito também que, dentro de casa, cada um de nós como cidadãos temos que aprender a ensinar isso para os nossos filhos. Eu já sou avó, tenho uma mãe doente em casa, tenho quatro filhos, os quais já são casados e têm vida própria. Eu costumo dizer que nós somos exemplos. Filho é espelho de pai e mãe. Então, dentro de casa você tem que ensinar também como os idosos têm que ser respeitados, ensinar o que a doutora falou, o paliativismo, o lidar com doenças terminais. Esses respeitos vêm de dentro de casa, na formação do ser humano.\n\nDiante disso, a sociedade e, claro, o Legislativo e o Judiciário têm a obrigação moral de dar dignidade para essas pessoas, porque nós também vamos chegar lá. Esse é o ciclo da vida.\n\nO Fórum da Longevidade, por exemplo, foi uma iniciativa muito interessante, trazendo debates e expositores não só da área de saúde, mas também da área de turismo, da área de acessibilidade, da área de educação. Isso é muito importante, porque, quando você trata do idoso, você trata em todas as áreas. Nós, como sociedade, temos obrigação de estar atentos a isso, mas eu acho que nós estamos atrasados. Nós temos que tentar correr e passar um pouco à frente.\n\nEu agradeço ao senhor por ter colocado o seu mandato à disposição, porque são principalmente os Parlamentares mais novos que trazem coisas novas. Até dentro da política isso é necessário, porque vocês trazem uma visão totalmente diferente dos políticos anteriores. Então, desejo que tenha muita sorte ao trazer esses temas e brigar por eles, porque nós vamos precisar disso.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Patrícia Moreira concorda integralmente com as falas anteriores e sustenta que a educação para o cuidado e o respeito ao idoso deve começar dentro de casa, na formação dos filhos, citando sua experiência pessoal como avó e cuidadora de mãe doente. Segundo ela, as famílias, a vida corrida e o protagonismo no trabalho deixam os idosos para trás, e não estamos preparados para tê-los em casa. Defende que o Legislativo tenha obrigação moral de criar uma rede de proteção e que sRead more... ociedade, Legislativo e Judiciário deem dignidade aos idosos, pois todos envelhecerão. Elogia o Fórum da Longevidade por tratar o idoso de forma transversal (saúde, turismo, acessibilidade, educação), julga que a sociedade está atrasada no tema e anima o parlamentar mais novo a seguir brigando por essas causas. A fala é ampla sobre cuidado com idosos e não discute a exigência de certidão negativa para cuidadores.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [
+            "O Legislativo deve criar uma rede de proteção para idosos.",
+            "Os cidadãos devem ensinar dentro de casa, aos filhos, o respeito aos idosos, incluindo cuidados paliativos e o lidar com doenças terminais."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "OLINDA VICENTE MOREIRA",
+      "falas": [
+        {
+          "id": "f00011",
+          "ordem_no_debate": 13,
+          "texto": " Bom dia a todos e todas. Eu os cumprimento, representados pelo Deputado Pinheirinho.\n\nA Defensoria Pública da União se apresenta com muita alegria nesta audiência, pela relevância do debate.\n\nEu peço desculpas porque não ouvi na íntegra a fala daqueles que me antecederam. Então, se algumas de minhas ponderações e observações forem repetição, desde já eu peço desculpas. Não consigo fazer essa análise agora, em razão de não ter conseguido ouvir as pessoas que me antecederam.\n\nVolto a parabenizar os Deputados por essa audiência pública. Eu consegui ouvir o final da fala da Dra. Monize, a quem dou parabéns.\n\nÉ necessário que o País leve a sério a discussão sobre proteção à pessoa idosa, porque o Brasil já é um país de pessoas idosas, e o número de pessoas idosas tende a crescer exponencialmente.Algumas pesquisas mostram que, por mais que o número de bebês seja imenso, não conseguiremos ultrapassar o fato de que este é um país de pessoas idosas.\n\nComo disse a Dra. Monize, a exigência de certidão de antecedentes criminais é apenas um ponto da grande discussão que envolve a proteção à pessoa idosa. A nossa legislação que aborda o trabalho doméstico e o trabalho dos cuidadores de pessoas idosas se baseia em alguns aspectos dessa normativa, mas nós precisamos ter um olhar específico para a proteção da pessoa idosa.\n\nEm relação à exigência da certidão de antecedentes criminais, a Defensoria Pública tem um olhar amplo. Temos que vislumbrar, refletir, ponderar uma gama de direitos, e essa ponderação envolve o direito à liberdade, o direito à intimidade, o direito à privacidade, o direito ao trabalho, a garantia da presunção de inocência, a proteção dos direitos da pessoa idosa e a ressocialização da pessoa que já cumpriu pena por um delito cometido. Segundo o entendimento consolidado no Tribunal Superior do Trabalho, a exigência de certidão de antecedentes criminais não caracteriza dano moral nem ilegalidade quando a legislação permite fazer isso — é o caso de vigilantes — ou quando a natureza do trabalho exige uma confiança de tamanha grandeza que é importante esse conhecimento. Em princípio, há uma tendência de se fazer uma pesquisa nesse sentido. As famílias e as instituições de longa permanência tendem a exigir a certidão negativa de antecedentes criminais. A exigência de certidão de antecedentes criminais é outro ponto que podemos levar para a discussão mais à frente. Ainda temos que discutir se essa orientação do TST realmente protege de forma ponderada todos os direitos constitucionalmente previstos. Isso sempre tem que ser debatido, porque envolve direitos fundamentais, tanto das pessoas que vão ser protegidas, que são pessoas idosas, quanto das pessoas que podem se sentir violadas nos direitos que mencionei.\n\nPodemos ou não fazer a exigência de certidão? Seria certidão negativa ou certidão de antecedentes, para que se saiba o que consta nesses antecedentes? Caso a certidão venha positiva e haja indicação de crimes, qualquer crime seria um impeditivo para contratação? Ou haveria uma pertinência temática, por assim dizer?Determinados crimes... (Falha na transmissão)  ... crimes contra a liberdade sexual.Outro ponto que não se pode dispensar é a necessidade de haver trânsito em julgado de uma condenação. Um princípio caríssimo reconhecido pelo Supremo Tribunal Federal é a garantia da presunção do estado de inocência.\n\nDevemos lembrar que a profissão de cuidador de pessoa idosa é desempenhada principalmente por mulheres, especialmente mulheres com menor qualificação e instrução, mulheres com uma renda não tão alta, e que muitas vezes são o arrimo de suas famílias. Caso exijamos uma certidão, estaremos impedindo a ressocialização dessa pessoa, dessa mulher. Estaremos revitimizando essa mulher. Qual é a principal natureza dos crimes e delitos cometidos por mulheres? São crimes de violência? São crimes de menor potencial ofensivo? Diante de qual realidade nós estamos?\n\nA Defensoria Pública da União traz essas ponderações para o debate, por entender que o tema é extremamente caro à sociedade. Muitos direitos sensíveis para a população estão envolvidos na proteção à pessoa idosa, que não podemos fragilizar de modo algum. É necessário equilibrar a proteção ao idoso com a proteção das pessoas que podem ter limitado seu direito ao trabalho e seu direito à ressocialização. Esse público é composto majoritariamente por mulheres de baixa renda e de baixa instrução, que muito possivelmente, de acordo com as estatísticas, não terá cometido crimes graves.\n\nA Defensoria Pública da União, com essas palavras iniciais, coloca-se à disposição de V.Exas. para a construção desse debate. Acredito que este seja apenas um primeiro momento, de muitos que se fazem necessários. Eu fico extremamente honrada de participar deste debate, junto com pessoas tão empenhadas na construção de uma política pública que privilegia a proteção das pessoas idosas, das pessoas que tanto amamos, que são  extremamente vulneráveis e que, na maior parte das vezes, são esquecidas por parte da população. Elas se tornam pessoas invisíveis. Trazer visibilidade a essas pessoas é motivo de agradecimento e de respeito.\n\nContem conosco da Defensoria Pública. Eu me coloco à disposição nesse debate e nesse trabalho de construção.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Em nome da Defensoria Pública da União, a oradora agradece a realização da audiência e lamenta não ter ouvido integralmente os oradores anteriores. Defende que o País leve a sério a proteção à pessoa idosa, realidade crescente de envelhecimento populacional. Sobre a exigência de certidão de antecedentes criminais para cuidadores, propõe ponderar direitos fundamentais em conflito: liberdade, intimidade, privacidade, trabalho, presunção de inocência e ressocialização x proteção do idoso. Registra o entendimento do TST de que a exigência não configura dano moral eventualmente quando a legislação o permite ou quando a atividade exige confiança, mas questiona se essa orientação pondera adequadamente os direitos constitucionais. Formula dúvidas: exigir certidão negativa ou de antecedentes? Qualquer crime é impeditivo ou haveria pertinência com tipos específicos (ex.: crimes contra a liberdade sexual)? Sustenta a necessidade de trânsito em julgado, invocando a presunção de inocência. Alerta que a profissão é majoritariamente exercida por mulheres de baixa renda e instrução, arrimo de família, de modo que a exigência poderia impedir a ressocialização e revitimizá-las. Justifica a posição pela Defensoria visando equilibrar a proteção ao idoso e os direitos das trabalhadoras, colocando-se à disposição para debates futuros.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [
+            "Deletar o fala que contém XML inválido."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00019",
+          "ordem_no_debate": 21,
+          "texto": " Muito obrigada, Deputado.\n\nNo sentido da fala do Dr. Kenio, eu gostaria de ressaltar a importância do que nós chamamos na Defensoria Pública da União de educação em direitos. E o tema da educação em direitos na esfera da proteção dos direitos da pessoa idosa é algo fundamental.\n\nNós precisamos capacitar as pessoas que trabalham nos CRAs, em postos de saúde, em unidades básicas de saúde, em outras tantas instituições e órgãos que têm contato com familiares e diretamente com essa população idosa. Precisamos fortalecer essa educação em direitos. Um dos principais caminhos para proteção e respeito aos direitos é a educação, é a instrução, é o conhecimento. Muitas vezes as pessoas erram por falta de conhecimento.\n\nEntão, a legislação é um caminho. E, para isso, Deputado, contamos com V.Exa. e com os demais Parlamentares para fortalecer essa rede de proteção à pessoa idosa, mas também precisamos ampliar esse olhar e seguir para uma política na qual eu acredito e da qual eu sou entusiasta, que é a educação em direitos. Então, nós precisamos ampliar essa educação em direitos para a pessoa idosa, para os familiares e para os profissionais que circundam essa pessoa idosa.\n\nAgradeço a colaboração de todos, à Dra. Monize, Dr. Kenio, Dr. Patricia, Deputado e a toda equipe.\n\nColocamos a Defensoria Pública da União como parceira nesses projetos de educação em direitos, para discussão de todas essas nuances e todas essas dificuldades que devem ser superadas pelo nosso País, pela nossa legislação para a proteção dos nossos idosos, que constituem, sim, um grupo  hipervulnerabilizado e invisibilizado. Invisibilizado! As nossas pessoas idosas em situação de rua, como disse o Dr. Kenio, em quilombos, em comunidades indígenas, em situações de total invisibilidade. Nós temos pessoas com mais direitos a envelhecer que outras pessoas, e isso não pode acontecer. Isso afronta os princípios da nossa Constituição, os princípios da dignidade da pessoa humana, dentre outros.\n\nEntão, agradeço a oportunidade.  Novamente, renovo os parabéns e renovo a disponibilidade da Defensoria Pública da União para contribuir com esses debates.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "A oradora, da Defensoria Pública da União, defende a educação em direitos como caminho fundamental para a proteção da pessoa idosa, pedindo a capacitação dos profissionais que atuam em CRAs, postos e unidades básicas de saúde e a ampliação dessa educação para idosos e familiares, já que muitos erram por desconhecimento. Reconhece a legislação como um caminho, mas pede que o olhar vá além dela, contando com os parlamentares para fortalecer a rede de proteção e oferecendo a DPU como parceira nas discussões. Denuncia a hipervulnerabilidade e a invisibilidade de pessoas idosas em situação de rua, em quilombos e em comunidades indígenas, afirmando que a desigualdade no direito a envelhecer afronta a Constituição e a dignidade da pessoa humana. A exposição foca na formação e na tutela ampla dos idosos, sem abordar a exigência de certidão negativa para cuidadores.",
+          "objeto_do_posicionamento": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+          "propostas": [
+            "Capacitar as pessoas que trabalham nos CRAs, postos de saúde, unidades básicas de saúde e outras instituições que têm contato com a população idosa e seus familiares.",
+            "Ampliar a educação em direitos da pessoa idosa para a pessoa idosa, seus familiares e os profissionais que a circundam.",
+            "Fortalecer a legislação e a rede de proteção à pessoa idosa, contando com os parlamentares.",
+            "Fortalecer a educação em direitos na esfera da proteção dos direitos da pessoa idosa, incluindo a participação da Defensoria Pública da União como parceira nos projetos para discussão das nuances e dificuldades a superar."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    }
+  ],
+  "notas_revisao": [],
+  "arquivo_auditoria": "auditoria/debate_linha_00009_9f6c595b1ee9_anotado.json"
+}
