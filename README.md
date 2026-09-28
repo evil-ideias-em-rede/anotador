@@ -1,8 +1,36 @@
-# Preparação e anotação de falas completas
+# Anotador do Contraponto
 
-A organização para leitura humana é **debate → participantes → falas**. Cada fala tem seu texto integral, taxonomia, resumo, propostas e interrupções. Não existe mais resumo conjunto de todas as exposições de um participante.
+Ferramentas utilizadas na preparação e anotação das falas de debates públicos utilizados pelo Contraponto.
 
-A revisão é humana. Nenhuma etapa desta pipeline executa o julgador automático.
+A organização para leitura humana é debate → participantes → falas. Cada fala tem seu texto integral, taxonomia, resumo, propostas e interrupções. A revisão é humana. Nenhuma etapa desta pipeline executa o julgador automático.
+
+## Estrutura
+
+A organização principal do projeto é:
+
+```text
+anotador/
+├── dados originais dos debates/  # Dados originais dos debates
+│   ├── PublicHearingBR_LDS.jsonl
+│   └── PublicHearingBR_NLI.jsonl
+├── interface/                    # Interface para revisão humana
+├── testes/                       # Testes do projeto
+├── .config.example               # Exemplo de configuração
+├── .gitignore
+├── README.md
+├── anotador.py                   # Anotação das falas
+├── api.py                        # Comunicação com a API do modelo
+├── contexto.py                   # Gerenciamento do contexto
+├── formato.py                    # Organização dos resultados
+├── julgador.py                   # Julgador automático separado da pipeline
+├── preparador.py                 # Preparação e segmentação das falas
+├── progresso.py                  # Acompanhamento do processamento
+├── prompts.xml                   # Prompts e regras de anotação
+├── suporte.py                    # Funções auxiliares
+└── visualizar.py                 # Interface de revisão e visualização
+```
+
+Os diretórios `preparados`, `resultados`, `auditoria`, caches e configurações privadas são gerados ou utilizados localmente durante o processamento e não fazem parte da estrutura versionada do projeto.
 
 ## Instalação e configuração local
 
@@ -10,25 +38,25 @@ Requer Python 3.9 ou superior. Os scripts usam apenas a biblioteca padrão, sem 
 
 Os comandos deste README são executados a partir da pasta que contém `anotação`. Se você publicar somente o conteúdo desta pasta como raiz do repositório, retire o prefixo `anotação/` dos comandos.
 
-Na primeira instalação, **se ainda não existir um `.config`**, crie a cópia local:
+Na primeira instalação, se ainda não existir um `.config`, crie a cópia local:
 
-```sh
+```bash
 cp anotação/.config.example anotação/.config
 ```
 
 Abra `anotação/.config` e configure:
 
-- `base_url`: endereço da API compatível com Chat Completions.
-- `modelo`: identificador do modelo disponível na sua conta. O exemplo contém uma configuração de referência, não descoberta automática do modelo mais recente.
-- `token`: sua chave, exclusivamente nesse arquivo local. Como alternativa, mantenha-o vazio e defina a variável de ambiente `LLM_API_KEY`.
-- `contexto_tokens`: mantenha `0` se a API publicar a janela; caso contrário, informe o limite documentado do modelo.
-- `parametro_tokens`: nome aceito pelo provedor (`max_tokens` ou `max_completion_tokens`).
+* `base_url`: endereço da API compatível com Chat Completions.
+* `modelo`: identificador do modelo disponível na sua conta. O exemplo contém uma configuração de referência, não descoberta automática do modelo mais recente.
+* `token`: sua chave, exclusivamente nesse arquivo local. Como alternativa, mantenha-o vazio e defina a variável de ambiente `LLM_API_KEY`.
+* `contexto_tokens`: mantenha `0` se a API publicar a janela; caso contrário, informe o limite documentado do modelo.
+* `parametro_tokens`: nome aceito pelo provedor (`max_tokens` ou `max_completion_tokens`).
 
 Não sobrescreva um `.config` já preenchido. `.config.example` é público e deve permanecer sem credenciais. `.config` é privado e está no `.gitignore`. A preparação e a anotação herdam os valores de `[comum]`, salvo opções específicas em `[anotador]`.
 
 Para conferir a conexão:
 
-```sh
+```bash
 python3 anotação/api.py
 ```
 
@@ -88,13 +116,13 @@ No preparo, os campos ainda não analisados são `null`. Depois de anotar, uma l
 
 ## 1. Preparação independente
 
-```sh
+```bash
 python3 anotação/preparador.py
 ```
 
 Sem intervalo, prepara todo o LDS. Exemplos de seleção:
 
-```sh
+```bash
 python3 anotação/preparador.py --inicio 2 --fim 2
 python3 anotação/preparador.py --inicio 5 --fim 10
 python3 anotação/preparador.py --inicio 5
@@ -104,24 +132,24 @@ Os limites são inclusivos; um fim além dos registros disponíveis termina no f
 
 A preparação usa o modelo configurado para identificar titularidade e interrupções, mas não anota a taxonomia. Preparações concluídas da mesma fonte, modelo e regras são reutilizadas sem chamadas à API.
 
-**Nesta atualização, os critérios de fronteira foram reforçados.** Para reavaliar uma preparação feita antes dela, use outra pasta e preserve os arquivos anteriores:
+Nesta atualização, os critérios de fronteira foram reforçados. Para reavaliar uma preparação feita antes dela, use outra pasta e preserve os arquivos anteriores:
 
-```sh
+```bash
 python3 anotação/preparador.py --inicio 1 --fim 2 --saida "anotação/preparados_v2"
 ```
 
-A organização dos arquivos antigos pode ser convertida sem modelo, mas corrigir sua segmentação exige reavaliar as fronteiras. O programa não apresenta uma simples reorganização como nova validação semântica.
+A organização dos arquivos antigos pode ser convertida sem modelo, mas corrigir sua segmentação exige reavaliar as fronteiras. O programa não apresenta uma simples reorganização como nova validação semântica sem reavaliação.
 
 ## 2. Anotação de um arquivo ou pasta
 
-```sh
+```bash
 python3 anotação/anotador.py --entrada "anotação/preparados_v2/debate_linha_00001.json"
 python3 anotação/anotador.py --entrada "anotação/preparados_v2"
 ```
 
 Sem `--entrada`, usa `anotação/preparados`. A pasta é percorrida apenas no primeiro nível; arquivos administrativos são ignorados. A anotação carrega o preparo, sem reagrupar falas nem reler o LDS.
 
-Para **cada fala separadamente**, sempre com seu texto integral:
+Para cada fala separadamente, sempre com seu texto integral:
 
 1. Identifica a opinião expressa na fala.
 2. Aplica cada uma das quatro dimensões da taxonomia.
@@ -142,11 +170,11 @@ A representação técnica interna mantém referências para conferência de int
 
 ## Reorganizar resultados anteriores sem API
 
-```sh
+```bash
 python3 anotação/formato.py --entrada "anotação/resultados" --saida "anotação/resultados/organizados"
 ```
 
-Também é possível fornecer um único arquivo em `--entrada`. Os originais são preservados. Na conversão, cada resumo é montado literalmente com a opinião e os rótulos já existentes **da mesma fala**, sem inferir novas informações ou reunir falas diferentes. Isso fica documentado na auditoria. Os agrupamentos anteriores são preservados e devem ser conferidos; nenhuma nova análise pelo modelo ocorre nessa conversão.
+Também é possível fornecer um único arquivo em `--entrada`. Os originais são preservados. Na conversão, cada resumo é montado literalmente com a opinião e os rótulos já existentes da mesma fala, sem inferir novas informações ou reunir falas diferentes. Isso fica documentado na auditoria. Os agrupamentos anteriores são preservados e devem ser conferidos; nenhuma nova análise pelo modelo ocorre nessa conversão.
 
 ## Evidências e limites
 
@@ -154,13 +182,13 @@ Evidências não têm limite rígido de 240 caracteres. Falhas apenas na citaç�
 
 O tema vem dos metadados e não implica consenso. Favorável e Contrário têm como referência comum o conteúdo do tema recebido. Ausência de proposta não impede a taxonomia; ausência de posicionamento não equivale automaticamente a neutralidade.
 
-O orçamento de contexto continua entre 70% e 80% da janela, com padrão de 75%, incluindo a reserva de saída. Uma fala nunca é dividida, truncada ou resumida previamente para caber no modelo. Se somente a tarefa de resumo exceder o contexto, o resumo **daquela fala** fica pendente e a análise prossegue; texto, taxonomia e propostas permanecem preservados.
+O orçamento de contexto continua entre 70% e 80% da janela, com padrão de 75%, incluindo a reserva de saída. Uma fala nunca é dividida, truncada ou resumida previamente para caber no modelo. Se somente a tarefa de resumo exceder o contexto, o resumo daquela fala fica pendente e a análise prossegue; texto, taxonomia e propostas permanecem preservados.
 
 Erros de fonte, API, JSON ou taxonomia continuam sendo sinalizados. As configurações e o token permanecem em `.config`. As instruções ficam em `prompts.xml`. O antigo `julgador.py` continua separado e não faz parte do fluxo de revisão humana.
 
 ## Verificação
 
-```sh
+```bash
 python3 -B -m unittest discover -s anotação/testes -v
 ```
 
@@ -170,54 +198,54 @@ Também foi conferida uma cópia organizada do resultado existente: 17 participa
 
 ### Posicionamento diretamente em relação ao tema
 
-A classificação recebe o tema original e a fala inteira, sem um objeto inferido da opinião. Favorável concorda ou sustenta o conteúdo do tema; Contrário o contesta; Neutro se abstém explicitamente ou suspende o julgamento; Ambíguo apresenta posição incerta ou não unívoca. Confirmar uma acusação não significa aprovar a prática acusada. Falas procedimentais ou sem posição identificável ficam sem rótulo, com justificativa. Se o tema não permitir uma direção de concordância, não se inventa uma tese. O campo de compatibilidade `objeto_do_posicionamento` no JSON legível contém agora o próprio tema. Resultados anteriores não são corrigidos automaticamente: é preciso anotar novamente.
+A classificação recebe o tema original e a fala inteira, sem um objeto inferido da opinião. Favorável concorda ou sustenta o conteúdo do tema; Contrário o contesta; Neutro se abstém explicitamente ou suspende o julgamento; Ambíguo apresenta posição incerta ou não unívoca. Confirmar uma acusação não significa aprovar a prática acusada. Falas procedimentais ou sem posição identificável ficam sem rótulo, com justificativa. Se o tema não permitir uma direção de concordância, não se inventa uma tese.
+
+O campo de compatibilidade `objeto_do_posicionamento` no JSON legível contém agora o próprio tema. Resultados anteriores não são corrigidos automaticamente: é preciso anotar novamente.
 
 ### Prompts específicos por dimensão
 
-Inspirado na organização das perguntas de classificação do [HuNeBR](https://github.com/llm-pt-ibm/brazilian_northeast_humor_benchmark/blob/main/llm_prompt_manager.py), o cliente envia somente a definição da dimensão solicitada. Regras comuns, saída estruturada, tema e fala integral permanecem presentes. O catálogo original não é alterado ao gerar cada mensagem. Essa redução de instruções foi testada estruturalmente; sua influência na qualidade semântica depende de comparação com revisão humana.
+Inspirado na organização das perguntas de classificação do HuNeBR, o cliente envia somente a definição da dimensão solicitada. Regras comuns, saída estruturada, tema e fala integral permanecem presentes. O catálogo original não é alterado ao gerar cada mensagem. Essa redução de instruções foi testada estruturalmente; sua influência na qualidade semântica depende de comparação com revisão humana.
 
 O número de chamadas por fala não aumentou. Prompts de classificação diferentes geram novas chaves de cache e uma nova identificação de execução; resultados anteriores são preservados. Nenhum julgador automático foi adicionado. Exemplos de anotação e métricas contra um gabarito humano continuam sendo melhorias a avaliar, não resultados já demonstrados.
-
 
 ### Critérios operacionais dos indicadores
 
 As definições completas enviadas ao modelo estão em `prompts.xml`, em `anotacao/regras_dimensoes`; as descrições de `TAXONOMY` em `anotador.py` seguem o mesmo escopo. Os nomes dos quatro grupos e dos indicadores foram preservados. A classificação continua sendo da fala inteira, com uma dimensão por chamada.
 
-- **Alinhamento:** Focalizado desenvolve o tema; Periférico desenvolve principalmente assuntos correlatos com ligação superficial; Desalinhado trata de outro assunto sem conexão substantiva. Discordância pode ser focalizada. Procedimentos sem conteúdo avaliável não recebem rótulo. Não se infere intenção de fuga.
-- **Postura:** Agressiva exige hostilidade ou ataque textual; Emocional exige expressão ou apelo afetivo; Confiante exige segurança discursiva identificável; Técnica exige articulação de conteúdo especializado. Não se inferem voz ou psicologia. Os indicadores podem coexistir.
-- **Credibilidade:** a experiência do titular, a fonte externa ou o recurso retórico devem funcionar como sustentação, não apenas ser mencionados. Recursos retóricos podem acompanhar dados e autoridade própria. A classificação não certifica veracidade.
-- **Posicionamento:** concordância e discordância se referem ao conteúdo do tema, não ao interlocutor nem a uma proposta descoberta na fala. Neutralidade exige manifestação textual de suspensão ou abstenção; ausência de posição fica sem rótulo. Ambiguidade exige posição não unívoca, não mera dificuldade do anotador. Ressalvas e posições sobre aspectos diferentes não implicam contradição. Confirmar uma acusação de censura e justificar a censura continua confirmando a acusação.
+* Alinhamento: Focalizado desenvolve o tema; Periférico desenvolve principalmente assuntos correlatos com ligação superficial; Desalinhado trata de outro assunto sem conexão substantiva. Discordância pode ser focalizada. Procedimentos sem conteúdo avaliável não recebem rótulo. Não se infere intenção de fuga.
+* Postura: Agressiva exige hostilidade ou ataque textual; Emocional exige expressão ou apelo afetivo; Confiante exige segurança discursiva identificável; Técnica exige articulação de conteúdo especializado. Não se inferem voz ou psicologia. Os indicadores podem coexistir.
+* Credibilidade: a experiência do titular, a fonte externa ou o recurso retórico devem funcionar como sustentação, não apenas ser mencionados. Recursos retóricos podem acompanhar dados e autoridade própria. A classificação não certifica veracidade.
+* Posicionamento: concordância e discordância se referem ao conteúdo do tema, não ao interlocutor nem a uma proposta descoberta na fala. Neutralidade exige manifestação textual de suspensão ou abstenção; ausência de posição fica sem rótulo. Ambiguidade exige posição não unívoca, não mera dificuldade do anotador. Ressalvas e posições sobre aspectos diferentes não implicam contradição. Confirmar uma acusação de censura e justificar a censura continua confirmando a acusação.
 
 Temas que não oferecem uma direção de concordância não são convertidos automaticamente em teses. Nesses casos, Posicionamento fica sem indicador, com justificativa. Os exemplos internos são orientações ilustrativas, não um gabarito humano de avaliação.
 
 Essa operacionalização é uma proposta do projeto, ainda sujeita à validação humana por amostragem. As referências abaixo oferecem aproximações conceituais; a consulta não estabelece que os autores tenham proposto estes rótulos ou validado esta combinação:
 
-- [Van Dijk, Macrostructures (1980)](https://discourses.org/wp-content/uploads/2022/06/Teun-A.-van-Dijk-1980-Macrostructures.-An-Interdisciplinary-Study-Of-Global-Structures-In-Discourse-Interaction-And-Cognition.pdf): temas e organização global do discurso como aproximação para a pertinência temática. Os três graus usados aqui são decisões operacionais do projeto.
-- [Charaudeau, De l’argumentation entre les visées d’influence de la situation de communication](https://www.patrick-charaudeau.com/De-l-argumentation-entre-les-visees-d-influence-de-la-situation-de.html): construção discursiva da imagem de si e relação afetiva com o auditório. Não se atribui a essa fonte uma escala pronta de quatro posturas, nem a nomenclatura “ethos anunciado/mostrado” sem verificação específica.
-- [Perelman e Olbrechts-Tyteca, Traité de l’argumentation](https://www.editions-ulb.be/en/book/?GCOI=74530100633530): recursos discursivos para obter adesão. A separação entre três indicadores não é apresentada como reprodução da obra.
-- [Bardin, L’analyse de contenu](https://shs.cairn.info/l-analyse-de-contenu--9782130627906): referência metodológica para análise de comunicações; não comprova, por si só, a autoria ou validade desta escala de posicionamento.
+* Van Dijk, Macrostructures (1980): temas e organização global do discurso como aproximação para a pertinência temática. Os três graus usados aqui são decisões operacionais do projeto.
+* Charaudeau, De l’argumentation entre les visées d’influence de la situation de communication: construção discursiva da imagem de si e relação afetiva com o auditório. Não se atribui a essa fonte uma escala pronta de quatro posturas, nem a nomenclatura “ethos anunciado/mostrado” sem verificação específica.
+* Perelman e Olbrechts-Tyteca, Traité de l’argumentation: recursos discursivos para obter adesão. A separação entre três indicadores não é apresentada como reprodução da obra.
+* Bardin, L’analyse de contenu: referência metodológica para análise de comunicações; não comprova, por si só, a autoria ou validade desta escala de posicionamento.
 
 A melhoria semântica deve ser medida em uma amostra humana representativa, separada dos exemplos usados para ajustar as regras. Uma estimativa de qualidade do corpus não transforma cada fala não revisada em uma anotação individualmente validada.
 
 Para aplicar estas definições, execute novamente a anotação sobre os arquivos preparados. A preparação e suas regras de segmentação não mudaram. A alteração dos prompts gera nova identificação de execução e novas entradas de cache para as classificações alteradas; resultados antigos permanecem preservados. Não é necessário apagar caches nem preparar o corpus novamente.
 
-
 ## Interface de revisão humana
 
 Na pasta principal do projeto, execute:
 
-```sh
+```bash
 python3 anotação/visualizar.py
 ```
 
 Se estiver dentro de `anotação`, execute `python3 visualizar.py`. Não é necessário instalar pacotes nem configurar token para a interface. O comando abre o navegador em `http://127.0.0.1:8765`; mantenha o terminal aberto. Para encerrar, use Ctrl+C. Se a porta estiver ocupada, use `--porta 0` e abra o endereço mostrado. `--sem-abrir` inicia sem abrir o navegador automaticamente.
 
-1. Clique em **Abrir JSONs** e escolha resultados, ou em **Abrir pasta** e escolha a pasta de resultados. A seleção de pasta permite associar cada JSON à sua subpasta `auditoria`. Arquivos de cache, andamento e arquivos auxiliares não viram debates. Os formatos por participante e interno anterior são aceitos para leitura, sem converter os originais.
+1. Clique em Abrir JSONs e escolha resultados, ou em Abrir pasta e escolha a pasta de resultados. A seleção de pasta permite associar cada JSON à sua subpasta `auditoria`. Arquivos de cache, andamento e arquivos auxiliares não viram debates. Os formatos por participante e interno anterior são aceitos para leitura, sem converter os originais.
 2. Informe o nome ou identificador do validador. Navegue por debate e participante; as falas de cada participante aparecem separadamente. A busca consulta nome e texto integral, e os filtros mostram registros não revisados, decisões humanas, dúvidas ou pendências do modelo.
-3. Leia a **fala integral**, com interrupções destacadas em sua posição quando disponível. A aba **Justificativas e evidências** mostra os detalhes da auditoria. Quando uma auditoria estiver ausente ou incompatível, a interface informa a limitação e mantém a revisão disponível.
-4. Confira os indicadores, o resumo e as propostas; registre problemas de titularidade/interrupção nas observações. A interface não refaz segmentação nem altera os textos. As definições em **Consultar critérios atuais** vêm diretamente do código e de `prompts.xml`, não de uma cópia manual. São os critérios atuais: resultados históricos podem ter usado outras instruções.
-5. Escolha **Confirmar anotação original**, **Registrar correções** ou **Inconclusiva**, e clique em **Registrar revisão desta fala**. Alterações permanecem rascunhos até esse registro. Para Alinhamento e Posicionamento, só é permitido um indicador; desmarcar todos representa ausência de rótulo. Postura e Credibilidade aceitam múltiplos indicadores.
-6. Use **Exportar revisão** para baixar um JSON separado, com autoria por fala, decisões, anotações humanas, observações, datas, critérios atuais e hash SHA-256 dos arquivos-fonte. Para continuar em outra sessão ou computador, abra os mesmos arquivos originais e use **Importar revisão**. Uma revisão de outra versão do arquivo-fonte é recusada; conflitos locais exigem escolha explícita antes da substituição.
+3. Leia a fala integral, com interrupções destacadas em sua posição quando disponível. A aba Justificativas e evidências mostra os detalhes da auditoria. Quando uma auditoria estiver ausente ou incompatível, a interface informa a limitação e mantém a revisão disponível.
+4. Confira os indicadores, o resumo e as propostas; registre problemas de titularidade/interrupção nas observações. A interface não refaz segmentação nem altera os textos. As definições em Consultar critérios atuais vêm diretamente do código e de `prompts.xml`, não de uma cópia manual. São os critérios atuais: resultados históricos podem ter usado outras instruções.
+5. Escolha Confirmar anotação original, Registrar correções ou Inconclusiva, e clique em Registrar revisão desta fala. Alterações permanecem rascunhos até esse registro. Para Alinhamento e Posicionamento, só é permitido um indicador; desmarcar todos representa ausência de rótulo. Postura e Credibilidade aceitam múltiplos indicadores.
+6. Use Exportar revisão para baixar um JSON separado, com autoria por fala, decisões, anotações humanas, observações, datas, critérios atuais e hash SHA-256 dos arquivos-fonte. Para continuar em outra sessão ou computador, abra os mesmos arquivos originais e use Importar revisão. Uma revisão de outra versão do arquivo-fonte é recusada; conflitos locais exigem escolha explícita antes da substituição.
 
 Os rascunhos ficam no armazenamento local do navegador quando disponível. Esse armazenamento depende do navegador e do endereço/porta e pode ser apagado; a exportação é a cópia durável. Nenhum arquivo original é sobrescrito. Os JSONs exportados podem ser guardados em `anotação/revisoes/`, ignorada pelo Git.
 
