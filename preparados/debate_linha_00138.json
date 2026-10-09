@@ -1,0 +1,484 @@
+{
+  "formato": "debate_por_participante_v1",
+  "debate_id": 138,
+  "tema": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+  "status": "preparado_para_anotacao",
+  "participantes": [
+    {
+      "nome": "Caio Vianna",
+      "falas": [
+        {
+          "id": "f00001",
+          "ordem_no_debate": 1,
+          "texto": " Declaro abertos os trabalhos da reunião de audiência pública híbrida para prestar esclarecimentos a respeito dos recentes vazamentos de dados da população brasileira.\n\nA presente reunião tem amparo na aprovação do Requerimento nº 339, de 2023, de minha autoria.\n\nCom base no art. 220,§1º, do Regimento Interno, convido neste momento para compor a Mesa o Sr. Waldemar Gonçalves Ortunho Júnior, Diretor-Presidente da Agência Nacional de Proteção de Dados — ANPD. Convido também para participar da Mesa o assessor Jeferson Barbosa.\n\nQuanto aos procedimentos, faço os seguintes registros. O tempo reservado ao convidado é de 15 minutos, prorrogáveis, se for necessário, não podendo haver apartes. Cada Deputado inscrito para interpelar poderá fazê-lo por 3 minutos. O convidado interpelado terá igual tempo para responder, facultadas a réplica e a tréplica no mesmo prazo.\n\nAntes de iniciar as exposições, quero fazer os seguintes esclarecimentos sobre a importância do debate proposto pelo requerimento de minha autoria. Como eu já vinha falando com o nosso Diretor-Presidente Waldemar, acho que este é um momento de extrema importância para discutirmos a proteção de dados pessoais do brasileiro, tendo em vista que hoje nós utilizamos sistemas e populamos esses sistemas, esses bancos de dados, com as nossas informações pessoais, muitas vezes informações sensíveis. Portanto, quanto mais avançamos no setor de tecnologia, mais temos que garantir essa proteção dos dados do cidadão brasileiro.\n\nTendo em vista que hoje muitas empresas, inclusive no setor privado, se prevalecem disso, mesmo quando não autorizamos... Quando vamos fazer um cadastro, nós autorizamos que a empresa, obviamente, possa utilizar os nossos dados para aquela finalidade, para aquela operação, mas, às vezes, vemos que não é isso o que acontece. Essas empresas acabam, depois, compartilhando nossos dados. Muitas vezes, fazemos um cadastro, e, imediatamente, o nosso telefone já está tocando, com outra empresa, com a qual não fizemos o cadastro, oferecendo algum tipo de serviço, ou mandandoe-mail, ou mandando SMS, importunando, inclusive, o dia a dia do cidadão que está trabalhando.\n\nEntão, essa é uma questão na qual precisamos avançar, para a qual precisamos ter o apoio deste Parlamento, a fim de que a ANPD possa desenvolver esse trabalho com cada vez mais eficiência, com o objetivo de proteger o cidadão brasileiro dessas investidas, assim como os seus dados. Isso acontece no setor público também, em grande escala, como, em passado recente, aconteceu com o Ministério da Saúde, quando houve o vazamento de informações de milhões de brasileiros, que tiveram seus dados expostos. Também vemos acontecer em Prefeituras, em órgãos menores, esses vazamentos com muita frequência, colocando em risco o usuário. Acho que é de conhecimento de todos que os dados são hoje um dos maiores ativos que nós temos; muitas vezes é até considerado um ativo mais valioso do que o petróleo, do que outrascommodities.\n\nPrecisamos ter muita clareza quando tratarmos desse assunto, sabendo que ele é importante e sabendo que é necessário investimento e momentos como este aqui para discutirmos o tema, para discutirmos a pauta, e continuarmos avançando na proteção de dados.\n\nEu vou seguir adiante.\n\nPasso a palavra, pelo prazo de 15 minutos, ao Sr. Waldemar Gonçalves Ortunho Júnior, Diretor-Presidente da Agência Nacional de Proteção de Dados — ANPD.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00003",
+          "ordem_no_debate": 3,
+          "texto": " Vamos, então, diretamente aos questionamentos. Eu vou fazendo as perguntas, o Sr. Waldemar vai respondendo, e vamos seguindo aqui. Eu vou tentar ser o mais breve possível.\n\nNa qualidade de órgão responsável por zelar, implementar e fiscalizar o cumprimento da Lei Geral de Proteção de Dados Pessoais — LGPD em todo o território nacional, como a ANPD atesta a segurança dos sistemas utilizados para a proteção de dados?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00005",
+          "ordem_no_debate": 5,
+          "texto": " O senhor tem o número, neste ano, de quantos vazamentos vocês acompanharam e de quantos fizeram o estudo? O senhor tem o número de quantas sanções ou multas vocês aplicaram?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00007",
+          "ordem_no_debate": 7,
+          "texto": " Queria aprofundar um pouco mais este tópico, até para que eu e todos que estão aqui nos acompanhando possamos compreender.O vazamento, quando acontece, pode ser provocado por agente interno ou externo. Para classificar como interno um vazamento, teria que haver uma falha da empresa ou do sistema. Portanto, a empresa seria a responsável?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00009",
+          "ordem_no_debate": 9,
+          "texto": " Sim.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00011",
+          "ordem_no_debate": 11,
+          "texto": " E nunca houve nenhuma falha técnica?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [
+            {
+              "participante": "WALDEMAR GONÇALVES ORTUNHO JÚNIOR",
+              "texto": " Não, isso eu não posso afirmar.\n\nPara a maioria dos vazamentos que nós estamos tendo ainda não houve conclusão através de uma perícia policial. Não recebemos uma falha gritante até o momento.\n\n",
+              "apos_caractere_do_texto": 39,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "Retomada ainda não observada."
+            }
+          ],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00012",
+          "ordem_no_debate": 13,
+          "texto": " O.k.\n\nNão está claro para mim. O cidadão vai à empresa e registra os seus dados pessoais no banco de dados específico da empresa. A partir do momento que os dados são expostos — e a segurança desses dados era de responsabilidade daquela empresa —, a meu ver pouco interessa se o vazamento foi feito pela empresa ou por um agente externo. Para mim, a empresa sempre será responsável. Se um agente externo é capaz de penetrar o sistema — não precisa ter havido um erro operacional de algum funcionário da empresa —, é porque a empresa não implementou as práticas de segurança adequadas. Deu a esse malfeitor externo a oportunidade de invadir o sistema e promover esse vazamento de dados. Portanto, meu ponto é o seguinte: não importa se foi a empresa ou o agente externo, o cidadão saiu prejudicado de qualquer forma.\n\nQuais são as medidas que vocês da ANPD conseguem implementar para que isso não aconteça?\n\nEu vou até entrar nesse ponto daqui a pouco. Eu vi que há um problema óbvio e grave de estrutura. Vocês têm uma estrutura muito reduzida para operacionalizar suas atividades. Com o avanço da tecnologia, há cada vez mais sistemas sendo colocados para uso da população, e vocês estão com um quadro muito reduzido. Inclusive, eu me assustei ao ver que há três pessoas para fazer um monitoramento. É muito pouco.\n\nO que eu quero saber é o seguinte: mesmo tendo poucas pessoas, qual é o procedimento?\n\nTambém não me parece razoável falar em aumento do quadro, se não há de fato uma sanção. Se, desde que vocês estão em funcionamento, as empresas que tiveram dados vazados não sofreram nenhum tipo de sanção, multa ou algo que as faça entender que, no Brasil, nós vamos coibir esse tipo de atividade ou a falta de implementação de segurança em bancos de dados, elas vão continuar agindo do mesmo modo. É óbvio que é mais vantajoso. Implementar segurança é caro, não é barato.\n\nEntão, essa é a minha dúvida, porque o cidadão sai prejudicado de qualquer forma.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00015",
+          "ordem_no_debate": 16,
+          "texto": " Eu vou até fazer uma brincadeira. Parece-me que vocês estão com o quadro de funcionários menor do que o meu gabinete.\n\nO que eu quero, na verdade, é entender a situação, para que possamos depois discutir isso com mais profundidade. Gostaria de saber como nós aqui da Casa podemos contribuir, podemos ajudar.\n\nHá algo que não me parece razoável nisso tudo. Você deu o exemplo da padaria, que é tão importante quanto asbig techs, mas os grandes vazamentos geralmente vêm de bancos de dados maiores, das grandesbig techs —não das tão grandes, porque elas têm uma camada de proteção e segurança maior, mas de algumas que estão galgando esse espaço.\n\nNão me parece razoável não haver uma punição quando se identifica que o vazamento veio daquela empresa, independentemente de a empresa ter tido uma falha muito grave ou não. Como essas pessoas podem ser recompensadas no futuro pelos dados delas que foram vazados? Como elas podem ter a garantia de que o dinheiro delas, como contribuintes, está sendo bem aplicado na ANPD, se elas não veem, quando o dado delas é exposto, uma medida enérgica para que se puna, de certa forma, essas empresas, e elas passem a investir cada vez mais em soluções mais modernas para melhorar esta camada de proteção?\n\nIsso, para mim, ainda não me parece razoável. Não sei se é falta de instrumento, às vezes, de quadro de pessoal, mas acho que é preciso algum aprimoramento na legislação. Nós precisamos ir um pouquinho mais a fundo nisto. Parece-me que não houve, ainda, não vou nem dizer uma mão pesada da ANPD, mas uma resposta mais efetiva, por parte da agência, com relação a estes vazamentos.\n\nEu aproveito para perguntar: houve algum tipo de sanção ou alguma coisa que vocês fizeram com relação ao Ministério da Saúde, quando houve o vazamento do ConecteSUS?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00017",
+          "ordem_no_debate": 18,
+          "texto": " Eu entendo toda a dificuldade por que vocês devem passar para fazer isso acontecer, mas eu quero contribuir porque acho que a ANPD é fundamental.\n\nNo entanto, eu acho que está faltando algum elemento. Não é possível! Nós não podemos demorar esse tempo todo para resolver e dar uma punição. Vamos lá! Hoje o Ministério da Saúde é um dos maiores do Brasil, senão o maior, em todos os termos: orçamento, quadro de pessoal, tudo mais e implementações. Obviamente, você deve estar acompanhando isso. Nós estamos avançando cada vez mais para digitalizar os prontuários, para ter mais informações sensíveis de pacientes. Isso é muito preocupante.\n\nSe, no momento em que houve a necessidade de um sistema robusto com todas as informações, estas informações foram vazadas, imagine você ser atendido: você preenche todos os seus dados, que já são dados sensíveis, e, daqui a pouco, você vê lá seu exame, e foi identificada uma doença que, às vezes, você não quer compartilhar nem com uma pessoa da sua família, mas que ela está naquele banco de dados, e isso, a qualquer momento, pode ser vazado ou para consumo de empresas do setor ou para criminosos ou para qualquer que seja a atividade ilegal. Isso pode ser vazado, e aquela pessoa nunca mais vai ser reparada no dano que sofreu.\n\nPortanto, eu entendo, sim, que a ANPD é fundamental e acho que ela não está num plano satisfatório. Nós temos que entender que o ponto não é a existência da ANPD, mas, sim, o que não está satisfatório. Está faltando aprimoramento da legislação? Está faltando recurso? Também não me parece que seja apenas a questão de recurso. Parece-me que está faltando mais coisa.\n\nO ConecteSUS, por exemplo, foi um caso que aconteceu já faz algum tempo, e já dava para ter tido alguma resposta.\n\nSe, igualmente, não está havendo informação do Ministério, nós temos que tomar medidas. Imagine uma empresa não fornecer informações durante 10 anos, e está claro que ela, de certa forma, penalizou o cidadão que interagiu com o sistema dela. Nós não vamos tomar medida nenhuma? Nós vamos deixá-la continuar operando no mercado livremente, sem nenhuma punição? Eu acho que é necessário fazer um estudo sobre isso.\n\nNós precisamos entender como vamos atuar, porque não adianta apenas colocar mais recursos na ANPD e aumentar o pessoal, se vocês não tiverem as ferramentas que talvez estejam faltando. Eu também não sei quais são ainda, mas me parece que estão faltando mais instrumentos para que vocês consigam ter mais celeridade até para haver esta punição.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00019",
+          "ordem_no_debate": 20,
+          "texto": " Quando você aplica uma multa, que ainda não foi o caso, mas quando se aplica...\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00021",
+          "ordem_no_debate": 22,
+          "texto": " Já foi aplicada uma multa numa empresa privada?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00023",
+          "ordem_no_debate": 24,
+          "texto": " Quando se aplica uma multa, o que acontece? A empresa paga a quem? À União?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00025",
+          "ordem_no_debate": 26,
+          "texto": " Isso foi definido por que via? Por decreto?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00027",
+          "ordem_no_debate": 28,
+          "texto": " Então vai para um fundo de educação?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00030",
+          "ordem_no_debate": 31,
+          "texto": " Eu não sei se os senhores têm conhecimento do Projeto de Lei Complementar nº 243, de 2023, do Deputado Arlindo Chinaglia, que institui a Lei Geral de Empoderamento de Dados, que dispõe sobre o ecossistema brasileiro de monetização de dados e altera, entre outras, a Lei nº 13.709, de 14 de agosto de 2018, a Lei de Proteção de Dados Pessoais — LGPD.\n\nNão sei se os senhores têm conhecimento dela. Se têm, quais são as principais preocupações de privacidade associadas à monetização de dados pessoais?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00032",
+          "ordem_no_debate": 33,
+          "texto": " Mas os senhores já têm algum estudo com relação à monetização de dados?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00034",
+          "ordem_no_debate": 35,
+          "texto": " Mas o senhor acha que seria possível aplicar no Brasil?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00036",
+          "ordem_no_debate": 37,
+          "texto": " Como a ANPD vê a utilização deblockchainpara a proteção de dados e para a garantia ao cidadão de que, de fato, os dados sejam dele, e não das empresas, que passam a ter acesso e domínio destes dados? Os senhores acham que oblockchainé uma tecnologia que pode contribuir para a proteção de dados?\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00039",
+          "ordem_no_debate": 40,
+          "texto": " Excelente, Jeferson.\n\nTivemos a oportunidade de participar de uma audiência pública na Comissão de Ciência, Tecnologia e Inovação.\n\nSem dúvida alguma, qualquer tecnologia precisa ir se aprimorando, evoluindo. Toda tecnologia traz uma solução, mas também traz problemas. Eu acredito mesmo que oblockchainpode ajudar e muito a resolver muitas questões que temos hoje em relação aos dados, inclusive na confiabilidade e no rastreio. É possível, sim, fazer alterações, mas isso também fica registrado. Na parte de exclusão, já existe um pouco mais de dificuldade. Então, há algumas coisas a serem superadas, mas eu acho que essa tecnologia vai contribuir para um avanço tão necessário na proteção de dados.\n\nNós precisamos estar atentos a isso, e eu acho que os senhores estão numa posição importante para fazer estudos e promover esse debate, para que não nos fechemos, porque o mundo está evoluindo e o que temos hoje não é satisfatório.\n\nOs bancos de dados relacionados também apresentam as suas fraquezas, as suas limitações, e nós precisamos evoluir. Então, precisamos buscar essas soluções também.\n\nBom, eu vou encerrar os trabalhos, mas antes vou abrir espaço para que os senhores façam as suas considerações finais, se assim o quiserem.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00041",
+          "ordem_no_debate": 42,
+          "texto": " Muito obrigado, Waldemar e Jeferson, por aceitarem o convite de prontidão, por terem vindo debater esse tema importante.\n\nRealmente, temos que continuar esses estudos e olhar para outros países que já estão mais avançados, que já implementaram tecnologias mais novas, principalmente no setor público. É o caso da Estônia, que já implementou oblockchainna saúde e está indo muito bem, já superou esses desafios. Precisamos tentar entender como isso se deu para ver como podemos aplicar isso aqui, diante do nosso cenário, da nossa realidade.\n\nQuero agradecer-lhes mais uma vez e dizer que esse debate foi muito oportuno. Vocês contribuíram, e nós fizemos perguntas importantes.\n\nFarei os encaminhamentos necessários para continuarmos aprofundando esse debate, buscando mais informações.\n\nEstou à disposição de vocês tanto no gabinete quanto na Comissão para o que precisarem, sempre que acharem que podemos contribuir para o avanço da ANPD.\n\nNada mais havendo a tratar sobre o tema da audiência pública, declaro encerrada a presente reunião, antes convocando Reunião Deliberativa Extraordinária para amanhã, dia 8 de novembro, às 10 horas, no Plenário 9.\n\nEstá encerrada a reunião.",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "WALDEMAR GONÇALVES ORTUNHO JÚNIOR",
+      "falas": [
+        {
+          "id": "f00002",
+          "ordem_no_debate": 2,
+          "texto": " Boa tarde a todos.\n\nInicialmente, eu queria agradecer o convite, Deputado. Para nós, é muito importante estar aqui. É uma forma de a ANPD ter voz, de cada vez mais pessoas nos conhecerem, conhecerem a importância dos dados pessoais e de fazermos a nossa conversa com o titular. Acho que esta é uma fase fundamental para a proteção de dados, para que haja uma mudança de cultura. E isso vamos conseguir de que forma? Com atividades como esta, com atividades educativas com o objetivo de fazer uma mudança maior de cultura.\n\nQuero cumprimentar todos a que nos assistem de forma remota ou presencial.\n\nOntem foi um dia de festa na ANPD, nós completamos 3 anos. Tivemos, inclusive, um evento. No final vou mostrar um filmete desse evento, mas agora vou falar das atribuições legais da ANPD.\n\nAs atribuições legais da autoridade estão distribuídas em três eixos: regulamentar, fiscalizar e sancionar. Segundo a própria LGPD, no seu art. 55-J, são diretivas da ANPD: zelar pela proteção de dados pessoais; editar regulamentos e procedimentos — são 65 os artigos que nós temos que normatizar —; interpretar esta lei geral; ouvir a sociedade, que é uma competência muito importante; promover o conhecimento na população, que é a parte educativa, porque não podemos fazer exigência sem darmos ao titular das sociedades e das empresas a oportunidade de aprender sobre os seus direitos de proteção de dados pessoais estabelecidos na Constituição; realizar auditorias; fiscalizar o tratamento de dados pessoais; aplicar sanções em caso de infração.\n\nNós não temos a ideia de fazer uma indústria de multas. Nós primamos por sempre trazer as empresas e os órgãos para a conformidade da lei. Isso foi algo decidido pelo Conselho Diretor, uma vez que vimos que, em outras agências reguladoras, a ação coercitiva nem sempre correspondia ao que o consumidor queria e havia empresas que valiam menos do que aquilo que deviam para a União em termos de multas aplicadas.\n\nAs etapas da regulação responsiva são: monitoramento, atividades de orientação, atividades preventivas e atividades repressivas.\n\nO grande diferencial da autoridade é que nós temos uma ação bastante transversal. Nós não atuamos como uma agência reguladora que tem um nicho a ser focado, como, por exemplo, as agências de telecomunicações, as áreas de saúde e a área de educação. Praticamente todas as empresas, todos os órgãos têm um banco de dados pessoais. Então, a missão da autoridade é imensa, englobando o setor privado e o setor público, nos três Poderes — Executivo, Legislativo e Judiciário. No setor privado, ela é não apenas o controlador nacional, mas também o controlador estrangeiro.\n\nNossos objetos nesse monitoramento são sempre os incidentes de segurança da informação ou a conformidade do tratamento de dados. Lembro sempre que atuamos desta forma: orientação, prevenção e sancionamento.\n\nO processo de monitoramento envolve a escuta setorial, a definição de ações de fiscalização e o mapeamento de temas prioritários. Exemplo: nós recebemos, por meio de nossa auditoria, muita reclamação, muita demanda na área de farmácias. Então, esse se tornou um tema prioritário, e, com isso, nós passamos a ter um time para tratar do assunto com o setor.\n\nNa área de orientação, promovemos educação por meio do fornecimento de ferramentas e modelos que facilitem o tratamento de dados pessoais, do lançamento de guias, do estabelecimento de acordos de cooperação técnica. Nós passamos à redação de pequenas cartilhas envolvendo, por exemplo, a área consumerista, a área de vazamento de dados. Na própria eleição do ano passado, por meio de um ACT com o TSE, nós lançamos uma cartilha para todos os atores das eleições.\n\nNa área de prevenção, fazemos a recondução à plena conformidade. Então, quando nós sentimos que houve algum problema, o objetivo é, da forma mais rápida possível, trazer quem está em não conformidade com a LGPD para a nossa conformidade e, assim, atender de forma rápida o titular de dados.\n\nQuando isso não acontece, nós temos a repressão. Então, há apuração formal da infração e, se for o caso, aplicação de sanções.\n\nQuais são as sanções da ANPD? Nós temos o poder de polícia administrativa. Então, ao controlador nós vamos aplicar: advertências; multas simples, de até 50 milhões de reais ou 2% do faturamento da empresa no ano anterior; bloqueio de dados; multas diárias. Se alguma pena for aplicada a uma empresa e ela não cumprir essa pena, não sendo pecuniária, nós passamos a aplicar multas diárias até que comece a ser cumprida a nossa pena.\n\nA publicização da infração tem um efeito grandioso.Nós vemos que uma empresa constrói, ao longo de toda a sua vida, uma reputação. E, quando ela é obrigada a dizer que falhou, essa publicização pode desconstruir toda a imagem da empresa junto à sociedade.\n\nOutras sanções são: eliminação de dados; suspensão parcial do banco de dados; suspensão do exercício da atividade de tratamento de dados; e proibição do exercício de atividades relacionadas a tratamento de dados.\n\nO setor público está sujeito a essas punições, exceto a sanção pecuniária. O setor público também tem os órgãos controladores do Governo sempre olhando as atividades dos órgãos públicos do nosso País.\n\nA ANPD apenas atua quando há envolvimento de dados pessoais. Para prevenir incidentes, nós elaboramos: regulamentos, diretrizes e guias. Nestes, estão definidos: medidas de segurança e medidas técnicas e administrativas, incluindo padrões técnicos mínimos de segurança; e um regulamento do comunicado de incidente de segurança. O que esse comunicado deve ter é muito importante para a autoridade.\n\nO monitoramento de incidentes fazemos por meio de petições; de denúncias de titulares que chegam por meio do nosso canal de comunicações; de investigação de incidentes divulgados pela mídia ou informados à própria autoridade.\n\nEscopo de atuação. Nós fazemos sempre uma avaliação de medidas técnicas e administrativas de segurança, com objetivo de evitar novos incidentes. Então, a ideia é que não se cometam mais incidentes, se já tiverem ocorrido inicialmente.\n\nEstá no nosso escopo também a avaliação de medidas que foram tomadas para reverter ou mitigar os efeitos dos incidentes, no intuito de verificar se o controlador reagiu de maneira adequada e proporcional aos riscos causados ao titular. Então, não se trata só de aplicar uma sanção, mas também de verificar se aquela sanção foi cumprida e se atingiu o objetivo traçado na sua aplicação.\n\nHá ainda a avaliação da comunicação feita pelo titular. Notem: sempre que há, numa empresa, num órgão, um incidente de dados que envolva riscos, que envolva danos, a empresa ou o órgão deve comunicar não só à ANPD, como também aos próprios titulares. O objetivo maior é mitigar o risco. Então, saiu o vazamento de contas, de números de cartão, de senha, o objetivo é dar ao titular a oportunidade de ele bloquear, alterar sua senha e, com isso, mitigar os danos que ele viria a sofrer.\n\nO que é priorizado pela ANPD? Senhores, nós completamos 3 anos e não tivemos nenhum concurso público. Então, nós temos uma limitação muito grande, principalmente de pessoal. Priorizamos incidentes que abrangem dados pessoais sensíveis, de crianças e adolescentes, ou dados que exponham o titular a uma fraude.\n\nTambém priorizamos a recorrência do controlador notificante no mesmo incidente, ou seja, ele já cometeu um incidente num determinado momento e está cometendo o mesmo incidente novamente.\n\nAinda há prioridade caso a principal atividade do controlador afetado envolva tratamento de alto risco.\n\nConsiderando as limitações de recurso da ANPD, os incidentes que não atendam a esses critérios de priorização vão ser analisados posteriormente, desde que não tenham risco ou dano relevante aos titulares de dados pessoais.\n\nDesde a sua criação, a ANPD já recebeu 768 comunicados de incidentes de segurança. Nós temos aqui, expostos no nosso gráfico, os anos de 2021, 2022 e 2023. Notem, em azul, o que está em andamento, e, em laranja, o que foi concluído.\n\nAqui se vê a nossa fiscalização, em números também: processos de fiscalização, 13; processos administrativos sancionadores, 9; comunicados de incidente de segurança com dados pessoais, 768; e requerimentos — petições ou denúncias —, de janeiro de 2021 a setembro de 2023, 2.645.\n\nVou recordar que a nossa lei foi aprovada em 2018 e teve carência até 2020. Ela entrou em vigor, mas a parte de sancionamento só passou a valer de forma efetiva em 1º de agosto de 2021. A primeira fase de sanções ocorreu após a publicação da nossa norma de dosimetria, ou seja, a aplicação de uma sanção na dose correta.\n\nDosimetria é um termo bem ligado à área de saúde, e é exatamente isto: se estou com uma doença e tenho determinado remédio, se eu tomar menos que o necessário, não vai produzir o efeito desejado, e pode causar um efeito ainda maior, mais danoso, se aplicado de forma exagerada. Então, temos que aplicar a dose na medida correta.\"Eu não vou pagar essa multa, porque não vale nem a pena, melhor dessa forma\". Então, é importante essa parte de dosimetria.\n\nNormas e publicações são nossa área educativa. Fizemos diversas publicações, por meio de ACTs. São guias orientativos que nós lançamos na sociedade. Uma norma é um processo bastante moroso; sua edição leva de 6 meses a 1 ano. Um guia, não; ele é mais imediato e tende a apagar um incêndio, alguma demanda que um setor ou que a sociedade nos trouxe e para a qual queremos dar uma resposta rápida. Mas avisamos: esta é a orientação da ANPD; este guia vai ter várias atualizações até se transformar num regulamento ou numa norma.\n\nEsta é uma parte importante. Nós gostaríamos de estar num patamar diferente, mas fomos criados com cinco diretorias, na pandemia, com a opção de 36 cargos comissionados, incluindo os cargos de diretores. Eu vou dizer que nós não podíamos gerar despesa para o Governo, e assim o fizemos. Por meio de requisição, conseguimos mobiliar essas posições. Não é fácil. A requisição é um processo moroso. Se for liberado de forma imediata, é muito bom, mas pode ser questionado se for feito o levantamento de que aquela pessoa está fazendo algo, e será necessário que se prepare um substituto para aquela função. Então, não é uma boa saída essa parte de requisição.\n\nHoje, nós temos 120 requisitados; 4 estagiários — eu faço questão de dizer que o estagiário produz muito na ANPD —; secretárias executivas, 5; técnicas em secretariado, 6; assistentes administrativos, recepcionistas, copa e limpeza, 152 servidores, funcionários. A nossa Coordenação de Fiscalização tem 16 servidores, praticamente, 10%. Senhores, na Divisão de Monitoramento temos 3 servidores; na Divisão de Fiscalização, 5 servidores; na Divisão de Tratamento de Comunicados de Incidentes de Segurança, 5 servidores.\n\nVou comparar esses números com os do Reino Unido, que é um país bem menor do que o Brasil, com população de 70 milhões de habitantes. Eu tenho 900 pessoas trabalhando nessa área de proteção de dados.\n\nPelas entregas que fizemos, nós já passamos a mensagem de que sabemos fazer, sabemos como fazer, e temos um time capacitado. A cada momento que chega um servidor, eu tenho que prepará-lo, porque proteção de dados ainda é uma área desconhecida. De maneira geral, há falta de profissionais. Então, o Governo precisa observar a ANPD, que necessita de carreira própria, de fortalecimento da carreira, de concurso público, para que essa atividade que já fazemos possa ser realizada de forma repetitiva, ou seja, não só uma sanção a cada mês, mas, dez, vinte, tantas quantas forem necessárias, em virtude das demandas que recebemos.\n\nQuanto ao orçamento, temos o mesmo problema. Temos um orçamento pequeno, limitado, e algumas autonomias não nos foram dadas até o momento. No final do ano passado, fomos alçados a uma autarquia especial, mas essa autonomia não foi concluída até o momento.  A ANPD precisa ser vista como um órgão que produz, que já entregou muito, mas está longe de atender às demandas do País.\n\nOntem nos fizemos um evento comemorativo de 3 anos. Pedimos que distribuíssem um cartãozinho comQR Code. É o nosso caderno, com balanço dos 3 anos da ANPD.Para finalizar a minha apresentação — nós temos um filmete de outras autoridades falando sobre a atuação da ANPD —, há um filmete que eu queria destacar da nossa Comissão Europeia, com a qual a ANPD tem uma afinidade muito grande pela inspiração que a LGPD teve sobre o nosso GDPR.\n\nEntão, nós temos o Bruno Gencarelli, uma alta autoridade desse órgão, falando sobre a atuação da ANPD em 3 anos.\n\nPor favor.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00004",
+          "ordem_no_debate": 4,
+          "texto": " Vamos aos fatos. A nossa atuação sempre é com o controlador. Então, nós não vamos impor uma solução tecnológica para o controlador. O controlador tem a obrigação e tem a responsabilidade, se ocorrer algum tipo de vazamento.\n\nEntão, quando há algum problema, nós sempre utilizamos aexpertiseda Polícia Federal — não temos essaexpertise—, e aguardamos a conclusão dessa perícia por parte da Polícia Federal para ver qual é o controlador e de onde ocorreu algum tipo de vazamento.\n\nA partir daí, nós temos uma atuação com o controlador, para ver todas as medidas que ocorreram; se todas as tecnologias disponíveis foram realmente utilizadas; e se ele, em conformidade com a LGPD, avisou, assim que tomou conhecimento do incidente, à ANPD e aos titulares, isso quando ocorrer risco ou dano ao titular de dados.\n\nA atuação da ANPD entra justamente depois da identificação do controlador de dados que provocou o incidente.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00006",
+          "ordem_no_debate": 6,
+          "texto": " A ANPD, em toda a sua existência, aplicou — vamos dizer — três sanções: duas em órgãos públicos e uma numa empresa privada lá do Rio Grande do Sul.\n\nEntão, este é justamente um processo — que só se iniciou a partir de fevereiro, quando a nossa dosimetria foi sancionada — do tipo vazamento. É um processo mais moroso, porque eu tenho que buscar provas de que houve vazamento e de que foi provocado por determinada empresa ou órgão. Este é o primeiro passo, e, normalmente, nós o concentramos na Polícia Federal. Após a conclusão e recebimento desses detalhes, nós passamos a atuar com a empresa que ocasionou o vazamento.\n\nEu acho que não houve nenhuma até o momento, não é, Jeferson?(Pausa.)\n\nNão houve nenhuma sanção devido a vazamento.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00008",
+          "ordem_no_debate": 8,
+          "texto": " A empresa é o controlador, que é o responsável.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00010",
+          "ordem_no_debate": 10,
+          "texto": " Seja por uma falha técnica, seja pela falha ocasionada pelo...\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00013",
+          "ordem_no_debate": 14,
+          "texto": " Eu vou pedir para o Jeferson completar um pouco mais com a parte técnica depois, mas o nosso primeiro problema é cultural, é saber quais são nossos direitos em termos de proteção de dados.\n\nO cidadão fornece seus dados para a empresa A, B ou C. Se ofereceram desconto, ele está lançando os seus dados. Quando existe um vazamento, a parte mais difícil é saber de qual das empresas houve esse vazamento, tendo em vista que só ele sabe para quem forneceu os dados, e foi para uma infinidade de empresas.\n\nEntão, para nós, a parte mais complicada e mais morosa é saber de que empresa exatamente houve o vazamento. Nesta fase, para ter certeza, nós sempre necessitamos do apoio da Polícia Federal.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00016",
+          "ordem_no_debate": 17,
+          "texto": " Um dos processos que estão sendo apurados, essa apuração é bastante complexa. Eu dependo de uma resposta do Ministério da Saúde. É uma tratativa. Está ainda em processo de apuração, mas não houve uma punição. Porém, o processo não se encerrou.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00018",
+          "ordem_no_debate": 19,
+          "texto": " Deputado, de uma forma direta, digamos, nos falta pessoal, pessoal capacitado. Normalmente, nós requisitamos pessoal. Nós temos mais ou menos 3 meses de capacitação. O requisitado, como não temos função comissionada, normalmente é atrativo a outros órgãos, e nós o perdemos. O próprio coordenador da área de fiscalização, a menos de 1 mês, nós o perdemos para outro órgão público.\n\nNormalmente, quando eu tenho um diálogo com o Ministério da Saúde, uma única resposta não é suficiente. Ela, geralmente, provoca outras questões, em função das informações que nós estamos recebendo. O processo, neste caso, é praticamente forense. Com isso, leva-se tempo para se chegar a uma decisão.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00020",
+          "ordem_no_debate": 21,
+          "texto": " Já foi aplicada uma multa.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00022",
+          "ordem_no_debate": 23,
+          "texto": " Já, numa empresa privada.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00024",
+          "ordem_no_debate": 25,
+          "texto": " Primeiro, ela tem um tempo para poder recorrer. Após isso, ela paga à União e vai para um recurso que nós podemos usar, por exemplo, na área de educação — ele não vem para a ANPD. Vai para a União. Trata-se de um fundo de diversas agências.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00026",
+          "ordem_no_debate": 27,
+          "texto": " Isso está na nossa lei.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00028",
+          "ordem_no_debate": 29,
+          "texto": " Não. Vai para um fundo gerido pelo MJ, pela SENACON. A este fundo nós podemos solicitar algumas ações, por exemplo, na área de educação.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00033",
+          "ordem_no_debate": 34,
+          "texto": " Não. A monetização não é prevista, não é permitida até o momento.\n\nEu acho que os dados do titular são definitivos. Como eu dou o consentimento para que sejam utilizados aqueles dados, eu posso, como titular, revogar este consentimento. É diferente do que ocorre em outros países. Nos Estados Unidos, por exemplo, eu posso, em busca de algum desconto, falar que esses dados podem ser utilizados da forma como se quiser.Os Estados Unidos têm esta facilidade. Nós ainda não a temos. Trata-se de algo que tem que ser votado e aprovado. No momento, é algo ainda considerado ilícito para nós.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00035",
+          "ordem_no_debate": 36,
+          "texto": " Não. Nós teríamos que levantar todos os... Eu acho que é bem complicada, bem complexa esta parte de monetização. Eu, particularmente, sou contrário.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00037",
+          "ordem_no_debate": 38,
+          "texto": " Vamos falar de tecnologia. Eu acho que a tecnologia vem para ajudar a empresa a não permitir que ocorra qualquer incidente de dados. É muito importante que as empresas busquem as melhores ferramentas do mundo. Não existe uma ferramenta milagrosa, senão países como os Estados Unidos, o Japão, o próprio bloco europeu já não teriam vazamento de dados.\n\nOblockchaintem uma série de vantagens, mas nós vemos, na área de dados pessoais, que ele apresenta algumas limitações ou alguns pontos que nós teríamos que adequar. Pela própria lei, eu tenho o direito de manter a qualidade dos meus dados, de corrigi-los. Eu tenho o direito de solicitar que sejam eliminados. Com oblockchain, seria preciso haver algumas inovações tecnológicas.\n\nA tecnologia é algo importante para os órgãos, para todas as empresas. É preciso que estas apliquem a tecnologia mais moderna, que vai se atualizando. É um serviço vivo: você vai ter uma tecnologia boa hoje, mas amanhã ela já não vai ter o mesmo desempenho, porque ocibercriminosojá tem uma ferramenta mais poderosa. É algo que será eterno. Esta é a nossa opinião.\n\nExemplo típico é o sistema bancário. São compartilhados entre os bancos todos os tipos de novos golpes que existem, novas ferramentas que podem ser usadas e, desde sempre, eles estão monitorando o que acontece, qualquer tipo de novo golpe ou de uma nova forma de atacar. É importante que esse compartilhamento ocorra, não só no sistema bancário, mas também no sistema que envolva dados pessoais.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00040",
+          "ordem_no_debate": 41,
+          "texto": " Eu queria registrar uma consideração.\n\nPor exemplo, nós tivemos uma discussão aqui com o Jeferson, com o Deputado sobreblockchain. A ANPD repassa para a sua Coordenação-Geral de Tecnologia e Pesquisa qualquer demanda desse tipo, para que estude a tecnologia e apresente um relatório, que vai à normatização. Daí pode sair um guia, pode sair um estudo técnico. É algo parecido com o que a agência espanhola de proteção de dados produz. Várias tecnologias são analisadas e, no própriositeda autoridade ou da agência, é disponibilizada a forma como vê essa tecnologia.É importante nós estudarmos não só a tecnologiablockchain, mas toda novidade que aparece. É importante estudarmos IA de forma bem profunda.\n\nEntão, sempre que surgem novas ferramentas a serem utilizadas pelas empresas, nós nos antecipamos, de forma a estar preparados para responder sobre isso, inclusive quando somos convidados para qualquer discussão no Congresso que envolva dados pessoais. O importante é sermos ouvidos, para mostrarmos o que vemos como partes positivas e negativas em todos esses assuntos relacionados à proteção de dados.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "JEFERSON DIAS BARBOSA",
+      "falas": [
+        {
+          "id": "f00014",
+          "ordem_no_debate": 15,
+          "texto": " Deputado, parabéns por discutir esse assunto, que considero muito caro. O senhor tem plena razão quando diz que a proteção ao cidadão é o primordial.\n\nComo o Presidente explicou, quando acontece um vazamento de dados, primeiramente — e nós vemos a publicação de inúmeros incidentes que acontecem diariamente —, para que a autoridade faça o seu trabalho administrativo de forma coerente e responsável, nós precisamos saber a origem desse vazamento. Dessa forma, podemos, junto ao controlador de dados pessoais, saber se as medidas de segurança foram adotadas de forma adequada ou não, e a ANPD pode fazer o processo sancionador.\n\nPara que isso seja executado de forma responsável, como eu disse, há antes um processo administrativo, em que são observadas todas as condições de avaliação das medidas que foram adotadas. A partir daí, se não foi adotada nenhuma medida, passamos para um processo sancionador. Como o Presidente bem disse, esse processo sancionador começou a vigorar muito recentemente. A ANPD tem 16 processos em andamento, fruto dessas normas publicadas que orientam o trabalho da autoridade.\n\nComo o senhor bem observou, a autoridade está em fase de estruturação. Há apenas 16 funcionários dedicados a avaliar todos as empresas no Brasil. Todo mundo que controla dado pessoal, desde a padaria da esquina até as grandesbig techsbrasileiras, está sob a égide da LGPD, e temos que fiscalizar esse trabalho. É, portanto, um trabalho hercúleo, vamos dizer assim, para uma equipe tão reduzida, mas que tem feito isso com grande qualidade. Por isso, há o reconhecimento internacional desse trabalho que temos feito na parte de orientação.\n\nSabemos que há muito o que ser feito, principalmente para fazer frente à necessidade de avaliar, auditar os sistemas, definir requisitos mínimos de segurança necessários, tecnologias que podem ser aplicadas para dar maior resiliência aos nossos sistemas, a todos os controladores. Essas são as nossas dificuldades, as nossas dores.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00029",
+          "ordem_no_debate": 30,
+          "texto": " Deputado, se V.Exa. me permite fazer uma complementação, mesmo com esta deficiência de pessoal, a ANPD não deixa de correr atrás para mudar seus efetivos.\n\nHoje, nós temos várias iniciativas, como uma proposta de projeto de lei de reestruturação da própria autoridade. Nós também propomos isso. Ela está tramitando no Executivo. Nós temos também um concurso público para 213 vagas, para aumentarmos nosso efetivo. Este concurso aguarda aprovação do Ministério da Justiça. Além disso, há a contratação de pessoal terceirizado, para que possamos melhorar e compor melhor nossa autoridade. Está tudo pendente de aprovação.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00031",
+          "ordem_no_debate": 32,
+          "texto": " Não tenho conhecimento.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00038",
+          "ordem_no_debate": 39,
+          "texto": " Gostaria de fazer um complemento, Presidente, se o senhor me permite.\n\nRecentemente, eutive a oportunidade de participar de uma audiência pública sobre a tecnologiablockchain, juntamente com o ilustríssimo Deputado, e de mostrar a visão da autoridade, as vantagens e o reconhecimento que tal tecnologiapode trazer para os sistemas brasileiros. Vimos, inclusive, algumas implementações de qualidade, como as que estão sendo feitas junto ao TCU e ao Banco Central. Todos foram unânimes em apresentar as limitações e algumas preocupações que devem haver na implementação dessa tecnologia. Então, oblockchainé uma solução muito importante, que pode vir a trazer muitos benefícios, porém, como o Presidente bem disse, apresenta algumas limitações relacionadas à proteção de dados pessoais. Essas limitações podem ser corrigidas ou aperfeiçoadas. Inclusive, já existem algumas soluções.\n\nA ANPD tem trabalhado, estudado muito o assunto e poderá até emitir algumas recomendações na implementação dessa e de outras tecnologias emergentes importantes na produção de dados.\n\n",
+          "taxonomia": null,
+          "resumo": null,
+          "objeto_do_posicionamento": null,
+          "propostas": null,
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    }
+  ],
+  "notas_revisao": [],
+  "arquivo_auditoria": "auditoria/debate_linha_00138.json"
+}

@@ -21,6 +21,11 @@ class EvidenceError(ValueError):
     """Citação não ancorada: a pipeline deve recorrer à seleção de trechos por ID."""
 
 
+class ModelOutputError(RuntimeError):
+    """O modelo respondeu, mas a saída não serviu (cortada ou rejeitada em todas as tentativas).
+    Diferente de falhas de rede, crédito ou autenticação, pode virar pendência de uma única tarefa."""
+
+
 def read_config(path):
     config = configparser.ConfigParser(interpolation=None)
     require(Path(path).is_file(), f"Arquivo de configuração não encontrado: {path}")
@@ -113,9 +118,11 @@ def require(condition, message):
         raise ValueError(message)
 
 
-def text_field(value, maximum=1200):
-    require(isinstance(value, str) and bool(value.strip()) and len(value) <= maximum,
-            f"Texto obrigatório com até {maximum} caracteres.")
+def text_field(value, maximum=1200, campo=None):
+    require(isinstance(value, str) and bool(value.strip()), f"Texto obrigatório{f' em {campo!r}' if campo else ''}.")
+    # A mensagem volta ao modelo na nova tentativa: nomear o campo e o tamanho recebido permite corrigir.
+    require(len(value) <= maximum, f"Texto obrigatório com até {maximum} caracteres"
+            + (f" no campo {campo!r} (recebido: {len(value)}); reescreva esse campo mais curto." if campo else "."))
     return value
 
 
@@ -133,6 +140,10 @@ def model_arguments(parser, role):
                         default="max_completion_tokens")
     parser.add_argument("--sem-json-mode", action="store_true")
     parser.add_argument("--temperatura", type=float, default=None)
+    parser.add_argument("--esforco-raciocinio", choices=["none", "low", "medium", "high"], default=None,
+                        help="Enviado como reasoning_effort; omitido quando vazio.")
+    parser.add_argument("--raciocinio-por-tarefa", default=None,
+                        help="Exceções por tarefa, ex.: 'anotacao:padrao,resumo_fala:none'. 'padrao' omite o parâmetro.")
     parser.add_argument("--timeout", type=float, default=180)
     parser.add_argument("--tentativas", type=int, default=4)
     parser.add_argument("--max-chamadas", type=int, default=0,
@@ -149,7 +160,7 @@ def model_arguments(parser, role):
     process = dict(config.items("processamento")) if config.has_section("processamento") else {}
     connection_fields = {"modelo", "base_url", "token", "chave_env", "sem_chave", "prompts",
                          "contexto_tokens", "uso_contexto", "max_saida_tokens", "parametro_tokens", "sem_json_mode",
-                         "temperatura", "timeout", "tentativas", "max_chamadas"}
+                         "temperatura", "esforco_raciocinio", "raciocinio_por_tarefa", "timeout", "tentativas", "max_chamadas"}
     # Aceitas por compatibilidade do .config anterior; não controlam nem dividem falas.
     process_fields = {"bloco_caracteres", "max_interrupcao_caracteres", "janela_turnos"}
     require(set(common) <= connection_fields and set(role_values) <= connection_fields

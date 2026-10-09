@@ -1,0 +1,663 @@
+{
+  "formato": "debate_por_participante_v1",
+  "debate_id": 204,
+  "tema": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+  "status": "anotado_aguardando_revisao_humana",
+  "participantes": [
+    {
+      "nome": "Meire Serafim",
+      "falas": [
+        {
+          "id": "f00001",
+          "ordem_no_debate": 1,
+          "texto": " Bom dia! Sejam bem-vindos!\n\nDeclaro aberta a presente reunião de audiência pública, em 11 de julho de 2023.\n\nInformo aos Srs. Parlamentares que esta reunião está sendo transmitida ao vivo pelo canal da Câmara dos Deputados no Youtube para ampliar a participação social por meio da interação digital.\n\nO registro de presença do Parlamentar dar-se-á tanto pela aposição da sua digital nos coletores existentes no plenário quanto pelo uso da palavra na plataforma de videoconferência.\n\nAs inscrições para o uso da palavra serão feitas por meio do menuReaçõesdo aplicativo Zoom ou pelo aplicativo Infoleg.\n\nEsta reunião de audiência pública foi convocada nos termos do Requerimento nº 141, de 2023, de minha autoria, Deputada Meire Serafim, a fim de discutir a necessidade de ampliação do acesso a recursos e tratamentos para a distonia no sistema público de saúde.\n\nPrimeiramente, gostaria de agradecer a Deus a oportunidade de estarmos aqui.\n\nCumprimento a todos que estão presentes: colegas Deputados e Deputadas membros desta Comissão, palestrantes, todos os nossos convidados e todos os telespectadores que estão nos acompanhando pelos canais de mídia desta Casa.\n\nEstou muito feliz por presidir esta audiência pública para falarmos da doença rara distonia. Eu sou portadora da doença fibromialgia, sei como são as dificuldades das pessoas que sofrem com doenças raras.\n\nA distonia é uma condição neurológica debilitante que causa contrações musculares involuntárias, resultando em movimentos repetitivos e posturas anormais. Essa condição afeta pessoas de todas as idades e pode afetar negativamente sua qualidade de vida, sua funcionalidade diária. Trata-se de uma doença pouco conhecida, e todos os acessos a tratamentos e recursos através da saúde pública são limitados.\n\nAnuncio a presença dos seguintes convidados: Heitor Felipe Lima, com participação virtual; Patricia Dumke da Silva, neurologista pediátrica, a quem convido para fazer parte da Mesa; Maria Nilde de Oliveira Soares, Presidente do Instituto Distonia Saúde, a quem também convido para fazer parte da Mesa; Sara Casagrande, neurologista, a quem também convido para fazer parte da Mesa; Kedna de Souza Pereira, Conselheira Fiscal do Instituto Distonia Saúde.\n\nComunico aos senhores membros desta Comissão que o tempo destinado a cada convidado para fazer sua exposição será de 15 minutos, prorrogáveis a juízo desta Presidêncianão podendo ser aparteados.\n\nOs Deputados inscritos para interpelar os convidados poderão fazê-lo estritamente sobre o assunto da exposição, pelo prazo de 3 minutos. Terá o interpelado igual tempo para responder, facultadas a réplica e a tréplica pelo mesmo prazo. Não será permitido ao orador interpelar quaisquer dos presentes.\n\nAnuncio aqui também a presença da nossa Deputada Federal Rosângela Moro.\n\nDando início às exposições, passo a palavra, por até 15 minutos, ao Sr. Heitor Felipe Lima, neurologista.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Meire Serafim preside e abre a audiência pública, cumprindo funções protocolares (transmissão, inscrições, regras de tempo e interpelação). No plano substantivo, posiciona-se favoravelmente à ampliação do acesso a recursos e tratamentos para a distonia no SUS: descreve a distonia como condição neurológica debilitante que compromete qualidade de vida e funcionalidade, afirma que os acessos a tratamentos e recursos pela saúde pública são limitados e enquadra a reunião como espaço para discutir a necessidade de ampliar esses acessos. Demonstra empatia por experiência pessoal, citando ser portadora de fibromialgia e compreender as dificuldades de quem convive com doenças raras, com satisfação declarada por presidir o debate. A posição favorável é expressa de modo indireto, sem reivindicação explícita, aprofundamento analítico ou ressalvas.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00003",
+          "ordem_no_debate": 3,
+          "texto": " Agradeço ao Sr. Heitor Felipe Lima a exposição.\n\nPasso a palavra, por 15 minutos, à Sra. Sara Casagrande, que é neurologista.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental de moderação: Meire Serafim agradece a exposição de Heitor Felipe Lima e repassa a palavra por 15 minutos à próxima oradora, Sara Casagrande, apresentada como neurologista. Não aborda o tema do diagnóstico e tratamento da distonia no SUS nem expressa qualquer posição substantiva sobre o assunto.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00005",
+          "ordem_no_debate": 5,
+          "texto": " Agradeço à Sra. Sara Casagrande a participação.\n\nPasso a palavra para a Sra. Patricia Dumke.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "A fala é estritamente procedimental: Meire Serafim, na condução dos trabalhos, agradece a participação de Sara Casagrande e concede a palavra à próxima inscrita, Patricia Dumke. Não há qualquer manifestação de opinião sobre o tema de melhorias no acesso ao diagnóstico e tratamento da distonia no SUS, seja de concordância, discordância ou abstenção quanto ao mérito. Trata-se apenas de ato de organização e transição de turno na audiência, sem conteúdo substantivo que sustente avaliação de alinhamento temático, credibilidade ou postura argumentativa.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00007",
+          "ordem_no_debate": 7,
+          "texto": " Agradeço à Sra. Patricia Dumke da Silva Möller, neurologista pediátrica.\n\nAntes de ouvirmos a próxima convidada, concedo a palavra à Deputada Rosângela Moro.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta intervenção, estritamente procedimental, a titular conduz os trabalhos da audiência: agradece a Sra. Patricia Dumke da Silva Möller, identificada como neurologista pediátrica, e concede a palavra à Deputada Rosângela Moro. Não há qualquer exposição de opinião sobre o tema da distonia no SUS, seja quanto a diagnóstico, tratamento ou acesso no SUS, não se podendo falar em concordância, discordância, abstenção ou ambiguidade perante a matéria. A menção à especialidade da convidada agradecida e ao cargo da próxima oradora tem função protocolar de transição, sem sustentar posição substantiva da titular. Trata-se, portanto, de fala de organização dos trabalhos, sem indicadores de posicionamento, postura, alinhamento temático ou credibilidade a serem registrados.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00009",
+          "ordem_no_debate": 9,
+          "texto": " Agradeço à Deputada Rosângela Moro a participação.\n\nPasso a palavra à Sra. Maria Nilde Soares, Presidente do Instituto Distonia Saúde, que dispõe de até 15 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental de condução da sessão: a titular agradece a participação da Deputada Rosângela Moro e concede a palavra à Sra. Maria Nilde Soares, Presidente do Instituto Distonia Saúde, com tempo de até 15 minutos. Não há qualquer manifestação de opinião sobre o tema do acesso ao diagnóstico e tratamento da distonia no SUS.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00011",
+          "ordem_no_debate": 11,
+          "texto": " Agradeço à Sra. Maria Nilde Soares a participação.\n\nPasso a palavra à Sra. Kedna Souza Pereira, conselheira fiscal do Instituto Distonia Saúde, que dispõe de 15 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental e de condução dos trabalhos: Meire Serafim agradece a participação de Maria Nilde Soares e passa a palavra à conselheira fiscal Kedna Souza Pereira, do Instituto Distonia Saúde, fixando-lhe o tempo de 15 minutos. Nenhum posicionamento substantivo, proposta ou alegação relativa à melhoria do acesso ao diagnóstico e tratamento da distonia no SUS é expresso na fala.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00013",
+          "ordem_no_debate": 13,
+          "texto": " Agradeço à Sra. Kedna Pereira por sua exposição.\n\nAntes de passarmos ao debate, considerando a importância do tema desta audiência pública, eu gostaria de conceder a palavra, por 3 minutos, à Sra. Amira Awada, Vice-Presidente do Instituto Vidas Raras.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental de mediação: Meire Serafim agradece à Sra. Kedna Pereira pela exposição e, antes do debate, concede a palavra por três minutos à Sra. Amira Awada, Vice-Presidente do Instituto Vidas Raras. Não há qualquer manifestação de opinião sobre melhorias no acesso ao diagnóstico e tratamento da distonia no SUS.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00015",
+          "ordem_no_debate": 15,
+          "texto": " Agradeço à Sra. Amira por sua exposição.\n\nAgora têm a palavra os convidados, por 1 minuto, para suas considerações finais.\n\nCom a palavra o Dr. Heitor Felipe Lima.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental, sem expressão de opinião sobre o tema de melhorias no acesso ao diagnóstico e tratamento da distonia no SUS. A titular agradece à Sra. Amira pela exposição e, em seguida, conduz a transição para as considerações finais dos convidados, limitando-se a anunciar o tempo de um minuto e conceder a palavra ao Dr. Heitor Felipe Lima. Não há manifestação de concordância, discordância ou ambiguidade em relação ao tema, nem mobilização de argumentos, dados ou recursos persuasivos.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00017",
+          "ordem_no_debate": 17,
+          "texto": " Com a palavra a Dra. Patricia Dumke Möller.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Meire Serafim intervém de forma estritamente procedimental, atuando na condução dos trabalhos ao ceder a palavra à seguinte participante, a Dra. Patricia Dumke Möller. A fala não contém qualquer exposição, argumento, pedido ou posicionamento sobre melhorias no acesso ao diagnóstico e tratamento da distonia no SUS, limitando-se à transição formal da palavra.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00019",
+          "ordem_no_debate": 19,
+          "texto": " Tem a palavra a Sra. Maria Nilde Soares.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: o orador se limita a anunciar a passagem da palavra à próxima participante, Maria Nilde Soares. Não há qualquer manifestação de opinião sobre o tema do acesso ao diagnóstico e tratamento da distonia no SUS, seja de concordância, discordância, ambivalência ou abstenção expressa, tampouco argumentos, dados, propostas ou elementos afetivos ou retóricos que possam caracterizar posição substantiva ou modo de expressão discursiva.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00021",
+          "ordem_no_debate": 21,
+          "texto": " Tem a palavra a Dra. Sara Casagrande.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental de condução da sessão: Meire Serafim concede a palavra à próxima oradora, Dra. Sara Casagrande. Não há qualquer manifestação sobre o tema do acesso ao diagnóstico e tratamento da distonia no SUS, seja de concordância, discordância, abstenção ou ambiguidade. Trata-se apenas de ato protocolar, sem opinião substantiva, argumentos, alegações ou propostas a registrar.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00023",
+          "ordem_no_debate": 23,
+          "texto": " Tem a palavra Kedna Souza Pereira.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: Meire Serafim atua na coordenação dos trabalhos, concedendo a palavra à próxima participante, Kedna Souza Pereira, sem qualquer exposição de opinião sobre o tema das melhorias no acesso ao diagnóstico e tratamento da distonia no SUS.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00025",
+          "ordem_no_debate": 25,
+          "texto": " Antes de encerrar, eu gostaria de deixar consignado que esta audiência pública servirá para fundamentar nosso projeto de lei sobre o mês de conscientização da distonia.\n\nQuero dizer a todos vocês aqui que estou à disposição, juntamente com a minha equipe, porque essa bandeira é nossa. Vocês não estão sozinhos. Quero dizer a todos os pacientes de distonia que vocês não estão sozinhos. Como eu falei, sei o que vocês sentem. Eu tenho fibromialgia, doença que provoca dores constantes, dores crônicas. Não é fácil. No entanto, todas juntas, uma ajudando a outra, vamos conseguir, se Deus quiser.\n\nAgradeço aos senhores convidados pela ilustre presença.\n\nNada mais havendo a tratar, declaro encerrada a presente audiência pública.\n\nMuito obrigada.(Palmas.)",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Em fala de encerramento, a titular consolida o compromisso parlamentar com a causa da distonia, afirmando que a audiência subsidiará projeto de lei sobre mês de conscientização e colocando-se, com a equipe, à disposição dos pacientes. Reafirma apoio e empatia, fundamentadas em sua experiência pessoal com fibromialgia e dores crônicas, repetindo que os pacientes não estão sozinhos e conclamando à ação conjunta. Agradece os convidados e encerra formalmente a sessão.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "HEITOR FELIPE LIMA",
+      "falas": [
+        {
+          "id": "f00002",
+          "ordem_no_debate": 2,
+          "texto": " Bom dia.\n\nEu agradeço o convite e fico honrado em participar desta audiência.\n\nEu só queria uma confirmação. Eu imaginava que a Dra. Sara ia falar antes de mim. Tudo bem, Dra. Sara, eu falar primeiro?(Pausa.)\n\nEu acho que nós podemos juntar forças e ir nos complementando.\n\nTalvez seja interessante esclarecer um pouco, da melhor maneira possível, o que são as distonias. Nós falamos em distonia como um termo um pouco guarda-chuva, de certa forma, porque inclui uma quantidade diferente, uma quantidade grande de doenças, de transtornos, que vão causar, no fim das contas, esse padrão de contração muscular involuntária.\n\nO sistema nervoso tem uma complexidade enorme. Os movimentos voluntários são coordenados, desenhados, definidos pelo sistema nervoso, mas é possível que, em algum transtorno, o sistema nervoso perca essa capacidade de conduzir os movimentos.\n\nAs distonias significam situações em que contrações involuntárias de grupos musculares diferentes acabam fazendo com que a pessoa tenha uma mudança na posição de certa parte do corpo. Por exemplo, se alguém tem contrações involuntárias em certos músculos do pescoço, a pessoa vai poder ficar às vezes com o pescoço torto para o lado, ou o virando, como se estivesse olhando para o outro lado. Isso não é comandado pela pessoa, é involuntário. E isso pode se manter durante muito tempo, pode se manter durante o dia inteiro. Isso causa transtornos grandes, porque a pessoa, além de ficar com uma limitação da função daquele grupo muscular, pode ter também dor. E a dor é razoavelmente frequente.\n\nAs distonias afetam, de fato, pessoas de todas as idades, desde o nascimento até enquanto elas estiverem vivas, embora algumas idades tenham alguns tipos de distonia com maior frequência do que outros. E ela pode afetar qualquer parte do corpo. Existem situações em que a pessoa fica com vários músculos — na cabeça, no tronco e nos membros —, todos eles com essas contrações involuntárias anormais.E existem situações em que grupos musculares um pouco menores são afetados. Às vezes, é o braço ou é o pescoço. Eventualmente, é uma parte do rosto. Até existe uma situação que é a de blefaroespasmo, quando a musculatura em torno do olho fica afetada, fazendo o olho fechar sozinho.\n\nQuando temos um olhar sobre a história do tratamento da distonia, observamos que muitos medicamentos já foram tentados nos últimos anos, nas últimas décadas. Mas, apenas há poucas décadas, nós aprendemos que o tratamento da distonia pode ser feito com aplicação de toxina botulínica. Então, a toxina botulínica, que é uma substância isolada da bactériaClostridium botulinum, tem uma espécie de efeito de diminuir, de maneira gradativa ou parcial, o padrão de contração do músculo, a quantidade de contração involuntária. Nós conseguimos, com a toxina botulínica, diminuir a ativação muscular de maneira suficiente para inibir as contrações involuntárias, sem atrapalhar a função do músculo. Então, a pessoa continua usando normalmente o músculo para aquela função normal.\n\nNós também fomos aprendendo, ao longo das últimas décadas, que os tratamentos são muito benéficos quando conseguimos combinar as intervenções de toxina botulínica com as intervenções de reabilitação. Aí entram vários tipos de ferramentas, vários profissionais. Como as distonias podem afetar qualquer parte do corpo, dependendo da porção atingida, vamos precisar de trabalhos específicos, de profissionais específicos. Por exemplo, às vezes, numa distonia de músculos do pescoço, precisamos aplicar a toxina botulínica, e a pessoa pode ficar com alguma dificuldade para engolir por algum tempo, como uma espécie de efeito adverso da aplicação. Aí um fonoaudiólogo pode participar do tratamento, fazendo uma reabilitação para diminuir esse desconforto.\n\nEm outro exemplo, a pessoa pode ter uma distonia que afete o braço, o antebraço e a mão. Existem algumas situações em que ela aparece em tarefas específicas. Então, existe a câimbra do escrivão, como chamamos, que é um tipo de distonia que aparece especialmente quando a pessoa vai tentar escrever. A toxina botulínica pode ajudar bastante. E uma fisioterapia pode ajudar bastante também, pode somar forças ao efeito da toxina botulínica, fazendo com que o desfecho, a melhora do tratamento seja mais interessante ainda.\n\nOutro exemplo muito poderoso e muito pertinente em relação à reabilitação é o aspecto psicológico. Ocorre que toda a tensão psíquica acaba influenciando na intensidade, na frequência e na duração da contração muscular. Uma maneira de olhar isso é como se pudéssemos dizer que, quando estamos um pouco tensos e ativados, a tendência é que os movimentos distônicos apareçam com maior clareza, com maior presença. Isso significa que, no tratamento, quando conseguimos fazer um suporte psicológico associado, a chance de somarmos melhoras é considerável.\n\nEntão, isso começa a mostrar como o tratamento da distonia pode ser eficaz, mas tende a ser complexo, porque junta ferramentas diferentes, profissionais diferentes. Isso contribui para essa complexidade global de criar acesso ao tratamento.\n\nExistem ainda uns aspectos bem importantes para levarmos em conta quando pensamos em melhorar o acesso ao tratamento das distonias em geral. O fato de ser uma doença rara torna o diagnóstico especialmente difícil, porque muitas vezes os profissionais de saúde que veem os pacientes não foram adequadamente treinados para reconhecer os fenômenos clínicos da distonia e, assim, fazer os diagnósticos de maneira adequada e em bom tempo. Isso faz com que, na prática, muitos pacientes — grande parte dos pacientes — levem anos para ter um diagnóstico adequado.\n\nNós que trabalhamos com isso acabamos vendo muitos casos de pessoas que passaram muitos e muitos anos sofrendo com os sintomas e com as tentativas de tratamentos equivocados, porque os diagnósticos eram equivocados. Esse é um dos gargalos importantes também. Isso significa que para avançarmos no tratamento, para avançarmos no acesso, um dos itens é a própria capacitação dos profissionais. E isso tem sido uma questão que tem entrado até na pauta de associação de classe.\n\nA Academia Brasileira de Neurologia tem tentado, nos últimos muitos anos, melhorar o alcance do treinamento neurológico para os profissionais de várias áreas, especialmente os médicos. Então, temos este como um dos gargalos, o próprio treinamento dos profissionais, para conseguirmos fazer os diagnósticos mais precocemente.\n\nOutro gargalo é o próprio acesso aos tratamentos no âmbito do SUS por parte dos pacientes que já têm, muitas vezes, o diagnóstico realizado. Temos, pelo menos, duas questões importantes no âmbito do SUS. Uma é a quantidade de profissionais treinados para fazer o diagnóstico e o tratamento disponíveis. O SUS tem uma carência de profissionais, por exemplo, médicos, neurologistas, mas também de reabilitação em todas as suas áreas. Esse é um aspecto importante. O outro é a questão do custo da toxina botulínica, que é uma substância, um medicamento com um custo relativamente alto. O planejamento tem que levar isso em conta. Também há o acesso à própria rede de reabilitação, que exige essa estrutura, esse planejamento todo para o SUS.\n\nOutra questão importante é o fato de a distonia englobar uma quantidade muito grande de origens diferentes. Uma maneira de olhar é mais ou menos assim: áreas do cérebro que têm relação com o controle do movimento estão afetadas, estão funcionando de maneira errada, vamos dizer assim, de maneira patológica, segundo o termo que usamos. Mas isso pode ser causado por entidades diferentes.Por exemplo, uma pessoa pode ter um problema genético que leve à disfunção dessas áreas do cérebro. Essa é uma possibilidade. Então, falamos numa distonia de origem genética. Outra pessoa pode ter o mesmo problema de distonia, mas originada do uso de um medicamento, por exemplo. Existem certos medicamentos que podem causar a distonia. Essa é outra situação, embora, nesse segundo exemplo, às vezes, a própria retirada do medicamento possa ser suficiente para resolver o problema.\n\nA questão é que, como existem causas diferentes, o paciente também precisa ter acesso à investigação. Então, antes de se falar em tratamento — até inverti um pouco a ordem aqui —, a investigação da causa da distonia também é um aspecto muito relevante. Ela precisa ser feita utilizando ferramentas que incluam alguns exames complementares. Além dos profissionais, dos recursos humanos, de profissionais capacitados para fazer o diagnóstico e o tratamento, também precisamos que o paciente tenha acesso aos exames complementares que fazem parte da investigação.\n\nÉ muito frequente que precisemos de exames de neuroimagem. Por exemplo, entramos com imagem por ressonância magnética do crânio, que é um tipo de exame solicitado com muita frequência para praticamente todos os pacientes com distonia, com hipótese do diagnóstico, com suspeita de distonia. Outros exames complementares relevantes são os exames de sangue, muitas vezes. Por exemplo, é preciso solicitar dosagem de ceruloplasmina ou de cobre para pesquisar a Doença de Wilson ou doenças outras que possam causar distonia e que tenham outros tipos de tratamento. Muitas vezes, precisamos de testes genéticos também, quando encontramos distonias familiares, com histórico familiar relevante. Nesses casos, muitas vezes, vamos pensar em causa genética e precisamos fazer os exames genéticos. Esses são alguns exemplos de exames complementares que são úteis e necessários e que também devem entrar nesse planejamento da melhora do acesso ao tratamento.\n\nAcredito que essa possa ser tida como uma espécie de introdução ao tema. Espero que isso tenha sido útil. As colegas vão fazer também várias complementações e vão colocar várias informações valiosíssimas para aumentar o entendimento do tema. Acho que, por enquanto, é isso.\n\nObrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Nesta exposição introdutória e técnica, o orador explica que as distonias são transtornos de contração muscular involuntária — com dor e limitação funcional — e defende que seu tratamento seja feito combinando toxina botulínica com reabilitação multiprofissional (fonoaudiologia, fisioterapia e suporte psicológico, pois a tensão psíquica intensifica os movimentos distônicos). Ele é favorável à melhoria do acesso no SUS e diagnostica os gargalos: dificuldade diagnóstica por treinamento insuficiente dos profissionais, que faz muitos pacientes levarem anos com diagnósticos e tratamentos equivocados; carência de neurologistas e de equipes de reabilitação no SUS; custo relativamente alto da toxina botulínica; e necessidade de investigação etiológica com exames complementares (ressonância de crânio, exames de sangue, como dosagem de ceruloplasmina ou cobre, e testes genéticos), que também devem constar do planejamento de melhora do acesso. Ele propõe capacitar profissionais para diagnóstico precoce e ampliar o treinamento, em linha com esforços da Academia Brasileira de Neurologia.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [
+            "Capacitar os profissionais de saúde para reconhecer os fenômenos clínicos da distonia e realizar diagnósticos precoces e adequados.",
+            "Ampliar o alcance do treinamento de profissionais de várias áreas, especialmente médicos, em neurologia, conforme esforço da Academia Brasileira de Neurologia.",
+            "Planejar no SUS o custo da toxina botulínica, considerando que se trata de um medicamento com custo relativamente alto.",
+            "Garantir que o paciente tenha acesso à investigação da causa da distonia, incluindo exames complementares como neuroimagem, exames de sangue e testes genéticos.",
+            "Incluir no planejamento de melhoria do acesso ao tratamento da distonia a disponibilização de exames complementares úteis e necessários à investigação."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00016",
+          "ordem_no_debate": 16,
+          "texto": " Eu só tenho a agradecer pela oportunidade e pelo convite.\n\nDe fato, foi muito interessante ver, pela primeira vez na vida, como funciona uma audiência pública. E foi muito interessante ver como as associações podem ter o poder de articulação para fazer as coisas acontecerem.\n\nEu me coloco à disposição para o que for necessário e útil. Estou baseado aqui em Brasília e desejo tudo de bom a todos.\n\nMuito obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "O orador encerra sua participação de forma cordial e protocolar, sem qualquer posicionamento sobre o acesso ao diagnóstico e tratamento da distonia no SUS. Agradece o convite e a oportunidade, relata ter presenciado pela primeira vez uma audiência pública e destaca o poder de articulação das associações para fazer as coisas acontecerem. Coloca-se à disposição para o que for necessário, informa estar baseado em Brasília e deseja tudo de bom aos presentes.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente.",
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "SARA CASAGRANDE",
+      "falas": [
+        {
+          "id": "f00004",
+          "ordem_no_debate": 4,
+          "texto": " Bom dia a todos.\n\nMuito obrigada a todos os que estão aqui presentes e aos que estão acompanhando a audiênciaon-line.\n\nPara mim, é um grande prazer estar aqui, mais uma vez, representando os médicos, os neurologistas, os neurocirurgiões, os fisiatras, os neuropediatras e tantos profissionais envolvidos nessa causa, que é a causa dos pacientes com distonia. Sou neurologista, especialista em transtornos de movimento pelo Hospital das Clínicas — HC da USP, em São Paulo. Faço parte da equipe do Grupo de Transtornos de Movimento há 10 anos. Estou diretamente envolvida, então, com pesquisas na área desses pacientes distônicos.\n\nVou reiterar o que o Dr. Heitor também falou. Vamos entender um pouquinho do cenário dos pacientes com distonia no mundo. Contudo, vamos focar um pouco aqui no Brasil, nosgapsque nós temos do ponto de vista de tratamento, enfim, de acessos a esse paciente. Em média, segundo levantamento do Ministério da Saúde, há 65 mil distônicos no Brasil. Se formos ver a prevalência dessa doença — antigamente ela era considerada raríssima —, havia 7 pacientes para cada 100 mil habitantes. Os novos estudos mostram que, na verdade, não é isso. Já há estudos recentes de que esse número subiu para 16 a cada 100 mil, e há estudos diretos que mostram até 732 pessoas a cada 100 mil habitantes. Eu estou falando não só daquelas crianças com distonia.\n\nVou explicar um pouco, para quem não conhece, o que é essa doença e como ela se manifesta. Isso é difícil, entendam, não só para o público leigo. Há médicos neurologistas — não os especializados em distúrbio de movimento — que não sabem o que é a distonia. Eu acho que isso é um grandegapde conhecimento. Há centros formadores de pessoas. O HC é um deles. Infelizmente, não há tantos quanto gostaríamos e precisaríamos.\n\nPoderíamos pensar em ações para ampliar o conhecimento — acho que se começa por aí — sobre essa doença para os profissionais da saúde. Falo não só de médicos. Estou falando de fisioterapeutas, de fonoaudiólogos, de terapeutas ocupacionais. São profissionais que acabam vendo esse paciente na caminhada e perdem esse diagnóstico. Falo também de ortopedistas e de outras especialidades.\n\nNessa força-tarefa importantíssima, em primeiro lugar, acho que deveria estar o conhecimento. Então, é essa ideia de não só acesso a tratamento X, Y ou Z, mas ao conhecimento. É ampliar a informação sobre essa doença no País para leigos e para profissionais da saúde. Acho que essa é a grande mensagem.\n\nEu trouxe uma apresentação — já me deram autorização para utilizá-la.\n\nEssa é uma doença muito antiga. Ela é descrita há muitos anos. A primeira descrição foi em 1889. Em 1911, foi feita a primeira descrição mais específica de uma distonia, que foi considerada a distoniamusculorum deformans, que realmente gera uma deformidade. O termo foi empregado pela primeira vez por Oppenheim.\n\nO que é a distonia? Coloquei algumas figuras com não identificação de pacientes, obviamente. O que temos? O Dr. Heitor já falou, mas quero só exemplificar mostrando a figura desse rapaz. Então, há contraturas musculares. Quem aqui já teve câimbra?(Pausa.)\n\nImaginem uma câimbra. É isso. É um espasmo muscular contínuo. Ele pode ser fásico, mas, na maioria das vezes, é contínuo. Ele gera essas posturas anormais, como a desse rapaz, gera torções corporais. Ele pode acometer um membro só, como a mão.\"Ah, isso é pouco. É uma mão só\".E se for uma paciente com 30 e poucos anos, com vida ativa, que digita e escreve e perde o controle da mão? Então, não há aqui o pior ou melhor. É uma doença que gera incapacidade, gera piora de qualidade de vida e gera complicações ortopédicas.Esse paciente vai ficar com deformidades ósseas se não for tratado. Se ele mantiver essa postura aqui por muito tempo, logo já vai ter um encurtamento de músculo, não vai conseguir mais ganhar função.\n\nNormalmente, essa doença acomete pacientes jovens. Nós temos pacientes idosos que têm distonia? Sim, temos. E a principal causa é remédio. Essa é outra falta de informação. Medicações, principalmente psiquiátricas, geram distonias.\n\nMas só para os senhores entenderem, a maioria são jovens, e são jovens que nasceram... Nós temos uma entidade que pode acometer distonia, que são as pessoas com paralisia cerebral. Mas as distonias primárias, idiopáticas — vocês vão ver aqui pacientes que estão aqui sentados, que lutam por isso — a maioria das vezes são distonias genéticas. O paciente nasce normal. Imagine você que é mãe ou pai aqui. A criança nasce normal. Com 7 anos, ela começa a ficar com um pezinho torto — 7 anos. Ela nasceu bem. E dali vai para a perna, para o tronco, para o pescoço. Em 4 anos o paciente está assim.\n\nEssa aqui é um tipo de distonia DYT1, uma distonia genética, das mais comuns do mundo. Felizmente, há uma terapia, um tratamento que faz com que esses pacientes com DYT1 possam melhorar em 80% a 90%, graças a Deus! É a pior distonia genética e a que melhora com a terapia específica.\n\nSobre a prevalência eu já falei.\n\nVemos 732 a cada 100 mil habitantes em distonia que começa na vida adulta. Nós temos essas prevalências também. Pacientes com 30 e poucos anos, 40 anos, 50 anos, que começam com uma distonia de braço, enfim, cervical, não generaliza normalmente, mas gera grande comprometimento.\n\nAqui é a linha de tempo, com as descrições da doença. E o que está em laranja são as terapias.\n\nEntão, a instituição da primeira terapia, com o uso do Botox, a toxina botulínica — Botox é uma marca, toxina botulínica é o nome correto —, que é importantíssima. As pessoas pouco conhecem, gente! A toxina botulínica que se faz para ruga, é um dos principais tratamentos para essa doença. Poucos lugares têm acesso a essa terapia, que foi um grande marco na vida desses pacientes e ainda é o tratamento carro-chefe.\n\nÉ um remédio relativamente caro porque é importado e temos poucos injetores. Nós temos um curso lá no HC, que teve início no ano passado, e conseguimos capacitar 57 médicos. Este ano estamos com inscrições abertas para capacitar médicos do Brasil inteiro com essa terapia, porque há poucos médicos capacitados a fazer essa injeção para distonia.\n\nDepois, temos a cirurgia de estimulação cerebral profunda. É uma cirurgia de implante de um eletrodo cerebral que, realmente, foi o segundo marco, é exatamente a terapia que melhora aqueles pacientes distônicos em 80%.\n\nEste é um artigo muito interessante.Achei pertinente trazê-lo porque acho que quando falamos sobre o que falta, o nosso olhar é para o paciente 100%. Ele é o protagonista. Esse é um artigo recente, do ano passado, que mostra a jornada de um paciente com distonia. O que acontece? Aqui ele teve uma distonia cervical, imaginem se for generalizada.\n\nA imagem ficou pequena, enfim, mas é uma imagem muito densa, com muito conteúdo.\n\nAqui vemos o paciente do começo do sintoma até ele ter acesso ao tratamento adequado. Vemos toda a sua jornada. Ele passa por muita falta de informação, fica indo de um médico a outro, e ali tem até as falas do que eles escutam, coisas do tipo:\"Isso é da sua cabeça\"; \"Isso é psicológico\"; \"Isso é mental\".Até o momento em que vão a um neuro e o neuro diz:\"Eu não conheço o que é isso\".Normalmente — e isso acontece: se eu perguntar para quem tem distonia e fizer um relato, todos vão falar o mesmo — eles descobrem sozinhos. Eles procuram no Google, descobrem o que eles têm e, quando vão ao médico, falam assim:\"Doutor, eu acho que tenho uma coisa chamada distonia\".E aí a primeira reação do médico é dizer:\"O que é distonia?\" Isso até eles chegaram ao tratamento específico.\n\nNós temos muitos estudos brasileiros, claro, só que nós temos que publicá-los em inglês. Muitos deles estão em inglês. Inclusive, eu tenhopaperspublicados também, mas nós temos bastantes estudos aqui no País. Nós temos a UNIFESP envolvida com isso, o Einstein envolvido, o HC e outros centros também. Fortaleza agora está bem envolvida nisso. Então as universidades estão envolvidas.\n\nO paciente em uma alteração no meio do cérebro, numa região chamada núcleos da base, que controla os movimentos finos. Ali acontece uma questão estrutural e química, e o paciente não tem mais controle voluntário, como o Dr. Heitor comentou inicialmente. São os núcleos da base, essa região bem no meio do cérebro.\n\nÉ algo bem complexo, não é uma coisa tão simples assim, envolve vias inclusive emocionais, de dor, que geram prejuízo brutal para esses pacientes. Nós dizemos que é um distúrbio de rede, porque são inúmeras redes disfuncionais\n\nClassificação. Nós temos uma classificação relativamente nova, que classificou os pacientes por área do corpo acometida, por causas — são muitas causas: a paralisia cerebral é uma delas; a genética é outra; pelo tempo de evolução da doença, se começou cedinho ou se começou na vida adulta, se é adquirida ou não.\n\nEu coloquei algumas fotos, essa daí, inclusive, é depaper, enfim, esse é um paciente que nós acompanhamos, então isso aqui é um caso de uma distonia cervical, então o paciente fica com essa postura. Ele fica assim, e se não receber tratamento ele vai ficando assim cada vez mais, cada vez mais, cada vez mais.\n\nAqui, no caso, é uma distonia de olho, que é o blefaroespasmo, muito comum em idosos — muito comum. Só uma coisa que eu não comentei: o blefaroespasmo é subdiagnosticado. Quando eu falei daqueles dados de 2016, quero dizer que eu recebo mensagem no meu WhatsApp de gente que diz:\"Oh, o meu pai está com isso\".E nós vamos vendo, são muitos casos de distonia. É como se fosse tique, que é outra coisa também subdiagnosticada. Então, essa senhora, por exemplo, é um caso que nós vemos seguidamente: o paciente começa com um piscamento, idoso e, de repente, ele não abre mais o olho. Esse paciente tem uma coisa que se chama cegueira funcional: ele é cego sem ser cego, porque ele não abre o olho. Então, eles vivem como cegos. E se você aplicar toxina botulínica a cada 3 meses, o paciente vai ter uma função 100% normal — 100% normal. É só alguém bloquear o músculo para abrir o olho.\n\nComo é que nós vamos ter o diagnóstico correto, acesso à informação? E, segundo, como vamos ter acesso a um centro que tenha médicos capacitados para fazerem essa injeção e também acesso à toxina botulínica? Sabemos que muitos lugares não dispõem dela. Há hospitais que não a compram, porque é caro, enfim. E ainda temos a reabilitação desses pacientes.\n\nEssa é uma distonia combinada, com outros movimentos juntos, fazendo com que a pessoa trema.Graças a Deus, a Doença de Parkinson, que é outro transtorno de movimento, teve muitas evoluções em termos de acesso, tratamento, centros de reabilitação, é o que nós sonhamos para os distônicos também.\n\nUma coisa interessante, esse é um artigo que eu publiquei, inclusive de uma paciente que tem autorização de imagem, que trata de uma paciente jovem, como vocês podem ver aí, bastante incapacitada, com esses espasmos corporais, ela vivia em cadeira de rodas. Em 2 anos, ela perdeu as funções, não conseguia mais andar, falar, enfim, e isso foi por medicamentos. Essa é outra desinformação que não está disponível aí nos serviços. É uma paciente grave, e ela tem uma coisa interessante que se chama truque sensitivo. Todos os pacientes com distonia têm uma coisa chamada truque sensitivo. A maioria deles, perdão, que é o seguinte: quando eles fazem uma postura, a distonia some por um momento; e aí as pessoas falam assim:\"Ah, isso é psicológico\".Na verdade, é a dica de que não é psicológico. Eu sempre explico isso. Ela conseguia patinar — essa foi uma publicação super comentada fora do País, porque ela conseguia patinar. E aí, o que acontece? Sai como paciente psiquiátrico. Mas, na verdade, não é. É um truque sensitivo, estudado, comprovado, e ela tem uma distonia. É lógico, a paciente não tem como ficar patinando o dia inteiro, então nós acabamos implantando o DBS nela, que é o estimulador, e a paciente, está super bem, super bem, há anos. Ganhou a vida, é supernova, enfim, está fazendo faculdade.\n\nEsses pacientes têm muita dor, muitas questões emocionais não tratadas, então, não têm acesso a psicólogos, não têm acesso a psicoterapeutas treinados, eles não têm acesso a fisioterapeutas treinados, até porque tem poucos treinados nesse tratamento no Brasil. Qualidade de vida: vários estudos mostrando aí perda de qualidade de vida.\n\nAs distonias orobucolinguais, como eu falei, muito comuns em adultos, tratadas principalmente com medicações. Aqui estão alguns remédios que podem gerar distonias, remédios para enjoo, inclusive. Muitos casos com causa genética.\n\nEu queria passar para vocês o seguinte: do ponto de vista da neurologia, todas as doenças têm evoluído muito nas investigações de causas genéticas. E isso é importante porque agora nós conseguimos ter um banco de dados mundial. Por exemplo, a DYT1, como comentei, responde 80% ao DBS. Algumas têm uma resposta de 20% ao DBS. Então, se eu pego uma DYT1 confirmada, eu mando para um DBS. Agora, como é que eu vou confirmar se não tiver acesso a um teste genético? Isso daí, para mim, é um grande divisor de águas. Então, assim, primeiro ampliar o acesso ao uso de toxina botulínica:  acesso à informação, à toxina botulínica e ao DBS, centros especializados de reabilitação para esses pacientes, que são jovens, que perdem função, que têm cognitivo 100% normal, e acesso a testes genéticos, porque isso vai mudar a forma vamos lidar com esses pacientes. Hoje há quem pergunte:\"Ah, será que muda?\"\n\nEntão, em inúmeros testes genéticos, já temos genes identificados. Hoje, eu já peço testes na rede privada para alguns pacientes que podem fazê-los. O teste de painel de distonias custa mil e poucos reais; um exoma completo custa 4 ou 5 mil reais, mas isso varia. Não são todos os centros que têm esse exame, mas pelo menos um exame de painel de distonias, que é o básico, poderia guiar muito o nosso tratamento.\n\nEsse é um artigo do ano passado.Eu queria colocar isso para os senhores. Olhem o título! É hora de oferecer testes genéticos para pacientes com paralisia cerebral? Por quê? Na verdade — temos uma neuropediatra que pode comentar aqui —, muitas crianças que têm o diagnóstico de paralisia cerebral têm essas distonias genéticas. E aí eu falo: no Sarah deve haver um monte delas, bem como na AACD.\"Ah, foi problema no parto. Ah, a mãe...\"Eu peguei uma criança assim no consultório.\"Ela nasceu prematura.\"A criança era cheia de distonia. Meu filho nasceu prematuro. Então, é um caso extremo. Isso não é prematuridade. Há alguma coisa por trás. O estudo mostrou que 30% dos pacientes com paralisia cerebral têm, na verdade, distonia genética. E se nós estivermos à frente de uma distonia genética que já tem uma terapia com um banco de dados internacional, que pode responder a tal coisa, que pode oferecer um tratamento diferenciado? Isso é importante.Há vários tratamentos, e eu já comentei sobre eles aqui.\n\nEstou finalizando. Este é um fluxograma que eu fiz junto com o grupo do HC para seu livro-texto de distonia.\n\nA toxina botulínica — poucas pessoas sabem — é usada para distonia.\n\nA dermato veio bem depois. A primeira indicação da toxina foi para oftalmo e a segunda para distonia. A dermato veio bem depois. Um casal americano é que teve essa sacada de usar para parar a ruga. Isso viralizou. Não estou minimizando o papel dos dermatologistas. Tenho vários amigos dermatologistas. Como temos menos informação do uso terapêutico dessa medicação do que do uso estético? Isso é incabível! Isso acontece inclusive com médicos. Eu falo para médicos da toxina e muitos respondem:\"Mas toxina para isso?\"Não há condição! Essa é uma coisa da qual precisamos, porque é o tratamento carro-chefe dos distônicos. Ela está no rol da ANS, e nós precisamos gerar informação sobre essa doença.\n\nHá técnicas avançadas. Eu fiz um curso sobre isto fora do País, para guiar a toxina com ultrassom para vermos onde estamos colocando a agulha e evitar efeito colateral. Nós estamos tentando aumentar o treinamento dos médicos, mas primeiro eles têm que conhecer a doença e as terapias.\n\nHá alguns efeitos adversos que podem acontecer, mas nós conseguimos minimizá-los com técnica.\n\nA toxina melhora muito a qualidade de vida dos pacientes, a dor.\n\nAlguns desafios que temos: técnica, aprender a guiar melhor, ver doses. Há inúmeros tipos de toxina. Botox é uma marca. É igual a Gillette. Há várias marcas no Brasil. Dependendo da marca, há efeitos diferentes. Não dá para falar assim: \"Ah, vou comprar uma toxina aqui para o hospital\".Aí você compra qualquer uma que viu na esquina. Não dá! É preciso que seja uma toxina de qualidade. Nós já vimos toxinas que vieram para o sistema público, inclusive para o HC, que geraram extrema alergia nos pacientes. Nós nunca tínhamos visto isso. Pelo menos que seja uma toxina sobre a qual haja estudos, que seja segura.\n\nNós temos outras terapias. Temos a neuromodulação não invasiva, que é outra terapia fantástica e que pouquíssimos centros têm. É uma terapia não cirúrgica, uma neuromodulação não cirúrgica. Esse é umpaperdo HC que publicamos.Não sei se os senhores conseguem ver o vídeo. É pouco, mas, na primeira foto, o paciente com uma distonia tem a cabeça tortinha. Na terceira, ele está retinho. Isso é sem toxina, só com neuromodulação não invasiva. Nem cirurgia ele fez. Foram sessões de neuromodulação. O aparelho é relativamente caro, mas é possível treinar uma equipe. Fisioterapeutas fazem isso. Esse paciente foi atendido por uma fisioterapeuta nossa. O paciente tem uma melhora absurda! Aqui é uma paciente com câimbra do escrivão. Ela não conseguia escrever o nome dela. O nome dela era Flávia. Com a evolução, ela conseguiu. Isso foi feito com sessões de neuromodulação. Há estudos nos quais já temos várias evidências robustas, mas pouco acesso e pouco treinamento de profissionais.Há desafios. É uma doença muito diferente de um paciente para o outro. O Parkinson é diferente, mas tem um perfil. Os estudiosos de Parkinson querem me matar quando ouvem isso, porque hoje vemos que, de fato, é muito diferente. A distonia é muito heterogênea. Em pacientes com o mesmo código genético, um só tem distonia no pescoço, e o outro tem no corpo inteiro. Então, para fazer estudo é difícil. Por que há pouco estudo? É difícil fazer estudo. Quando eu entrei no HC, falei que ia fazer estudo com distonia e o pessoal disse:\"Nossa, dá muito trabalho\".Até para homogeneizar a amostra, para que fique uma coisa fidedigna, temos que estar com pares mais parecidos. É difícil ter par parecido em distonia. E, geneticamente, não tínhamos acesso para fazer testes, para podermos pelo menos parear tipos genéricos. Não há acesso, porque é relativamente caro. Então, é difícil. Muitos estudos usam drogas insuficientes. Por exemplo: para a distonia daquela menina do patins que eu mostrei — é horrível quem tem essa distonia —, há um remédio que chegou ao Brasil no ano passado. Ele melhora de 80% a 90% dos pacientes. Esse remédio está parado, praticamente, porque custa em média 18 mil reais por mês. Então, é complicado. Temos que ver o que as políticas podem fazer para ajudar. Como é que faz? Ninguém consegue comprá-lo. É impossível! Ele não está no alto custo. Se dermos deutetrabenazina para o paciente — esse é o nome do remédio —, ele melhora 90%. Essa menina não ia para a cirurgia, que também tem um custo. Um DBS custa 150 mil. Então, temos que pensar nisso, ver essas informações.Eu já falei sobre DBS, que é a cirurgia. Ela está no rol da ANS para distonia. Nós a usamos para pacientes gravíssimos, mas queríamos usar até para pacientes moderados.\n\nA resposta depende muito de acordo com a idade. Quanto mais cedo for operado, melhor esse paciente vai ficar. Então, o acesso precoce é interessante. Geneticamente, dependendo da genética, o paciente fica bem.\n\nOs médicos têm que ser treinados. No HC, nós temos um treinamento para DBS também.\n\nEssa é a paciente que os senhores tinham visto. Após a DBS, ela ganhou a vida e está super bem.\n\nDe acordo com a genética, como eu falei, nós temos respostas boas.\n\nEu ia mostrar uma paciente específica.\n\nO aparelho é complexo, mas já temos novas tecnologias que têm avançado. Também precisamos de acesso às tecnologias.\n\nEu vou acelerar para finalizar.\n\nEra isso o que eu tinha para trazer. Não sei se os senhores conseguiram pegar alguma mensagem do que nos frustra como médicos diretamente ligados aos pacientes, lidando no dia a dia na rede pública também.\n\nColoco-me à disposição para fazer qualquer esclarecimento ou qualquer outra coisa que os senhores precisarem.\n\nObrigada.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Sara Casagrande se declara favorável à ampliação do acesso ao diagnóstico e tratamento da distonia no SUS, com foco em um gap central que identifica: a falta de informação sobre a doença entre leigos e profissionais de saúde, incluindo médicos não especialistas. Considera o conhecimento a primeira prioridade da força-tarefa, propõe ações de capacitação ampliada (médicos injetores de toxina botulínica, fisioterapeutas, fonoaudiólogos, terapeutas ocupacionais) e apoia explicitamente acesso às terapias carro-chefe (toxina botulínica, estimulação cerebral profunda – DBS), testes genéticos que chama de grande divisor de águas, centros especializados de reabilitação e neuromodulação não invasiva, cujos efeitos elogia por evidência própria. Defende também o uso precoce e ampliado do DBS, inclusive para pacientes moderados. Críticas que apresenta se dirigem à desinformação que rotula pacientes como psiquiátricos (o que trata como citação refutada), à maior familiaridade com o uso estético da toxina, à má qualidade de toxinas fornecidas ao setor público e ao preço proibitivo de medicamentos como deutetrabenazina, que ela propõe contornar por políticas públicas, já que inviabilizam tratamento menos custoso que a cirurgia. Propõe ainda testes genéticos para pacientes rotulados como paralisia cerebral, dado estudo indicando parcela de distonia genética mal diagnosticada. O tom mistura técnica, empatia com pacientes e cobrança assertiva de providências.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [
+            "Ampliar o acesso à informação e ao conhecimento sobre a distonia no País, tanto para leigos quanto para profissionais de saúde.",
+            "Realizar ações de ampliação do conhecimento sobre a distonia para profissionais da saúde que atendem esses pacientes sem conseguir o diagnóstico, como fisioterapeutas, fonoaudiólogos, terapeutas ocupacionais e ortopedistas.",
+            "Colocar o conhecimento sobre a distonia em primeiro lugar na força-tarefa, incluindo ampliar a informação sobre a doença para leigos e profissionais da saúde.",
+            "Ampliar o treinamento e a capacitação de médicos para aplicação de toxina botulínica em distonia, incluindo médicos de todo o Brasil.",
+            "Garantir acesso a centros com médicos capacitados para aplicar toxina botulínica e acesso à própria toxina nos serviços de saúde.",
+            "Expandir o acesso ao tratamento com estimulação cerebral profunda (DBS), incluindo seu uso também para pacientes moderados, não apenas gravíssimos.",
+            "Ampliar o acesso a testes genéticos para pacientes com distonia, incluindo no mínimo um exame de painel de distonias no SUS.",
+            "Oferecer testes genéticos a pacientes com diagnóstico de paralisia cerebral, pois parte deles possui na verdade distonia genética tratável.",
+            "Criar centros especializados de reabilitação para pacientes com distonia.",
+            "Garantir que a toxina botulínica adquirida pelo sistema público seja de qualidade e com estudos de segurança comprovados.",
+            "Ampliar o acesso à neuromodulação não invasiva para tratamento de distonia, incluindo formação de equipes treinadas.",
+            "Buscar soluções de política pública para viabilizar o acesso ao medicamento deutetrabenazina, de alto custo, usado em casos graves de distonia.",
+            "Garantir acesso precoce à cirurgia de estimulação cerebral profunda (DBS), quanto mais cedo operado, melhor o resultado.",
+            "Treinar médicos para realização da cirurgia de estimulação cerebral profunda (DBS).",
+            "Garantir acesso às novas tecnologias no tratamento da distonia."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00022",
+          "ordem_no_debate": 22,
+          "texto": " Eu gostaria de agradecer mais uma vez pela oportunidade em especial à Maria Nilde, pela parceria e confiança. Agradeço, também, à Deputada Meire pelo espaço e por dar voz — não a nós — principalmente aos pacientes, que são realmente os protagonistas da história.\n\nSão muitos anos de luta, mas esta reunião é uma conquista e um começo. Então, ter este espaço para falar sobre essa doença ao Brasil inteiro é só o começo. Agora é arregaçar as mangas e fazer os projetos para as coisas acontecerem.\n\nContem comigo!\n\nObrigada.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Sara Casagrande encerra sua participação agradecendo às parceiras e à deputada por darem voz aos pacientes, que considera os verdadeiros protagonistas da história. Após evocar os muitos anos de luta, avalia a reunião como uma conquista e um começo para levar a discussão sobre a doença ao Brasil inteiro, mas sem aprofundar aspectos diagnósticos, terapêuticos ou de acesso no SUS. Convoca à ação prática — 'arregaçar as mangas' e elaborar projetos para que as coisas aconteçam — e encerra oferecendo sua disponibilidade de colaboração ('Contem comigo'). Posicionamento: apoio à causa e engajamento futuro, em fala majoritariamente protocolar, afetiva e motivacional, sem tese substantiva sobre melhorias no acesso ao diagnóstico e tratamento no SUS.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "PATRICIA DUMKE DA SILVA MÖLLER",
+      "falas": [
+        {
+          "id": "f00006",
+          "ordem_no_debate": 6,
+          "texto": " Bom dia a todos.\n\nSrs. Deputados, muito obrigada por este espaço.\n\nDesejo um bom-dia para quem está conosco tanto presencialmente quanto virtualmente.\n\nÉ uma grande honra termos espaço para falar sobre distonia.\n\nEu estou muito confortável em falar depois dos meus colegas Dra. Sara e Dr. Heitor, que já trouxeram toda essa base para vocês. Meu nome é Patricia Möller. Eu sou neurologista infantil e trabalho especialmente com distúrbios de movimento pediátricos. Eu vou trazer para os senhores o ponto de vista da pediatria. Quase tudo se aplica à pediatria, mas há as nossas particularidades. Esse é o meu ponto de vista.\n\nEu não tenho nenhum conflito de interesse. Pedimos muito respeito pelas imagens que estamos trazendo. Todas foram autorizadas, mas temos que ter bastante respeito pelos pacientes que estão contribuindo conosco.\n\nSim, crianças e adolescentes têm distonia e muita. Aqui o meu discurso diverge um pouquinho, porque, na infância, ela não é uma doença rara, infelizmente. Eu vou mostrar a vocês isso.\n\nO neuropediatra vê a distonia principalmente na situação de uma lesão cerebral precoce. O que é precoce? É dentro da barriga da mãe, no parto ou nos primeiros anos de vida. O que pode ser isso? Uma infecção congênita, tipo zika, uma má-formação, um AVC, uma complicação do parto, uma complicação da prematuridade, uma parada cardíaca. É tudo isso. É uma lesão que aconteceu num cérebro muito imaturo e que não fica lá se repetindo. Estamos vendo as consequências disso. O nome dessa situação é paralisia cerebral.\n\nNa infância e na adolescência, a paralisia cerebral é, de longe, a principal causa de distonia. Paralisia cerebral não tem nada de raro. Anos atrás, a estimativa mundial — extremamente para baixo — era de 1 para 2 mil nascidos vivos, mas muito para baixo. Na paralisia cerebral, o principal tipo é outro movimento, chamado de espasticidade. Contudo, estamos descobrindo que a maior parte é mista: tem espasticidade e distonia junto, e isso não está sendo tratado, como vou mostrar para os senhores. Então, na infância, distonia não é raro. Estamos falando de muitas crianças.\n\nÉ claro que há outras situações. Na pediatria, principalmente, há situações em que há um problema numa reação química do corpo por uma variação no DNA, que chamamos agrupadamente de erros inatos do metabolismo.Os erros inatos do metabolismo são a causa não adquirida mais frequente de distúrbios de movimento, particularmente de distonia em pediatria. Aqui estamos falando de doenças individualmente raras, mas que não são raras como grupo. Então, na primeira situação, há a distonia como uma sequela, uma consequência de um dano cerebral. Na segunda, ela é parte de uma doença. Geralmente, ela pode ser só neurológica, mas também pode ser sistêmica. E aí será preciso cuidar não só do sintoma distonia, mas também de alguma coisa específica que haja para a doença de base, que, secundariamente, melhora a distonia.\n\nNa infância, ao contrário da adolescência, mais frequentemente a distonia acomete a maior parte do corpo. São as distonias generalizadas. Há distonia focal também, mas a maior parte das crianças têm acometimento de grande parte do corpo. Então, aqui a repercussão motora é muito importante.\n\nDistonia é uma doença? Com o que falamos até aqui, os senhores já concluíram que não. Distonia é uma situação que está presente em uma série de condições neurológicas, mas também sistêmicas. Ela é um sinal. É algo que vemos do paciente. É um sintoma. É algo que o paciente sente e está extremamente presente em um monte de situações. Vocês já perceberam o tanto que somos ousados porque, falando de distonia, querendo cuidar da distonia, estamos querendo cuidar de um monte de gente.\n\nSe a distonia é tão importante, se a distonia é tão presente e causa tanta limitação, por que quase ninguém ouve falar dela? Por que quase ninguém trabalha com isso? Por que é tão difícil chegar ao diagnóstico, como a Dra. Sara falou e como o Dr. Heitor também trouxe? Tentamos levantar algumas coisas, e eu vou complementar também o que já foi dito.\n\nHá um gigantesco subdiagnóstico, principalmente na infância. Esses pacientes chegam extremamente tarde para nós. Vamos ver a importância de começar a cuidar disso cedo. Também uma grande dificuldade é que, muitas vezes, a distonia aparece junto ou se parece com outras situações neurológicas e não neurológicas. Eu trouxe aqui, principalmente, a espasticidade, porque, na neurologia infantil, é uma briga o diagnóstico errôneo da distonia, confundindo com a espasticidade. Contudo, muitas vezes, elas estão juntas mesmo. Destaco também: crises epilépticas, estereotipias, tiques, refluxo — porque criança pequena faz uma posição de refluxo que lembra distonia — e até movimentos voluntários.\n\nOs senhores vão se identificar:\"Doutora, quando eu coloco a comida na boca dele, quando encosto a colher na boca dele, na mesma hora, ele empurra a língua para fora. Ele não quer comer. Ele não quer mastigar\". Não é que ele não queira. Isso é involuntário. É um estímulo tátil, gerando uma distonia na região orobucolingual. Então, isso é uma confusão, que, se não conhecemos, não vamos suspeitar.\n\nPara dificultar, há alguns exames que ajudam e que dão apoio, mas não existe um exame que confirme: pronto, é distonia. Está aqui. Isso não existe. O diagnóstico é clínico. É uma pessoa que conheça o fenômeno, olhando, pegando o paciente, estudando as diversas situações e classificando aquilo. Chamamos de fenomenologia. Então, o diagnóstico realmente pode ser um pouquinho complicado.\n\nOutra questão que dificulta, na verdade — felizmente, pelo menos, o que eu vejo na prática é que isso é uma coisa boa —, é que a distonia pode responder parcialmente ao tratamento para outras condições. Estou falando, de novo, da espasticidade. Felizmente, melhora. Espasticidade também é tratada com toxina botulínica ou com alguns outros medicamentos. Secundariamente, pode melhorar a distonia, mas o tratamento não é igual.Alguns fármacos anticrises usados na epilepsia podem ajudar também.Então, felizmente, a distonia pode ficar ali parcialmente tratada, ficar por ali, mas esse tratamento nunca é suficiente para melhorar a funcionalidade, como sabemos que o tratamento específico poderia controlá-la, e tende a não evitar as complicações que vêm depois.\n\nE também há o jargão clássico:\"Não tem o que fazer\". Já foi trazido isso aqui. Eu acho que toda família que tem alguém com distonia já escutou:\"Não tem o que fazer\". Temos que trabalhar essa parte sobre conhecimento.\n\n\"Então, Dr. Patricia, se é assim tão é enrolado, será que vale a pena estarmos falando sobre isso aqui?\"É enrolado, mas os senhores vão ver que os neurologistas são cheios de esperança. A distonia, como já foi muito bem explicada, são essas contrações incontroláveis, disfuncionais e repetitivas que invadem o movimento da pessoa sem ela querer.\n\nEntão, imagine que o seu filho está lá sentado no chão, brincando, e vai pegar um brinquedinho, só que, em vez de o braço dele fazer o movimento correto, faz um movimento diverso do que deveria. Imagine que, quando ele dá aquela risada gostosa ou quando ele está chorando, os braços e as pernas dele começam a se mexer sem parar. Imagine que, quando ele está doente, além da febre, além da dor de ouvido, além da tosse, também ele não dorme, porque o pescoço, as costas, a face e os membros não param de se contrair. Imagine que isso evolui a um ponto em que as contrações são tão intensas que começam a romper os músculos e fica difícil até para respirar. E o seu filho vai parar na UTI por causa disso numa situação de extrema gravidade, que chamamos destatus dystonicus, que é subdiagnosticada e subtratada.\n\nQuem convive com pacientes com distonia sabe o tanto que ela afeta o dia a dia. Dor, diminuição da autonomia, dificuldade de posicionamento — alguns pacientes não conseguem ficar sentados, deitar de costas ou de barriga para cima —, limitação para higiene: axila, genitália, boca, dentes. Às vezes, os movimentos involuntários não lhes permitem relaxar para acessar aquela região. Há alterações ósseas, porque a contração cronicamente diminui o comprimento do tendão. Então, perde-se a amplitude de movimento da articulação. Os pacientes com distonia têm escoliose com todas as repercussões da escoliose. Isso pode levar a uma perda de movimento permanente.\n\nPrejuízo no sono. Eles tendem a melhorar o sono, mas, por causa dos microdespertares, têm um sono muito fragmentado. Perda de peso não só pela dificuldade de mastigar e engolir, que muitos pacientes têm, como eu já disse, mas também há continuamente enorme gasto calórico.\n\nOs meus pacientes com paralisia cerebral já têm uma curva de crescimento que é diferente de quem não tem lesão cerebral. Eles têm expectativa de crescimento menor. Isso aumenta ainda mais o gasto calórico. Então, a desnutrição é frequente. Esses pacientes internam muito, fazem muitos exames, faltam muito à escola, não conseguem trabalhar.Muitas vezes nem o cuidador consegue trabalhar, e isso tem um impacto enorme na renda familiar. Não vou nem falar de saúde mental, tanto da família quanto do paciente. Como já foi falado aqui, os núcleos da base têm conexões intensas com o sistema límbico, etc. Olhem isto. Preciso falar mais alguma coisa? Acho que dá para pararmos, não é? Nós definitivamente precisamos agir antes disto tudo aqui.Se o quadro está dentro deste conjunto de doenças neurológicas, se estamos dizendo que é preciso controle de sintomas, se não há cura, qual é o sentido de tratar? Essa é uma pergunta que os alunos de graduação sempre fazem.Todos nós aqui, se já não convivemos, vamos conviver com alguma doença crônica. Na verdade, mais de uma, com certeza. Pode ser pressão alta, diabetes, glaucoma, câncer, ou seja, são doenças que vêm e não vão embora. Qual é o raciocínio no caso de uma doença crônica? Diminuir sintomas, oferecer conforto, reduzir complicações, melhorar a qualidade de vida pelo maior tempo possível. Não é porque o paciente tem uma condição que não tem cura que o abandonamos. Andamos ao lado dele. É disso que estamos falando aqui.\n\nCada paciente vai ter uma trajetória. Não existe nenhuma receita de bolo; não existe nada que indique que distonia é isso ou aquilo. Não existe. Mas temos os nossos fundamentos. Aqui eu coloquei o básico do básico, o que usamos mais na pediatria — ou o que gostaríamos de usar; na verdade, não usamos. O cenário está cheio de evidências de alta qualidade — na pediatria, não são de muita qualidade, mas vamos chegar lá —, de coisas a serem feitas para amenizar o quadro da distonia. Qual é o mandamento? Abordagem precoce, multiprofissional, com tratamentos farmacológicos e não farmacológicos combinados. Eu vou repetir: abordagem precoce, multiprofissional, com tratamentos farmacológicos e não farmacológicos combinados.\n\nCada paciente é de um jeito. Eu vou dar como exemplo um paciente típico meu. A criança nasceu, teve alguma complicação, e diagnosticamos paralisia cerebral, percebemos que tem uma hipertonia de padrão distônico. É preciso reabilitação, muito cedo, principalmente fisioterapia, dependendo da demanda, fono, TO, muito cedo e sempre, como já foi frisado aqui. Dependendo da evolução, podemos associar um medicamento oral, um medicamento enteral; vamos ajustando aquilo, e pode ser que seja preciso mais algum. Quando a criança faz 2 anos, começamos a fazer aplicações periódicas de toxina botulínica e continuamos ajustando os medicamentos da melhor forma, vamos ajudando o paciente. Se não houver resposta, se em um momento o quadro ficar muito grave, piorar demais, ou ao longo da evolução... Gostaríamos de avaliar uma neurocirurgia com estimulação cerebral profunda, o que, aliás, revolucionou o tratamento da distonia pediátrica no mundo. Gostaríamos muito de fazer isso aqui também. Tardiamente, pode ser preciso algumas cirurgias ortopédicas para amenizar aquilo que não conseguimos evitar com a progressão da doença. Então, a cada fase da história de vida do paciente, seja por tempo, seja por complicações, seja pela resposta, precisamos de recursos diferentes. A história de cada um é diferente. Há situações genéticas. Há pacientes que ficam muito bem com remédio para Parkinson, que já está disponível nas Unidades Básicas de Saúde.Algumas doenças raras, como a chamada distonia dopa-responsiva, são muito diagnosticadas erroneamente como paralisia cerebral, como a Dra. Sara já trouxe. O paciente precisa de um remédio geralmente, em dose muito baixa. No caso das distonias focais, é preciso toxina botulínica. Com remédio pacientes ficam muito bem.Então, cada um vai nos trazer uma necessidade diferente. Estamos falando de um monte de tratamentos muito diferentes em termos de complexidade. Um tratamento é comprimido, outro é neurocirurgia. De fato, temos alguns remédios muito simples, muito baratos — tão baratos que provavelmente daqui a pouco vão deixar de ser produzidos; isso é um grande problema também —, e outros com maior complexidade em termos de possibilidade de oferecê-los. Mas precisamos disso tudo, porque, como dissemos, as doenças são muito diferentes entre si. Há uma entidade comum entre as distonias, mas os pacientes são muito diversos. Vocês estão vendo inclusive que existem diferenças entre o meu papo e o papo dos neurologistas de adulto, não é? Os pacientes são muito diferentes. A combinação de tratamentos, em pediatria, é quase a regra.Enfim, o que eu gostaria que ficasse aqui registrado de mais importante? Não estamos falando de pouca gente. Mesmo se considerarmos só doença rara, não é pouca gente. Mas em meu papo aqui não abordei só doença rara. Então, essa é mais uma razão. Estamos falando de muitas crianças, muitos adolescentes e muitos adultos com distonia não tratada ou nem sequer diagnosticada no Brasil. Estamos engatinhando — na pediatria, estamos milhas atrás do tratamento para adulto ainda. Quem passa os dias ao lado de alguém com distonia, ou as noites, como muita gente aqui, está aqui para testar a urgência para melhorarmos esse acesso, melhorarmos esse cuidado, termos mais conhecimento, termos mais espaço de fala. Os nossos pacientes continuamente trazem informação para nós e para a ciência, mostrando-nos que isso tem que ser feito, que isso é coerente, que isso não é nenhuma novidade, que ninguém está inventando a roda. Estamos apenas buscando esse cuidado, porque sabemos que há, hoje, muito, muito, a ser feito pelos pacientes com distonia no Brasil.Era isso que eu queria trazer. Eu estou à disposição.\n\nMuito obrigada.(Palmas.)\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Neurologista infantil especialista em distúrbios de movimento, a oradora sustenta que a distonia na infância não é rara, por ser comum na paralisia cerebral (principal causa, muitas vezes com componente distônico misto) e nos erros inatos do metabolismo como grupo. Denuncia enorme subdiagnóstico, confusão frequente com espasticidade e outros fenômenos (que leva pais a serem acusados de 'não querer' quando é involuntário), diagnóstico puramente clínico e o jargão 'Não tem o que fazer'. Descreve repercussões graves: dor, perda de autonomia, desnutrição por gasto calórico aumentado, escoliose, sono fragmentado, status dystonicus, faltas escolares, impacto na renda e saúde mental familiar. Sustenta que, mesmo sem cura, há sentido em tratar como doença crônica, reduzindo sintomas, complicações e melhorando qualidade de vida. Prega como mandamento abordagem precoce, multiprofissional e combinada de tratamentos farmacológicos e não farmacológicos: reabilitação desde cedo, toxina botulínica, medicamentos, acessos diversos conforme a trajetória de cada paciente, cirurgias ortopédicas quando necessárias e, idealmente, estimulação cerebral profunda — recurso revolucionário para o qual reivindica acesso no Brasil, onde a pediatria está muito atrás do que já se faz em adultos. Alerta ainda que remédios baratos essenciais podem deixar de ser produzidos. Não registra posição sobre aspectos legislativos ou regulatórios específicos, atendo-se à dimensão clínica e assistencial.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [
+            "Promover abordagem precoce, multiprofissional e combinando tratamentos farmacológicos e não farmacológicos para a distonia na infância.",
+            "Iniciar reabilitação (fisioterapia e, conforme demanda, fonoaudiologia e terapia ocupacional) muito cedo e de forma contínua nas crianças com distonia.",
+            "Disponibilizar e ampliar o acesso à neurocirurgia com estimulação cerebral profunda para distonia pediátrica no Brasil.",
+            "Assegurar oferta de tratamentos diversos conforme cada paciente, incluindo toxina botulínica, medicamentos orais/enterais, medicamentos para Parkinson e manejo de distonia dopa-responsiva.",
+            "Viabilizar acesso a cirurgias ortopédicas para amenizar consequências da progressão da doença quando outras medidas não forem suficientes.",
+            "Melhorar o acesso, o cuidado e o conhecimento sobre distonia, além de ampliar espaços de fala sobre a condição.",
+            "Trabalhar a difusão de conhecimento sobre distonia para combater o jargão de que 'não tem o que fazer' e o subdiagnóstico."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00018",
+          "ordem_no_debate": 18,
+          "texto": " Eu acho que conseguimos aqui ver a força que nós temos, a potência que temos juntos.\n\nNós temos muito trabalho pela frente, e há muita gente querendo trabalhar, muitas portas estão abertas, há muita coisa cientificamente comprovada para serem aplicadas cada vez mais. E os nossos pacientes são a nossa força, quem traz o nosso conhecimento, quem traz ofeedback, quem nos dá energia.\n\nFoi um grande prazer.\n\nEu espero que possamos conversar muito, muito, muito ainda sobre isso.\n\nObrigada.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Patrícia encerra sua participação com tom otimista e mobilizador, celebrando a força e a potência do grupo reunido. Reconhece que há muito trabalho pela frente, mas destaca que muitas pessoas querem trabalhar e que muitas portas estão abertas. Afirma haver muito conhecimento 'cientificamente comprovado para serem aplicadas cada vez mais', sem especificar estudos ou medidas concretas. Valoriza os pacientes como fonte de força, conhecimento e feedback, além de darem energia ao trabalho coletivo. Manifesta grande prazer pela participação e expectativa de continuar muito a conversa sobre o assunto. A fala é de encerramento, genérica e motivacional, sem tomar posição substantiva específica sobre o acesso ao diagnóstico e tratamento da distonia no SUS.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "ROSÂNGELA MORO",
+      "falas": [
+        {
+          "id": "f00008",
+          "ordem_no_debate": 8,
+          "texto": " Obrigada, Deputada.\n\nVou ter que me ausentar, com dor no coração. Eu queria muito ouvir a representante do Instituto Distonia Saúde.\n\nMas, antes, eu quero cumprimentar a Deputada Meire Serafim, a Dra. Sara, o Dr. Heitor, que estáon-line, a Presidente do Instituto Distonia Saúde, D. Maria Nilde, a Dra. Patricia, a Dra. Kedna.\n\nSejam muito bem-vindos a esta Casa! Quero dizer que vocês estão diante de uma das pérolas da nossa Casa, a Deputada Meire Serafim.Ela é muito comprometida com a questão da saúde, muito atuante neste Parlamento, para melhorar as políticas públicas em prol das pessoas com doenças raras ou não raras — agora eu fiquei na dúvida —, a depender da faixa etária.\n\nQuero dizer que a Dra. Sara foi muito feliz quando disse que, às vezes, as pessoas ficam buscando o Google para saber o diagnóstico. Eu atribuo isso, doutora, à atuação das associações, que são muito importantes. Nas associações, o acolhimento, a troca de experiências, o intercâmbio de informações importantes, sem atribuir todos os créditos à medicina e à ciência, eu acho que há uma combinação muito feliz. As famílias têm seu primeiro apoio, seu primeiro acolhimento, até serem encaminhadas para um diagnóstico, para um especialista e para o melhor tratamento.\n\nConcordo, doutora, que saúde não é apenas cura: saúde é qualidade de vida. Se temos tratamentos disponíveis para melhorar a qualidade de vida, nós precisamos, sim, fornecê-los, especialmente porque pessoas com esta doença acabam envolvendo o núcleo familiar. Isso vai além da pessoa doente — estão em questão um pai, uma mãe. Alguém que tem uma vida produtiva e profissional precisa fazer um ajuste para ser o cuidador.\n\nEu realmente queria fazer estas saudações. Vocês estão em muito boas mãos com a nossa querida Deputada. Quero dizer também que, como estudiosa do tema danças raras, algumas coisas me preocupam. Primeiro, o número de geneticistas que nós temos no País — um número muito baixo. Se nós estamos dizendo que 80% das doenças têm origem genética, nós temos que começar a pensar por que este número é baixo e como podemos contribuir, de alguma maneira, para que tenhamos mais especialistas.\n\nPreocupa-me não haver, nos cursos superiores, uma cadeira sobre doenças raras. É claro que nós temos de 6 mil a 8 mil doenças raras. Estas 6 mil a 8 mil doenças raras não vão ser estudadas no curso de medicina, mas eu acho que há de haver — aí nós precisamos ouvir todos os médicos e os estudiosos — algum denominador comum que possa ser aproveitado nos cursos superiores. Nós pedimos ao Ministério da Educação, via requerimento, que estude a possibilidade de colocar uma cadeira obrigatória para tratar das doenças de origem genética.\n\nPreocupa-me também a atuação da CONITEC. Como verdadeira defensora dos institutos e das associações, eles têm que ter, sim, assento na CONITEC. Há muito a contribuir. Todos sabemos que é a CONITEC que vai estabelecer os protocolos. Humildemente, eu apresentei um projeto de lei para isso. A entrada da AMB na CONITEC recentemente já foi um avanço, mas, ouvindo pedidos das associações com as quais eu convivo, reputo que seria importante, sim, ter uma associação específica de cada protocolo que vai ser tratado.\n\nHá sempre que defender, é claro, a celeridade necessária a um diagnóstico. Para isso, reputo muito importante a capacitação da porta de entrada do SUS. Acho que forças-tarefas como esta para divulgar a doença, divulgar o diagnóstico, ampliar a informação; audiências públicas; ter, sim, um dia — não sei se já existe — para a sensibilização da distonia são todos fatores que convergem para que a doença seja conhecida, o diagnóstico seja facilitado e, com isso, efetivamente, a vida do paciente melhore.\n\nCom estas palavras, eu me despeço. Infelizmente, eu não vou poder ficar para ouvi-la. Sucesso! Fico no gabinete 434. Contem comigo!\n\nBom dia.(Palmas.)\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Nesta fala, a titular se posiciona favoravelmente ao tema de melhorias no acesso ao diagnóstico e tratamento da distonia no SUS. Concorda que saúde é qualidade de vida e não apenas cura, defendendo que tratamentos disponíveis devem ser fornecidos, especialmente diante do impacto da doença no núcleo familiar e nos cuidadores. Valora o papel das associações de pacientes no acolhimento e na troca de experiências até o encaminhamento diagnóstico. Como preocupações estruturais, aponta o número insuficiente de geneticistas, a ausência de cadeira sobre doenças de origem genética nos cursos superiores (tendo requerido estudo ao MEC para disciplina obrigatória) e a necessidade de assento de institutos e associações na CONITEC, mediante projeto de lei apresentado, com associação específica por protocolo. Defende ainda celeridade diagnóstica, capacitação da porta de entrada do SUS, forças-tarefas e audiências públicas de divulgação e um possível dia de sensibilização sobre a distonia. A parte final da fala é também procedimental, ao registrar sua saída antecipada da audiência.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [
+            "Criar mecanismos para aumentar o número de especialistas em genética no país.",
+            "Incluir conteúdos sobre doenças raras (doenças de origem genética) como disciplina obrigatória nos cursos superiores, mediante estudo do Ministério da Educação.",
+            "Garantir assento de institutos e associações na CONITEC, incluindo uma associação específica de cada protocolo tratado.",
+            "Capacitar profissionais da porta de entrada do SUS para diagnóstico mais célere.",
+            "Promover forças-tarefas para divulgar a doença e ampliar a informação sobre seu diagnóstico.",
+            "Realizar audiências públicas para ampliar discussão sobre a doença.",
+            "Instituir um dia dedicado à sensibilização sobre a distonia."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MARIA NILDE SOARES",
+      "falas": [
+        {
+          "id": "f00010",
+          "ordem_no_debate": 10,
+          "texto": " Boa tarde a todos.\n\nAcima de tudo, é com imensa gratidão que eu estou aqui hoje.\n\nEsta é a Maria Nilde, eu mesma falo a vocês, quando, 11 anos atrás, eu ainda trabalhava como vendedora porta a porta. Eu trabalhava muito, amava o que fazia, e era muito boa no meu trabalho, mas isso não significava que eu não sofria pressão. Trabalhar com vendas épunk. Eu já estava cansada e casada com o homem da minha vida. Ele se chama Jorge; para os íntimos, Jorginho. Tínhamos uma grande meta: comprar nossa casa própria.\n\nUma indígena fugiu de São Luís do Maranhão, foi adotada e veio para São Paulo viver a vida de verdade, eu queria sair de onde estava. Eu estava no meu melhor momento e num momento muito, muito ansioso. Por quê? Por causa do trabalho. Diante disso, eu não percebi meus sintomas. Eles estavam pequenos e ainda infrequentes. À medida que eles aumentavam, eu, automaticamente, relacionava-os ao momento de estresse que estava vivendo: cansaço, sudorese, oscilação de humor, tique na boca e na face. Um belo dia, um colega de profissão me chamou e perguntou se eu estava bem. Foi aí que eu decidi procurar um médico. Obviamente, eu sempre fui de enfrentar tudo de forma rápida. Não esperei e procurei um psiquiatra. Não resolvendo o sintoma, eu procurei um neurologista.Eu fui a sete neurologistas clínicos, em 4 anos e meio, até que, finalmente, encontrei um médico que me diagnosticou.\n\nVocês sabem o que acontece em 4 anos e meio em que a pessoa passa por ene médicos, médicos especialistas, médicos caros, e não saber o que tem? Você toma medicamentos errados, sente-se frustrado e incapacitado e até mentalmente doente, já que seus sintomas não têm causa e nada que você faz resolve. Você perde o emprego, pessoas, paciência, tempo e, acima de tudo, a dignidade, as oportunidades, e acaba ganhando sequelas facilmente evitáveis com o diagnóstico e com o tratamento precoce.\n\nVocê gera gastos desnecessários para o sistema de saúde, o SUS. Ainda que você tenha um plano de saúde, você faz tratamentos errados, exames, consultas, internações, procedimentos sem necessidade ou, o que é pior, na hora errada. O mais difícil de tudo é que você se sente um fardo, com um corpo que você não domina mais, com movimentos involuntários cada vez mais intensos, com mais dores, humor oscilante sempre, remédios caríssimos, crises constantes.\n\nMuitos optam por dar fim à própria vida. Ninguém desiste da vida porque quer — ninguém! A maioria das pessoas que desistiram da vida e que eu conheci achavam que esta era a única saída para deixar de ser um fardo para a família, para o cuidador. Mas isso não é verdade. Nós não somos um fardo. Nós somos um fardo? Não! Nós somos vítimas, vítimas de um diagnóstico errado, tardio. O que nós estamos tentando fazer aqui é mudar esta realidade.\n\nFoi assim que eu, Nilde, decidi que ninguém mais ia passar pelo que eu passei. Aproveitei isso para evitar, de alguma forma, que as pessoas passassem por este terrível pesadelo. Foi quando eu juntei forças e energia, as últimas que eu tinha, para fundar o Instituto Distonia Saúde. Já havia um trabalho com o Dr. João Carlos Papaterra, mas o projeto dele estava adormecido havia mais de 20 anos. Eu o procurei, me informei, pesquisei, estudei, fui atrás dele muitas e muitas vezes e, depois de muita conversa com ele, dei início ao Instituto Distonia Saúde.\n\nEu sabia que eu tinha o privilégio de ter contatos, de ter encontrado médicos como minha médica que está presente aqui, a Dra. Sara Casagrande, que, além de ser minha médica, minha neurologista, é — vale ressaltar — membro do conselhodo Instituto Distonia Saúde.Dito isso, eu precisava facilitar a vida de outras pessoas. O Instituto Distonia Saúde nasceu do amor e da dor que eu vivi; nasceu da necessidade de ser uma ponte e de facilitar o caminho das pessoas. Em nossosite, temos um cadastro com todos os médicos especialistas na doença em âmbito nacional, pois nem todos os neurologistas podem falar de distonia, e as pessoas não sabem o que é essa doença. Nosso trabalho se dá pelosite, pelas redes sociais e pelos grupos de apoio em WhatsApp, Telegram e de qualquer forma que nós conseguirmos levar nossa mensagem.\n\nAlém de neurologistas, no nossosite,temos dentistas, fonoaudiólogos, fisioterapeutas e outros especialistas em distonia. No nossositee no nosso trabalho, nós criamos um espaço de amor e de cuidado em que a pessoa pode desabafar e ser acolhida sem julgamentos, pode ser direcionada a profissionais em suas cidades e suas regiões.\n\nNós disponibilizamos experiências sobre tratamentos, cirurgias e procedimentos, como a neuromodulação, mencionada pela Dra. Sara, a aplicação de toxina botulínica e até mesmo a estimulação cerebral profunda, conhecida como DBS — aqui no Brasil e no mundo existe esta sigla, eu não vou falar o significado porque está em inglês. Trata-se de uma cirurgia que busca melhorar os sintomas de doenças como Parkinson, distonia e tremores essenciais, entre outras.\n\nNo Instagram, nós temos um lance muito legal, oPapo de quinta. Todas as quintas-feiras, quinzenalmente, nós levamos convidados para ser entrevistados em nosso Instagram e para falar de algum assunto necessário para nossa comunidade de distônicos. Vale ressaltar que o foco é sempre o paciente, porque, como nós não somos vistos, precisamos nos fazer vistos, precisamos nos fazer presentes.\n\nNós realizamos encontros anuais com pacientes para que se conheçam e possam ter amenizadas suas dores ao trocarem experiências. Durante estes encontros, nós levamos os maiores profissionais e os melhores especialistas não só do Brasil, porque eles não são conhecidos só no Brasil, mas também do exterior, já que são conhecidos internacionalmente, para falarem sobre distonias — incluam minha grande amiga e médica, a Dra. Sara Casagrande e a Dra. Vanessa Milanese Holanda.\n\nAlém disso, nós fazemos campanhas de conscientização, mobilização e até exposição de fotos no metrô, para que todas as pessoas tenham acesso à informação, uma vez que esta é uma das melhores opções para o diagnóstico precoce. A informação deve ser compartilhada para chegar a quem dela, de fato, precisa.\n\nNesta foto que vocês estão vendo, está meu menino de rodinhas, além do Maestro João Carlos Martins, conhecendo a exposição no metrô de São Paulo. Vale ressaltar que nós não fizemos apenas uma exposição em São Paulo, mas, sim, seis exposições em seis metrôs na cidade de São Paulo.\n\nNós fazemos parte da Aliança Rara — Aliança Brasileira de Associações e Grupos de Apoio às Pessoas com Doenças Raras, que tem mais de 93 representatividades em mais de 23 patologias raras. Também participamos do clipe da músicaEla é Rara.Infelizmente, não foi possível reproduzi-lo aqui para vocês, mas vamos deixar umlink,porque é muito significativo este clipe para os cuidadores, as mulheres e as mães de pacientes atípicos. É um clipe somente com mulheres que passam por uma condição rara e que são mães ou pacientes de doenças raras.\n\nNo Brasil, existem 13 milhões de pessoas com algum tipo de doença rara. Existem de 6 mil a 8 mil doenças raras diferentes. Todo paciente raro tem uma mãe, uma esposa, uma filha, alguém que muitas vezes se dedica aos cuidados ou talvez venha a ser o próprio paciente, e nós voltamos àquela tese do fardo.\n\nO fato é que nem sempre nós somos lembrados, ouvidos ou achados, mas vale a pena vivermos. Não somos fardos para ninguém, nem para nós mesmos, porque, como pacientes de distonia ou de qualquer outro tipo de doença rara, sempre nos achamos um fardo para quem está à nossa volta, porque não apenas nós ficamos doentes: a família fica doente conosco. Nós ficamos reféns da doença, e os familiares e os cuidadores ficam reféns de nós.\n\nO mais importante é que se deve procurar se informar em fontes fidedignas, procurar médicos que tenham conhecimento da sua patologia. Se não encontrarem, entrem em contato conosco nas redes sociais, nas quais vocês conseguem, com facilidade, encontrar todos os médicos aqui presentes e os não presentes, como a Dra. Patricia e a Dra. Sara.\n\nPor fim, deixo meu imenso agradecimento por este espaço, pelo carinho e pelo acolhimento.\n\nÀ Deputada Meire Serafim, eu e toda a comunidade distônica, todos os familiares afetados, assim como todos os médicos envolvidos, todos os médicos atuantes, deixamos a nossa maior profunda gratidão.\n\nAgradeço aos médicos presentes, tão preciosos a nós; à Kedna, ao Fabiano, à Dra. Vanessa Milanese Holanda, que infelizmente não está aqui, mas tenho certeza de que está nos acompanhando; à minha amiga e médica Dra. Sara, Vice-Presidente do Instituto Distonia Saúde, e ao Instituto Vidas Raras.\n\nEu quero aproveitar o momento para agradecer ao Instituto Vidas Raras, em especial à sua CEO, a Regina Garcia Próspero, que está passando por um momento muito difícil — ela está com um câncer raro —, e à sua Vice-Presidente, a Amira. Quero agradecer, imensamente, à Roseli Maria, uma pessoa ímpar e uma profissional extremamente competente. Agradeço, acima de tudo, ao meu esposo, Jorginho, o amor da minha vida. Por fim, deixo o meu mais profundo agradecimento a todos os pacientes.\n\nMinha gratidão a todos!(Palmas.)\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "A oradora relata sua experiência de quatro anos e meio e sete neurologistas até obter o diagnóstico de distonia, descrevendo perdas de emprego, saúde, dignidade e sequelas evitáveis, além de gastos desnecessários ao SUS decorrentes de diagnósticos errados ou tardios. Contraria a ideia de que pacientes são um fardo, afirmando que são vítimas de falha diagnóstica, e menciona o sofrimento das famílias e cuidadores. Defende diagnóstico e tratamento precoces por meio da informação e da divulgação da doença, apresentando o Instituto Distonia Saúde, que fundou, como ponte entre pacientes e especialistas, com cadastro nacional de profissionais, grupos de apoio, campanhas de conscientização, exposições no metrô e encontros anuais. Apoia com firmeza melhorias no acesso ao diagnóstico e ao tratamento da distonia no SUS e conclui com agradecimentos a médicos, instituições e seu esposo.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [
+            "Fundar o Instituto Distonia Saúde para apoiar pacientes de distonia e criar uma ponte de informação e acolhimento.",
+            "Manter um cadastro nacional de especialistas em distonia no site do Instituto, incluindo neurologistas, dentistas, fonoaudiólogos e fisioterapeutas, para direcionar pacientes a profissionais nas suas regiões.",
+            "Divulgar informações sobre tratamentos e procedimentos disponíveis (neuromodulação, toxina botulínica, estimulação cerebral profunda/DBS) para orientar pacientes.",
+            "Promover campanhas de conscientização e exposições de fotos no metrô para aumentar a visibilidade da distonia e apoiar o diagnóstico precoce por meio da informação.",
+            "Realizar encontros anuais com pacientes e especialistas nacionais e internacionais para troca de experiências e atualização sobre distonias."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00020",
+          "ordem_no_debate": 20,
+          "texto": " Mais uma vez eu quero agradecer o apoio da Deputada Meire. É uma honra estar aqui.\n\nO meu desejo é que todos consigam ter o tratamento e o apoio não só da família, mas também da sua equipe médica. Um paciente com distonia não tem um médico, ele tem sete ou oito médicos — praticamente é uma equipe multidisciplinar.\n\nEntão, agradeço a todos os profissionais que me atendem como paciente e que fazem também parte da minha vida, no sentido de nos apoiar, acreditar no projeto de uma ilustre desconhecida, assim como fizeram a minha médica, a Dra. Sara; a Dra. Vanessa; o Dr. Sidney Gomes, que é o nosso patrono; e tantos outros, cujos nomes não vou falar agora para não ser deselegante ao esquecer alguém.\n\nMas externo minha gratidão eterna, Deputada Meire. Fabiano, gratidão. Você não é uma formiguinha, você é uma abelha. E eu espero que você, sendo da equipe da Deputada Meire — assim como os demais —, consiga, assim como nós, voar, alçar voos, levando informação para todo o Brasil, porque este mundo é grande, este Brasil é grande, e nós precisamos de conhecimento, informação. A informação salva vidas. Precisamos divulgar, falar e repetir o que é distonia.\n\nDoença \"boa\" — entre aspas —, já disse o meu médico quando me diagnosticou, é doença com nome. Então, eu tenho distonia cervical idiopática.\n\nGratidão a todos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "A oradora estrutura a fala predominantemente como agradecimento à Deputada Meire, à sua equipe e aos profissionais de saúde que a atendem. Como paciente com distonia cervical idiopática, afirma que quem tem distonia não tem um médico, mas um time de sete ou oito profissionais, defendendo a necessidade de uma equipe multidisciplinar de apoio ao paciente. Deseja que todos obtenham tratamento e suporte familiar e médico. Reitera o apelo à divulgação do conhecimento sobre distonia em todo o Brasil, afirmando que 'a informação salva vidas' e que é preciso 'divulgar, falar e repetir' o que é distonia. Cita, com distanciamento irônico, a expressão do médico que a diagnosticou de que seria 'doença boa', por ter nome. A fala concentra-se em gratidão e motivação, sem detalhar propostas específicas sobre diagnóstico e tratamento no SUS.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [
+            "Divulgar, falar e repetir o que é distonia, levando informação sobre a doença para todo o Brasil."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "KEDNA SOUZA PEREIRA",
+      "falas": [
+        {
+          "id": "f00012",
+          "ordem_no_debate": 12,
+          "texto": " Bom dia a todos.\n\nEu gostaria de agradecer a oportunidade de estar aqui para falar um pouco sobre distonia e sobre minha história com a distonia.\n\nEu me chamo Kedna e estou como Conselheira Fiscal do Instituto Distonia Saúde. Eu tenho um tipo de distonia chamado cãibra do escrivão.\n\nEu vim para Brasília em 2011 com o intuito de buscar qualidade de vida e melhorias. Eu sou do interior da Bahia, de Brejolândia. Logo que cheguei aqui, eu me tornei cabeleireira. Posteriormente, iniciei o curso de ciências contábeis.\n\nEm 2013, após escrever por 2 horas seguidas, minha mão travou. Era muito estranho. Eu sentia muita dor e tremores. Eu nunca havia passado por aquilo. Algum tempo antes, eu havia tido uns sinais, mas nada parecido. Fui ao hospital, e os médicos simplesmente olharam uns para os outros e disseram:\"Nossa, que estranho!\"Fui medicada e recebi alta. Aí começou minha jornada. Procurei outro médico posteriormente e fui diagnosticada com LER. Fiz tratamentos e sessões de fisioterapia e tomei medicamentos, mas a dor insistia. Eu comecei a ter dificuldades no meu trabalho para desenvolver minhas atividades como cabeleireira, até que chegou um momento em que eu tive que mudar de profissão. Eu já não suportava mais exercer a profissão. Assim, entrei para a área contábil.\n\nEu continuei uma luta em busca do diagnóstico. Fui diversas, muitas vezes, a emergências de hospitais públicos.Na maioria das vezes, eu saía com tala no braço, tomava muita injeção para dor, mas eu não era diagnosticada. A minha insistência era tanta que eles mesmos começaram a falar assim:\"Há algo errado. Há algo estranho. Eu preciso que você procure um especialista\". Está bem, mas como? Eu trabalhava e estudava. Como eu ia fazer para buscar um especialista se a fila de espera demorava horas?\n\nO tempo foi passando. Foi, então, que eu decidi — e não havia opção — procurar e fazer um convênio médico. Eu arquei com os recursos, mesmo sem poder, já que tinha minhas limitações. Fui procurar o diagnóstico. Então, comecei a ir a hospitais particulares, e a experiência não foi diferente da dos hospitais públicos. Muitas e muitas vezes estive em emergências, estive diversas vezes com ortopedistas, até que, um dia, fui a um médico especialista em coluna, pois também havia a suspeita de eu ter algum problema na coluna, e recebi o diagnóstico de depressão. Afinal, eu era uma mulher que estava lá, insistente e incansavelmente, em busca de um diagnóstico. Eu sentia dor. Incomodava-me. Era constrangedor no meu trabalho e na universidade. Muitas vezes, eu parei de escrever. Muitas vezes, eu fiquei sem escrever. Para mim, era angustiante viver aquilo. Já se passavam mais de 2 anos, e eu não tinha diagnóstico. Eu queria, naquele momento, ao menos saber o que eu tinha para que eu pudesse explicar para as pessoas, para que eu não fosse mais julgada.\n\nApós essa indicação de um médico, fui procurar um reumatologista e um neurologista. Com o neurologista, eu não fui diagnosticada. Então, procurei uma reumatologista, pois o problema poderia ser relacionado à área. Na primeira consulta, na pré-análise, ela me disse:\"Eu sinto muito, mas tudo indica que você tenha câimbra do escrivão\". Em 2017, a suspeita foi confirmada por ela, que me orientou a procurar um neurologista para fazer os devidos tratamentos: toxina botulínica, medicações.\n\nInfelizmente, contudo, o meu convênio não cobria o tratamento. Fiquei muito perdida, porque eu já havia vindo da rede pública e estava na rede particular. Eu tinha um pré-diagnóstico de uma reumatologista, mas eu também não tinha tratamento. Fiquei, confesso, sem saber o que fazer, até que uma amiga me orientou a procurar a Rede Sarah, porque talvez lá eles conseguissem me atender. Ao longo desse tempo todo, eu passei por muitas dificuldades até poder explicar o que eu tinha, dizer que eu não tinha um tratamento e que eu não sabia nem por onde começar.\n\nConsegui uma consulta somente em 2018. Eu estava assim desde 2013, quando havia iniciado a minha primeira crise. Quando eu cheguei, ele me disse assim:\"Todos os indícios são de câimbra de escrivão\".E chamou-me a atenção não só o diagnóstico, mas também a mesma frase:\"Eu sinto muito, mas você tem câimbra do escrivão. Não tem cura, mas tem tratamento. Não é 100% eficaz, mas pode dar certo com você\".Bom, eu saí de lá com uma mistura de sentimentos: ao mesmo tempo que senti um alívio por eu ter encontrado um diagnóstico, encontrado um local para começar o tratamento, também senti um desespero. Eu vim em busca de sonhos, de planos, objetivos, e percebi que eu seria muito limitada. Como ele mesmo disse:\"Você terá problemas profissionais, problemas sociais, problemas psicológicos. Você precisa agora de tratamento. Você não vai conseguir seguir sozinha\".Ainda me lembro daquela cena, que marcou muito a minha vida. Eu disse a mim mesma por várias vezes que eu precisava ser forte, que eu precisava suportar aquilo e que um dia eu iria contar a minha história de superação.Iniciamos o tratamento. Demorou um pouco até fazermos os exames, iniciarmos as medicações, os testes. Os primeiros medicamentos não deram certo. Meus sintomas só se intensificaram. Cada dia eu sentia mais tremor. Já não conseguia sequer escovar meus dentes, pentear meu cabelo, manusear garfos. Muitas vezes as pessoas tinham que fazer isso por mim. Eu precisava de ajuda.\n\nQuando houve a pandemia, por passar por muitas dificuldades, por muitas idas e vindas a emergências — semanalmente eu estava na emergência dos hospitais para tomar medicação —, disse ao meu médico:\"Eu não suporto mais. Muitas vezes eu chego aqui dizendo que está tudo bem, mas não está tudo bem. Muitas vezes minha família me pergunta se está tudo bem, mas não está\".No fundo, eu estava despedaçada. Eu disse isso a ele chorando desesperadamente, porque já não dava mais para levar aquela vida. Eu precisava trabalhar e, na maioria das vezes, sentia muita dor. Na maioria das vezes, eu escondia que minha mão estava tremendo. Eu tinha vergonha. Muitas vezes eu tinha que respirar para seguir em frente.\n\nFoi então que ele iniciou um tratamento multidisciplinar. O meu tratamento foi intensificado. A cada 15 dias eu recebia ligações. Estávamos em meio à pandemia, não tínhamos como sempre estar presencialmente em hospitais. Ele teve todo esse cuidado. Eu tive acompanhamento com psicólogo, psicopedagoga, educador físico, mais um neurologista para avaliar a necessidade da aplicação da toxina botulínica. Em meio a isso, eu cheguei a ir ao hospital sem andar. Fiquei sem andar por 4 horas, e isso só passou após aplicarem morfina.\n\nCom esse tratamento, conseguimos um controle, uma evolução no meu quadro, tivemos respostas positivas. Continuamos o tratamento intensivo; no período, eu já tinha plano de saúde e complementei com um tratamento fora. Finalmente nós conseguimos controlar a situação. Mesmo não estando 100%, voltei a trabalhar com mais habilidade, de maneira mais rápida e produtiva. Minha vida começou a fluir.\n\nO que quero dizer a vocês é que não cheguei até aqui sozinha, precisei de ajuda, precisei de especialistas, de pessoas capacitadas, para eu entender que não era uma coisa da minha cabeça, que não era loucura, que não era vitimismo, que possuo uma doença que não tem cura e que preciso de tratamento.\n\nHá quase 10 anos descobri que tinha distonia, com os primeiros sinais. Desses 10 anos, há apenas 2 anos eu não vou mais a emergências. Para o paciente de distonia, isso é uma grande vitória. Quando vamos a uma emergência, é porque já não suportamos mais. Foi por este motivo, ao acompanhar a luta do meu médico, que eu decidi entrar no Instituto Distonia Saúde: para que outras pessoas também tivessem o mesmo tratamento, ou até melhor, que eu tive; para que tivessem acesso, tivessem informação. Não é fácil falar com pessoas que têm distonia — pacientes e família — e saber que elas não estão tendo um atendimento de qualidade, um atendimento adequado para o caso delas. Existem vários pacientes espalhados pelo Brasil hoje que, infelizmente, não recebem um atendimento adequado.\n\nAqui, Nilde e eu conseguimos ter acesso à informação, ao tratamento, mesmo tardiamente, como foi o meu caso. Talvez eu estivesse em situação melhor hoje, mas demorou. Eu gostaria muito que essas pessoas também tivessem o acesso, tivessem o tratamento. Gostaria que elas, quando chegassem a um hospital, assim como eu cheguei por diversas vezes, e informassem ao médico que tinham distonia, ele não perguntasse o que era distonia. Eu gostaria que o médico soubesse o que é distonia. É doloroso isso. Eu me sentia perdida, por diversas vezes, quando questionada acerca do que era distonia, por ter que orientar um profissional de saúde sobre como deveria me tratar, sobre como deveria proceder naquele momento.\n\nEu decidi levar isso como uma missão para minha vida. Eu vivenciei a distonia de uma forma muito árdua. Eu não desejo que ninguém passe por isso. Não é só o paciente que é afetado. São famílias, muitas famílias. Muitos pais param de trabalhar para se tornarem cuidadores dos filhos. Muitas famílias se tornam isso. Não é porque moro sozinha e consegui me sobressair lutando — claro, tive a ajuda de muitas pessoas, de amigos, de familiares — que outras pessoas vão conseguir isso. Como a Nilde citou, isso pode, sim, levar à morte. Isso pode, sim, levar a pessoa ao sentimento de querer tirar a vida.\n\nEu tenho a dizer para vocês que fácil não tem sido lutar com a dor, a solidão, o medo, a insegurança, a tristeza. Isso é frustrante, isso é abdicar de uma vida que eu havia escrito de forma mentalmente diferente. Mas agora eu me resignei a viver assim. Eu voltei a viver. Mesmo com o diagnóstico de distonia, eu voltei a viver. Hoje sou mais resiliente, corajosa e luto para que tenhamos tratamento e acompanhamento multidisciplinar, essenciais ao paciente de distonia, para que haja profissionais capacitados, para que nós tenhamos todos os direitos necessários.\n\nVale também ressaltar a necessidade de humanização dos profissionais que nos atendem. Eu posso afirmar a vocês que um grande profissional me atende na Rede Sarah e que é, acima de tudo, um excelente ser humano. Essa humanização não deve acontecer somente nos hospitais, nos atendimentos da rede pública e da rede particular, mas também no ambiente de trabalho. Por onde passei, eu falei:eu tenho distonia.\n\nEu sou muito grata hoje até por estar aqui, pois estou num ambiente humanizado. Senão, nem teria sido liberada para participar. Eu tenho um suporte. Hoje não tenho medo de dizer que tenho distonia. Mas, graças a Deus, acredito eu, estou conseguindo controlá-la, mesmo com muitas dificuldades, que não foram poucas. Passei por muita dificuldade. É difícil pensar que não tinha condições financeiras e que o sistema público de saúde não ia me atender, nem sequer sabia o que eu tinha. Foi muito difícil chegar a um diagnóstico, a um tratamento. Levaram-se anos. Eu poderia estar melhor. Meus sintomas poderiam não ter evoluído tanto.\n\nHoje, eventualmente eu sinto dor.Às vezes, não trabalho. Às vezes, por um pouco de excesso. Mas estamos controlando. E, se há controle, por que não ampliar? Por que não levar tratamento e conhecimento a outras pessoas? Eu gostaria muito que a Gabriela, que mora lá no Ceará, que tem apenas 5 anos, que não anda, que não fala, recebesse tratamento adequado, assim como muitos outros com os quais conversamos diariamente. Nós do instituto conversamos com diversas pessoas diariamente. Nós sabemos a luta de todos. Com muitos deles eu converso desde que descobri que tenho distonia. E a maioria deles não conseguiu o tratamento.\n\nEntão, eu quero aqui ressaltar a necessidade da ampliação de tratamento e da capacitação dos profissionais de saúde.\n\nEu quero agradecer a todos por nos ouvirem, por nos darem voz.\n\nAgradeço à Deputada Meire por nos dar esta oportunidade, ao Fabiano, à Nilde, à Dra. Sara, à Dra. Patricia e a todos aqueles que contribuíram para que isto acontecesse.\n\nEspero que tenhamos conseguido atendê-los.\n\nEstamos abertos a esclarecer as dúvidas, para entenderem quais são as nossas necessidades.\n\nObrigada.(Palmas.)\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "A titular relata sua experiência pessoal com câimbra do escrivão para defender melhorias no acesso ao diagnóstico e tratamento da distonia. Denuncia as dificuldades enfrentadas na rede pública e particular de saúde, com demora de anos para diagnóstico, falta de profissionais que conhecem a doença, custos elevados e tratamento não coberto pelo plano. Defende a ampliação do tratamento no SUS, acompanhamento multidisciplinar, humanização dos profissionais e capacitação de médicos para reconhecerem a distonia, além de informação e apoio a pacientes e famílias que, segundo ela, muitas vezes não recebem atendimento adequado no país.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [
+            "Ampliar o acesso ao tratamento da distonia, incluindo acompanhamento multidisciplinar, para que outros pacientes recebam atendimento adequado.",
+            "Capacitar os profissionais de saúde para conhecerem a distonia e saberem como proceder diante dela.",
+            "Humanizar os profissionais que atendem pacientes com distonia nos hospitais, na rede pública e particular e também no ambiente de trabalho.",
+            "Garantir tratamento e acompanhamento multidisciplinar ao paciente de distonia e a existência de profissionais capacitados e dos direitos necessários."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00024",
+          "ordem_no_debate": 24,
+          "texto": " Eu gostaria de agradecer à Nilde por ter me dado este espaço e por fazer parte de um instituto que pensa tanto no próximo e que trabalha por uma grande causa. Temos muito a crescer juntos. Agradeço a todos aqueles que me deram apoio.\n\nMuito obrigada à Deputada Meire. Desde o primeiro encontro que tive com S.Exa., eu senti que poderia contar com a Deputada. Tive a oportunidade de conhecê-la, o que foi um marco para nós.\n\nAgradeço ao Fabiano pela paciência e generosidade.É muito bom conhecer pessoas assim, pessoas que não têm distonia, mas que se comovem e querem ajudar, assim como fazem nossos médicos especialistas que estudam incansavelmente para buscar conhecimento e levar o melhor tratamento aos pacientes.\n\nQuero agradecer à Rede Sarah Kubitschek, que me apoia e me acompanha na área de saúde. Juntos conseguimos chegar aonde cheguei. Agradeço à minha família, que me deu e sempre me dá apoio. Agradeço aos meus amigos, à Keina, que é nossa voluntária no Instituto Distonia Saúde, que me apoia, conversa comigo e está sempre presente, buscando me ajudar de uma maneira ou de outra.\n\nTambém não posso deixar de agradecer às pessoas que passaram na minha vida durante o meu período de trabalho. Tive muitas dificuldades, e eles entenderam que eu era uma paciente de distonia. Eles entenderam as minhas limitações, o meu tempo e me apoiaram durante todo esse percurso. Por onde passo hoje, recebo apoio.\n\nObrigada a todos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, a oradora dedica-se integralmente a agradecimentos protocolares, dirigidos ao Instituto Distonia Saúde (Nilde), à Deputada Meire, ao Fabiano, aos médicos especialistas, à Rede Sarah Kubitschek, à família, a amigos e a colegas de trabalho, apresentando-os como apoios decisivos em seu percurso como paciente de distonia. Em relação ao tema — melhorias no acesso ao diagnóstico e tratamento da distonia no SUS —, a fala não toma posição de concordância, discordância ou abstenção: o assunto não é avaliado nem objeto de proposta. Há apenas um registro valorativo e afetivo, com elogio aos médicos que 'estudam incansavelmente para buscar conhecimento e levar o melhor tratamento aos pacientes', e o relato pessoal de dificuldades no trabalho por ser paciente de distonia, com limitações reconhecidas por colegas. A postura é de gratidão e testemunho emocional, sem desenvolvimento técnico ou reivindicação política sobre o SUS, que sequer é mencionado.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "AMIRA AWADA",
+      "falas": [
+        {
+          "id": "f00014",
+          "ordem_no_debate": 14,
+          "texto": " Boa tarde.\n\nObrigada, Deputada.\n\nA Nilde já falou um pouquinho do instituto. Trabalhamos com doenças raras há 22 anos. Eu trabalho na instituição há 14 anos.\n\nÉ muito importante haver audiências públicas sobre temas e sobre patologias que ainda precisam estar incorporadas ao Sistema Único de Saúde. Aí falamos desde a incorporação dos tratamentos até a incorporação dos diagnósticos, dos exames diagnósticos, algo extremamente necessário para tornarmos isso uma realidade.\n\nA dificuldade de acesso a políticas públicas específicas para essas patologias faz com que tenhamos cada vez mais o agravamento dessas condições, o que traz um ônus diferenciado para o poder público, porque aquele paciente que não tem um tratamento adequado vai acabar voltando para o serviço por causa das comorbidades que essa doença de base não tratada traz.\n\nO nosso empenho é de que as políticas públicas sobre doenças raras sejam cada vez mais completas e contemplem de maneira integral as necessidades dessas pessoas e dessa comunidade.\n\nComo disse a neuropediatra do Sarah, apesar de serem extremamente complexas, as doenças raras e não raras que são crônicas não devem ser negligenciadas pelo poder público. Elas devem ser acompanhadas e tratadas para que esses pacientes tenham a qualidade de vida preservada e possam ser incluídos na sociedade de maneira integral. Quando falamos de inclusão, falamos de um tratamento integral, do direito à educação, do direito ao trabalho, porque as pessoas que têm uma doença crônica, e uma doença crônica degenerativa e incapacitante, também têm o direito e a vontade de contribuir de maneira efetiva com a sociedade.\n\nEu gostaria de agradecer novamente pelo espaço e colocar o Instituto Vidas Raras à disposição para a continuidade desta discussão, de modo que políticas públicas sejam desenvolvidas para atender as necessidades das pessoas com distonia no Brasil.\n\nMuito obrigada, Deputada, pela oportunidade.\n\nObrigada também ao Instituto Distonia Saúde pelo convite para esta audiência.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Amira Awada fala em nome do Instituto Vidas Raras e defende que diagnósticos, exames diagnósticos e tratamentos de doenças raras sejam incorporados ao SUS. Argumenta que a falta de acesso a políticas públicas específicas agrava as condições dos pacientes e gera ônus ao próprio poder público, pois a doença de base não tratada leva a comorbidades e ao retorno ao serviço. Posiciona-se a favor de políticas públicas completas e integrais para doenças raras, com acompanhamento que preserve a qualidade de vida e inclusão social por meio da educação e do trabalho de pessoas com doenças crônicas degenerativas e incapacitantes. Coloca o instituto à disposição para dar continuidade à discussão sobre políticas públicas para pessoas com distonia no Brasil, respaldando-se na experiência do instituto e em fala anterior de neuropediatra.",
+          "objeto_do_posicionamento": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+          "propostas": [
+            "Incorporar ao Sistema Único de Saúde (SUS) os tratamentos e diagnósticos para doenças raras",
+            "Desenvolver políticas públicas para pessoas com distonia no Brasil"
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    }
+  ],
+  "notas_revisao": [],
+  "arquivo_auditoria": "auditoria/debate_linha_00204_a5486ddb45b2_anotado.json"
+}

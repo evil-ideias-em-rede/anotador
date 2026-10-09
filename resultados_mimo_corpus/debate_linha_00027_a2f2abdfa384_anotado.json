@@ -1,0 +1,1259 @@
+{
+  "formato": "debate_por_participante_v1",
+  "debate_id": 27,
+  "tema": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+  "status": "anotado_aguardando_revisao_humana",
+  "participantes": [
+    {
+      "nome": "Prof. Paulo Fernando",
+      "falas": [
+        {
+          "id": "f00001",
+          "ordem_no_debate": 1,
+          "texto": " Declaro aberta a reunião de audiência pública da Comissão de Legislação Participativa destinada a discutir a utilização da inteligência artificial nos processos eleitorais.\n\nRessalto que a presente audiência decorre da aprovação do Requerimento nº 94, de 2023, aprovado por esta Comissão de Legislação Participativa, por iniciativa deste Deputado que vos fala.\n\nGostaria de agradecer a presença dos membros deste Colegiado, dos convidados e de todos que nos assistem.\n\nInformo que este evento está sendo transmitido pela Internet e o vídeo pode ser acessado pela página da Comissão de Legislação Participativa, nositeda Câmara dos Deputados, e pelo canal da Câmara dos Deputados no Youtube.\n\nAntes de passarmos aos debates, peço atenção das senhoras e dos senhores presentes para as normas internas da Casa.\n\nAs Sras. e os Srs. Parlamentares interessados em interpelar os expositores deverão inscrever-se previamente junto à Mesa. Cada convidado terá o tempo de 10 minutos para a sua exposição. Após o encerramento das exposições, cada Deputado inscrito terá o prazo de 3 minutos para as suas considerações.\n\nPara compor a Mesa de debates, convido, inicialmente, o Sr. Emerson Saraiva, Presidente da Associação dos Profissionais do Marketing Político — APROMAP e criador do portal Eleja.se.\n\nSeja bem-vindo!(Palmas.)\n\nÀ medida que os demais convidados comparecerem à nossa Comissão, nós vamos declinando os nomes.\n\nNós estamos vivendo um mundo de muita revolução, principalmente na área da tecnologia, razão pela qual os meus colegas e o nosso Presidente da Comissão foram motivados a aprovar o requerimento para tratar do assunto de capital relevância que é a inteligência artificial nos processos eleitorais. Já ocorreram ações concretas nos Estados Unidos e agora, recentemente, também nas eleições da Argentina.\n\nTramita na nossa Casa um projeto de lei, sobre o qual daqui a pouquinho nós vamos comentar, e também outro projeto lá no Senado Federal, mas que ainda tem brechas, ainda tem lacunas em relação a esse vasto assunto da inteligência artificial.\n\nPor essa razão, nós tivemos a iniciativa de apresentar esse requerimento, que é fundamentado num artigo que eu li de um dos convidados, o Marcelo Senise, CEO da Empresa Comunica 360º, artigo este que me chamou muita atenção.\n\nNós do Parlamento não podemos ficar atrasados em relação a essa matéria, até mesmo porque ano que vem haverá eleições para Prefeito e Vereador. Não apenas por ser político, mas também por ser advogado eleitoral, sei que esse é um assunto que interessa ao pessoal da tecnologia e também a nós, operadores do direito, que trabalhamos, que militamos na advocacia eleitoral e na advocacia partidária. De tal sorte que eu, antecipadamente, já agradeço a gentileza dos convidados.\n\nPara não perder tempo, vou passar a palavra para o Sr. Emerson Saraiva, Presidente da Associação dos Profissionais do Marketing Político.\n\nV.Sa. tem um prazo de 10 minutos. Fique à vontade.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Falando na qualidade de quem preside e abre a audiência pública, o titular conduz expedientes protocolares (declaração de abertura, informação sobre transmissão, normas internas, apresentação de convidados e concessão da palavra) e, no plano do conteúdo, exprime juízo genérico de relevância e urgência sobre o tema, sem se posicionar sobre o uso de inteligência artificial no processo eleitoral nem avaliar suas consequências. Classifica a matéria como de \"capital relevância\", sustenta que os projetos de lei em tramitação na Câmara e no Senado ainda contêm \"brechas\" e \"lacunas\" em relação ao vasto assunto e defende que o Parlamento \"não podemos ficar atrasados\", invocando experiências ocorridas em eleições dos Estados Unidos e da Argentina e a proximidade das eleições municipais do ano seguinte. Fundamenta a iniciativa do requerimento em artigo de um dos convidados e em sua atuação como advogado eleitoral. Não são formuladas posições sobre consequências da IA nos processos eleitorais nesta fala, destinada a abrir e conduzir a reunião.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00003",
+          "ordem_no_debate": 3,
+          "texto": " Agradeço a contribuição do senhor e também por ter observado o tempo.\n\nAto contínuo, eu chamo o colega Dr. Fernando Bueno de Castro, advogado, membro relator da Comissão de Direito Eleitoral da Ordem dos Advogados do Brasil, seccional Paraná. Somos colegas advogados e da área eleitoral.\n\nSeja bem-vindo! V.Sa. tem um prazo de 10 minutos.\n\nAproveito e já chamo o meu amigo Marcelo Senise, CEO da Empresa Comunica 360º — Comunicação, Marketing e Inteligência Digital, especialista em inteligência artificial.\n\nSeja bem-vindo!\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental e de cortesia do titular na condição de moderador. Ele agradece a contribuição do orador anterior e a observação do tempo, chama e apresenta dois próximos participantes — Dr. Fernando Bueno de Castro, advogado e membro relator da Comissão de Direito Eleitoral da OAB-PR, e Marcelo Senise, CEO da Comunica 360º e especialista em inteligência artificial —, cumprimenta-os e informa o prazo de 10 minutos de fala. Não há exposição de opinião, posição, análise ou manifestação sobre o uso da inteligência artificial no processo eleitoral e suas consequências, tampouco argumentação, defesa de tese ou recursos de sustentação. A referência a temas técnicos aparece apenas como identificação de credenciais dos convidados, sem conteúdo avaliativo ou opinativo sobre o mérito da matéria, tratando-se de anúncio de pauta e condução logística da audiência.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00005",
+          "ordem_no_debate": 5,
+          "texto": " Obrigado por ter contribuído e observado o tempo.\n\nConcedo a palavra ao Sr. Marcelo Senise, CEO da Comunica 360º Comunicação, Marketing e Inteligência Digital, um dos maiores especialistas em inteligência artificial do Brasil.\n\nSeja bem-vindo!\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "A fala é integralmente procedimental e de condução de trabalhos, sem qualquer opinião sobre o uso da inteligência artificial no processo eleitoral. O titular, atuando como moderador, agradece ao participante anterior por observar o tempo de sua intervenção, concede a palavra ao próximo orador e o recebe, descrevendo-lhe o cargo na Comunica 360º Comunicação, Marketing e Inteligência Digital e apresentando-o, em termos encomiásticos, como \"um dos maiores especialistas em inteligência artificial do Brasil\". Nenhum posicionamento em sentido próprio é pronunciado no tema em análise. A referência à inteligência artificial aparece apenas como contexto de apresentação do convidado e não constitui postulação substantiva sobre vantagens, riscos ou consequências da IA no âmbito eleitoral, de modo que não há concordância, discordância ou ambiguidade aferíveis nesta intervenção.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00007",
+          "ordem_no_debate": 7,
+          "texto": " Agradeço ao meu amigo Marcelo.\n\nEu fiquei preocupado porque o primeiro orador falou do casal americano de idosos com 55 anos. Depois ele falou da velhinha com gatos. Eu tenho 55 anos e tenho gato. Eu já fiquei preocupado, mas tudo bem.(Risos.)\n\nDa maneira como concedi a palavra ao Marcelo, a quem conheço há mais de 30 anos, agora vou passar a palavra a um amigo de 40 anos, o Dr. Melillo Dinis do Nascimento, Diretor do Movimento de Combate à Corrupção Eleitoral.\n\nV.Sa. tem o prazo de 10 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, o Prof. Paulo Fernando assume função estritamente procedimental e de transição na audiência. Ele agradece ao orador anterior, Marcelo, faz uma piada pessoal jocosa sobre si mesmo (55 anos e ter gato, relacionando-se aos exemplos dados pelo primeiro orador sobre um casal americano de idosos com 55 anos e uma senhora com gatos), e concede a palavra ao próximo orador, o Dr. Melillo Dinis do Nascimento, Diretor do Movimento de Combate à Corrupção Eleitoral, estabelecendo o prazo de 10 minutos para a exposição. Não há, neste trecho, qualquer tomada de posição ou comentário de mérito sobre o tema central – o uso da inteligência artificial no processo eleitoral e suas possíveis consequências –, tratando-se de condução administrativa do evento.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00009",
+          "ordem_no_debate": 9,
+          "texto": " Agradeço ao meu diletíssimo amigo de 50 anos pela contribuição.\n\nNesse túnel do tempo, ao imaginar que o MCCE foi um dos autores da iniciativa popular que modificou a Lei de Inelegibilidade, a chamada Lei da Ficha Limpa, lembrei que eu fui assessor do então Deputado Miguel Martini, que foi o Presidente da Comissão Especial do projeto da Ficha Limpa, relatado pelo Deputado Indio da Costa. Eu fui o assessor que ajudou a redigir o texto cujo parecer final acabou se convertendo em lei. Isso só faz aumentar a nossa responsabilidade.\n\nO Marcelo falou do projeto de lei que está tramitando na Casa, que é o Projeto de Lei nº 5.931, do Deputado Carlos Chiodini, que foi apresentado na semana passada e está aguardando despacho da Mesa Diretora. Provavelmente ele ira apenas para a Comissão de Constituição e Justiça. Evidentemente, nós vamos acompanhá-lo atentamente, acatando a sugestão. Em face do princípio da anualidade, pelo qual a legislação eleitoral deve ser aprovada antes das eleições, não haverá tempo para sua efetivação. Por essa razão, como o Dr. Melillo falou, provavelmente o Tribunal baixará uma resolução. Mas, de tal sorte, nós estaremos acompanhando atentamente.\n\nEu falarei com o Deputado Carlos Chiodini, com o Líder do meu partido, o Deputado Hugo Motta, e com os outros Líderes para que ocorra da maneira mais rápida possível a tramitação do projeto, no qual eu já dei uma lida. Preocupa-me que se coloque a questão de procedimento e coloque como sanção apenas uma multa de 5 mil a 30 mil reais. Às vezes, dentro desse ringue que é a disputa eleitoral, é melhor uma atividade de inteligência ou contrainteligência e pagar a multa, porque o resultado pode ser compensatório.\n\nPor isso, eu louvo a iniciativa do Deputado. Obviamente, nós vamos ajudar a melhorar o texto e também estamos analisando com lupa o outro projeto, do Senador Rodrigo Pacheco, que fala não especificamente da eleição, mas de uma questão mais do cidadão e das relações de consumidor.\n\nComo esta é a Comissão de Legislação Participativa e o intuito é que as pessoas participem, eu vou franquear a palavra para aqueles que estão presentes aqui — podem falar com o Raposo para se inscreverem pelo prazo de 3 minutos — e depois nós vamos a uma segunda rodada com os nossos debatedores.\n\nLembro que nós convidamos formalmente — foi aprovado o requerimento — o representante do Tribunal Superior Eleitoral.\n\nNós também chamamos o Sr. Bruno Hoffmann, que é do Clube Associativo dos Profissionais de Marketing Político, mas ele ainda não chegou.\n\nQuem gostaria de ser o primeiro a falar?\n\nO senhor se identifique, por favor.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador apoia o Projeto de Lei nº 5.931, do Dep. Carlos Chiodini, comprometendo-se a acelerar sua tramitação e a ajudar a aprimorar o texto. Alerta que a sanção proposta (multa de R$ 5 mil a 30 mil) pode ser insuficiente, pois o benefício da prática vedada, dentro do \"ringue\" da disputa eleitoral, pode superar o custo da multa. Observa que, pelo princípio da anualidade, a legislação eleitoral não terá tempo de vigorar para estas eleições, devendo o TSE baixar resolução. Diz acompanhar também o projeto do Sen. Rodrigo Pacheco, nas relações de consumo. Afirma ter sido assessor que ajudou a redigir o parecer que se converteu na Lei da Ficha Limpa, o que reputa aumentar sua responsabilidade. Parte da fala se ocupa de abertura de inscrições do público e de convocação de convidados, em tom procedimental.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Acompanhar atentamente a tramitação do Projeto de Lei nº 5.931, do Deputado Carlos Chiodini.",
+            "Conversar com o Deputado Carlos Chiodini, com o Líder do partido (Deputado Hugo Motta) e com outros Líderes para que a tramitação do projeto ocorra da maneira mais rápida possível.",
+            "Ajudar a melhorar o texto do projeto, com atenção para o agravamento da sanção, que atualmente prevê apenas multa de 5 mil a 30 mil reais.",
+            "Analisar com lupa o outro projeto, do Senador Rodrigo Pacheco, que trata de questão do cidadão e das relações de consumidor.",
+            "Franquear a palavra aos presentes na Comissão de Legislação Participativa, com inscrição de 3 minutos, e depois realizar uma segunda rodada com os debatedores."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00011",
+          "ordem_no_debate": 11,
+          "texto": " Muito obrigado pela contribuição de V.Sa.\n\nO próximo é o senhor?\n\nAs mulheres primeiro.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, o Prof. Paulo Fernando atua exclusivamente em coordenação procedimental da mesa, sem se posicionar sobre o tema do uso da inteligência artificial no processo eleitoral. Ele agradece a contribuição do orador anterior, consulta quem seria o próximo a falar e determina que as mulheres tenham prioridade na ordem das intervenções (\"As mulheres primeiro\"). Não há qualquer exposição substantiva, argumentação, alegação ou proposta relacionada ao tema em debate.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00014",
+          "ordem_no_debate": 14,
+          "texto": " Dando continuidade, passo a palavra ao Sr. Randerson Cirqueira.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Trata-se de intervenção exclusivamente procedimental: o falante, em tom de moderação, apenas dá continuidade aos trabalhos e passa a palavra ao próximo orador, o Sr. Randerson Cirqueira. Não há qualquer manifestação de opinião, posição ou argumento de mérito sobre o tema da inteligência artificial no processo eleitoral ou suas possíveis consequências, razão pela qual nada se extrai quanto a concordância, discordância ou ambiguidade em relação à matéria em discussão.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00016",
+          "ordem_no_debate": 16,
+          "texto": " Quem gostaria de responder?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Trata-se de intervenção exclusivamente procedimental do moderador Professor Paulo Fernando, que se limita a perguntar 'Quem gostaria de responder?' para encaminhar a palavra aos participantes. Nenhuma opinião é expressa sobre o uso da inteligência artificial no processo eleitoral ou sobre suas possíveis consequências, não havendo posicionamento, concordância ou discordância a registrar.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00018",
+          "ordem_no_debate": 18,
+          "texto": " Muito bem. E o senhor, como profissional domarketing,não vai dizer que o produto é barato. Senão, o senhor não vai poder cobrar caro dos seus clientes.\n\nA nossa assessoria da Comissão diz que nós temos agora 50 pessoason-lineno Youtube, fora centenas de pessoas que estão na página da Comissão e também no endereço eletrônico da Câmara. O Marcelo me dizia no início que esta audiência teve mais de 200 reproduções. Nós tivemos 214 veículos falando desta nossa audiência.\n\nFoi-nos encaminhada uma pergunta pela Internet do Sr. Renan, e quem quiser pode responder. Ele pergunta:\"Como seria essa utilização da inteligência artificial nas urnas eletrônicas e quais seriam os critérios para uma possível utilização?\"\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos",
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, o orador não apresenta posição sobre o uso de inteligência artificial nas urnas eletrônicas ou suas consequências. Ele conduz a audiência de forma procedimental: faz uma observação jocosa sobre a lógica de precificação no marketing, informa dados sobre o alcance da transmissão e a repercussão na imprensa (50 pessoas on-line no YouTube, mais de 200 reproduções e 214 veículos, citando a assessoria da Comissão e o Marcelo) e encaminha aos presentes uma pergunta enviada pela Internet, do Sr. Renan, sobre como seria a utilização da inteligência artificial nas urnas eletrônicas e quais critérios seriam adotados. Trata-se de fala sem conteúdo argumentativo sobre o tema central, cabendo às demais exposições responder à indagação.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00020",
+          "ordem_no_debate": 20,
+          "texto": " Muito bem.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "A fala é exclusivamente procedimental: consiste apenas na expressão de transição 'Muito bem.', sem qualquer exposição de opinião sobre o uso da inteligência artificial no processo eleitoral. Não há posicionamento, concordância ou discordância manifestados, tampouco argumentos, alegações ou propostas a registrar. Trata-se de mero assentimento ou marcação de turno, sem conteúdo substantivo analisável em relação ao tema.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [
+            {
+              "participante": "MARCELO SENISE",
+              "texto": " Posso falar, Presidente?\n\n",
+              "apos_caractere_do_texto": 13,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "Retomada ainda não observada."
+            }
+          ],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00021",
+          "ordem_no_debate": 22,
+          "texto": " Pode.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental, sem conteúdo substantivo. O titular apenas autoriza a intervenção de outro participante, dizendo \"Pode.\", sem expressar qualquer opinião, concordância ou discordância sobre o tema do uso da inteligência artificial no processo eleitoral e suas possíveis consequências.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00024",
+          "ordem_no_debate": 25,
+          "texto": " Os marqueteiros criam o problema e nós advogados precisamos resolvê-lo.\n\nDr. Melillo, no texto do projeto apresentado, de nº 5.931, o art. 57 determina:\"Previamente à utilização de inteligência artificial em campanhas eleitorais, o candidato, partido ou coligação deverá realizar relatório de impacto algorítmico e promover o seu registro e depósito na Justiça Eleitoral\". Eu queria fazer uma provocação: o senhor acha que a Justiça Eleitoral tem estrutura para isso, para fazer esse acompanhamento?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador formula uma provocação a outro participante sobre a viabilidade do art. 57 do projeto de lei nº 5.931, que exige relatório de impacto algorítmico registrado na Justiça Eleitoral antes do uso de inteligência artificial em campanhas, indagando se essa corte dispõe de estrutura para acompanhar tais relatórios. Inicia com uma generalização crítica ao dizer que os marqueteiros criam problemas que os advogados precisam resolver. Não assume posição assentada própria sobre o conteúdo do tema, tratando-se de fala predominantemente expositiva, técnica e de questionamento gerado para debate.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00028",
+          "ordem_no_debate": 38,
+          "texto": " Nós temos outros oradores inscritos e um horário para terminar também. Depois os senhores vão fazer suas considerações finais.\n\nPasso a palavra ao Mateus da Rocha Barros, advogado e consultor empresarial.\n\nV.Sa. tem 3 minutos.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Em fala exclusivamente procedimental, na qualidade de moderador, o orador não emite qualquer opinião de mérito sobre o uso da inteligência artificial no processo eleitoral. Limita-se a informar que há outros inscritos e um horário para terminar, anuncia que os presentes farão considerações finais e passa a palavra ao advogado Mateus da Rocha Barros, fixando-lhe o tempo de três minutos para a exposição. Trata-se de gesto de organização dos trabalhos da audiência, sem manifestação de posição sobre as consequências da matéria em debate.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00030",
+          "ordem_no_debate": 40,
+          "texto": " Obrigado pela contribuição do senhor.\n\nPasso a palavra agora ao Sr. Erik Cardoso.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental: o titular agradece a contribuição do orador anterior e passa a palavra ao próximo participante. Não há manifestação de opinião sobre o tema do uso da inteligência artificial no processo eleitoral, nem qualquer exposição substantiva que permita avaliar posicionamento, credibilidade ou postura do orador.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00032",
+          "ordem_no_debate": 42,
+          "texto": " Pode começar, Marcelo.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: o orador se limita a autorizar o início da fala de outro participante (\"Pode começar, Marcelo\"), sem qualquer exposição substantiva sobre o tema do uso da inteligência artificial no processo eleitoral. Não há argumentação, defesa de posição, apelo ou manifestação opinativa que permita identificar concordância, discordância, abstenção ou ambiguidade quanto às consequências do uso da inteligência artificial no processo eleitoral. Trata-se de ato de condução de turno, sem conteúdo doutrinário, argumentativo ou informacional sobre o tema.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00034",
+          "ordem_no_debate": 44,
+          "texto": " Muito bem.\n\nEle fez uma pergunta a mim, e eu vejo que tenho três considerações: como cidadão, como Parlamentar, atualmente Deputado, e como possível pré-candidato à reeleição.\n\nComo cidadão, e eu corroboro a posição do Dr. Melillo, cito, noGênesis,Fiat Lux, faça-se luz, e ao mesmo tempo, agora, oApocalipse, ou seja, as trevas totais, porque estamos num universo... O Marcelo fala disso em relação à posição dos eleitores, vamos criar candidatos praticamente \"sabão em pó\". Vai-se modular isso.\n\nComo Parlamentar, preocupa-me a questão das nossas prerrogativas, de nós não termos tempo hábil para legislar sobre isso e delegarmos tudo isso ao TSE, que é gravíssimo, sem sabermos se o TSE terá condições efetivas de fazer uma resolução a contento do que o mercado pede.\n\nComo pré-candidato, digamos assim, à reeleição, preocupa-me toda essa parafernália de tecnologia, se o Estado Democrático de Direito vai ser respeitado, como liberal, se a liberdade de expressão vai ser respeitada, e principalmente, como o Dr. Melillo falou, como isso vai ser usado no combate à desinformação e à contrainformação — existe a inteligência e a contrainteligência. Esse é um desafio que nós temos não apenas no âmbito da nossa Comissão como também no âmbito do Parlamento.\n\nTambém foi feita uma pergunta ao Sr. Emerson.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Prof. Paulo Fernando responde a uma pergunta articulando três perspectivas. Como cidadão, corrobora Dr. Melillo usando a metáfora de Gênesis (\"Fiat Lux\") versus Apocalipse (trevas totais), alertando para candidatos modelados como \"sabão em pó\". Como parlamentar, teme que a falta de tempo para legislar leve à delegação de prerrogativas ao TSE, o que considera gravíssimo, sem garantia de que o tribunal terá condições de regular a contento o que o mercado pede. Como pré-candidato à reeleição, mostra-se preocupado com a \"parafernália de tecnologia\", com o respeito ao Estado Democrático de Direito, à liberdade de expressão e com o uso da tecnologia no combate à desinformação e à contrainformação. Fecha indicando que outra pergunta foi dirigida ao Sr. Emerson.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00036",
+          "ordem_no_debate": 46,
+          "texto": " Muito bem. Obrigado.\n\nPara colaborar com o que o senhor falou, digo que eu tenho quatro filhos adolescentes. E fazendo um exercício em casa para o vestibular, tratando de alguns assuntos, eu destaquei a questão da legalização do jogo. Meu filho, muito espertinho, foi a umchatpara pegar subsídios, e, quando saiu o material, apareceu um texto meu, porque eu havia feito um artigo para aFolha de S.Paulosobre a questão da jogatina. Achei aquilo espantoso. Fiquei pasmo em relação a isso.\n\nO último orador é o Augusto Damião.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador contribui com uma anedota pessoal, aparentemente para reforçar comentário anterior: relata que seu filho adolescente, ao usar um chat de IA para coletar subsídios escolares sobre legalização do jogo, recebeu como material um artigo do próprio orador sobre jogatina publicado na Folha de S.Paulo. Ele descreve a situação como espantosa, manifestando surpresa e espanto diante do episódio, sem extrair conclusões sobre o uso de inteligência artificial, suas consequências ou o tema central da IA no processo eleitoral. Encerra com anúncio procedimental do próximo orador.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00038",
+          "ordem_no_debate": 49,
+          "texto": " Obrigado pela sua participação.\n\nNós vamos para a rodada final, e cada debatedor terá 3 minutos para as considerações finais.\n\nVamos começar pelo Sr. Emerson.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental do moderador, sem qualquer conteúdo substantivo sobre o tema em debate. O titular agradece a participação de alguém, anuncia o início da rodada final de considerações finais, estipula o tempo de 3 minutos para cada debatedor e concede a palavra ao Sr. Emerson. Não há exposição, argumento, avaliação ou posicionamento — favorável, desfavorável ou neutro — a respeito do uso da inteligência artificial no processo eleitoral ou de suas possíveis consequências, tampouco propostas, fundamentação ou elementos retóricos relevantes. Trata-se exclusivamente de coordenação administrativa do evento, sem expressão de opinião a registrar.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00040",
+          "ordem_no_debate": 51,
+          "texto": " Obrigado.\n\nPasso agora a palavra ao colega advogado Fernando Bueno de Castro.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental/orquestracional: o titular agradece e concede a palavra ao advogado Fernando Bueno de Castro, encaminhando o turno seguinte da audiência. Não há qualquer exposição, argumento ou manifestação sobre o uso da inteligência artificial no processo eleitoral, tampouco posição (favorável, contrária, neutra ou ambígua) quanto ao tema ou às suas possíveis consequências. Por se tratar apenas de condução dos trabalhos, sem proposição substantiva, sustentação técnica ou apelo afetivo, não se identificam indicadores de alinhamento temático, credibilidade/validação, posicionamento ou postura. Trata-se de intervenção organizacional, sem conteúdo opinativo a resumir.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00042",
+          "ordem_no_debate": 53,
+          "texto": " Passo a palavra agora ao Marcelo Senise.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental de condução da sessão: o titular apenas anuncia que passa a palavra a Marcelo Senise. Não há qualquer exposição, argumento ou manifestação de opinião sobre o tema do uso da inteligência artificial no processo eleitoral, nem concordância, discordância, abstenção ou ambiguidade frente a esse tema. Tampouco há mobilização de recursos de credibilidade, posicionamento substantivo ou caracterização de postura expressiva, por ausência de conteúdo avaliável.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00044",
+          "ordem_no_debate": 55,
+          "texto": " Muito bem.\n\nEstamos quase em um túnel do tempo, não é? Nós éramos jovens. Eu era Presidente de um partido na juventude; ele, de outro. Naquela época, fizemos campanha em relação ao voto aos 16 anos; fizemos até uma gincana.\n\nAgora, tem a palavra o último orador, o Dr. Melillo Dinis, para as considerações finais.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala estritamente procedimental, de condução dos trabalhos da audiência. O orador abre com uma breve recordação nostálgica da juventude, quando ele e o interlocutor presidiam partidos diferentes e fizeram campanha pelo voto aos 16 anos — inclusive uma gincana — e em seguida concede a palavra ao último orador, Dr. Melillo Dinis, para as considerações finais. Não há qualquer exposição ou posicionamento sobre o tema do uso da inteligência artificial no processo eleitoral.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00046",
+          "ordem_no_debate": 57,
+          "texto": " Muito bem.\n\nComo o Marcelo falou, isto aqui é um pontapé inicial, é o primeiro debate, a primeira discussão. Eu fico imaginando, daqui a algum tempo, quando foram pesquisar nesse GP...\n\n\n\n Quando forem pesquisar discussões em relação à inteligência artificial, vão dizer:\"Aquele dia 11 de dezembro foi a primeira vez que o assunto foi discutido\".\n\nQuanto à sua provocação — ele é meu amigo —, primeiro, causa-me arrepio só imaginar colocarem num sistema desses que eu torço para o Flamengo, mas, colaborando com os marqueteiros, sugiro que eles façam uma campanha para que os eleitores flamenguistas possam considerar que o melhor candidato é um botafoguense. Isso seria muito bom, não é?\n\nEu agradeço aos convidados a interação, a participação. Agradeço também aos nossos servidores da Comissão de Legislação Participativa, ao nosso Presidente, ao pessoal da técnica. Foi bastante corrido, mas conseguimos realizar a audiência na data de hoje, que era a única data disponível. Eu tenho que sair efetivamente, porque tenho que ir a outra reunião, na Comissão de Direitos Humanos, porque já estão me chamando lá para completar o quórum. Agradeço, então, as importantes colaborações aos nossos expositores e às pessoas que participaram pela Internet.\n\nNada mais havendo a tratar, vou encerrar a presente reunião. Antes, porém, gostaria de convocar os Parlamentares membros desta Comissão para audiência pública que discutirá os atrasos nos pagamentos ocorridos no setor cafeeiro de Minas Gerais, em decorrência da aprovação do Regimento nº 95, de 2023, de autoria da Deputada Rosângela Reis, a ser realizada amanhã, dia 12 de dezembro de 2023, neste plenário, às 10 horas.\n\nEstá encerrada a presente reunião.(Palmas.)",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Em falas majoritariamente procedimentais e cerimoniais, o titular desempenha função de presidência e organização: encerra a audiência, agradece convidados, servidores e expositores, convocada nova reunião sobre o setor cafeeiro e justifica sua saída para outra comissão, além de celebrar o evento como primeiro debate do GP sobre inteligência artificial. Sobre o tema, não há reflexão desenvolvida; apenas uma provocação jocosa a um amigo sobre uma campanha de marketing eleitoral — sugeria que marqueteiros induzissem eleitores flamenguistas a preferirem candidato botafoguense —, na qual projeta efeito nocivo de manipulação por IA de dados pessoais, referenciando dados do TSE para alegar fraude e o uso de IA. A ironia, somada à expressão afetiva 'causa-me arrepio', manifesta receio quanto ao uso de preferências pessoais em sistemas de IA no processo eleitoral, mas sem algo mais do que isso.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [
+            {
+              "participante": "MELILLO DINIS DO NASCIMENTO",
+              "texto": " \"Chatdo PT\", não é isso?(Risos.)\n\n",
+              "apos_caractere_do_texto": 187,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "O orador retoma a frase interrompida ('Quando forem pesquisar...') para concluir o pensamento histórico e prossegue para os agradecimentos e ritos de encerramento, mantendo a posse da palavra até o fim da sessão."
+            }
+          ],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "EMERSON SARAIVA",
+      "falas": [
+        {
+          "id": "f00002",
+          "ordem_no_debate": 2,
+          "texto": " Boa tarde, Deputado. Boa tarde aos membros da Comissão e a todos os presentes.\n\nAntes de mais nada, gostaria de parabenizar a iniciativa do Deputado e da Comissão de trazer para este que, sem nenhuma dúvida, é o fórum mais importante e mais adequado para essa discussão um tema tão importante e que, sobretudo, vai ter uma importância muito grande num processo que já se iniciou, de certa maneira, que são as eleições municipais de 2024.\n\nA inteligência artificial já faz parte das nossas vidas há bastante tempo. A grande maioria das pessoas não tem a mínima noção do quanto a inteligência artificial já está presente em suas vidas. Quando você vai digitar uma mensagem no seu celular e o aplicativo usa aquele recurso de autocompletar, aquilo é inteligência artificial. O seu WhatsApp, o seu Instagram, a sua rede social sabem muito mais sobre você do que você imagina.\n\nDo ponto de vista político-eleitoral, o querido Prof. Marcelo Senise, que é a maior autoridade hoje nesse assunto no Brasil, deve abordar isso. Mas, do ponto de vista eleitoral, já podemos entender, e é muito seguro falar, que são grandes as possibilidades de nas próximas eleições, já iniciando em 2024 — não vou nem falar de eleições passadas, porque já temos conhecimento de como isso foi utilizado em eleições passadas —, dependendo da tecnologia utilizada, das ferramentas, das forças que forem empreendidas, será possível, em muitos casos, saber o resultado da eleição bem antes de a eleição ocorrer. Isso baseado nas ferramentas que a inteligência artificial oferece hoje. Sobretudo, será possível saber disso antes do próprio eleitor.\n\nO que é mais assustador, Deputado — não sabemos se isso é bom ou ruim —, é o fato de a inteligência artificial ser capaz de entender as pessoas antes mesmo que as pessoas se entendam, porque ela é capaz de gerar dados que, interpretados da maneira correta, podem direcionar a narrativa, a comunicação, a estratégia, de maneira que a política, omarketingapenas consolidem algo que já está muito bem direcionado.\n\nExiste uma história que não tem nada a ver com política, mas é uma história bem famosa no campo domarketingdigital que eu queria trazer aqui apenas para exemplificar. Eu não vou saber todos os detalhes, mas é uma história relativamente antiga. E tenho certeza de que algumas pessoas que estão aqui já devem conhecê-la.\n\nAlguns anos atrás, nos Estados Unidos, onde é muito forte a presença da rede Walmart, um consumidor do Walmart foi ao supermercado reclamar porque estaria recebendo em sua casa aqueles jornais de ofertas. Ele era um senhor com seus 55 anos, 60 anos e sua esposa também já estava nessa faixa de idade. Eles tinham uma filha adolescente, na faixa dos 13 anos, 14 anos, e estavam recebendo muita comunicação de produtos para grávidas e recém-nascidos.\n\nTodo americano entende demarketing, e o cara foi ao supermercado fazer uma reclamação. Não havia nenhum problema com o conteúdo. Era porque ele queria as ofertas, os cupons de produtos que ele iria consumir. Ele disse:\"Deve ter havido algum problema no direcionamento do 'mailing', porque estou recebendo anúncios de produtos pelos quais eu não tenho nenhum interesse. Então eu queria que vocês ajustassem porque eu gosto mesmo é de receber anúncios de produtos de jardinagem, de alimentos\".Aí o pessoal do Walmart pediu desculpas a ele e o colocou nummailingdiferente para mandar outros tipos de anúncios.\n\nOcorre que, depois de algumas semanas, ele descobriu que a filha adolescente estava grávida. Como foi que o Walmart descobriu que a filha dele estava grávida antes dela? — porque ela também não sabia àquela altura. A partir dos hábitos de consumo dela, dos corredores que ela utilizava quando ia ao supermercado, das compras que a família fazia no supermercado.\n\nEntão, o que nós temos do ponto de vista da inteligência artificial, nesse momento que estamos vivendo agora, é apenas a ponta doiceberg. Isto é muito próprio da política... É muito comum ouvirmos falar de manifestações como, por exemplo, de um determinado grupo que fechou uma estrada e estava queimando pneus. Aí existe sempre uma crítica a isso:\"Estão atrapalhando o trânsito! Estão impedindo o direito de ir e vir!\"Quando vai se aprofundar, às vezes descobre-se que ali naquele trecho da estrada já morreram 15 pessoas, e aquelas pessoas já exigiram de todas as maneiras que aquilo fosse resolvido, e, como não foi resolvido, elas partiram para um movimento muito agudo de fazer uma manifestação para impedir o trânsito, para que finalmente aquilo se resolva.\n\nO que estamos vendo nesse momento sobre inteligência artificial nós podemos interpretar de duas maneiras. A primeira maneira é que o que está chegando para as pessoas não é absolutamente nada do que de fato representa a inteligência artificial, do ponto de vista da incidência dela nas nossas vidas hoje. De fato, nós temos muito mais presença de dispositivos de inteligência artificial do que imaginamos.\n\nOs nossos aparelhos de celular nos escutam e nos veem 24 horas por dia. Quando você instala aquele joguinho e, no final da instalação, ele diz assim:\"Aceite os termos de uso...\"Não sei se alguém aqui já teve a coragem de ver os termos de uso. Às vezes, são dezenas, centenas de páginas em que você está, sim, autorizando aquele aplicativo daquele joguinho a escutar tudo o que você fala, a ler tudo o que você escreve e a ver tudo o que a câmera do seu celular é capaz de ver. Isso gera o que chamamos de \"oceano de dados\" que estão a disposição de quem pagar mais, de quem estiver disposto a usar.\n\nAí, vamos ser sinceros, nessas horas não existe LGPD, não existecompliance, não existe nada disso, principalmente quando se fala de um processo como o processo eleitoral num país como o Brasil.\n\nEu acredito que essa discussão é um ponto de partida para algo que será muito relevante no futuro do Brasil. Quando falamos que a inteligência artificial cria uma imagem ou escreve um texto para nós, estamos falando de algo que, de fato, é apenas uma ferramenta. Do mesmo jeito que uma faca é uma ferramenta muito útil no final de semana para cortar uma picanha, ela também pode ser uma ferramenta muito útil para esfaquear um candidato. A inteligência artificial é uma ferramenta que pode ser utilizada para o bem absoluto ou para o mal absoluto.\n\nEu entendo esse momento que estamos vivendo como algo muito parecido com aquela história de que \"se puxa uma pena e vem uma galinha\". Estamos falando nesse primeiro momento de algo muito superficial, mas, quando formos entender o que está por trás disso, vamos perceber a força que essa ferramenta tem e que vai ter nas eleições, no futuro do Brasil, de uma maneira geral, no futuro político do Brasil, mas, para não nos assustarmos tanto, especificamente nas eleições do ano que vem.\n\nSó para o senhor saber, Deputado, eu venho de Campina Grande, na Paraíba, um dos Estados mais pobres do Brasil. Eu moro num sítio na zona rural, a 40 quilômetros da cidade. Tenho uma casa na cidade, mas a pandemia me levou para a floresta. Eu tenho vizinhos que não têm banheiro em casa, vizinhos que não têm tevê em casa, mas, em todos os sítios dos 40 quilômetros de Campina Grande para o meu sítio, que fica no Campo Formoso, na cidade de Esperança, em praticamente todas as casas, o senhor vai ver um ferrinho lá com a anteninha branca recebendo Internet.\n\nEntão a inteligência artificial usa a Internet para os dois lados. Ela usa para captar informações e usa para chegar às pessoas. E ninguém, absolutamente ninguém no Brasil, do Presidente da República até a pessoa mais simples, que está lá na base, numa pequena cidade do interior de um país, de um Estado muito pobre, nenhuma dessas pessoas está fora do alcance dessa tecnologia.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Emerson Saraiva cumprimenta a Comissão e elogia a iniciativa de debater o uso da inteligência artificial no processo eleitoral, tema que considera especialmente relevante para as eleições municipais de 2024. Posiciona-se a partir de uma exposição descritiva e de alerta, sem aderir ou rejeitar uma proposição específica do tema: destaca que a IA já está presente no cotidiano de forma invisível (autocompletar, redes sociais) e que a maioria das pessoas não percebe sua extensão. Afirma, com segurança, que as ferramentas de IA permitirão, em muitos casos, prever resultados eleitorais antes mesmo da eleição e antes de o eleitor tomar suas decisões, porque a tecnologia é capaz de compreender as pessoas antes que elas se entendam, direcionando narrativas e comunicação. Ilustra esse poder preditivo com a história do Walmart, que identificou a gravidez de uma adolescente a partir de padrões de consumo. Alerta que o que se discute é apenas a ponta do iceberg: os termos de uso de aplicativos autorizam a escuta e leitura massiva de dados formando um oceano de dados disponível a quem pagar, sem efetividade de LGPD ou compliance em contexto eleitoral. Apresenta a IA como ferramenta ambivalente, comparável a uma faca que corta picanha ou esfaqueia candidato, útil para o bem ou para o mal absoluto, e sustenta, com base em sua vivência na zona rural da Paraíba, que a tecnologia via internet alcança todos os brasileiros, do presidente ao morador mais simples.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00017",
+          "ordem_no_debate": 17,
+          "texto": " Tenho muita honra em responder uma pergunta de um amigo-irmão.\n\nEu acredito que a primeira coisa que nós precisamos estabelecer, meu querido Anderson, é que não adianta, neste momento, nós termos a ilusão de achar que estamos aqui na Mesa Marcelo e eu, por exemplo, como especialistas nisso, porque não vai haver disponibilidade no mercado de especialistas, por exemplo, para falar nesse assunto com a profundidade com que ele deve ser tratado.\n\nEntão, eu acredito que o primeiro entendimento que nós precisamos ter é o de que essa a ideia de controle sobre isso é muito perigosa, porque, se houver pessoas falando sobre a possibilidade, por exemplo, de controlar isso, estabelecendo legislação e estabelecendo parâmetros muito claros a respeito do que deve ser feito para coibir determinada ação, provavelmente vai haver uma intenção, um interesse oculto nesse tipo de iniciativa, normalmente, de criar cortinas de fumaça. Então, se houver, por exemplo, uma pessoa dizendo que na eleição do ano que vem precisa fazer isso, precisa fazer aquilo, precisa fazer aquilo outro, porque ela é especialista no assunto e entende muito disso e tal...\n\nÉ óbvio que o Brasil tem muita gente muito boa em tecnologia da informação, em computação, em inteligência artificial, mas é preciso nós entendermos algo desde já a realidade. Se eu fizesse uma enquete aqui com vocês, perguntando qual vocês consideram que tenha sido a maior mudança para a humanidade, e eu colocasse aqui a prensa de Gutenberg, a Revolução Industrial, a chegada da Internet e a inteligência artificial, seria uma enquete retórica, porque não há nenhuma dúvida de que é a inteligência artificial.\n\nVou sugerir para quem gosta de estudar os estudos da professora Susan Blackmore. Ela fala sobre a memética, e ela tem uma palestra de 12 anos atrás, por exemplo, no Youtube, falando sobre a possibilidade de que os memes sejam o fim da humanidade.\n\nEla faz uma conexão entre genética e memética, e, do mesmo jeito que nós temos a genética dos nossos pais, dos nossos avós, a memética também ultrapassa gerações.Num exemplo muito claro, existem filhos que não conhecem o pai e andam igual a ele. E não há nenhuma constituição biológica nele que faça com que ele precise andar daquele jeito, ou gesticular, ou falar daquele jeito. Muito antes do exame de DNA, a pessoa dizia que não havia como determinada pessoa não ser filha de outra, ainda que não se parecesse com ela.\n\nA memética é tão forte que é capaz de ultrapassar a humanidade. Ou seja, no momento em que os memes entenderem que não precisam mais dos humanos para se reproduzir, eles podem entender que os humanos não são mais necessários. Isso é tema de uma palestra de 12 anos atrás de Susan Blackmore.\n\nEu usava muito isso como professor de universidade para falar sobre criatividade, e as pessoas perguntavam como isso eclodiria na sociedade. Aconteceu no começo deste ano, com a chegada do ChatGPT e dessas inteligências artificiais generativas. Ou seja, o que faltava para os memes era a plataforma onde eles iam conseguir se tornar mais fortes ainda. E vai acontecer. Nós estamos a caminho disso. Há quem discuta quando isso vai acontecer, mas vai acontecer o momento em que a máquina será, sim, mais inteligente do que o homem. Hoje, a máquina consegue ser inteligente em algumas coisas. Assim, o homem não consegue mais vencer uma disputa de xadrez, o homem não consegue mais produzir certos conhecimentos melhor do que uma máquina, mas a máquina não consegue ainda produzir todos os conhecimentos.\n\nEntão, eu acredito que a primeira coisa que nós temos que fazer é botar a bola no chão e dizer: não há especialista que consiga dizer como deve ser a regulamentação.  Esse jogo nós não temos como jogar.\n\nE o grande problema que nós temos — o Marcelo falou dos neurobots —, é que, no primeiro momento — e isso está acontecendo muito rápido, porque a exponencialidade está agindo muito forte — que nós tivemos as inteligências artificiais começaram a surgir de forma isolada. Agora, nós estamos conseguindo ver os programas de integração. Então, o ChatGPT não é mais um uma plataforma a que você pede para fazer alguma coisa do ponto de vista textual. Já existem integrações do ChatGPT que permitem que você peça para ele marcar uma passagem aérea para você. Você diz: \"Eu quero viajar para Brasília nos próximos nas próximas duas semanas, num dia e em que eu não viaje de madrugada, em que eu tenha uma passagem barata, em que a viagem dure menos tempo e em que eu sente naquela poltrona que eu prefiro dentro do avião. E eu preciso que você entre em contato com a companhia aérea e avise que eu tenho determinada restrição alimentar e eu necessito de uma alimentação especial\". O ChatGPT vai se conectar com outros sistemas e vai agir como um neurobot e vai fazer isso.\n\nEntão, da mesma maneira eu posso chegar e dizer: eu preciso eleger um Vereador em tal cidade do interior de Pernambuco e preciso que você encontre o sentimento da população em relação a qual é o discurso que ela quer ouvir, quais são as propostas que ela mais aprova e quais são os horários em que ela está mais disposta a ouvir isso, qual é a linguagem que eu devo utilizar, qual é a estética. Para tudo isso, você pode ter uma inteligência que se conecta com outras, com outras, com outras e vai ao TSE e pega dados, vai ao DATASUS E vai ao IBGE e se conecta com a API da Meta e com a da OpenAI, e, quando você vir, você terá uma campanha completa, uma vitória construída a partir de uma pergunta: como eu elejo um Vereador em Lagoa de Itaenga, em Pernambuco?E a inteligência artificial vai me entregar tudo: os criativos para eu rodar no tráfego pago; os públicos que eu devo abordar, quanto eu devo investir. E é muito barato, é extremamente barato.Então, é para aí que nós estamos caminhando. E qual é o grande dilema? O dilema é: e como nós travamos isso? Não há como travar. Nós temos que já partir desse pressuposto. O que nós precisamos fazer...\n\nE aí eu já eu já vou meio que começar pelo final da conversa. Eu acredito que não há solução fora da informação.\n\nSó, rapidamente, para concluir, eu me lembro de uma campanha para Prefeito que eu fiz em 2016 em que nós estávamos sendo bombardeados por uma coisa que nós não sabíamos como chamar, porque só no final de 2018 foi lançado no mercado a marca dafake news— em outubro de 2016 nós não chamávamos defake news. E eu me lembro que eu fiz uma campanha em nós éramos o tempo todo pressionados pela campanha porque o nosso adversário estava contando mentiras, estava criando situações para atacar o nosso candidato. Nós fomos segurando, segurando, enquanto dava. E eu me lembro que nós fizemos um vídeo cujo título era:Como se Constrói uma Mentira. Se eu soubesse o que erafake news...No vídeo, até falo a palavrafake, mas não existia o conceito defake news.\n\nE aí, o que foi que nós fizemos? Nós entregamos o método. Nós fizemos um vídeo mostrando como o nosso adversário estava construindo as mentiras que ele estava usando contra nós. E a partir daí nós desmontamos a fábrica de mentiras dele, e ele não conseguiu mais fazer, porque o conceito final do nosso vídeo era assim: agora, toda vez que fulano fizer isso, você sabe o que é que está acontecendo.\n\nEntão, eu já coloco aqui minha opinião no sentido de que nós precisamos muito fortemente fazer o eleitor, quando vir determinada situação, entender que aquilo pode não ser a realidade; que ele pode estar sendo manipulado por uma ferramenta que ele não entende nem faz sentido entender, mas que existe.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Agressiva",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador sustenta que a regulamentação do uso de inteligência artificial no processo eleitoral é perigosa e inviável: não há especialistas capazes de definir legislação e parâmetros adequados, e propostas de controle podem esconder interesses ocultos, funcionando como cortinas de fumaça. Segundo ele, a máquina será mais inteligente que o homem e não há como travar o avanço da tecnologia — a IA generativa já se integra a outros sistemas (cita TSE, DATASUS, IBGE, APIs da Meta e OpenAI) e pode construir campanhas eleitorais completas a baixo custo, do diagnóstico do eleitorado aos criativos e investimentos. Diante disso, a única saída que ele vê é a informação/formação do eleitor: fazer com que reconheça quando pode estar sendo manipulado, citando sua experiência em campanha de 2016, quando um vídeo que expôs o método do adversário teria desmontado sua 'fábrica de mentiras'. A fala é técnica e assertiva, apoiada em memética (Susan Blackmore) e exemplos hipotéticos.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Não adotar a ilusão de que é possível regular a IA com especialistas definindo legislação e parâmetros claros, reconhecendo que não há especialista capaz de dizer como deve ser a regulamentação.",
+            "Partir do pressuposto de que não há como travar o uso da inteligência artificial e apostar, como solução, na informação ao eleitor.",
+            "Fazer o eleitor entender que determinadas situações vistas podem não ser reais e que ele pode estar sendo manipulado por uma ferramenta de inteligência artificial que existe."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00023",
+          "ordem_no_debate": 24,
+          "texto": " Quero só contribuir com o que o Dr. Fernando disse.\n\nÉ nesse aspecto que eu acredito ser muito importante discutirmos esse assunto aqui. Quando se fala em projeto de lei, é um projeto de lei, não é a lei. É para se discutir mesmo. A questão é: quando há um projeto de lei determinando que as peças de campanha devam identificar se utilizaram inteligência artificial, sobre que inteligência artificial se está falando? É na construção da imagem? É na edição do vídeo? É na produção do texto?\n\nMais uma vez estamos falando da ponta doiceberg, porque, se essa lei estivesse em vigor hoje, todos, absolutamente todos os anúncios das eleições para Deputado Estadual ou Federal, Governador, Senador e Presidente da República do ano passado que utilizaram tráfego pago deveriam ter esse aviso. Isso porque, quando se usa o tráfego pago, o fato de se clicar naquele botãozinho do Facebook ou do Instagram para turbinar, já é ativada a inteligência artificial, que vai fazer com que se atinjam as pessoas de maneira mais assertiva. Então, a grande questão é esta: eu aviso que tem inteligência artificial, mas em que nível? E aí o Marcelo traz o entendimento principal que nós que estamos no mercado precisamos ter.\n\nIsso é basicamente tentar barrar a inteligência artificial de maneira muito cartográfica. O que vai acontecer é o mesmo que dizer assim: a partir de agora todo mundo que pegar um voo em Brasília — eu espero que isso não aconteça hoje — terá todas as malas vistoriadas. Essa medida vai simplesmente travar o aeroporto, é inviável. Então, não tem como estabelecer uma regra que todas as campanhas devam seguir. Agora, é preciso haver uma estratégia de auditoria por amostragem, ou por algum outro critério, ou por provocação do jurídico das campanhas. E esse, para os advogados aqui presentes, também é um desafio. O desafio é muito maior para os operadores do direito do que para os operadores domarketing.\n\nO grande problema é saber onde está a inteligência artificial em um contexto gigantesco, que vai desde a coleta de dados antes mesmo de a campanha começar, que também é outra questão. Se eu fiz toda a pesquisa antes da campanha, eu consigo colocar isso no escopo da campanha? Ou eu consigo, por exemplo, entender isso como campanha antecipada, se eu estou coletando dados antes da campanha? E eu estou coletando dados dentro da campanha. Por exemplo, um candidato a Vereador da menor cidade do Brasil, qualquer pessoa que entrou no Instagram dessa pessoa no dia 7 de outubro deste ano já faz parte da base de dados da campanha, que vai ser utilizada no tráfego durante a campanha depois do dia 16 de agosto. Então, em tese, se entendermos de maneira muito pragmática, já estão sendo captados dados para a campanha, e isso está acontecendo o tempo todo.\n\nEssa discussão mostra a complexidade do assunto.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador considera legítimo e importante discutir o tema, mas critica a exigência de identificação obrigatória de uso de inteligência artificial em peças de campanha por ser imprecisa e inviável de fiscalizar. Questiona em que nível se falaria em IA — construção de imagem, edição de vídeo ou produção de texto — e argumenta que, sob regra tão ampla, todo anúncio com tráfego pago já ativaria IA (segmentação nas redes), exigindo aviso em massa. Compara uma regra universal à vistoria de todas as malas em um aeroporto, medida que travaria o sistema, e defende, em substituição, auditoria por amostragem, por outros critérios ou por provocação do jurídico das campanhas. Alerta que a IA atravessa toda a campanha, incluindo a coleta de dados antes e durante o período eleitoral — gerando dúvida se isso configura campanha antecipada —, de candidatos de qualquer nível, e conclui que o desafio de identificar a IA é maior para os operadores do direito do que para os de marketing, diante da complexidade do assunto.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Não estabelecer uma regra de aviso obrigatório de uso de IA que todas as campanhas devam seguir, por considerá-la inviável e travante.",
+            "Implantar uma estratégia de auditoria por amostragem, ou por algum outro critério, ou por provocação do jurídico das campanhas."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00035",
+          "ordem_no_debate": 45,
+          "texto": " Agradeço.\n\nA pergunta, Erik, vai me dar, inclusive, a oportunidade de falar sobre a questão ética, que era uma preocupação minha.\n\nHoje, o canal que eu tenha no Instagram, o Eleja.se, está chegando a 75 mil seguidores e tem um alcance médio de 1 milhão a 1,5 milhão de pessoas todos os meses. E sempre que eu coloco qualquer tipo de conteúdo lá dizendo que é possível vencer uma eleição sem comprar votos — isso tem tudo a ver com o trabalho do Dr. Melillo —, recebo uma enxurrada de pessoas dizendo:\"Na minha cidade, não\".\n\nA realidade, hoje, na grande maioria das cidades do Brasil é que, por exemplo, numa cidade que tenha 11 Vereadores, os 11 Vereadores compraram votos — essa é a realidade do Brasil. Para se eleger no Brasil Vereador ou Prefeito, você precisa comprar voto, fazer tráfico de influência, cooptação de lideranças e manipulação de pesquisas. E o que acontece? Eram quatro aspectos que eu chamava de cânceres da eleição no sistema político brasileiro. Entrou um quinto, a inteligência artificial, e ele é mais poderoso do que os quatro juntos. Esse é o grande problema que nós estamos discutindo aqui.\n\nQuando criei o Eleja.se, eu o fiz porque não jogo esse jogo. Há uma música da qual gosto muito de Jorge Ben Jor que diz que, se malandro soubesse como é bom ser honesto, seria honesto só por malandragem. É isso que eu venho vendendo como produto principal no meu trabalho de marqueteiro. E eu não tenho nenhum problema com esse nome. Tem gente que diz:\"Ah, marqueteiro!\"E eu digo que não é ser chamado de marqueteiro que faz de você uma pessoa desonesta, até porque é minoria no mercado quem atua de uma maneira que não podemos defender.\n\nA questão é: entendi que esse sistema está caindo, está ruindo, porque, se há uma cidade com 11 Vereadores que compraram voto, eu consigo encontrar nessa cidade 33 candidatos que compraram e não entraram. Ou seja, a pirâmide chegou à base, ruiu, o sistema não funciona mais. Nós temos um novo sistema, baseado em inteligência, baseado em estratégias, baseado em dados, baseado em inteligência artificial, e não é de agora. O Erik disse que trabalha com Marketing Digital desde 2006. Minha primeira campanha digital eu fiz em 2008, utilizando ferramentas que hoje podem ser interpretadas como inteligência artificial, sim.\n\nEu estive pensando: não existe aquelememeque diz\"logo na minha vez o negócio vai acabar\"?Quando eu comecei a trabalhar a história de dizer que dá para se eleger de uma maneira honesta, de uma maneira ética, de uma maneira verdadeira, de uma maneira íntegra, vem uma ferramenta que, em princípio — e eu concordo com o Dr. Mateus, que falou sobre isso —, traz aspectos muito positivos, mas também aspectos extremamente negativos.\n\nHoje eu vejo muito como meu trabalho mostra para os políticos que eles não precisam utilizar desse tipo de artifício para chegar ao poder; existem outras formas mais baratas, mais honestas, mais íntegras, enfim. Você não precisa nem ser um \"sabonete\", porque o bomMarketing Digitalé justamente aquele que trata o candidato com verdade; ele só funciona se mostrarmos a verdade sobre o candidato — o candidato, no final de uma caminhada, com uma pizza de suor embaixo do braço; o candidato cansado; o candidato não fala bem.Aí nós dizemos que ele não fala bem, mas que ele trabalha muito.\n\nHoje nós trabalhamos dentro de uma lógica de que o mercado está evoluindo para ummarketingmais consciente, que seja sustentável, inclusive, de modo que, depois, não esteja todo mundo preso, e o nome \"marqueteiro\", sujo mais uma vez.\n\nO que me motiva a aqui estar é que a inteligência artificial, as novas tecnologias são, sim, importantes, fundamentais, não temos como fugir delas. E o que precisamos é estabelecer não limites do ponto de vista legal, mas precisamos estabelecer para as pessoas o perigo que isso causa, para que a continuemos utilizando dentro da regra do jogo, dentro das quatro linhas, como é famoso dizer aqui em Brasília. Então, que ela seja utilizada dentro das quatro linhas, mas, sobretudo, a nossa grande preocupação é que, mesmo obedecendo à LGPD, como o Marcelo falou, mesmo sem fazer nada muito fora da realidade — \"fora da realidade\", como estou falando, é do ponto de vista financeiro, de as pessoas dizerem que precisam de milhões para conseguir fazer isso —, o grande truque da inteligência artificial é que ela faz muito mais por muito menos. O ChatGPT, por exemplo, recentemente nos surpreendeu, porque ele evoluiu de versão, colocou uma versão dez vezes mais potente e baixou o preço. O caminho vai ser este mesmo, uma campanha muito eficiente e muito barata.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador, marqueteiro político e criador do Eleja.se, sustenta que as eleições brasileiras ainda são marcadas por compra de votos, tráfico de influência, cooptação de lideranças e manipulação de pesquisas — os quatro 'cânceres' do sistema —, mas que esse modelo está ruindo e dando lugar a um baseado em dados e inteligência artificial, que considera um quinto 'câncer', mais poderoso que os anteriores. Ele vê a IA como ambivalente: traz aspectos muito positivos e extremamente negativos, e permite fazer 'muito mais por muito menos', tornando campanhas eficientes e baratas, como sugere a evolução do ChatGPT — mais potente e mais barato. Inspirado pelo marketing verdadeiro e honesto, que mostra o candidato como ele é, ele argumenta que a tecnologia e as novas ferramentas são fundamentais e inevitáveis e podem inclusive viabilizar campanhas mais limpas. Sua posição é de aceitação condicionada: defende que não se deva criar limites legais, mas conscientizar as pessoas dos perigos, para que a IA seja usada 'dentro das quatro linhas', dentro das regras do jogo e em conformidade com a LGPD, evitando abusos mesmo quando o custo de produção é baixo.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Estabelecer para as pessoas o perigo que a inteligência artificial causa, para que continue sendo utilizada dentro da regra do jogo, em vez de criar limites do ponto de vista legal."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00039",
+          "ordem_no_debate": 50,
+          "texto": " Parabéns pela participação brilhante. Eu concordo com absolutamente tudo. E só para comentar o que você falou, o problema não está nas grandesbig techs.O problema está naquele aplicativozinho que você não sabe de onde veio e que é um aplicativo que, de repente, vai fazer uma brincadeirinha com você, e aí, naqueles termos, ele vai entrar na sua vida num nível que você não consegue controlar. O grande problema está aí.\n\nEu acredito que temos que entender também uma coisa, e na política entendemos muito bem: nem sempre as coisas são secretas, elas são discretas. Os termos estão lá. Somos nós que aceitamos os termos. Então, o cara diz que isso não está escondido de ninguém.\n\nO que eu entendo é que estamos chegando num ponto... Obviamente, não temos como sair daqui com nenhuma conclusão. O que precisamos é estabelecer que aqui seja o ponto de partida de algo que vai chegar num nível de discussão em que pelo menos a pessoa que esteja lá na ponta saiba que isso existe, saiba do que isso é capaz, saiba como isso pode influenciar a sua vida. Eu acho que a grande conclusão aqui é que não há conclusão, não há resposta, não há caminho. Nós não temos nenhum ponto de partida.\n\nAcho que o grande valor deste encontro aqui é trazer para dentro do Congresso esse tema e trabalhar do jeito que eu, Marcelo trabalhamos no mercado. O grande valor hoje de alguém que trabalha com comunicação, com inteligência — não apenas inteligência artificial, mas inteligência do ponto de vista da estratégia política, e tudo isso tem a ver com ChatGPT e com tudo que estamos vivendo —, é entender que o mundo não é mais de quem tem as melhores respostas e sim de quem tem as melhores perguntas.\n\nO grande pulo do gato das inteligências artificiais é que elas estão quebrando as barreiras dos especialistas.Noventa por cento das postagens do Eleja.se são feitas com inteligência artificial de geração de imagem generativa. Por que a minha imagem às vezes é melhor? Anderson também posta com inteligência artificial. Por que a minha às vezes é melhor e, outras vezes, a dele é melhor? Porque a minha pergunta foi melhor.\n\nEntão, não há mais este negócio de você ser um superespecialista em programação. Você quer criar uma imagem no Midjourney, o comando para o Midjourney é“/imagine”. Você coloca\"/imagine\", diz o que quer que ele faça, e ele faz. Quanto ao ChatGPT, você conversa com ele como se o fizesse com outra pessoa. Eu nunca postei um texto do ChatGPT nos meus canais, mas vários textos, antes de postar, eu fiz umbrainstormingcom o ChatGPT. Eu o tratei como uma pessoa, conversei com ele durante alguns momentos, e ele me deu os argumentos dos quais precisava para colocar no meu conteúdo. O principal: isso é a ponta doiceberg, é a primeira camada da cebola. Eu não sei se devemos mergulhar — não sei. A grande questão aqui é essa. Precisamos ativar a curiosidade e precisamos falar sobre isso.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O titular concorda inteiramente com o expositor anterior e sustenta que o risco central não está nas grandes big techs, mas em pequenos aplicativos de origem desconhecida que, por meio de termos aceitos pelo usuário — apresentados como discretos, não secretos —, penetram sua vida de forma incontrolável. Defende que o encontro sirva de ponto de partida para levar o tema ao Congresso e para conscientizar a pessoa na ponta sobre a existência, os efeitos e a influência da IA, reconhecendo não haver conclusão ou resposta imediata. No plano estratégico, afirma que a IA quebra barreiras de especialistas e que o valor atual reside em formular boas perguntas, ilustrando com o uso próprio do ChatGPT em brainstorming — sem autopublicação de textos gerados — e do Midjourney em postagens do Eleja.se, comparando resultados conforme a qualidade dos comandos. Encerra ressaltando que o tema abordado é apenas a superfície do problema, sendo preciso despertar curiosidade e ampliar o debate.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Estabelecer a audiência como ponto de partida de um processo de discussão aprofundada sobre o tema, de modo que a pessoa na ponta saiba que isso existe, do que é capaz e como pode influenciar sua vida",
+            "Trazir o tema para dentro do Congresso e trabalhá-lo com base na experiência do mercado de comunicação e inteligência estratégica",
+            "Ativar a curiosidade e falar sobre o tema"
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "FERNANDO BUENO DE CASTRO",
+      "falas": [
+        {
+          "id": "f00004",
+          "ordem_no_debate": 4,
+          "texto": " Boa tarde a todos que estão aqui nos acompanhando.\n\nAgradeço o convite do Deputado Prof. Paulo Fernando e também o espaço disponibilizado pela Comissão de Legislação Participativa para esse debate.\n\nA inteligência artificial, como já foi colocado pelo Sr. Emerson, é uma realidade. O ChatGPT é uma ferramenta, qualquer pessoa tem acesso gratuitamente. Mas o que nós temos que ver são os riscos da inteligência artificial de regular. Temos que verificar o que existe de risco e uma regulamentação que não leve a situações que afetem tanto a população. Lógico, umdroneem área rural fazendo o monitoramento de transmissão não tem que ter uma regulação igual adeepfake. O ChatGPT tem menos risco do que uma manipulação de imagens por inteligência artificial, já que com vídeos nós podemos transformar um cenário do vídeo ou uma publicação induzindo ao erro o receptor da mensagem. Recentemente, o Renato Opsi Blum mostrou isso no Twitter ao pegar uma imagem estática e ir transformando-a em um vídeo animado. Isso é possível.\n\nEla é, portanto, benéfica, mas temos que estudar seus impactos na lisura e equilíbrio do processo eleitoral. Nós temos de resguardar a soberania popular, sempre evitando qualquer desequilíbrio e abusos. Sou extremamente grato a esse espaço que o senhor já nos concede para trabalhar isto.\n\nFaz-se necessário um esforço coletivo de todos os entes para tanto. Hoje nós já temos um convênio entre o Tribunal Superior Eleitoral e as plataformas para disparos em massa. Possivelmente, isso terá que ser reproduzido e avançado paradeepfakee para outras ferramentas da inteligência.\n\nNa própria Europa, a Meta divulgou que não vai permitir a utilização de ferramentas generativas de IA para impedir disseminação de notícias falsas. E tanto a Meta quanto a Google também exigirão que, em qualquer anúncio eleitoral que for veiculado nas plataformas, Instagram, Facebook e Youtube, tem de haver o aviso expresso de que houve a utilização de qualquer sistema ou programa de inteligência artificial. Logicamente, o primeiro olhar deles é para as eleições dos Estados Unidos do ano que vem, mas, obviamente, também será utilizado em cenário nacional, uma vez que nós temos uma utilização maciça da própria propaganda por Internet.\n\nPois bem, a propaganda eleitoralon-linerealmente foi introduzida em 2009 com a Lei nº 12.034, que incluiu os arts. 57-A a 57-I à Lei das Eleições, Lei nº 9.504. Este é o arcabouço legislativo que sustenta o sistema até o presente momento, com alterações e complementações advindas de reformas eleitorais posteriores.\n\nEsse desenvolvimento em propaganda tem como ponto basilar o art. 57-J, porque o legislador, naquele momento, reconheceu que a legislação ordinária dificilmente seria capaz de acompanhar todos os avanços tecnológicos em tempo hábil. Então, o que ele fez? Utilizou o poder regulamentador do TSE.\n\nA preocupação recente das duas Casas pode ser observada com dois projetos: o Projeto de Lei nº 5.931, de 2023, do Deputado Carlos Chiodini; e o Projeto de Lei nº 2.338, do Presidente Rodrigo Pacheco, os quais podem ser estudados e aprimorados.\n\nO projeto do Senador Rodrigo Pacheco trata de referências para desenvolvimento e aplicação de sistemas de inteligência artificial no Brasil.Ele não trata expressamente da parte eleitoral, enquanto o projeto do Deputado Carlos Chiodini realmente tem foco exclusivo nas eleições. Eles são congruentes, essenciais para o(ininteligível)do tema.\n\nPessoalmente, eu considero oportuno termos projetos de lei separados: um, para a parte eleitoral; o outro, digamos, para a parte geral. Até que o TSE possa usar seu poder regulamentador, é necessário que o legislador forneça os mecanismos ou as balizas mínimas para tanto. O PL 5.931 sugere a inclusão do art. 57-L, o que é interessante.\n\nEu sei que alguns especialistas poderão dizer:\"Adeep fakenão é o único ponto, mas, sim, todo o arcabouço por trás do monitoramento e do entendimento do que o eleitor pensa\". Porém, de maneira imediata na eleição, nós temos que ver esta questão dadeep fake,o que talvez demande uma alteração no art. 40-B da Lei nº 9.504, já que existe uma dificuldade em identificar a pessoa que reproduziu este material irregular, Deputado.\n\nO que édeep fake? Trata-se de uma manipulação. O que eu poderia dizer? Quando pegamos um vídeo, é possível criá-lo com ferramentas: uma pessoa coloca a voz e a face de algum político, por exemplo, do atual Presidente ou do ex-Presidente, acusando-o de atrocidades. Podemos mostrar como isso pode acontecer: atos de estupro de menores. Ao divulgar isso na Internet, o dano à pessoa ou à imagem é instantâneo e dificilmente conseguirá ser contido em tempo hábil. Por mais que a legislação eleitoral tenha prazos rápidos, muito rápidos, em representações, direitos e respostas durante a eleição, o estrago já foi feito. Por isso, em se tratando da parte eleitoral, é interessante o combate àdeep fake.\n\nEu sei, é lógico, que nós temos que resguardar o movimento anterior ao monitoramento como um todo da inteligência artificial, mas, para a eleição, de maneira imediata, isso também é importante.\n\nSei que há um pensamento crítico ao que o Presidente do TSE, o Ministro Alexandre de Moraes, disse na última semana. Cito-o de maneira expressa:\"Há a necessidade de sanções severas para aqueles que se utilizam da inteligência artificial para desvirtuar a vontade do eleitor e atingir o poder, ganhar as eleições. Saibam que, se utilizarem isso e se for comprovado, o registro será cassado, o mandato será cassado e ficarão inelegíveis\".\n\nTrata-se de uma fala sintomática. Ela mostra que a Corte eleitoral, gostemos ou não, terá uma postura extremamente rígida em relação a quem utilizar qualquer ferramenta da inteligência artificial de forma ilegal. No entanto, eu vejo que o principal destaque é que transparece que uma cassação será posterior, ou seja, já após as eleições — a pessoa já tomou posse do mandato, já causou danos talvez irreparáveis a quem foi a vítima da ferramenta e à própria coletividade que votou em alguma pessoa por ter sido induzida a erro, ou seja, não sabia o que aquela pessoa realmente defendia nem que a vítima de uma notícia falsa, ou de uma manipulação grotesca, jamais tinha dito aquilo.\n\nPortanto, é crível concluir que a propaganda eleitoral com a Internet é uma realidade; ela não será mais alterada. Desde os primórdios até os dias atuais, não existe mais campanha sem Internet. O Deputado sabe que hoje o foco nas campanhas é o meioon-line, nem tanto mais o corpo a corpo, que ainda tem seu espaço. Hoje, a parte eletrônica se sobrepõe. Haverá a utilização de ferramentas da inteligência artificial, que são importantes. No entanto, nós temos que resguardar a integridade do sistema democrático quando da sua utilização.\n\nDe outro lado, deve ser analisada e combatida sua utilização desenfreada. Por isso, é necessária uma regulamentação, em se tratando do risco atinente a cada tipo de inteligência artificial, para que seu uso não seja impedido. Da mesma forma, é preciso resguardar o equilíbrio das eleições.\n\nSerá necessária e devida a valoração pela lei, pelo Congresso Nacional e pelos julgadores eleitorais quanto aos possíveis impactos da utilização de cada tipo de inteligência artificial e, ainda, o que é a parte mais delicada e, às vezes, difícil, a mensuração da participação dos atores na conta abusiva, para que os eleitores não sejam induzidos a comportamentos lastreados e premissas falsas e irreais, muito menos que os candidatos sejam prejudicados por atos praticados por terceiros. Lembro que o candidato, posterior Parlamentar, representa a população, o intuito popular. Portanto, nós não temos de cuidar disto sempre.\n\nAgradeço a atenção, Deputado.\n\nMuito obrigado.(Palmas.)\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Fernando Bueno de Castro considera a inteligência artificial uma realidade benéfica, mas defende regulamentação proporcional ao risco de cada ferramenta — distinguindo drones rurais, ChatGPT e deepfake, este último o mais perigoso por permitir manipulação de voz e imagem com dano instantâneo e difícil de conter. Ele propõe foco imediato no combate ao deepfake no âmbito eleitoral, sugerindo alteração do art. 40-B da Lei 9.504 diante da dificuldade de identificar quem reproduz o material irregular, além de ampliar o modelo de convênio TSE-plataformas para outras ferramentas de IA e exigir aviso expresso de uso de IA em anúncios eleitorais. Endossa os PLs 5.931/2023 (Chiodini) e 2.338/2023 (Pacheco) como base a aprimorar, preferindo projetos separados para matéria eleitoral e geral, com o legislador fixando balizas mínimas até a atuação do poder regulamentador do TSE. Citando Alexandre de Moraes, antevê postura rígida da Corte, mas critica que a cassação ocorra apenas após as eleições, quando os danos já se consumaram. Conclama ao resguardo da soberania popular, da lisura e do equilíbrio eleitoral, sem impedir o uso da IA.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Realizar um estudo dos riscos da inteligência artificial e construir uma regulamentação que não afete a população, distinguindo os riscos de cada tipo de IA (ex.: deepfake, ChatGPT, drone em área rural).",
+            "Estudar os impactos da inteligência artificial na lisura e equilíbrio do processo eleitoral, resguardando a soberania popular e evitando desequilíbrios e abusos.",
+            "Promover um esforço coletivo dos entes e reproduzir/ampliar o modelo do convênio TSE-plataformas de disparos em massa também para deepfake e outras ferramentas de inteligência artificial.",
+            "Exigir que qualquer anúncio eleitoral veiculado em plataformas (Instagram, Facebook, YouTube) traga aviso expresso de que houve utilização de sistema ou programa de inteligência artificial.",
+            "Estudar e aprimorar os Projetos de Lei nº 5.931/2023 e nº 2.338 como referência para a regulamentação.",
+            "Manter projetos de lei separados para a parte eleitoral e para a parte geral de inteligência artificial, com o legislador fixando balizas mínimas até que o TSE atue no seu poder regulamentador.",
+            "Adotar em caráter imediato para a eleição o combate à deepfake, mediante alteração do art. 40-B da Lei nº 9.504, para lidar com a dificuldade de identificar quem reproduziu o material irregular.",
+            "Adotar regulamentação proporcional ao risco de cada tipo de inteligência artificial, para que seu uso não seja impedido, e resguardar o equilíbrio das eleições e a integridade do sistema democrático.",
+            "Valoração pelo Congresso Nacional e pelos julgadores eleitorais dos impactos da utilização de cada tipo de inteligência artificial e mensuração da responsabilidade dos atores que atuam em contas abusivas."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00019",
+          "ordem_no_debate": 19,
+          "texto": " Deputado, eu acredito que não seja nas urnas em si, mas na própria eleição, até porque a urna serve somente para apuração do próprio Tribunal Superior Eleitoral.\n\nPegando aqui um gancho, realmente é uma ferramenta barata. Antigamente, contratava-se muita gente para fazer o corpo-a-corpo, e hoje chega-se a muito mais gente com o anúncio.\n\nEntão, até imagino que a pergunta feita pelo Renan seja relativa a uma das situações do próprio projeto de lei, que imagino que o TSE faça naturalmente para a eleição de 2024 uma resolução, mesmo que inferior a 12 meses do pleito, determinando que qualquer anúncio que utilize IA tenha que ter o aviso expresso, porque, em tese, isso pode servir para não induzir o eleitor a erro. Acredito que para a próxima eleição é o que deve acontecer de maneira imediata.E, logicamente, é preciso verificar. Não temos como dar uma resposta fechada sobre como o TSE julgará ao fim do pleito do próximo ano em fase recursal.\n\nAcredito que seria basicamente isso.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Fernando Bueno de Castro sustenta que a discussão recai não sobre as urnas em si, mas sobre o processo eleitoral como um todo, lembrando que a urna serve à apuração do TSE. Ele defende o uso de IA na publicidade como ferramenta barata e eficaz, comparando o modelo antigo de campanha (corpo-a-corpo) com o atual (anúncios que alcançam mais gente). Em termos substantivos, apoia a exigência de aviso expresso em anúncios que utilizem inteligência artificial, antecipando que o TSE deve editar resolução para a eleição de 2024 nesse sentido, com o propósito de não induzir o eleitor a erro. A exposição tem caráter técnico-normativo e mantém cautela epistêmica: o orador ressalva que não é possível prever como o TSE decidirá em fase recursal ao fim do pleito, mantendo as previsões sobre a atuação do Tribunal como expectativas, não como certezas.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00041",
+          "ordem_no_debate": 52,
+          "texto": " De fato, um amigo advogado diz que o melhor estagiário dele hoje é o ChatGPT. Fazendo a pergunta correta, ele produz um contrato melhor, com menos erros, sem hora extra, não há Lei do Estágio. É bem isso. Você vai colocando os parâmetros. Ele também pode traduzir para a linguagem do público alvo. Você coloca:\"Traduza para que um empresário da área de informática absorva a informação\".Ele faz.\n\nEntão, não adianta discutir, tentar impedir a aplicação da IA. É uma realidade, vai acontecer. Nós temos que pensar como ela deve ser aplicada, de maneira a se continuar mantendo a lei de forma correta, a não influenciar de maneira indevida, a não solapar a soberania popular.\n\nConcordo com você, não temos uma resposta fechada de como deve ser feito, de qual será imediatamente a resposta. Talvez, como colocado por você ainda há pouco, esse ambiente desandboxregulatório até seja um pouco mais difícil, mas testar soluções, intervindo minimamente, isso possa funcionar.\n\nAtuo na parte eleitoral há quase 20 anos. Realmente, nós sempre trabalhamos com provocações. Temos que pensar: em 2002, a Internet era basicamente proibida. No começo, só poderia existir umsiteespecífico, com final específico. Depois, quanto à rede social, o Orkut, era proibida a utilização, mesmo por apoiadores. Até chegarmos, hoje, à campanha sendo formatada totalmente na Internet.\n\nO espaço que o Congresso dá, que o Deputado nos deu hoje é essencial, porque esse debate constitucional vai nos permitir um avanço, com o apoio de toda a sociedade civil, até chegarmos à melhor forma de condensar isso, atendendo a todos os interesses dos envolvidos.\n\nMuito obrigado.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador defende que a aplicação da inteligência artificial no processo eleitoral é inevitável e traz ganhos de eficiência, sustentando que não faz sentido tentar impedi-la. Em vez disso, propõe refletir sobre como aplicá-la de modo correto, sem influência indevida e sem solapar a soberania popular. Reconhece não haver resposta fechada e considera o ambiente de sandbox regulatório possivelmente mais difícil, mas apoia testar soluções com intervenção mínima. Faz um paralelo com a gradual permissão da internet e das redes sociais em campanhas eleitorais e elogia o espaço de debate aberto pelo Congresso como via para chegar, junto à sociedade civil, a uma regulação que atenda aos interesses dos envolvidos.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Não se deve tentar impedir a aplicação da IA; deve-se pensar como ela deve ser aplicada de maneira a manter a lei correta, sem influência indevida e sem solapar a soberania popular.",
+            "Defende testar soluções com intervenção mínima, ainda que o ambiente de sandbox regulatório seja mais difícil.",
+            "Defende que o Congresso mantenha o espaço de debate constitucional sobre o tema, com apoio da sociedade civil, para chegar à melhor forma de condensar a regulação atendendo aos interesses dos envolvidos."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MARCELO SENISE",
+      "falas": [
+        {
+          "id": "f00006",
+          "ordem_no_debate": 6,
+          "texto": " Primeiro, quero dizer que é uma enorme alegria reencontrá-lo, Deputado. Esses corredores me trazem grandes lembranças!\n\nPara quem não sabe, o Deputado era um grande ativista político, desde sua tenra juventude. Isso já faz um tempo.(Riso.)\n\nDeputado, eu vou procurar ser breve, embora o assunto seja complexo.\n\nPrimeiro, eu queria lhe comunicar que esteve conosco, no último COMPOL, o Emerson Saraiva, um grande amigo e companheiro de jornada. O COMPOL é o Congresso de Comunicação Política Institucional — é a reunião dos marqueteiros, dos jornalistas. Tem sido um polo efusivo de reuniões. O COMPOL de Minas Gerais foi um dos maiores que nós já realizamos.\n\nExiste um desassossego do mercado com relação à inteligência artificial e, dentro desse desassossego, nós resolvemos criar uma entidade: o Instituto Brasileiro para a Regulamentação da Inteligência Artificial. Nós estamos terminando a elaboração do estatuto, para que ele tenha figura jurídica. O objetivo é suscitar o debate e ser um órgão de observação, um órgão de estímulo, que tenha um selo e possa, de maneira paralela, verificar a questão.\n\nA questão que se põe é muito mais profunda do que parece. É isso que tem me desassossegado e me incomodado. Todo mundo tem visto apenas a ponta doiceberg, ou seja, asdeep fakes, a manipulação de imagens, que é o que se enxerga. É disso que os políticos geralmente têm mais receio. Entretanto, Deputado, esta é a parte menor dos problemas.\n\nAssim como a ciência mapeou o genoma humano, o código genético, e isso deu tantas possibilidades para a ciência, a inteligência artificial mapeou a emoção humana: ela tem um mapa do nosso caráter, um mapa de quem somos nós! Nos Estados Unidos, há 6 anos, o escândalo da Cambridge Analytica estava em cima do mapeamento de cinco grandes características, as características principais da personalidade, entre elas, o aventureiro, o protetor. Aí se fez campanha de anúncios pagos.\n\nEsta estratégia usada por Trump colocou de joelhos a democracia americana, que é a maior democracia do planeta. Colocou a democracia do Reino Unido, uma das mais antigas, de joelhos. Isso, lembremos, aconteceu há 6 anos. Imagine, Deputado, quanto essa tecnologia não evoluiu em 6 anos! Eu estou dizendo isso porque trabalho diretamente nesta área.\n\nNós começamos a produzir rastros digitais a partir do momento em que acordamos: pegamos o celular, abrimos o WhatsApp, caminhamos com o celular, falamos perto da nossa Smart TV ou perto do nosso telefone ou do telefone de um amigo, e a inteligência artificial o sabe, porque ela escuta, ela está o tempo todo nos monitorando, tudo isso dentro do padrão da LGPD, porque não se trata de uma questão individual. Nós estamos falando de metadados: você não é individualizado, mas sua característica...\n\nNós temos um problema sério, um problema que já vem das redes sociais. Nós temos que entender que os algoritmos das redes sociais também são inteligência artificial; o autocompletar do nosso celular é inteligência artificial; o Waze, que usamos para dirigir, é inteligência artificial; a pesquisa que fazemos no Google no dia a dia é inteligência artificial — ela está presente na nossa vida já faz muito tempo. Agora ela ficou assustada, porque surgiu o ChatGPT.\n\nSenhores e senhoras, linguagem natural é algo que nós usamos desde 2018! Aliás, para nós, ela já é uma tecnologia ultrapassada.\n\nEu estou fazendo estas ponderações para podermos nivelar o debate e para eu mostrar o tamanho da minha ansiedade — eu já sou ansioso naturalmente. Este tema realmente tem tirado o meu sono, porque sei o que eu, com minha ferramenta, sou capaz de fazer. Eu estou advogando contra meus próprios interesses.\n\nEu entendo que nós podemos achar um caminho do meio, um meio-termo, de modo a permitirmos o desenvolvimento tecnológico. A inteligência artificial tem várias vantagens para o uso eleitoral, como o monitoramento e a possibilidade de detectar umafake newsem cerca de 4 horas.\n\nComo dizem,\"pau que bate em Chico bate em Maria\". Isso significa que nós temos o poder de fazerdeep fakes, etc., mas, se um sistema como o Scopo, por exemplo, consegue captar isso em 4 horas, nós conseguimos chegar ao marco zero. Desta forma, nós não só conseguimos gerar a cassação do oponente que fabricou afake news, mas também geramos sua prisão. Nós tivemos todo esse trabalho aqui no Congresso, durante anos, para conseguir aprovar uma lei — nós levamos 4 anos para aprovar a Lei das Fake News!\n\nA verdade é que a inteligência artificial é um assunto de extrema urgência.\n\nPor isso, agradeço, efetivamente, ao senhor, Presidente, ter assumido e abraçado esta questão.Acredito que seja necessário, inclusive, começarmos a pensar em uma frente parlamentar para acompanhar a questão, porque a questão é complexa.\n\nHoje há um projeto de lei no Senado Federal com uma discussão quase estéril, que veio de um grupo de juristas, etc. Só que ela está baseada, basicamente, na lei do consumo, na regra do consumo. A coisa mais importante, que é a defesa democrática, que é a proteção das instituições do País, foi esquecida.\n\nTenho muita preocupação, Presidente, com o posicionamento do Ministro Alexandre de Moraes, e aqui eu quero consignar por quê. Nas últimas declarações dele, como o Dr. Fernando bem pontuou, ele fala sobre cassação, ele fala sobre quem usar a inteligência artificial, mas ele não deixa claro como usar a inteligência artificial. Quando você põe resposta automática do seue-mail, você está usando inteligência artificial.\n\nO pior, Presidente: eles acabaram de fazer uma licitação, ou estão fazendo uma licitação, em que estão chamando o Google e estão chamando o OpenAl para fazer um sistema para o TSE. E aí eu me pergunto: qual é o limite, qual é o liame dessa discussão? É muito importante nós refletirmos sobre isso, porque, quando falamos de estado democrático de direito, estamos falando de escutar as forças vivas da sociedade. Eu não posso aceitar uma autocracia que imponha, porque fica muito difícil.\n\nIsso é como o conceito defake news. Do jeito que hoje é colocado, uma charge de jornal éfake news. Eu, por exemplo, como marqueteiro, gosto muito da linguagem mimética. Eu acho que a linguagem mimética às vezes comunica muito melhor do que as peças mais sérias ou mais densas. Isso passa a ser umafake news? A posição política crítica é umafake news?\n\nVocê sabe que antes de ser marqueteiro eu sou sociólogo. Essas são questões que precisamos sopesar e pensar.\n\nMas a questão mais importante, Presidente, é o tamanho da manipulação que a inteligência artificial pode gerar. A partir do momento que ela sabe quem você é, ela sabe como você decide e ela sabe qual conteúdo te entregar. E não é o conteúdo mais produzido, como umcardou um vídeo. Por exemplo — técnicas que nós usamos —, nós não colocamos o arquétipo de um surfista de 17 anos para conversar com uma velhinha que gosta de gatos; nós colocamos outra velhinha, que gosta de crochê e que por acaso tem gatos, para conversar com essa pessoa. Assim é o trabalho de profundidade da inteligência artificial. Isso tem suas vantagens e tem suas desvantagens.\n\nEu tenho escrito artigos incessantemente. Inclusive eu quero dizer que o culpado é meu professor de redação, o Deputado Prof. Paulo Fernando. Eu nem vou falar, porque estamos dentro da Casa, como chamávamos o professor.(Risos.)\n\nAs questões que eu assevero são muito, muito, muito profundas. Nós sabemos hoje o que falar, com quem falar, como falar e quando falar. Isso não é bom nem ruim. Isso é como é. Nós somos profissionais de comunicação, e o nosso papel é comunicar. Um bisturi na mão de um médico, Presidente, é uma ferramenta que salva uma vida; na mão de um bandido, tira uma. A ferramenta não é boa nem ruim. Boa ou ruim é a maneira como ela é usada.\n\nEu vou concluir já, Presidente.\n\nUma chave de fenda serve para uma série de aplicações, mas também serve para perfurar o pulmão de alguém. Então é muito complicada a questão quando julgamos pelo conceito do certo ou errado. Ferramenta é ferramenta. O uso dela é o que a define.\n\nEntão, Presidente, concluindo, eu acho que precisamos, urgentemente, fazer uma legislação mínima. Nós sabemos que essa legislação só vai ser aproveitada em 2026, entretanto eu acho que podemos chamar o Tribunal Superior Eleitoral, de maneira republicana, para que se pautem as normativas dentro do que a Câmara, que é a Casa do Povo, decidir. Eu acho que essa é uma maneira de o debate ser um pouco mais equilibrado.\n\nEu gostaria que houvesse a possibilidade de levarmos um comunicado ao Presidente da Câmara para que se possam tramitar todos os assuntos inerentes à inteligência artificial em regime de urgência, porque o assunto requer isso.\n\nPor fim, há um grande acordo que saiu na União Europeia, que eu acho que é em quem devemos nos espelhar. A União Europeia está dando umshowcom relação à questão da inteligência artificial, ao respeito à democracia, ao respeito à liberdade individual. Eu acho que nós deveríamos nos pautar nesse acordo, que, pelo menos, é o que me pareceu mais lógico e mais transparente. A grande questão que se pontua é a transparência. Não dá para eu aceitar que o Tribunal Superior Eleitoral contrate as duas maioresbig techsdo planeta para fazer um sistema de inteligência artificial e ele diga que eu, que sou operador demarketing, não posso usar. Isso não é lógico, não traz equidade, não traz equilíbrio, não traz lisura ao processo.\n\nRestringir o debate à questão dasdeepfakes, da manipulação de voz e de imagem é muito pouco, é uma pontinha muito pequena desseiceberg. Vamos enxugar gelo? Vamos enxugar gelo. Assim ocorreu com o cartão de crédito: em uma década, quantas vezes essa tecnologia foi mudada? É essa a história da humanidade.\n\nEu queria mais uma vez agradecer.\n\nPeço desculpa por ter excedido o tempo. Espero que este seja o primeiro de muitos debates nesta Casa.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Senise posiciona-se de forma crítica e propositiva diante do uso da inteligência artificial no processo eleitoral. Sustenta que o perigo maior não são as deepfakes, mas o mapeamento do caráter e das emoções dos eleitores por metadados, capaz de manipular decisões de voto, como no caso Cambridge Analytica. Trata a IA como ferramenta neutra — 'Ferramenta é ferramenta. O uso dela é o que a define' — e defende um meio-termo que preserve o desenvolvimento tecnológico e seus usos eleitorais positivos, como a detecção rápida de fake news. Cobra regulamentação urgente, tramitação em regime de urgência na Câmara, criação de frente parlamentar e espelhamento no acordo da União Europeia. Critica o projeto do Senado por priorizar a defesa do consumidor em vez da defesa democrática, e questiona a licitação do TSE com Google e OpenAI e as declarações do Ministro Alexandre de Moraes, por falta de transparência, equidade e lisura, já que big techs usariam IA enquanto marqueteiros seriam restringidos. Também rejeita definições vagas de fake news que criminalizariam charges e linguagem mimética.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Criar um meio-termo (caminho do meio) que permita o desenvolvimento tecnológico da inteligência artificial, explorando suas vantagens para o uso eleitoral (como monitoramento e detecção rápida de fake news).",
+            "Criar uma frente parlamentar para acompanhar a questão da inteligência artificial, dada a sua complexidade.",
+            "Fazer uma legislação mínima (urgente) sobre o uso da inteligência artificial, pautando sua adoção já para 2026.",
+            "Chamar o Tribunal Superior Eleitoral (TSE), de maneira republicana, para pautar suas normativas conforme o que a Câmara decidir, tornando o debate mais equilibrado.",
+            "Levar um comunicado ao Presidente da Câmara para que os assuntos inerentes à inteligência artificial tramitem em regime de urgência.",
+            "Espelhar/pautar a legislação brasileira no grande acordo sobre inteligência artificial feito na União Europeia, dado seu respeito à democracia e à liberdade individual.",
+            "Manter o processo equilibrado e com transparência: não aceitar que o TSE contrate as duas maiores big techs do planeta para um sistema de IA enquanto impede o uso de IA pelos operadores de marketing, pois isso feriria equidade, equilíbrio e lisura do processo."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00013",
+          "ordem_no_debate": 13,
+          "texto": " Primeiro quero dizer que você não é estudante coisa nenhuma. Você é uma das feras do mercado. Todo mundo a conhece.\n\nNa verdade, é um tema extremamente complexo, em especial por causa dos neurobots.\n\nNeurobots são os robôs inteligentes. Existem os bots, que seguem umscript, e os neurobots, que são robôs que aprendem, têm o chamado aprendizado de máquina.\n\nHoje, nós que operamos o neurobot os programamos como se faz com os hormônios — com a endorfina, com a adrenalina, com a testosterona. Nós os deixamos mais românticos, menos românticos, mais agressivos. Tudo depende da missão deles.\n\nE o problema deles é que eles dificilmente eles deixam rastro. Eles têm rede social, eles namoram entre eles. As redes sociais deles são melhores do que as nossas, muitas vezes.\n\nNa verdade, para você detectar isso, você tem que ter uma outra tecnologia, porque você conversa com neurobots todos os dias. E existem várias técnicas dentro domarketingem que se usam tanto neurobots como bots propriamente ditos — não necessariamente precisam ser dotados de aprendizado de máquina.\n\nPor exemplo, Deputado, todo mundo sabe que eu vim da guerrilha. Minha grande história inicial dentro domarketingpolítico foi na guerrilha, foi na desconstrução. O primeiro fantástico que eu fiz foi dentro desse foco. Depois desse processo foi que eu...\n\nMas isso me deu uma base muito forte com relação à questão dasfake news. Por isso nós fizemos um trabalho tão grande para aprovar a lei de combate àsfake news.Existem várias formas de se fazer a desconstrução, e o grande segredo dela não está nafake news— essa é a questão; esse é o equívoco —, mas na ilação. A ilação é muito mais poderosa do que uma inverdade, porque você, por exemplo, demonstra para o leitor os indícios e pergunta: \"Ele parece ser desonesto, mas será que ele é?\" O eleitor decide: \"Ele é\". Pronto. O eleitor decidiu. Aquilo está cravado de uma maneira absoluta.\n\nQuem são os principais difusores defake news?São as tias, as vozinhas. Sobre isso há pesquisa da DataSenado. Mais de 70% dasfake newsque rodam são divulgadas pelos idosos. E a pessoa não divulga e não transmite umafake newsporque é malintencionada — já estou terminando, Presidente —, e essa é a grande questão, esse é um dos grandes problemas. Nós vivemos momentos disruptivos e nós vivemos um problema social gravíssimo — e não é no Brasil; é no mundo todo — que é o efeito colateral das redes sociais. Nós estamos vivendo uma eletrólise social.\n\nO que ocorre? Como a plataforma precisa de audiência, ela vai lhe entregar o que você mais gosta e o que você mais detesta. Isso está gerando uma dicotomia social e está gerando um extremismo político em razão do qual está ficando cada vez mais difícil achar consenso. Isso gera umas bolhas.\n\nÉ exatamente por isso, Deputado, que os institutos de pesquisa hoje erram tanto. A metodologia usada pelos institutos de pesquisa não é mais aproveitável, porque nós já vivemos um outro tipo de comportamento social. Se ele tem uma amostragem e essa amostragem não toca em uma dessas bolhas, a bolha não é auferida. Nós vimos isso nas últimas 3 eleições de maneira muito consistente e existe trabalho acadêmico a esse respeito. Nessas próximas eleições nós estamos fazendo um trabalho acadêmico registrado sobre isso para demonstrar o que está ocorrendo.\n\nMas basicamente é isso. Eu acho que nós temos um problema social gravíssimo nas mãos. É uma questão de difícil sustentação, que está levando a sociedade para um extremismo cada vez mais complexo, porque nós estamos construindo cada vez mais muros e menos pontes, mas especialmente o maior problema é nós não enxergarmos isso — sobretudo nós, que somos profissionais da área —, e nos fecharmos em bolhas.\n\nEu quero registrar, Presidente, a presença do Glauco Rojas, que é outro contemporâneo de velha data. Ele foi Secretário de Ciência e Tecnologia aqui do DF.\n\nEntão, basicamente, é isso. É muito difícil detectar... Você precisa de uma tecnologia... Mas há essa questão. Por exemplo, para os meus clientes, nós temos uma plataforma de inteligência artificial chamada Escopo desde 2018. São mais de 18 milhões de linhas de código de programação, ou seja, é um sistema ultra robusto, que foi desenvolvido por 17 equipes ao redor do mundo, para não se decifrar o código-fonte. E o que acontece? Se alguém dá o azar de pegar um marqueteiro do outro lado que detém essa tecnologia, corre o sério risco de, além de ter a candidatura impugnada, ser preso. Hoje em dia, não está não está fácil. A questão é séria. A mesma coisa acontece com asfake news.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Marcelo Senise descreve os neurobots — robôs com aprendizado de máquina, programáveis com temperamentos variáveis conforme a missão — como fonte de complexidade no uso de IA no meio eleitoral, por deixarem poucos rastros e exigirem tecnologia própria de detecção. Sustenta que o mecanismo decisivo de desconstrução não é a fake news, mas a ilação, mais eficaz que a mentira explícita. Segundo ele, a maior parte das fake news é difundida involuntariamente por idosos (mencionando pesquisa do DataSenado) e o problema maior é social: plataformas entregam conteúdo que agrada ou irrita, gerando bolhas, polarização e erro na metodologia tradicional dos institutos de pesquisa. Alerta que empregar tais tecnologias em campanha expõe candidatos e marqueteiros a impugnação e prisão. Registra ainda ter apoio à lei de combate às fake news e possuir plataforma própria de IA (Escopo) para clientes.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00022",
+          "ordem_no_debate": 23,
+          "texto": " A questão da identificação é importante. Quanto às urnas, elas são seguras. Em princípio, não existe nada, pelo menos do ponto de vista do nosso corpo técnico, que mostre que elas não sejam seguras. O inseguro é a eleição, e essa é outra questão.\n\nHá algumas medidas que podem ser tomadas para tornar a coisa um pouco mais equilibrada, como, por exemplo, a obrigatoriedade de registro de uma campanha que está usando sistemas de inteligência artificial. Por quê? Porque passa a ser possível a auditagem. É difícil auditar? É difícil, mas existem tecnologias e técnicos capazes de fazê-lo. Eu acho importante que a pessoa, necessariamente, obrigatoriamente, deva ser avisada que está conversando com inteligência artificial. Essa pode ser uma das soluções plausíveis.\n\nPresidente, eu recebi agora uma mensagem por WhatsApp do Júnior Paes de Barros, que é outro técnico da Bahia da área de inteligência artificial, e ele está lembrando uma questão. Por exemplo, quando se assume uma campanha, qual a primeira medida que tomamos? Fazemos uma varredura na rede para derrubar os neurobots que estão plantados, porque eles estão em todos os lados. Ele cita a campanha de São Paulo. Só em São Paulo, na primeira semana, foram desabilitados 700 bots.\n\nAs campanhas vão mudar. Vai diminuir o tamanho da equipe de criação, porque hoje você tem o ChatGPT, que faz texto, você tem o Midjourney. Ela vai diminuir, mas vai ter aumento na equipe de tecnologia.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O titular considera as urnas eletrônicas seguras conforme avaliação de seu corpo técnico, distinguindo isso da insegurança da eleição em si. Em relação ao uso de inteligência artificial, defende medidas regulatórias: obrigatoriedade de registro das campanhas que utilizam IA, viabilizando auditoria — que reconhece ser difícil, mas possível com tecnologias e técnicos capazes — e aviso obrigatório ao eleitor de que está interagindo com inteligência artificial. Registra ainda, a partir de mensagem de terceiro técnico baiano, que a primeira medida ao assumir uma campanha é varrer a rede para desabilitar neurobots plantados, citando o caso de cerca de 700 bots removidos em São Paulo na primeira semana. Projeta mudança no formato das campanhas, com redução da equipe de criação e ampliação da equipe de tecnologia em razão de ferramentas como ChatGPT e Midjourney. A postura é técnica e confiante, sustentando propostas de regulação e transparência quanto ao uso de IA nas eleições.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Tornar obrigatório o registro de campanhas eleitorais que utilizam sistemas de inteligência artificial, para viabilizar a auditagem.",
+            "Exigir que a pessoa seja avisada de modo obrigatório de que está conversando com um sistema de inteligência artificial.",
+            "Realizar varredura na rede para derrubar bots (neurobots) plantados ao assumir uma campanha."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00026",
+          "ordem_no_debate": 33,
+          "texto": " Exatamente. Eu sou marqueteiro, quem decide quem é criminoso ou não é a Justiça ou o eleitor.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Desalinhado"
+            ],
+            "Postura do Orador": [
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Marcelo Senise identifica-se como marqueteiro e delimita o que lhe cabe afirmar: a classificação de alguém como criminoso não é de sua competência, cabendo essa definição à Justiça ou ao eleitor. A intervenção é breve, predominantemente procedimental e locativa, e não articula opinião substantiva sobre o uso da inteligência artificial no processo eleitoral nem sobre suas possíveis consequências. Não há manifestação de concordância, discordância, abstenção ou ambiguidade em relação ao tema recebido, que sequer é abordado no conteúdo da fala.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [
+            {
+              "participante": "MELILLO DINIS DO NASCIMENTO",
+              "texto": " A discussão não é o crime, porque, ao colocar a questão na ótica de crime, você diz o seguinte: é um problema legal. E eu estou discutindo uma questão ética.\n\n",
+              "apos_caractere_do_texto": 96,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "Retomada ainda não observada."
+            }
+          ],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00027",
+          "ordem_no_debate": 35,
+          "texto": " Então, quanto à questão ética, vou dizer por que ela é tão importante, e eu sou um árduo defensor da tecnologia. Por outro lado, eu tenho a capacidade de saber o fator decisório da D. Maria, que mora no Itapuã, que não tem acesso à comunicação. Eu ainda consigo enxergar o João das Couves, de São Sebastião, que não é enxergado pelo Estado.\n\n\n\n Eu, não. A inteligência artificial é onipresente. Ela só não é onipotente, mas ainda. Sabe por quê? Porque ela tem capacidade de processamento e de enxergar as pessoas. É exatamente disso que se trata. A capacidade de processamento de informações dela é algo fantástico. Por que ela é mais inteligente? Porque ela tem todos os livros que foram escritos pela humanidade, todos os artigos, todas as petições que o senhor já fez. E esse cruzamento é que dá peso para ela. Essa é uma grande vantagem quando se trata de medicina, quando se trata de problemas complexos, quando se trata de linguagem.\n\nQual é o grande desafio domarketing? Não é o que você emite, mas como você é recebido. O elo receptor é a chave. Isso tem grande vantagem, grande serventia. A grande questão — aí a gente parte para o debate ético —, quando se fala em ética, é que temos que falar em ética política, especialmente. Qual é a minha preocupação? Hoje, por exemplo, nas eleições na Argentina, está todo mundo falando sobre tráfego pago, e o Milei, no segundo turno, não investiu 1 real em tráfego pago.O que ele fez? Colocou todo o orçamento em inteligência artificial. Com inteligência artificial, não precisa mais de tráfego pago; ela faz a entrega, por causa do Neural Bot.\n\nEstamos enfrentando o dilema da cobra de duas cabeças. Estamos enfrentando o maior dilema da humanidade nesse momento. Todo mundo tem medo da questão apocalíptica. E aí temos que pensar o seguinte: atrás da inteligência artificial há o ser humano. O problema não está na ferramenta; o problema está no uso dela.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Marcelo Senise declara-se arduamente defensor da tecnologia da inteligência artificial, mas defende que o debate ético — especialmente político — deve ser prioritário. Reconhece os enormes benefícios da IA: onipresença, capacidade de processamento de informações, cruzamento de dados e artigos, com vantagens em áreas como medicina, problemas complexos, linguagem e marketing. No entanto, alerta para os riscos do uso da IA em processos eleitorais, citando a recente eleição da Argentina, em que o candidato Milei estaria supostamente investindo todo o orçamento em inteligência artificial e sistemas de entrega direta (\"Neural Bot\"), dispensando tráfego pago de campanha. Em tom preocupado, evoca situações de pessoas simples e marginalizadas (\"D. Maria\" e \"João das Couves\") para reforçar a importância do fator decisório humano. Sustenta que estamos diante de um dos maiores dilemas da humanidade — a “cobra de duas cabeças” —, mas conclui que, por trás da ferramenta, sempre há seres humanos, sendo o verdadeiro problema o uso que se faz da tecnologia, e não a tecnologia em si.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [
+            {
+              "participante": "MELILLO DINIS DO NASCIMENTO",
+              "texto": "(Inaudível.)\n\n",
+              "apos_caractere_do_texto": 343,
+              "mudanca_de_opiniao_na_retomada": false,
+              "observacao": "O orador mantém a defesa da tecnologia e da inteligência artificial enquanto ferramenta, enfatizando que o desafio reside no uso humano e na ética, sem alterar sua posição inicial apresentada no turno t00035."
+            }
+          ],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00033",
+          "ordem_no_debate": 43,
+          "texto": " Na nossa tenra juventude, nós distribuímos muito jornal pela cidade.(Risos.)\n\nOlhe só, essa é uma questão bastante relevante, Erik. Assim foi com as redes sociais. Quando surgiram as redes sociais, apareceram diversos gurus, um monte de gente vendendo terreno na lua. E isso descredibilizou muito o nosso mercado, não é, Saraiva? Todo mundo tinha soluções. É como ser um milionário: há diversosblogsque nos ensinam a ser um milionário da noite para o dia. No caso da inteligência artificial, há uma séria de agências que diz, por exemplo, que usa a inteligência artificial porque usa o ChatGPT ou usa Midjourney, enfim, milhares de plataformas. Lamento, mas isso não é um serviço de inteligência artificial. Quando se está falando de serviço de inteligência artificial, está se falando, por exemplo, de um SM Escopo. É o tipo de ferramenta que mede a emoção, o sentimento.\n\nPara vocês terem uma ideia, eu fiz diretamente, na campanha passada, seis federais e alguns estaduais, fora a consultoria dentro dessa ferramenta. E o desvio padrão dela foi de 0,5 ou 0,6 um dia antes, ou seja, sabíamos o resultado eleitoral um dia antes.\n\nNa eleição passada, por exemplo, eu fui um dos marqueteiros que estiveram auxiliando a equipe de comunicação do Emanuel Pinheiro em Cuiabá. Chegou o segundo turno, 14 pontos atrás. Isso foi tirado em 13 dias, por causa do trabalho conjunto de muitos profissionais e de uma mudança muito forte na comunicação.\n\nO mais relevante disso, Presidente, é que, um dia antes, nós demos o resultado da eleição de uma Capital como Cuiabá — erramos por 412 votos. Ela é muito precisa.\n\nHá três aspectos básicos: o aspecto de monitoramento; o aspecto de definição de nichos e de fatores decisórios; e a parte de entrega, que é a questão do Neural Bot, que é muito preciso.\n\nPor exemplo, o senhor, Presidente, é um grande defensor do combate ao aborto. Eu acompanho essa história há muitos anos. Com um sistema desses, você consegue detectar quais as mulheres que fizeram aborto. Outro exemplo, a família ainda não sabe que a pessoa tem câncer; o sistema sabe, porque se comprou na farmácia, por causa do médico. Então, hoje não existe mais privacidade. Você está no meio de uma campanha e quer fazer uma mensagem para quem gosta de animal. Você pergunta ao sistema quem gosta de animal, e ele vai te dar um banco de dados com todos os veterinários, com todas as pessoas que têm cachorrinhos ou gatinhos nas redes, com todas as pessoas depetshops.\n\nEstamos defronte de uma tecnologia muito poderosa — muito poderosa. E o que precisamos saber é qual o menor dano que ela pode nos gerar e qual a vantagem disso. Você, na condição de Deputado, tem várias proposições extremamente relevantes, e às vezes você não consegue falar com o público que é beneficiado com essa proposição ou com os interessados nessa causa.\n\nEntão, as coisas têm dois lados: o positivo e o negativo. A minha questão é saber como vamos proteger a nossa democracia de grupos maliciosos, debig techsou de outros países.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Marcelo Senise critica a banalização comercial da inteligência artificial, comparando agências que apenas usam ChatGPT ou Midjourney aos 'gurus' das redes sociais e defendendo que ferramentas especializadas — como SM Escopo e Neural Bot — são as genuínas aplicações de IA. Ele sustenta a precisão dessas ferramentas com sua própria experiência em campanhas (seis federais e estaduais, além da campanha de Emanuel Pinheiro em Cuiabá), afirmando ter previsto o resultado eleitoral com erro de apenas 412 votos. Descreve três aspectos da tecnologia (monitoramento, definição de nichos e entrega de mensagens) e demonstra que ela elimina a privacidade, permitindo detectar abortos, diagnósticos de câncer e interesses específicos dos eleitores para microtargeting. Reconhece usos positivos, como ajudar deputados a falarem com públicos beneficiados por suas proposições, afirmando que 'as coisas têm dois lados: o positivo e o negativo'. Assume posição ambivalente, sem concordância nem discordância explícita do tema, encerrando com uma preocupação central: como proteger a democracia de grupos maliciosos, de big techs ou de outros países.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Definir como proteger a democracia de grupos maliciosos, de big techs ou de outros países frente ao poder da tecnologia de inteligência artificial."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00043",
+          "ordem_no_debate": 54,
+          "texto": " Sr. Presidente, senhoras e senhores, eu acho que hoje nós demos um grande passo no Parlamento. Começar a discutir o assunto, trazer o assunto a público, levantar a pauta nacional, tantos veículos terem publicado o tema, já é uma grande vitória.A partir daí, vai começar a haver muitos debates, debates acalorados, debates com especialistas, debates com aqueles mensageiros do apocalipse, mas o importante é debater. Isso é o importante.\n\nEu queria fazer alguns encaminhamentos. Nós estamos próximos ao recesso. Eu, mais uma vez, gostaria de consignar a minha preocupação com a posição do Presidente do TSE. Eu tenho muito medo da autocracia, tenho muito medo da maneira como a coisa vem sendo conduzida. Vivemos momentos disruptivos extremamente importantes. Este é um assunto que transcende as cores partidárias, transcende a questão dos grupos econômicos.\n\nEstamos num momento social extremamente delicado, Presidente. Gostaria que a Comissão fizesse um encaminhamento, se fosse do entender de V.Exa., no sentido de que nós, membros do mercado — eu, o Emerson Saraiva, enfim, as entidades compostas pelo mercado —, tentássemos uma audiência com o Presidente da Câmara dos Deputados de forma a pedirmos celeridade na discussão do tema dentro da Casa. Nós, operadores da comunicação política, operadores da comunicação institucional, podemos entregar um documento do mercado, porque isso é uma coisa que pode sensibilizar um maior número de Parlamentares.\n\nRealmente, sabemos como é que o Parlamento funciona. Daqui a pouco, vai haver aquela competição desenfreada dos Parlamentares em apresentar vários projetos de lei, e o assunto em si acabará ficando só na superfície, como foi na questão dasfake news. Acho que falta muita criatividade do Parlamentar. Em legislações passadas, como, por exemplo, na relativa àsfake news, se fez um alarde tremendo acerca da regulamentação, dizendo que haveria o cerceamento do direito à livre expressão. Entretanto, era um problema simples de resolver, era uma questão simples de resolver: bastava que as pessoas fossem obrigadas a se registrar. Se houvesse uma denúncia defake news, tendo elas registrado lá o seu RG, o seu CPF, poderiam ser responsabilizadas juridicamente. Cabe à Justiça responsabilizar ou não, decidir o que é e o que não é. Pelo menos é o que determina o nosso ordenamento jurídico pátrio.\n\nFicam as minhas considerações e os meus encaminhamentos.\n\nQuero agradecer-lhe imensamente, Deputado, por ter abraçado esta causa. E, assim como fizemos história no movimento do voto aos 16 anos — lembra aquele panelaço que fizemos dentro desta Casa? —, mais uma vez eu estou aqui com as minhas panelas.(Risos.)Agradeço-lhe mais uma vez.Agradeço ao colega Emerson Saraiva, que veio de longe, ao Dr. Fernando e a todos os presentes.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Agressiva",
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Marcelo Senise considera uma grande vitória o simples fato de o tema ter sido levantado e debatido publicamente pelos veículos de comunicação, sustentando que o mais importante é debater, ainda que com os chamados 'mensageiros do apocalipse'. Manifesta forte preocupação com a posição do Presidente do TSE, afirmando temer a autocracia e a maneira como a questão vem sendo conduzida em um momento social delicado, e avalia que o assunto transcende cores partidárias e grupos econômicos. Faz encaminhamentos: sugere que membros do mercado de comunicação política busquem audiência com o Presidente da Câmara para pedir celeridade na discussão e entreguem um documento setorial, alertando que a corrida por projetos de lei pode deixar o assunto na superfície, como ocorreu com fake news. Critica a falta de criatividade do Parlamentar e sustenta que a questão das fake news seria simples de resolver mediante registro obrigatório com RG/CPF, que permitiria responsabilização jurídica, cabendo à Justiça decidir o que é ou não fake news. Encerra entusiasmado, comparando a mobilização ao movimento do voto aos 16 anos.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Que a Comissão encaminhe, se o presidente concordar, uma tentativa de audiência com o Presidente da Câmara dos Deputados para pedir celeridade na discussão do tema, com entrega de um documento do mercado pelos operadores de comunicação política e institucional.",
+            "Que as pessoas fossem obrigadas a se registrar (com RG e CPF) para, em caso de denúncia de fake news, poderem ser juridicamente responsabilizadas, solução que defende como simples para o problema das fake news."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MELILLO DINIS DO NASCIMENTO",
+      "falas": [
+        {
+          "id": "f00008",
+          "ordem_no_debate": 8,
+          "texto": " Primeiro, quero agradecer ao Deputado Prof. Paulo Fernando e agradecer a todos que estão aqui conversando sobre este tema.\n\nEu o conheço há 50 anos, não há 40, e tenho uma alegria em tê-lo como um dos meus amigos, como também este jovem aqui, que eu conheço há quase 40 anos.\n\nSinto-me em casa. Peço desculpa por ter chegado um pouco depois do horário, mas estava tentando resolver alguns assuntos do Movimento de Combate à Corrupção Eleitoral, do qual eu sou Diretor Nacional.\n\nO MCCE é uma rede de 74 entidades que se reúnem. A OAB, do colega Fernando Bueno, é integrante do MCCE, assim como a CNBB — Conferência Nacional dos Bispos do Brasil e mais 70 entidades, que vão compondo uma rede mesmo. Ela tem sede, tem estrutura, mas funciona em rede.\n\nNós estamos muito preocupados, Marcelo, desde há muito, com temas como este da inteligência artificial, mas, antes disso, com a ideia de desinformação. Se fosse uma inteligência artificial para o bem, não estaríamos aqui tomando este horário dos senhores e das senhoras e de quem nos acompanha. Nós estamos preocupados com aquilo que tem uma distorção tanto no sistema eleitoral como na vontade do eleitor, que para nós é soberano.\n\nO MCCE, desde 2018, vem trabalhando o tema da desinformação, inclusive junto com o Tribunal Superior Eleitoral e com os TREs. Nós fomos a cada Estado em cada eleição — em 2018, em 2020, em 2022. Nós visitamos cada Estado — estivemos lá no Paraná —, em uma campanha de mobilização que contou inclusive com a presença e a participação dos órgãos da Justiça Eleitoral.\n\nTalvez o maior desafio seja encontrar a justa medida disso, ou seja, algo que funcione. Uma sensação minha é que nós estamos sempre correndo atrás do prejuízo. Não vou dizer que estamos enxugando gelo porque há muito já derreteu o mundo da desinformação no universo da política, mas estamos sempre tentando encontrar normativas e soluções institucionais que possibilitem a justa medida disso.\n\nAlgo que nos preocupou muito e que inclusive foi motivo da nossa reunião do mês de novembro de 2023 foi a experiência da inteligência artificial na Argentina. Nós acompanhamos isso de muito perto porque foi um evento novo do ponto de vista da aplicação dessa inteligência artificial. Ao mesmo tempo, ao contrário do Brasil, onde há uma hipernormatividade em relação às eleições, na Argentina há uma hiponormatividade. Traduzindo isso para quem não é do mundo do direito: aqui existe muita norma eleitoral, e na Argentina existe pouca norma eleitoral.Não há nada parecido, na Argentina, com este nosso modelo de Justiça Eleitoral e esta quantidade enorme de regras, normas e discussões sobre como funciona a eleição.\n\nO que é importante diante desse quadro? O importante é buscar normas e legislações... Não vamos conseguir fazer nada até 2024, a não ser que o TSE ocupe o espaço normativo do Parlamento e produza uma resolução — o que não seria de se estranhar, porque já fez isso em outras ocasiões — talvez buscando adequar alguma norma que esteja, por exemplo, na Lei nº 9.504. Esse é um primeiro aspecto.\n\nUm segundo aspecto é que precisamos discutir qual o papel da sociedade. Isso é um pouco como pensa o Movimento de Combate à Corrupção Eleitoral. Só para vocês entenderem e resgatarem, o MCCE foi aquele que produziu, por iniciativa popular, a lei contra a compra de votos, a Lei nº 9.840, e foi também quem organizou a mobilização da sociedade para a Lei da Ficha Limpa. Então temos uma pequena experiência de mobilização.\n\nA pergunta que eu queria colocar no debate, para além do papel do Parlamento, do Parlamentar e de quem pensa isso do ponto de vista da criação de normas e de regulações, é: qual é o papel da sociedade?\n\nEu sempre digo, Marcelo, que eu não me preocupo tanto com afake newsquanto com afake ethics, que acredita nafake news. Esse é um fenômeno social muito interessante. Eu me lembro de algo que ocorreu há quase 15 anos. Uma colega, hoje aposentada, mas na época desembargadora, me ligou e disse:\"Melillo, você, que é um cara que sabe das notícias, confirma aí se estão vindo para o Brasil 150 mil sírios\". Eu disse:\"Cento e cinquenta mil sírios?\"Ela disse: \"É, parece que vão mandar 5 navios com 150 mil sírios para o Brasil\". Eu falei:\"Doutora, há um problema: não cabem em 5 navios 150 mil sírios\". Eu imaginava o sírio que estava lá no final da fila, esperando, olhando os cinco navios no porto. Ele iria dizer:\"Isso é uma cilada, porque vão jogar metade de nós no Mediterrâneo e a outra metade no Atlântico, porque não cabe\".\n\nEu sempre indago muito a que nível chegamos na nossa individualidade de manada, acelerada pela lógica das redes sociais e dos algoritmos — o Marcelo já explicou como isso funciona —, e como nos estabelecemos nessas crenças. Isso vem acontecendo todos os dias, o dia todo, e precisamos discutir com o que a sociedade pode contribuir para reverter esse quadro. Se ficarmos só nas nossas bolhas e nos nossos tapumes grupocêntricos, não vamos chegar a canto nenhum enquanto sociedade.\n\nDois. Precisamos reconhecer que nem o TSE, nem a Câmara, nem as instituições, nem todo mundo junto consegue dar conta de algo que é absolutamente presente e que será cada vez mais presente.\n\nVou concluir. Eu estou trabalhando — não como diretor do MCCE, mas como um pequeno provocador — com a reflexão de um filósofo, o qual eu queria sugerir que vocês acompanhassem. Trata-se de um filósofo coreano alemão — só na Alemanha aparece esse tipo de personagem — que se chama Byung-Chul Han, cujos livros são publicados no Brasil pela Editora Vozes.A Editora Vozes lançou, ainda no começo do ano, o seu livro Infocracia, que é um debate de como a realidade da Internet, do digital, como é a expressão que ele usa, transforma a democracia em todo o mundo, não só no Brasil, na Argentina, na Alemanha, no Ceará, ou no Piauí, do meu amigo Prof. Paulo Fernando. O digital afeta todos os campos. Essa infocracia tende a imaginar que nós vamos transformar o debate e as decisões em um grande grupo de WhatsApp: não vamos precisar mais de governo e de instituição, pois vamos resolver tudo no grupão de WhatsApp.Esse autor reflete sobre os riscos para a liberdade. Ele diz que a liberdade terá sido episódica, por conta da presença do digital, e que nós estamos criando uma cultura de enxame digital, ou seja, que nós estamos separando o joio do trigo e reverberamos nas redes sociais o joio. Essa é, basicamente, a ideia que está por trás da crítica desse filósofo sobre a nossa situação.\n\nO que eu quero concluir? Se não houver uma participação da sociedade, não haverá solução. Não é por excesso de normas que vamos reverter isso. Ao contrário, às vezes o excesso de normas cria situações como essa que deixou o Marcelo um pouco perplexo, diante do exercício do poder pelo Poder Judiciário, o que acaba se transformando, muitas vezes, em um risco à própria democracia.\n\nQuero mais uma vez parabenizar e dizer que eu e o MCCE estamos à disposição. Assim que esse assunto foi colocado na nossa reunião nacional, eu, de imediato, disse ao Deputado Prof. Paulo Fernando:\"Deputado Prof. Paulo Fernando, quando ocorrer esse tipo de debate e proposição, o MCCE quer estar junto, dando a sua pequena contribuição, insistindo que precisamos mobilizar homens e mulheres de boa vontade, para evitar que isso caia sobre nossas cabeças, porque já estamos até o pescoço enterrados\".\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O titular opõe-se ao uso nocivo da inteligência artificial e da desinformação no processo eleitoral, que considera distorcer o sistema eleitoral e a vontade soberana do eleitor. Sustenta que o combate não virá do excesso de normas — alertando que o exercício do poder normativo pelo Judiciário pode se transformar em risco à democracia — nem das instituições sozinhas, apontando que nem TSE, nem Câmara darão conta do problema, mas da mobilização da sociedade, ressaltando como maior preocupação a 'fake ethics' que acredita na fake news, e não a fake news em si. Compara a hipernormatividade eleitoral brasileira com a fragilidade normativa argentina, pondera que até 2024 só haverá avanço caso o TSE produza resolução ocupando o espaço normativo do Parlamento, sugere o pensamento de Byung-Chul Han (Infocracia) sobre os riscos do digital à liberdade e conclui que sem participação social não haverá solução, colocando o MCCE à disposição da mobilização.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Buscar normas e legislações para lidar com o uso da inteligência artificial nas eleições, reconhecendo que a solução até 2024 dependeria do TSE produzir resolução que ocupe o espaço normativo do Parlamento, buscando eventualmente adequar normas da Lei nº 9.504.",
+            "Discutir e definir o papel da sociedade diante da desinformação, buscando nesta participação social a contribuição capaz de reverter o quadro, sem se reduzir a bolhas e tapumes grupocêntricos.",
+            "Adotar a participação efetiva da sociedade como via de solução, em vez de confiar no excesso de normas — este é rejeitado como resposta, por criar riscos à democracia —, mobilizando pessoas de boa vontade para enfrentar os riscos do tema."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00025",
+          "ordem_no_debate": 26,
+          "texto": " Ela não tem estrutura e isso vai ser um compilado de mentiras, porque, por certo, esse relatório corresponde a 2%, exatamente nessa linha dos nossos colegas marqueteiros. Eu não sou marqueteiro, sou péssimo em propaganda, sou péssimo em rede social, mas creio que há um desafio nessa questão colocada, no sentido de tentar imaginar que haverá um controle total do processo eleitoral pelas instituições. Eu creio que essa é uma ilusão. Precisamos ser muito precisos sobre isso.\n\nNa verdade, como funciona a Justiça Eleitoral? É um sistema seletivo igual a qualquer sistema punitivo. Esse sistema faz uma seleção e, se o Anderson cair nela, ficará com a cabeça mais brilhante ainda e, ao mesmo tempo, com menos acesso a qualquer tipo de sistema o resto da vida. Cair no sistema é como no Imposto de Renda, quando se é pego na malha fina. Então, você está pego. Quem escapar disso, os novos candidatos, aqueles que não têm um grande histórico, esses vão fazer uma campanha mais disruptiva.\n\nNo que eu quero insistir? Se o debate for somente sobre como ter uma legislação sobre o tema, estamos fadados ao insucesso. Precisamos discutir claramente o que é, e a sociedade, que tem presença nisso, pode contribuir, como a OAB ou o Conselho Federal de Contabilidade, dando o exemplo de algumas entidades.Como é que as instituições ou as organizações podem contribuir para não transformar isso em algo pior do que já é? E aí precisamos apostar na maturidade do eleitor. O eleitor, quando analisamos isso, é tratado como um imbecil. Eu planejo tudo: vejo qual é o sentimento do eleitor e, em cima disso, faço um projeto para uma cidade de Pernambuco. Será que isso funciona? A não ser como algo absolutamente superficial, é esse o político que vocês querem?\n\n\n\n Pode, daqui a pouco. Deixe-me acabar de provocar.\n\nÉ esse o político que vocês querem? É isso o que vocês estão chamando de democracia. Ou esses são robôs humanos? Antigamente, a preocupação era a gente controlar os robôs, e agora é o oposto, os robôs controlarem os humanos. Quer dizer, então, que esses candidatos são absolutamente estéticos, não são éticos. E esse é um problema domarketingtambém. Quem vocês estão elegendo? Sabonete com formato eletrônico, \"internético\". Que vergonha!\n\nAgora, Marcelo, pode falar.\n\n\n\n Claro que não.\n\n\n\n Eu defendo o cliente. Quem decide quem é criminoso ou quem não é criminoso não sou eu, mas a Justiça.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Agressiva",
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O titular critica fortemente o uso de inteligência artificial e marketing digital no processo eleitoral, refutando a expectativa de que instituições exercerão controle total sobre o processo — que considera uma ilusão — e caracterizando a Justiça Eleitoral como um sistema seletivo e punitivo comparável à malha fina do Imposto de Renda. Sustenta que restringir o debate à criação de legislação conduz ao insucesso e propõe que entidades como a OAB e o Conselho Federal de Contabilidade contribuam, apostando na maturidade do eleitor. Condena campanhas construídas sobre engenharia de opinião que tratam o eleitor como 'um imbecil', gerando candidatos 'absolutamente estéticos, não éticos', análogos a 'robôs humanos' e a 'sabonete com formato eletrônico', e ironiza esse modelo como democracia. Afirma ainda, em tom profissional, que defende o cliente e que a definição de quem é criminoso cabe à Justiça, não a ele. A postura é combativa e indignada, com analogias, perguntas retóricas e desqualificação de candidatos construídos por marketing, sem abandonar a explicação analítica sobre o funcionamento seletivo do sistema.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Ir além do debate restrito à criação de legislação sobre o tema, discutindo claramente o que de fato ocorre, com contribuição da sociedade e de entidades como a OAB e o Conselho Federal de Contabilidade, e apostando na maturidade do eleitor."
+          ],
+          "interrupcoes": [
+            {
+              "participante": "MARCELO SENISE",
+              "texto": " Posso falar?\n\n",
+              "apos_caractere_do_texto": 1750,
+              "mudanca_de_opiniao_na_retomada": false,
+              "observacao": "O titular retoma a pergunta retórica feita ao final de t00026 (\"é esse o político que vocês querem?\") logo após gerenciar o pedido de interrupção, mantendo a coerência e a tese central de seu discurso sobre a superficialidade do marketing político."
+            },
+            {
+              "participante": "MARCELO SENISE",
+              "texto": " Eu preciso responder. Como advogado, você defende criminoso?\n\n",
+              "apos_caractere_do_texto": 2273,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "O orador mantém sua posição crítica e responde à interrupção sem alterar seu posicionamento anterior sobre o marketing eleitoral e as instituições."
+            },
+            {
+              "participante": "MARCELO SENISE",
+              "texto": " Não?\n\n",
+              "apos_caractere_do_texto": 2292,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "O orador mantém sua posição de que a função técnica (seja advogado ou marqueteiro) não deve ser confundida com o julgamento moral ou jurídico do objeto de trabalho, reforçando o argumento anterior sobre ética e estética."
+            }
+          ],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00045",
+          "ordem_no_debate": 56,
+          "texto": " Muito rapidamente, farei três provocações para todos nós, não só quem está junto conosco, mas também quem está acompanhando pela rede.\n\nEste debate ainda vai demorar, não vai resolver-se na velocidade do ChatGPT. É assim que se fala? Eu nunca nem entrei nesse bicho aí. Tinha até medo de ele contaminar a minha máquina, mas vamos lá.\n\nA primeira questão é que a base central do sistema eleitoral brasileiro é a ideia de que uma pessoa corresponde a um voto. Quantos votos a IA vai dar para um candidato? E aí eu quero discutir claramente o seguinte: estamos ou não estamos violando essa ideia principal da soberania, imaginando que o sentimento do cidadão... Segundo Mateus, saiu, mas eu acho que, quando ele lista esses princípios constitucionais, ele está pintando o quadro de rosa e chamando de sorvete de morango. Quero dizer que no Brasil não é assim que funciona. No Brasil, funciona a impunidade, funciona a violação da lei. E tenho certeza de que, apesar de os clientes e de todos os marqueteiros que estão aí associados ao grupo do Emerson e do Marcelo agirem diferente, esse pessoal vai ter a concorrência grave de um monte de gente que não vai dar a menor pelota para esses critérios éticos.\n\nO segundo assunto é o tema da credibilidade. Se eu fizer uma campanha e aprovar nas redes sociais que o Deputado Prof. Paulo Fernando é torcedor do Flamengo, alguém acreditará? É claro que não. Todo mundo sabe que ele é botafoguense doente, o que é quase uma redundância. Então, eu quero dizer para vocês que há muito problema na credibilidade, naquilo em que as pessoas acreditam. Acreditar, dizer que o Deputado Prof. Paulo Fernando é flamenguista, como eu sou, não funciona, porque todo mundo que tem o mínimo de informação — não precisa nem de um sistema eletrônico — sabe que ele não é torcedor do Flamengo, é torcedor do Botafogo. Então, eu vou insistir no segundo ponto. Disse isto no começo e vou dizer no final: o problema às vezes é a ética que está por detrás da crença que esse material oferece. Certas coisas não se sustentam diante da realidade, aí você tem que escolher entre vender a realidade e oferecer um mito.\n\nO terceiro tema é o da regulação. Os tribunais brasileiros, a Justiça Eleitoral não têm a menor condição de oferecer qualquer contribuição sobre isso — ponto.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Agressiva",
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador se declara crítico e cético diante do uso de IA no processo eleitoral e formula três provocações. Primeiro, questiona se o uso de IA viola o princípio de uma pessoa, um voto e a soberania do cidadão, duvidando que princípios éticos se bastem num cenário que descreve como marcado por impunidade e violação da lei, onde marqueteiros sem escrúpulos farão concorrência. Segundo, alerta para o problema de credibilidade e para a ética por trás das crenças geradas por esse material, sustentando que é preciso escolher entre vender a realidade e oferecer um mito. Terceiro, afirma categoricamente que tribunais e Justiça Eleitoral não têm a menor condição de contribuir para a regulação do tema. Reafirma explicitamente, ao final, as críticas feitas no início.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ESTÊNIO FERREIRA",
+      "falas": [
+        {
+          "id": "f00010",
+          "ordem_no_debate": 10,
+          "texto": " Boa tarde.\n\nEu quero cumprimentar o Presidente desta Comissão, Deputado Paulo Fernando.\n\nEu sou Estênio Ferreira, da cidade de Lagoa do Itaenga, em Pernambuco, e fiz questão de participar desta audiência porque ela trata de um tema muito importante e com o qual nós, principalmente dos Municípios do interior, já começamos a nos preocupar, como já foi mencionado nesta tarde.\n\nNós sabemos que vamos para um processo eleitoral em que ninguém quer perder, e, para não perder, infelizmente, há quem se utilize de estratégias que acabam destruindo reputações. Então, eu gostaria somente de pontuar isso: que nós, no interior, nos Municípios pequenos, precisamos nos sensibilizar e buscar mais informações, para, assim, conscientizar o eleitor e a sociedade.\n\nNós sabemos que existe o ônus, mas há também o bônus, e isso é muito interessante, porque até mesmo nas igrejas — e eu faço parte de uma instituição religiosa — nós temos pontuado o quanto muitos jovens e adolescentes têm sido influenciados negativamente com o uso de ferramentas que acabam, muitas vezes, destruindo a sua juventude.\n\nEntão, eu quero deixar registrada a minha preocupação e a minha saudação em nome do Estado de Pernambuco.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Estênio Ferreira, de Lagoa do Itaenga (PE), cumprimenta a Comissão e justifica sua presença pela relevância do tema para Municípios do interior. Ele afirma que, no processo eleitoral em que 'ninguém quer perder', há quem use estratégias que destruim reputações, e defende que os Municípios pequenos se sensibilizem e busquem informações para conscientizar o eleitor e a sociedade. Reconhece que há 'ônus' e 'bônus' nesses usos e registra, também com base em sua vivência em instituição religiosa, preocupação com a influência negativa de certas ferramentas sobre jovens e adolescentes. Não sustenta suas afirmações com dados ou normas. Encerra reiterando a preocupação e saudando Pernambuco.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Nos municípios pequenos do interior, sensibilizar a população e buscar mais informações para conscientizar o eleitor e a sociedade sobre o tema."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "LETÍCIA CAMPOS",
+      "falas": [
+        {
+          "id": "f00012",
+          "ordem_no_debate": 12,
+          "texto": " Boa tarde a todos.\n\nSou Letícia Campos. Meu Instagram é o @impulsionamentopolítico_, eu sou profissional demarketingpolítico e tenho inclusive uma aula na Escola dos Políticos, do Lucas Pimenta, sobre o uso da IA em campanhas eleitorais.\n\nEu digo que sou muito mais uma estudante, uma apaixonada pelo assunto, e estou aqui como aprendiz do tema.\n\nA minha pergunta é para o Prof. Marcelo.\n\nEu tenho muita dificuldade de perceber, de acreditar, de ver como é possível realmente fazer essa auditoria, essa fiscalização do uso da IA. Então, eu queria ouvi-lo um pouco sobre isso.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Profissional de marketing político que leciona sobre IA em campanhas eleitorais, a oradora se apresenta como estudiosa e aprendiz do tema e dirige sua fala ao Prof. Marcelo com uma pergunta. Ela exprime forte ceticismo e dificuldade de acreditar que seja viável auditar e fiscalizar o uso da inteligência artificial, pedindo explicações sobre como essa fiscalização seria possível na prática. A intervenção é predominantemente procedimental e de formulação de dúvida técnica, sem desenvolver posição sobre as consequências da IA no processo eleitoral além da desconfiança quanto à efetividade da fiscalização; sua postura é autodeclaradamente de aprendiz, apegada à dimensão técnica do tema.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente.",
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "RANDERSON CIRQUEIRA",
+      "falas": [
+        {
+          "id": "f00015",
+          "ordem_no_debate": 15,
+          "texto": " Boa tarde.\n\nMeu nome é Handerson Cirqueira.\n\nEu sou criador da marca Mandatos de Valor, que tem um foco muito forte na gestão de mandatos.\n\nOuvindo os senhores aqui, eu confesso que não tenho mais nem cabelo para perder com essa situação — eu costumo dizer que estou careca de falar sobre essas coisas.\n\nVejam bem, temos um sistema em que a insegurança jurídica está constantemente na pauta. Nós sabemos que a legística no Brasil é extremamente complexa e não é simples deliberar sobre temas desse porte, até que o pleito ocorra  — e ele está bem aí. E nós estamos falando de um pleito em que estão em jogo 58.208 vagas só para vereadores e vereadoras, sem contar os 5.570 Municípios, que elegerão Prefeito e Vice-Prefeito. Estamos falando, portanto, de um número aproximado, por conta das federações, de 300 mil concorrentes. Eu não sei quanto vai dar. Foram 535 mil em 2020. E há decisões que precisam ser tomadas a esse respeito.\n\nNós sabemos que a tecnologia é um adorável mundo novo e que nós não sabemos... Como eu disse, eu não vou arrepiar cabelo com isso, porque eu nem tenho, mas o Emerson e outros colegas especialistas também falaram sobre a questão doiceberg.\n\nComo é que nós vamos conseguir resolver esse problema até o dia 6 de outubro de 2024? Porque a tecnologia, de 2013 para cá, especialmente, fez mais ou menos isso: uma grande curva de avanço da disseminação de informação. E você falou aqui do mapeamento das emoções. Como é que nós vamos conseguir lidar com isso com o eleitor?\n\nIsso é uma tragédia anunciada, porque há esses ambientesdeep, e como é que você controla isso num ambiente onde há uma grande incipiência? E nós estamos falando apenas da ponta doiceberg. Isso é uma desgraça anunciada, o caos instaurado. Como é que nós vamos conseguir lidar? Trazendo esse debate aqui para dentro do Legislativo Federal?\n\nAté que ponto podemos tirar daí — você falou de legislação mínima também — inovações no ordenamento jurídico capazes de ter controle suficiente para evitar esse caos?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Handerson Cirqueira (criador da marca Mandatos de Valor, focada em gestão de mandatos) adota postura predominantemente de alerta e questionamento sobre os riscos do uso de tecnologia no pleito eleitoral de 2024. Ele se diz \"careca de falar\" sobre o tema, critica a insegurança jurídica e a complexidade da legística brasileira, e destaca a dimensão do pleito: 58.208 vagas para vereadores, 5.570 municípios e cerca de 300 mil concorrentes, ante 535 mil em 2020. Alertando para o avanço tecnológico desde 2013, cita a metáfora do iceberg, ambientes de deepfake e o mapeamento de emoções do eleitor, caracterizando a situação como tragédia e desgraça anunciada, com \"caos instaurado\" difícil de controlar até 6 de outubro de 2024. Ele questiona como lidar com isso e sugere trazer o debate para dentro do Legislativo Federal, buscando inovações no ordenamento jurídico e uma legislação mínima capaz de dotar o sistema de controle suficiente para evitar o caos. A postura combina carga emocional (fórmulas como \"tragédia anunciada\" e humor autodepreciativo), confiança em perguntas retóricas dirigidas à mesa e articulação técnica de dados e conceitos jurídicos.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Realizar o debate sobre a insegurança jurídica e o uso de tecnologia no processo eleitoral trazendo-o para dentro do Legislativo Federal",
+            "Criar inovações no ordenamento jurídico (legislação mínima) com controle suficiente para evitar o caos decorrente do uso de deepfakes e outras tecnologias no pleito"
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        }
+      ]
+    },
+    {
+      "nome": "MATEUS DA ROCHA BARROS",
+      "falas": [
+        {
+          "id": "f00029",
+          "ordem_no_debate": 39,
+          "texto": " Boa tarde.\n\nNa verdade, eu gostaria de só trazer um ponto. Quando se fala de inteligência artificial, quer se dizer que ela também é algo muito bom. Nesse debate aqui sempre estamos trazendo um pouco destas mazelas — é a ponta doiceberg,é a prejudicialidade que a inteligência artificial traz. Mas, no contexto eleitoral, quando vamos tratar um pouquinho sobre a questão de inteligência artificial, ela permite uma segmentação de dados, ela facilita muito o direcionamento dessa campanha eleitoral da melhor forma possível para cada candidato.\n\nO importante aqui, na minha perspectiva, sobre a questão da regulamentação, é tratarmos sempre de alguns princípios constitucionais que nós já temos de direito à privacidade e, agora, já com a LGPD, de proteção realmente dos dados. Precisamos regulamentar o uso da inteligência artificial dentro do contexto eleitoral no sentido de garantir que se respeite a privacidade dos dados, que não se utilize de forma indevida aqueles dados que foram coletados, seja na pré-campanha, seja durante a campanha, e que também, obviamente, não se utilize essa ferramenta para trazer desinformação.\n\nEste é o grande problema que nós, de certa forma, verificamos dentro das eleições, a desinformação. Estou tratando tanto defake newscomodedeepfake. São coisas que, de certa forma, é função também nossa, como profissionais do direito. Eu, na condição de advogado também, sempre devo trazer ao discurso o quê? Temos que usar essa ferramenta? Sim, temos que usá-la, é inevitável. O próprio Emerson vem falando, o Marcelo vem falando, isso é o nosso dia a dia, não há como barrar a utilização dessa ferramenta. Mas podemos sempre barrar o quê? O mau uso da ferramenta, sempre respeitando princípios constitucionais. Eu estou respeitando princípios constitucionais de democracia? Excelente. Eu estou garantindo privacidade ao usuário dos dados? Excelente. Eu estou dentro das regras da LGPD? Perfeito.\n\nEntão, de certa maneira, além das dificuldades que nós temos, obviamente, para regulamentar essa ferramenta, por ser algo muito volátil — a tecnologia avança numa velocidade exponencial —, a nossa forma de atuação, de regulamentação, tem que ser como? No sentido de garantir pelo menos o mínimo constitucional, para que o processo eleitoral continue sendo, como sempre, democrático, para que haja sempre a lisura do processo democrático.\n\nÉ basicamente essa a minha ponderação.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Mateus da Rocha Barros pondera que a inteligência artificial no contexto eleitoral apresenta aspectos positivos — como a segmentação de dados que facilita o direcionamento de campanhas — ao lado de riscos, sobretudo a desinformação por fake news e deepfakes. Como advogado, defende que o uso da ferramenta é inevitável e não deve ser barrado, mas que o mau uso precisa ser coibido com base em princípios constitucionais de privacidade e democracia e nas regras da LGPD, protegendo os dados coletados na pré-campanha e durante a campanha. Reconhece a dificuldade de regulamentar algo tão volátil quanto a tecnologia, propõe que a regulação assegure ao menos o mínimo constitucional e conclui que o objetivo final é preservar a lisura do processo democrático.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Regulamentar o uso da inteligência artificial no contexto eleitoral no sentido de garantir o respeito à privacidade dos dados e evitar a utilização indevida de dados coletados na pré-campanha ou durante a campanha.",
+            "Impedir o uso da ferramenta de IA para gerar desinformação (fake news e deepfake), sem barrar a utilização da ferramenta em si, mas barrando o mau uso sempre em respeito aos princípios constitucionais.",
+            "Direcionar a regulamentação para garantir ao menos o mínimo constitucional (democracia, privacidade dos dados e conformidade com a LGPD), preservando a lisura do processo eleitoral."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ERIK CARDOSO",
+      "falas": [
+        {
+          "id": "f00031",
+          "ordem_no_debate": 41,
+          "texto": " Boa tarde.\n\nPrimeiro eu gostaria de agradecer à Mesa, a todos.\n\nMarcelo foi meu professor. Eu comecei com rede social e política por conta do Marcelo.\n\nAcompanho você também, Emerson. Acho bacana demais esse conteúdo.\n\nAgradeço também ao Deputado, correligionário — muito obrigado.\n\nEu fiz perguntas porque trabalho com rede social desde 2005. E vimos percebendo todo o seu crescimento, todo o seu desenvolvimento, a entrada do ADS, a entrada do impulsionamento, a queda do Orkut, a ascensão do Facebook, a queda do Twitter, a ascensão do Twitter.\n\nEu vou fazer três perguntas, e elas já estão direcionadas.\n\nA minha primeira pergunta é: estamos debatendo aqui a utilização da inteligência artificial. Então, Marcelo, de que ferramenta estamos falando afinal de contas? Na minha concepção, há um leque enorme de ferramentas de inteligência artificial, de criação de texto a criação de áudios. Mas, especificamente hoje, neste momento, quais são essas ferramentas que estão sendo debatidas? Por que se está pedindo a regulamentação da utilização delas? Essa é a minha pergunta para o Marcelo.\n\nA pergunta também é para o Deputado, claro. Com a utilização da inteligência artificial, na prática, qual é o impacto político, eleitoral e social que já se pode medir?\n\nEmerson, gostaria de lhe direcionar esta pergunta: quais são os impactos que vamos ver no mercado? Eu acredito no seguinte:fake newsé conteúdo. Então, alguém tem que produzir esse conteúdo. Só que, 30 anos atrás, 40 anos atrás, existiam os jornais, e eu acho que ninguém foi barrar jornal, regulamentar jornal. Havia os apócrifos, como chamavam — desculpem, eu não sei se é essa a palavra que se usa. A maneira como os concorrentes imprimiam as fotos dos caras e as lançavam no bairro inteiro, sem nome, sem edição, sem nada, era uma disseminação defake news,assim como os panfletos e tudo mais. Do que está sendo tratado? É da utilização da ferramenta? É da produção do conteúdo?\n\nSão essas três perguntas que eu gostaria de fazer.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Erik Cardoso estrutura sua intervenção em três perguntas dirigidas aos convidados (Marcelo, o Deputado e Emerson), sem fechar posição conclusiva explícita. Ancorado em sua experiência com redes sociais desde 2005, ele pergunta qual ferramenta de inteligência artificial está efetivamente em debate para a regulamentação, qual impacto político, eleitoral e social mensurável o uso de IA já produz e quais impactos esperados no mercado. Sustenta, de forma argumentativa, que 'fake news é conteúdo' e que a desinformação já existia no passado — em jornais, panfletos e impressos apócrifos distribuídos sem autoria — sem que se regulamentasse o meio de comunicação. Pela analogia histórica, ele sugere que a discussão deveria distinguir a utilização da ferramenta da produção do conteúdo, o que soa como ceticismo em relação à regulação do meio, embora não formule uma tese assertiva contra a regulamentação pretendida. Permanece com as perguntas abertas aos convidados.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "AUGUSTO DAMIÃO",
+      "falas": [
+        {
+          "id": "f00037",
+          "ordem_no_debate": 47,
+          "texto": " São tantos assuntos! Nem sei por onde começar.\n\nO debatedor Emerson disse que hoje a inteligência artificial nos ouve e nos vê. Sim, é verdade.\n\nEu acompanho as grandes empresas de tecnologia, de inteligência artificial, os grandes cientistas da área, e fiquei surpreso ao descobrir que hoje, além disso, ela nos vê por meio de paredes — não precisa nem de áudio, nem de imagem, ela nos vê através de ondas eletromagnéticas, pelo sinal dowi-fi.Então, o celular do outro lado vê quem está aqui, quantas pessoas...\n\n\n\n Sim, com certeza.\n\nSe você acompanhar os grandes executivos, os cientistas da área, o que eles vão dizer? Os grandes CEOs dasbig techsgaguejam na hora em que você pergunta do domínio da IA. Alguns deixam claro que a superinteligência artificial, que é o nível 3, ainda não chegou, não agora, mas pode chegar.\n\nSão três fases de inteligência artificial, e nós estamos na aurora da primeira, na infância.A OpenAI está tentando já para um segundo nível, que é a inteligência artificial geral. A terceira é a superinteligência artificial.\n\nJá dizem que é uma força imparável. Então, não tem como parar isso.\n\nA Grã-Bretanha, que recebeubig techs, cientistas, está presidindo o primeiro instituto global de segurança de IA. Então, dali vão sair muitas coisas. O primeiro Ministro Rishi Sunak disse:\"Nós não vamos fazer moratória. Nós vamos testar todos os modelos e os limites. Vamos ver o que vai sair daí\".\n\nEntão, se nós tentarmos regular um ponto de limitar, nós ficamos na idade das trevas, e eles estarão muito mais avançados. Nós temos que trabalhar em conjunto.\n\nEu sempre reclamo da política brasileira. Nós sempre temos uma política de remediação, e não dá para remediar. Um debatedor aqui falou que em 4 horas nós percebemos a calúnia e o problema que a criou. Em 4 horas dá para matar, dá para fazer um assassino de reputação. Então, só outra contrainteligência artificial pode fazer essa fiscalização, esse monitoramento em tempo real. É uma forma de fazer uma prevenção, não uma remediação. O ser humano não vai conseguir competir com ela e fazer um monitoramento em tempo real. Então, vai ser necessário outra inteligência artificial para fazer essa fiscalização em tempo real.\n\nHá várias outras coisas, mas o meu tempo acabou.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador alerta que a IA já vigia pessoas de forma ampla — afirmando que 'vê por meio de paredes' via ondas eletromagnéticas e sinal Wi-Fi, sem áudio ou imagem — e que avança rápido, estando ainda na infância rumo à inteligência geral e à superinteligência, vistas como força imparável. Contra a regulação restritiva, argumenta que limitar deixaria o país na 'idade das trevas' enquanto outros avançam, citando a Grã-Bretanha e Rishi Sunak (sem moratória, com teste de modelos) para defender atuação conjunta e institutos globais de segurança de IA. Critica a política brasileira de remediação: danos como calúnia e 'assassino de reputação' ocorrem em 4 horas, exigindo prevenção. Propõe contrainteligência artificial para fiscalização e monitoramento em tempo real, já que o ser humano não competiria com a máquina.",
+          "objeto_do_posicionamento": "Uso da inteligência artificial no processo eleitoral e suas possíveis consequências",
+          "propostas": [
+            "Trabalhar em conjunto com os países avançados em IA, em vez de tentar regular impondo limites que deixariam o Brasil para trás.",
+            "Usar outra inteligência artificial para fiscalizar e monitorar em tempo real (contrainteligência artificial), com função de prevenção em vez de remediação."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    }
+  ],
+  "notas_revisao": [],
+  "arquivo_auditoria": "auditoria/debate_linha_00027_a2f2abdfa384_anotado.json"
+}

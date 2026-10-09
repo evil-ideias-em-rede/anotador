@@ -1,0 +1,992 @@
+{
+  "formato": "debate_por_participante_v1",
+  "debate_id": 138,
+  "tema": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+  "status": "anotado_aguardando_revisao_humana",
+  "participantes": [
+    {
+      "nome": "Caio Vianna",
+      "falas": [
+        {
+          "id": "f00001",
+          "ordem_no_debate": 1,
+          "texto": " Declaro abertos os trabalhos da reunião de audiência pública híbrida para prestar esclarecimentos a respeito dos recentes vazamentos de dados da população brasileira.\n\nA presente reunião tem amparo na aprovação do Requerimento nº 339, de 2023, de minha autoria.\n\nCom base no art. 220,§1º, do Regimento Interno, convido neste momento para compor a Mesa o Sr. Waldemar Gonçalves Ortunho Júnior, Diretor-Presidente da Agência Nacional de Proteção de Dados — ANPD. Convido também para participar da Mesa o assessor Jeferson Barbosa.\n\nQuanto aos procedimentos, faço os seguintes registros. O tempo reservado ao convidado é de 15 minutos, prorrogáveis, se for necessário, não podendo haver apartes. Cada Deputado inscrito para interpelar poderá fazê-lo por 3 minutos. O convidado interpelado terá igual tempo para responder, facultadas a réplica e a tréplica no mesmo prazo.\n\nAntes de iniciar as exposições, quero fazer os seguintes esclarecimentos sobre a importância do debate proposto pelo requerimento de minha autoria. Como eu já vinha falando com o nosso Diretor-Presidente Waldemar, acho que este é um momento de extrema importância para discutirmos a proteção de dados pessoais do brasileiro, tendo em vista que hoje nós utilizamos sistemas e populamos esses sistemas, esses bancos de dados, com as nossas informações pessoais, muitas vezes informações sensíveis. Portanto, quanto mais avançamos no setor de tecnologia, mais temos que garantir essa proteção dos dados do cidadão brasileiro.\n\nTendo em vista que hoje muitas empresas, inclusive no setor privado, se prevalecem disso, mesmo quando não autorizamos... Quando vamos fazer um cadastro, nós autorizamos que a empresa, obviamente, possa utilizar os nossos dados para aquela finalidade, para aquela operação, mas, às vezes, vemos que não é isso o que acontece. Essas empresas acabam, depois, compartilhando nossos dados. Muitas vezes, fazemos um cadastro, e, imediatamente, o nosso telefone já está tocando, com outra empresa, com a qual não fizemos o cadastro, oferecendo algum tipo de serviço, ou mandandoe-mail, ou mandando SMS, importunando, inclusive, o dia a dia do cidadão que está trabalhando.\n\nEntão, essa é uma questão na qual precisamos avançar, para a qual precisamos ter o apoio deste Parlamento, a fim de que a ANPD possa desenvolver esse trabalho com cada vez mais eficiência, com o objetivo de proteger o cidadão brasileiro dessas investidas, assim como os seus dados. Isso acontece no setor público também, em grande escala, como, em passado recente, aconteceu com o Ministério da Saúde, quando houve o vazamento de informações de milhões de brasileiros, que tiveram seus dados expostos. Também vemos acontecer em Prefeituras, em órgãos menores, esses vazamentos com muita frequência, colocando em risco o usuário. Acho que é de conhecimento de todos que os dados são hoje um dos maiores ativos que nós temos; muitas vezes é até considerado um ativo mais valioso do que o petróleo, do que outrascommodities.\n\nPrecisamos ter muita clareza quando tratarmos desse assunto, sabendo que ele é importante e sabendo que é necessário investimento e momentos como este aqui para discutirmos o tema, para discutirmos a pauta, e continuarmos avançando na proteção de dados.\n\nEu vou seguir adiante.\n\nPasso a palavra, pelo prazo de 15 minutos, ao Sr. Waldemar Gonçalves Ortunho Júnior, Diretor-Presidente da Agência Nacional de Proteção de Dados — ANPD.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Caio Vianna preside a abertura da audiência pública, define procedimentos e apresenta a motivação do requerimento de sua autoria, defendendo a urgência da proteção de dados pessoais dos brasileiros diante dos avanços tecnológicos. Critica o compartilhamento indevido de cadastros por empresas, que importunam cidadãos com ligações e mensagens não solicitadas, e denuncia vazamentos no setor público, citando o Ministério da Saúde e prefeituras. Sustenta que dados são hoje um dos ativos mais valiosos, comparáveis ao petróleo, e que avançar nessa proteção exige investimento e debate permanente, pedindo o apoio do Parlamento para que a ANPD atue com crescente eficiência na proteção do cidadão. Não trata de concurso público na agência.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [
+            "Avançar na proteção de dados dos cidadãos, contando com o apoio do Parlamento para que a ANPD desenvolva seu trabalho com crescente eficiência contra o uso indevido e o compartilhamento não autorizado de dados.",
+            "Investir e dedicar momentos de debate no Parlamento para discutir a pauta da proteção de dados e continuar avançando nessa proteção."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00003",
+          "ordem_no_debate": 3,
+          "texto": " Vamos, então, diretamente aos questionamentos. Eu vou fazendo as perguntas, o Sr. Waldemar vai respondendo, e vamos seguindo aqui. Eu vou tentar ser o mais breve possível.\n\nNa qualidade de órgão responsável por zelar, implementar e fiscalizar o cumprimento da Lei Geral de Proteção de Dados Pessoais — LGPD em todo o território nacional, como a ANPD atesta a segurança dos sistemas utilizados para a proteção de dados?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Vianna assume postura técnica e confiante ao coordenar os questionamentos, anunciando condução direta e breve (perguntas dele, respostas de Waldemar). Formula indagação focalizada sobre o tema do fortalecimento da ANPD: invoca a LGPD como referência normativa para lembrar que a ANPD é a responsável por zelar, implementar e fiscalizar a lei e pergunta como ela atesta a segurança dos sistemas de proteção de dados. A fala é exclusivamente procedimental e interrogativa, sem tomada de posição sobre o conteúdo do pedido de concurso público, mas estabelece premissa fiscalizatória vinculada ao tema.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00005",
+          "ordem_no_debate": 5,
+          "texto": " O senhor tem o número, neste ano, de quantos vazamentos vocês acompanharam e de quantos fizeram o estudo? O senhor tem o número de quantas sanções ou multas vocês aplicaram?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Caio Vianna não expressa opinião ou posição própria sobre o tema; a intervenção é estritamente interrogativa e procedimental, dirigida a uma autoridade para obter dados quantitativos: número de vazamentos acompanhados e estudados no ano e número de sanções ou multas aplicadas. O orador não declara apoio, oposição ou abstenção ao pedido de concurso público ou ao fortalecimento da ANPD, limitando-se a cobrar números de fiscalização e transparência do órgão. Ainda que a sequência de perguntas funcione, em contexto, como cobrança indireta sobre a atuação da agência, isso não constitui posição assumida nesta intervenção específica.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00007",
+          "ordem_no_debate": 7,
+          "texto": " Queria aprofundar um pouco mais este tópico, até para que eu e todos que estão aqui nos acompanhando possamos compreender.O vazamento, quando acontece, pode ser provocado por agente interno ou externo. Para classificar como interno um vazamento, teria que haver uma falha da empresa ou do sistema. Portanto, a empresa seria a responsável?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Caio Vianna formula uma pergunta investigativa sobre a responsabilização em vazamentos de dados, sem assumir posição própria sobre o tema do concurso público e do fortalecimento da ANPD. Ele estrutura a questão distinguindo vazamentos provocados por agentes internos ou externos e indaga se a classificação como vazamento interno exigiria uma falha da empresa ou do sistema e se, nesse caso, a empresa seria automaticamente a responsável. O enunciado preliminar ('Queria aprofundar um pouco mais este tópico... para que... possamos compreender') explicita a intenção de esclarecimento coletivo, configurando tom técnico-periférico em relação ao tema central: a intervenção tangencia o escopo de atuação da ANPD ao tratar de classificação de incidentes e responsabilidade, mas não se posiciona quanto ao pedido de concurso público nem ao fortalecimento institucional da agência. Trata-se, portanto, de exposição predominantemente interrogativa, sem concordância, discordância ou ambiguidade manifesta, e sem invocação de autoridade, experiência ou dados externos como fundamento persuasivo.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00009",
+          "ordem_no_debate": 9,
+          "texto": " Sim.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental: Caio Vianna limita-se a responder 'Sim.' a uma intervenção anterior, sem qualquer exposição de opinião. Não é possível identificar o que está sendo confirmado, tampouco sua posição perante o tema (concurso público e fortalecimento da ANPD), pois o objeto da anuência não se encontra no registro.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00011",
+          "ordem_no_debate": 11,
+          "texto": " E nunca houve nenhuma falha técnica?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "A fala não expressa posição quanto ao pedido de concurso público ou ao fortalecamento da ANPD. A exposição é puramente interrogativa e apoia nada além da pergunta \"E nunca houve nenhuma falha técnica?\". Não manifesta apoio nem crítica ao titular. A pergunta subtrai adesão à afirmação de que o sistema é tecnicamente confiável. Trata-se de indagação solitária, sem travessia ou assunto no manifesto. Serve como uso interrogativo: questionar se houve falha técnica em algum concurso público. Sugestível de leitura enfatizada, serve para subestimar a posição contestada, mas não avança alinhamento temático, posicionamento ou postura. A fala não adentra argumento, justificativa ou proposta.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [
+            {
+              "participante": "WALDEMAR GONÇALVES ORTUNHO JÚNIOR",
+              "texto": " Não, isso eu não posso afirmar.\n\nPara a maioria dos vazamentos que nós estamos tendo ainda não houve conclusão através de uma perícia policial. Não recebemos uma falha gritante até o momento.\n\n",
+              "apos_caractere_do_texto": 39,
+              "mudanca_de_opiniao_na_retomada": null,
+              "observacao": "Retomada ainda não observada."
+            }
+          ],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00012",
+          "ordem_no_debate": 13,
+          "texto": " O.k.\n\nNão está claro para mim. O cidadão vai à empresa e registra os seus dados pessoais no banco de dados específico da empresa. A partir do momento que os dados são expostos — e a segurança desses dados era de responsabilidade daquela empresa —, a meu ver pouco interessa se o vazamento foi feito pela empresa ou por um agente externo. Para mim, a empresa sempre será responsável. Se um agente externo é capaz de penetrar o sistema — não precisa ter havido um erro operacional de algum funcionário da empresa —, é porque a empresa não implementou as práticas de segurança adequadas. Deu a esse malfeitor externo a oportunidade de invadir o sistema e promover esse vazamento de dados. Portanto, meu ponto é o seguinte: não importa se foi a empresa ou o agente externo, o cidadão saiu prejudicado de qualquer forma.\n\nQuais são as medidas que vocês da ANPD conseguem implementar para que isso não aconteça?\n\nEu vou até entrar nesse ponto daqui a pouco. Eu vi que há um problema óbvio e grave de estrutura. Vocês têm uma estrutura muito reduzida para operacionalizar suas atividades. Com o avanço da tecnologia, há cada vez mais sistemas sendo colocados para uso da população, e vocês estão com um quadro muito reduzido. Inclusive, eu me assustei ao ver que há três pessoas para fazer um monitoramento. É muito pouco.\n\nO que eu quero saber é o seguinte: mesmo tendo poucas pessoas, qual é o procedimento?\n\nTambém não me parece razoável falar em aumento do quadro, se não há de fato uma sanção. Se, desde que vocês estão em funcionamento, as empresas que tiveram dados vazados não sofreram nenhum tipo de sanção, multa ou algo que as faça entender que, no Brasil, nós vamos coibir esse tipo de atividade ou a falta de implementação de segurança em bancos de dados, elas vão continuar agindo do mesmo modo. É óbvio que é mais vantajoso. Implementar segurança é caro, não é barato.\n\nEntão, essa é a minha dúvida, porque o cidadão sai prejudicado de qualquer forma.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Caio Vianna sustenta que a empresa detentora do banco de dados é sempre responsável por vazamentos, mesmo quando decorrentes de ação de terceiro, pois a possibilidade de invasão revela ausência de práticas de segurança adequadas; em qualquer hipótese, o cidadão fica prejudicado. Diante disso, pergunta que medidas a ANPD consegue implementar e qual o procedimento de atuação. Critica a estrutura reduzida da Agência, mencionando espanto ao constatar apenas três pessoas no monitoramento em um cenário de expansão tecnológica, e argumenta que ampliar o quadro não é razoável sem sanções efetivas: sem punição às empresas com dados vazados, permanece mais vantajoso descuidar da segurança, que é cara.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [
+            "Tornar a empresa sempre responsável pelo vazamento de dados pessoais de titulares armazenados em seu banco de dados, indistintamente se o vazamento foi causado pela própria empresa ou por agente externo que explorou falha de segurança.",
+            "Aplicar sanções e multas às empresas que tiveram dados vazados e não implementaram segurança em bancos de dados, de modo a coibir essa conduta no Brasil.",
+            "Ampliar o quadro de pessoal da ANPD para operacionalizar suas atividades diante do avanço tecnológico, mas somado à aplicação efetiva de sanções — o aumento do quadro não se justifica sem sanções."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00015",
+          "ordem_no_debate": 16,
+          "texto": " Eu vou até fazer uma brincadeira. Parece-me que vocês estão com o quadro de funcionários menor do que o meu gabinete.\n\nO que eu quero, na verdade, é entender a situação, para que possamos depois discutir isso com mais profundidade. Gostaria de saber como nós aqui da Casa podemos contribuir, podemos ajudar.\n\nHá algo que não me parece razoável nisso tudo. Você deu o exemplo da padaria, que é tão importante quanto asbig techs, mas os grandes vazamentos geralmente vêm de bancos de dados maiores, das grandesbig techs —não das tão grandes, porque elas têm uma camada de proteção e segurança maior, mas de algumas que estão galgando esse espaço.\n\nNão me parece razoável não haver uma punição quando se identifica que o vazamento veio daquela empresa, independentemente de a empresa ter tido uma falha muito grave ou não. Como essas pessoas podem ser recompensadas no futuro pelos dados delas que foram vazados? Como elas podem ter a garantia de que o dinheiro delas, como contribuintes, está sendo bem aplicado na ANPD, se elas não veem, quando o dado delas é exposto, uma medida enérgica para que se puna, de certa forma, essas empresas, e elas passem a investir cada vez mais em soluções mais modernas para melhorar esta camada de proteção?\n\nIsso, para mim, ainda não me parece razoável. Não sei se é falta de instrumento, às vezes, de quadro de pessoal, mas acho que é preciso algum aprimoramento na legislação. Nós precisamos ir um pouquinho mais a fundo nisto. Parece-me que não houve, ainda, não vou nem dizer uma mão pesada da ANPD, mas uma resposta mais efetiva, por parte da agência, com relação a estes vazamentos.\n\nEu aproveito para perguntar: houve algum tipo de sanção ou alguma coisa que vocês fizeram com relação ao Ministério da Saúde, quando houve o vazamento do ConecteSUS?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Caio Vianna critica a atuação da ANPD como insuficientemente enérgica diante de vazamentos de dados, especialmente os provenientes de bancos de dados maiores de empresas de tecnologia em ascensão. Defende que não é razoável deixar de punir a empresa da qual partiu o vazamento, independentemente da gravidade da falha, pois a ausência de punição compromete a garantia aos titulares e a correta aplicação dos recursos públicos, além de desincentivar investimento em soluções de proteção mais modernas. Aponta o quadro de pessoal reduzido, admite possível falta de instrumentos e defende aprimoramento legislativo, cobrando resposta mais efetiva da agência. Oferece contribuição da Casa para aprofundar a discussão e pergunta se houve sanção ao Ministério da Saúde pelo vazamento do ConecteSUS.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [
+            "Punir empresas responsáveis por vazamentos de dados, mesmo quando a falha não seja extremamente grave, de forma a incentivá-las a investir em soluções mais modernas de proteção.",
+            "Promover aprimoramento na legislação de proteção de dados, aprofundando os instrumentos existentes.",
+            "Adotar uma resposta mais efetiva, por parte da ANPD, em relação a vazamentos de dados."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00017",
+          "ordem_no_debate": 18,
+          "texto": " Eu entendo toda a dificuldade por que vocês devem passar para fazer isso acontecer, mas eu quero contribuir porque acho que a ANPD é fundamental.\n\nNo entanto, eu acho que está faltando algum elemento. Não é possível! Nós não podemos demorar esse tempo todo para resolver e dar uma punição. Vamos lá! Hoje o Ministério da Saúde é um dos maiores do Brasil, senão o maior, em todos os termos: orçamento, quadro de pessoal, tudo mais e implementações. Obviamente, você deve estar acompanhando isso. Nós estamos avançando cada vez mais para digitalizar os prontuários, para ter mais informações sensíveis de pacientes. Isso é muito preocupante.\n\nSe, no momento em que houve a necessidade de um sistema robusto com todas as informações, estas informações foram vazadas, imagine você ser atendido: você preenche todos os seus dados, que já são dados sensíveis, e, daqui a pouco, você vê lá seu exame, e foi identificada uma doença que, às vezes, você não quer compartilhar nem com uma pessoa da sua família, mas que ela está naquele banco de dados, e isso, a qualquer momento, pode ser vazado ou para consumo de empresas do setor ou para criminosos ou para qualquer que seja a atividade ilegal. Isso pode ser vazado, e aquela pessoa nunca mais vai ser reparada no dano que sofreu.\n\nPortanto, eu entendo, sim, que a ANPD é fundamental e acho que ela não está num plano satisfatório. Nós temos que entender que o ponto não é a existência da ANPD, mas, sim, o que não está satisfatório. Está faltando aprimoramento da legislação? Está faltando recurso? Também não me parece que seja apenas a questão de recurso. Parece-me que está faltando mais coisa.\n\nO ConecteSUS, por exemplo, foi um caso que aconteceu já faz algum tempo, e já dava para ter tido alguma resposta.\n\nSe, igualmente, não está havendo informação do Ministério, nós temos que tomar medidas. Imagine uma empresa não fornecer informações durante 10 anos, e está claro que ela, de certa forma, penalizou o cidadão que interagiu com o sistema dela. Nós não vamos tomar medida nenhuma? Nós vamos deixá-la continuar operando no mercado livremente, sem nenhuma punição? Eu acho que é necessário fazer um estudo sobre isso.\n\nNós precisamos entender como vamos atuar, porque não adianta apenas colocar mais recursos na ANPD e aumentar o pessoal, se vocês não tiverem as ferramentas que talvez estejam faltando. Eu também não sei quais são ainda, mas me parece que estão faltando mais instrumentos para que vocês consigam ter mais celeridade até para haver esta punição.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Emocional",
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Caio Vianna considera a ANPD fundamental, porém insatisfatória no estágio atual: o problema não estaria na existência da agência, mas na demora em punir e na falta de instrumentos de atuação. Sustenta que ampliar recursos e pessoal não basta se faltarem ferramentas que assegurem celeridade na aplicação de punições, admitindo, porém, não saber quais instrumentos específicos seriam necessários. Registra preocupação com a digitalização de prontuários do Ministério da Saúde e a crescente acumulação de dados sensíveis de pacientes, ilustrando, por cenários hipotéticos e casos como o ConecteSUS, o risco de vazamentos que expõem informações de saúde cujo dano seria irreparável. Critica o fato de órgãos e empresas deixarem de fornecer informações por anos sem sofrer medida ou punição e defende aprimoramento legislativo e um estudo sobre as condutas a adotar nesses casos.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [
+            "Aprimorar a legislação de proteção de dados.",
+            "Realizar estudo sobre medidas a serem tomadas quando o Ministério não fornece informações e empresas deixam de fornecê-las por anos, em vez de deixá-las operar sem punição.",
+            "Dotar a ANPD de mais instrumentos e ferramentas para obter celeridade na aplicação de punições."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00019",
+          "ordem_no_debate": 20,
+          "texto": " Quando você aplica uma multa, que ainda não foi o caso, mas quando se aplica...\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Caio Vianna inicia uma reflexão sobre a aplicação de multas, esclarecendo desde logo que ainda não houve caso concreto de imposição ('quando você aplica uma multa, que ainda não foi o caso'), mas a construção hipotética resta truncada e não se completa ('mas quando se aplica...'). Não há, neste recorte, opinião articulada sobre o pedido de concurso público ou sobre o fortalecimento da ANPD: trata-se essencialmente de um fragmento expositivo e procedimental, com introdução de exemplo pendente de continuidade.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00021",
+          "ordem_no_debate": 22,
+          "texto": " Já foi aplicada uma multa numa empresa privada?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Caio Vianna limita-se a uma pergunta direta sobre se já foi aplicada multa a uma empresa privada, sem apresentar posição explícita sobre o tema do concurso público ou do fortalecimento da ANPD. A formulação interrogativa, lida diante do eixo sancionatório da Agência, sugere questionamento sobre a efetividade da fiscalização, mas o titular não desenvolve crítica, defesa ou avaliação, de modo que não há posição assumida quanto à concordância ou discordância do tema.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00023",
+          "ordem_no_debate": 24,
+          "texto": " Quando se aplica uma multa, o que acontece? A empresa paga a quem? À União?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Caio Vianna formula exclusivamente uma pergunta sobre o destino do pagamento de multas aplicadas a empresas, indagando se o valor seria recolhido à União. A fala é curta e de natureza inquisitiva/procedimental, funcionando como pergunta de encadeamento argumental que conduz o auditório a refletir sobre o fluxo da arrecadação de multas, sem desenvolvimento posterior. Não há manifestação explícita de concordância, discordância ou posição quanto ao tema do concurso público ou ao fortalecimento da ANPD, tampouco formulação de compromisso, apelo emocional ou sustentação em autoridade/dados externos. O tratamento do tema é apenas periférico, resumindo-se à premissa introdutória sobre para onde vão os valores de multas.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00025",
+          "ordem_no_debate": 26,
+          "texto": " Isso foi definido por que via? Por decreto?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Fala exclusivamente procedimental e interrogativa. Caio Vianna não expressa opinião sobre o tema do concurso público nem sobre o fortalecimento da ANPD; limita-se a questionar por qual via (sugerindo decreto) algo teria sido definido, em pedido de esclarecimento sem posicionamento substantivo, sem afirmação a sustentar e sem postura marcada.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00027",
+          "ordem_no_debate": 28,
+          "texto": " Então vai para um fundo de educação?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Caio Vianna não expõe opinião sobre o tema (concurso público e fortalecimento da ANPD). Sua intervenção é estritamente procedimental e interrogativa: pergunta \"Então vai para um fundo de educação?\", buscando apenas esclarecer a eventual destinação de recursos a um fundo de educação. Não há posicionamento assumido (concordância, discordância ou abstenção deliberada) diante do tema, nem argumentação, fundamentação ou apelo retórico. Trata-se de pedido pontual de confirmação/informação, sem desenvolvimento substantivo ou propostas.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00030",
+          "ordem_no_debate": 31,
+          "texto": " Eu não sei se os senhores têm conhecimento do Projeto de Lei Complementar nº 243, de 2023, do Deputado Arlindo Chinaglia, que institui a Lei Geral de Empoderamento de Dados, que dispõe sobre o ecossistema brasileiro de monetização de dados e altera, entre outras, a Lei nº 13.709, de 14 de agosto de 2018, a Lei de Proteção de Dados Pessoais — LGPD.\n\nNão sei se os senhores têm conhecimento dela. Se têm, quais são as principais preocupações de privacidade associadas à monetização de dados pessoais?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Em fala essencialmente procedimental e expositiva, o orador informa os interlocutores sobre o Projeto de Lei Complementar nº 243/2023, do Deputado Arlindo Chinaglia, que visa instituir a Lei Geral de Empoderamento de Dados e altera a LGPD (Lei nº 13.709/2018), regulando a monetização de dados no ecossistema brasileiro. Em seguida, formula pergunta aberta sobre as principais preocupações de privacidade associadas à monetização de dados pessoais, sem assumir posição sobre o mérito do projeto ou sobre o tema do concurso público e fortalecimento da ANPD. Menciona normas legais como pano de fundo, em tom técnico-inquisitivo.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00032",
+          "ordem_no_debate": 33,
+          "texto": " Mas os senhores já têm algum estudo com relação à monetização de dados?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta intervenção, Caio Vianna não manifesta posição sobre o tema do concurso público nem sobre o fortalecimento da ANPD. Sua fala se resume a uma pergunta dirigida aos interlocutores, indagando se já existem estudos relacionados à monetização de dados. Trata-se, portanto, de indagação procedimental/informativa e de tópico apenas perifericamente relacionado ao tema central, sem qualquer adesão, oposição, abstenção ou ambivalência expressa pelo titular quanto ao mérito da matéria em debate.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00034",
+          "ordem_no_debate": 35,
+          "texto": " Mas o senhor acha que seria possível aplicar no Brasil?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Caio Vianna formula pergunta dirigida a outro interlocutor sobre a viabilidade de aplicar no Brasil o que estava sendo tratado, sem assumir posição própria. Trata-se de fala exclusivamente procedimental e interrogativa, com objeto não especificado no próprio trecho, reputando-se tematicamente focalizada por encaminhar a discussão ao contexto de exequibilidade da proposta em debate.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00036",
+          "ordem_no_debate": 37,
+          "texto": " Como a ANPD vê a utilização deblockchainpara a proteção de dados e para a garantia ao cidadão de que, de fato, os dados sejam dele, e não das empresas, que passam a ter acesso e domínio destes dados? Os senhores acham que oblockchainé uma tecnologia que pode contribuir para a proteção de dados?\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Caio Vianna não assume posição própria: dirige à ANPD uma pergunta sobre como a autarquia enxerga o uso de blockchain para a proteção de dados e para assegurar ao cidadão a titularidade real dos seus dados em contraste com o domínio das empresas que acessam e controlam essas informações. Indaga se a tecnologia pode, de fato, contribuir para a proteção de dados. A fala é integralmente investigativa e de enquadramento técnico, marcada por conceitos especializados (blockchain, proteção de dados, domínio sobre dados), sem desenvolver tese ou adesão explícita ao tema de concurso público e fortalecimento da ANPD, tratado apenas tangencialmente ao evocar a Agência como interlocutora.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00039",
+          "ordem_no_debate": 40,
+          "texto": " Excelente, Jeferson.\n\nTivemos a oportunidade de participar de uma audiência pública na Comissão de Ciência, Tecnologia e Inovação.\n\nSem dúvida alguma, qualquer tecnologia precisa ir se aprimorando, evoluindo. Toda tecnologia traz uma solução, mas também traz problemas. Eu acredito mesmo que oblockchainpode ajudar e muito a resolver muitas questões que temos hoje em relação aos dados, inclusive na confiabilidade e no rastreio. É possível, sim, fazer alterações, mas isso também fica registrado. Na parte de exclusão, já existe um pouco mais de dificuldade. Então, há algumas coisas a serem superadas, mas eu acho que essa tecnologia vai contribuir para um avanço tão necessário na proteção de dados.\n\nNós precisamos estar atentos a isso, e eu acho que os senhores estão numa posição importante para fazer estudos e promover esse debate, para que não nos fechemos, porque o mundo está evoluindo e o que temos hoje não é satisfatório.\n\nOs bancos de dados relacionados também apresentam as suas fraquezas, as suas limitações, e nós precisamos evoluir. Então, precisamos buscar essas soluções também.\n\nBom, eu vou encerrar os trabalhos, mas antes vou abrir espaço para que os senhores façam as suas considerações finais, se assim o quiserem.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Vianna posiciona-se favoravelmente ao blockchain como ferramenta capaz de melhorar a confiabilidade e o rastreio de dados e de impulsionar a proteção de dados, partindo da premissa de que toda tecnologia combina soluções e problemas. Faz ressalvas explícitas: alterações, ainda que registradas, são possíveis; a exclusão de dados encontra mais dificuldade; e há pontos a superar. Defende que os interlocutores promovam estudos e debate para que o país não se feche à evolução tecnológica, sustentando que os bancos de dados relacionados também têm fraquezas e que o status quo não é satisfatório. A intervenção contém trecho procedimental de encerramento dos trabalhos e abertura para considerações finais. A fala não manifesta posição sobre concurso público nem sobre fortalecimento da ANPD, tema atribuído, tratando-o apenas de forma periférica ao citar o papel institucional de fomentar estudos e debate em proteção de dados.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [
+            "Realizar estudos e promover o debate sobre o uso da tecnologia blockchain na proteção de dados, para que não se feche o caminho à evolução tecnológica.",
+            "Buscar soluções de superação das limitações dos bancos de dados relacionados e das dificuldades (como a exclusão) da tecnologia blockchain, evoluindo na proteção de dados."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente.",
+            "Evidência sem associação válida a um indicador; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00041",
+          "ordem_no_debate": 42,
+          "texto": " Muito obrigado, Waldemar e Jeferson, por aceitarem o convite de prontidão, por terem vindo debater esse tema importante.\n\nRealmente, temos que continuar esses estudos e olhar para outros países que já estão mais avançados, que já implementaram tecnologias mais novas, principalmente no setor público. É o caso da Estônia, que já implementou oblockchainna saúde e está indo muito bem, já superou esses desafios. Precisamos tentar entender como isso se deu para ver como podemos aplicar isso aqui, diante do nosso cenário, da nossa realidade.\n\nQuero agradecer-lhes mais uma vez e dizer que esse debate foi muito oportuno. Vocês contribuíram, e nós fizemos perguntas importantes.\n\nFarei os encaminhamentos necessários para continuarmos aprofundando esse debate, buscando mais informações.\n\nEstou à disposição de vocês tanto no gabinete quanto na Comissão para o que precisarem, sempre que acharem que podemos contribuir para o avanço da ANPD.\n\nNada mais havendo a tratar sobre o tema da audiência pública, declaro encerrada a presente reunião, antes convocando Reunião Deliberativa Extraordinária para amanhã, dia 8 de novembro, às 10 horas, no Plenário 9.\n\nEstá encerrada a reunião.",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Fala predominantemente procedimental, de encerramento da audiência, mas com contribuição substantiva ao defender o aprofundamento de estudos sobre tecnologia no setor público. O titular apoia olhar para países mais avançados, citando a Estônia, que segundo ele implementou blockchain na saúde com sucesso, e sugere entender essa experiência para adaptá-la à realidade brasileira. Não há posição expressa sobre concurso público nem medida específica de orçamento; a menção ao avanço da ANPD aparece apenas como oferta genérica de colaboração. Compromete-se com encaminhamentos para continuar o debate e declara disponibilidade do gabinete e da Comissão para apoiar a Agenda.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "WALDEMAR GONÇALVES ORTUNHO JÚNIOR",
+      "falas": [
+        {
+          "id": "f00002",
+          "ordem_no_debate": 2,
+          "texto": " Boa tarde a todos.\n\nInicialmente, eu queria agradecer o convite, Deputado. Para nós, é muito importante estar aqui. É uma forma de a ANPD ter voz, de cada vez mais pessoas nos conhecerem, conhecerem a importância dos dados pessoais e de fazermos a nossa conversa com o titular. Acho que esta é uma fase fundamental para a proteção de dados, para que haja uma mudança de cultura. E isso vamos conseguir de que forma? Com atividades como esta, com atividades educativas com o objetivo de fazer uma mudança maior de cultura.\n\nQuero cumprimentar todos a que nos assistem de forma remota ou presencial.\n\nOntem foi um dia de festa na ANPD, nós completamos 3 anos. Tivemos, inclusive, um evento. No final vou mostrar um filmete desse evento, mas agora vou falar das atribuições legais da ANPD.\n\nAs atribuições legais da autoridade estão distribuídas em três eixos: regulamentar, fiscalizar e sancionar. Segundo a própria LGPD, no seu art. 55-J, são diretivas da ANPD: zelar pela proteção de dados pessoais; editar regulamentos e procedimentos — são 65 os artigos que nós temos que normatizar —; interpretar esta lei geral; ouvir a sociedade, que é uma competência muito importante; promover o conhecimento na população, que é a parte educativa, porque não podemos fazer exigência sem darmos ao titular das sociedades e das empresas a oportunidade de aprender sobre os seus direitos de proteção de dados pessoais estabelecidos na Constituição; realizar auditorias; fiscalizar o tratamento de dados pessoais; aplicar sanções em caso de infração.\n\nNós não temos a ideia de fazer uma indústria de multas. Nós primamos por sempre trazer as empresas e os órgãos para a conformidade da lei. Isso foi algo decidido pelo Conselho Diretor, uma vez que vimos que, em outras agências reguladoras, a ação coercitiva nem sempre correspondia ao que o consumidor queria e havia empresas que valiam menos do que aquilo que deviam para a União em termos de multas aplicadas.\n\nAs etapas da regulação responsiva são: monitoramento, atividades de orientação, atividades preventivas e atividades repressivas.\n\nO grande diferencial da autoridade é que nós temos uma ação bastante transversal. Nós não atuamos como uma agência reguladora que tem um nicho a ser focado, como, por exemplo, as agências de telecomunicações, as áreas de saúde e a área de educação. Praticamente todas as empresas, todos os órgãos têm um banco de dados pessoais. Então, a missão da autoridade é imensa, englobando o setor privado e o setor público, nos três Poderes — Executivo, Legislativo e Judiciário. No setor privado, ela é não apenas o controlador nacional, mas também o controlador estrangeiro.\n\nNossos objetos nesse monitoramento são sempre os incidentes de segurança da informação ou a conformidade do tratamento de dados. Lembro sempre que atuamos desta forma: orientação, prevenção e sancionamento.\n\nO processo de monitoramento envolve a escuta setorial, a definição de ações de fiscalização e o mapeamento de temas prioritários. Exemplo: nós recebemos, por meio de nossa auditoria, muita reclamação, muita demanda na área de farmácias. Então, esse se tornou um tema prioritário, e, com isso, nós passamos a ter um time para tratar do assunto com o setor.\n\nNa área de orientação, promovemos educação por meio do fornecimento de ferramentas e modelos que facilitem o tratamento de dados pessoais, do lançamento de guias, do estabelecimento de acordos de cooperação técnica. Nós passamos à redação de pequenas cartilhas envolvendo, por exemplo, a área consumerista, a área de vazamento de dados. Na própria eleição do ano passado, por meio de um ACT com o TSE, nós lançamos uma cartilha para todos os atores das eleições.\n\nNa área de prevenção, fazemos a recondução à plena conformidade. Então, quando nós sentimos que houve algum problema, o objetivo é, da forma mais rápida possível, trazer quem está em não conformidade com a LGPD para a nossa conformidade e, assim, atender de forma rápida o titular de dados.\n\nQuando isso não acontece, nós temos a repressão. Então, há apuração formal da infração e, se for o caso, aplicação de sanções.\n\nQuais são as sanções da ANPD? Nós temos o poder de polícia administrativa. Então, ao controlador nós vamos aplicar: advertências; multas simples, de até 50 milhões de reais ou 2% do faturamento da empresa no ano anterior; bloqueio de dados; multas diárias. Se alguma pena for aplicada a uma empresa e ela não cumprir essa pena, não sendo pecuniária, nós passamos a aplicar multas diárias até que comece a ser cumprida a nossa pena.\n\nA publicização da infração tem um efeito grandioso.Nós vemos que uma empresa constrói, ao longo de toda a sua vida, uma reputação. E, quando ela é obrigada a dizer que falhou, essa publicização pode desconstruir toda a imagem da empresa junto à sociedade.\n\nOutras sanções são: eliminação de dados; suspensão parcial do banco de dados; suspensão do exercício da atividade de tratamento de dados; e proibição do exercício de atividades relacionadas a tratamento de dados.\n\nO setor público está sujeito a essas punições, exceto a sanção pecuniária. O setor público também tem os órgãos controladores do Governo sempre olhando as atividades dos órgãos públicos do nosso País.\n\nA ANPD apenas atua quando há envolvimento de dados pessoais. Para prevenir incidentes, nós elaboramos: regulamentos, diretrizes e guias. Nestes, estão definidos: medidas de segurança e medidas técnicas e administrativas, incluindo padrões técnicos mínimos de segurança; e um regulamento do comunicado de incidente de segurança. O que esse comunicado deve ter é muito importante para a autoridade.\n\nO monitoramento de incidentes fazemos por meio de petições; de denúncias de titulares que chegam por meio do nosso canal de comunicações; de investigação de incidentes divulgados pela mídia ou informados à própria autoridade.\n\nEscopo de atuação. Nós fazemos sempre uma avaliação de medidas técnicas e administrativas de segurança, com objetivo de evitar novos incidentes. Então, a ideia é que não se cometam mais incidentes, se já tiverem ocorrido inicialmente.\n\nEstá no nosso escopo também a avaliação de medidas que foram tomadas para reverter ou mitigar os efeitos dos incidentes, no intuito de verificar se o controlador reagiu de maneira adequada e proporcional aos riscos causados ao titular. Então, não se trata só de aplicar uma sanção, mas também de verificar se aquela sanção foi cumprida e se atingiu o objetivo traçado na sua aplicação.\n\nHá ainda a avaliação da comunicação feita pelo titular. Notem: sempre que há, numa empresa, num órgão, um incidente de dados que envolva riscos, que envolva danos, a empresa ou o órgão deve comunicar não só à ANPD, como também aos próprios titulares. O objetivo maior é mitigar o risco. Então, saiu o vazamento de contas, de números de cartão, de senha, o objetivo é dar ao titular a oportunidade de ele bloquear, alterar sua senha e, com isso, mitigar os danos que ele viria a sofrer.\n\nO que é priorizado pela ANPD? Senhores, nós completamos 3 anos e não tivemos nenhum concurso público. Então, nós temos uma limitação muito grande, principalmente de pessoal. Priorizamos incidentes que abrangem dados pessoais sensíveis, de crianças e adolescentes, ou dados que exponham o titular a uma fraude.\n\nTambém priorizamos a recorrência do controlador notificante no mesmo incidente, ou seja, ele já cometeu um incidente num determinado momento e está cometendo o mesmo incidente novamente.\n\nAinda há prioridade caso a principal atividade do controlador afetado envolva tratamento de alto risco.\n\nConsiderando as limitações de recurso da ANPD, os incidentes que não atendam a esses critérios de priorização vão ser analisados posteriormente, desde que não tenham risco ou dano relevante aos titulares de dados pessoais.\n\nDesde a sua criação, a ANPD já recebeu 768 comunicados de incidentes de segurança. Nós temos aqui, expostos no nosso gráfico, os anos de 2021, 2022 e 2023. Notem, em azul, o que está em andamento, e, em laranja, o que foi concluído.\n\nAqui se vê a nossa fiscalização, em números também: processos de fiscalização, 13; processos administrativos sancionadores, 9; comunicados de incidente de segurança com dados pessoais, 768; e requerimentos — petições ou denúncias —, de janeiro de 2021 a setembro de 2023, 2.645.\n\nVou recordar que a nossa lei foi aprovada em 2018 e teve carência até 2020. Ela entrou em vigor, mas a parte de sancionamento só passou a valer de forma efetiva em 1º de agosto de 2021. A primeira fase de sanções ocorreu após a publicação da nossa norma de dosimetria, ou seja, a aplicação de uma sanção na dose correta.\n\nDosimetria é um termo bem ligado à área de saúde, e é exatamente isto: se estou com uma doença e tenho determinado remédio, se eu tomar menos que o necessário, não vai produzir o efeito desejado, e pode causar um efeito ainda maior, mais danoso, se aplicado de forma exagerada. Então, temos que aplicar a dose na medida correta.\"Eu não vou pagar essa multa, porque não vale nem a pena, melhor dessa forma\". Então, é importante essa parte de dosimetria.\n\nNormas e publicações são nossa área educativa. Fizemos diversas publicações, por meio de ACTs. São guias orientativos que nós lançamos na sociedade. Uma norma é um processo bastante moroso; sua edição leva de 6 meses a 1 ano. Um guia, não; ele é mais imediato e tende a apagar um incêndio, alguma demanda que um setor ou que a sociedade nos trouxe e para a qual queremos dar uma resposta rápida. Mas avisamos: esta é a orientação da ANPD; este guia vai ter várias atualizações até se transformar num regulamento ou numa norma.\n\nEsta é uma parte importante. Nós gostaríamos de estar num patamar diferente, mas fomos criados com cinco diretorias, na pandemia, com a opção de 36 cargos comissionados, incluindo os cargos de diretores. Eu vou dizer que nós não podíamos gerar despesa para o Governo, e assim o fizemos. Por meio de requisição, conseguimos mobiliar essas posições. Não é fácil. A requisição é um processo moroso. Se for liberado de forma imediata, é muito bom, mas pode ser questionado se for feito o levantamento de que aquela pessoa está fazendo algo, e será necessário que se prepare um substituto para aquela função. Então, não é uma boa saída essa parte de requisição.\n\nHoje, nós temos 120 requisitados; 4 estagiários — eu faço questão de dizer que o estagiário produz muito na ANPD —; secretárias executivas, 5; técnicas em secretariado, 6; assistentes administrativos, recepcionistas, copa e limpeza, 152 servidores, funcionários. A nossa Coordenação de Fiscalização tem 16 servidores, praticamente, 10%. Senhores, na Divisão de Monitoramento temos 3 servidores; na Divisão de Fiscalização, 5 servidores; na Divisão de Tratamento de Comunicados de Incidentes de Segurança, 5 servidores.\n\nVou comparar esses números com os do Reino Unido, que é um país bem menor do que o Brasil, com população de 70 milhões de habitantes. Eu tenho 900 pessoas trabalhando nessa área de proteção de dados.\n\nPelas entregas que fizemos, nós já passamos a mensagem de que sabemos fazer, sabemos como fazer, e temos um time capacitado. A cada momento que chega um servidor, eu tenho que prepará-lo, porque proteção de dados ainda é uma área desconhecida. De maneira geral, há falta de profissionais. Então, o Governo precisa observar a ANPD, que necessita de carreira própria, de fortalecimento da carreira, de concurso público, para que essa atividade que já fazemos possa ser realizada de forma repetitiva, ou seja, não só uma sanção a cada mês, mas, dez, vinte, tantas quantas forem necessárias, em virtude das demandas que recebemos.\n\nQuanto ao orçamento, temos o mesmo problema. Temos um orçamento pequeno, limitado, e algumas autonomias não nos foram dadas até o momento. No final do ano passado, fomos alçados a uma autarquia especial, mas essa autonomia não foi concluída até o momento.  A ANPD precisa ser vista como um órgão que produz, que já entregou muito, mas está longe de atender às demandas do País.\n\nOntem nos fizemos um evento comemorativo de 3 anos. Pedimos que distribuíssem um cartãozinho comQR Code. É o nosso caderno, com balanço dos 3 anos da ANPD.Para finalizar a minha apresentação — nós temos um filmete de outras autoridades falando sobre a atuação da ANPD —, há um filmete que eu queria destacar da nossa Comissão Europeia, com a qual a ANPD tem uma afinidade muito grande pela inspiração que a LGPD teve sobre o nosso GDPR.\n\nEntão, nós temos o Bruno Gencarelli, uma alta autoridade desse órgão, falando sobre a atuação da ANPD em 3 anos.\n\nPor favor.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Waldemar Gonçalves Ortuño Júnior apresenta as atribuições legais e a atuação da ANPD — regulação, fiscalização e sanção, com abordagem educativa e de conformidade em vez de \"indústria de multas\" — como base para defender o fortalecimento institucional da autarquia. Ele expõe etapas (monitoramento, orientação, prevenção, repressão), prioridades na análise de incidentes (dados sensíveis, crianças e adolescentes, risco de fraude, recorrência) e números de comunicados e processos. Defende explicitamente que o Governo observe a ANPD: após três anos sem concurso público e com efetivo reduzido (Coordenação de Fiscalização com cerca de 10% do quadro, poucos servidores nas divisões-chave), compara o quadro ao do Reino Unido e pede concurso público, carreira própria fortalecida, mais orçamento e conclusão das autonomias de autarquia especial. Advoga atividades educativas para mudança de cultura e comunicação de incidentes também aos titulares, para mitigação de danos.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [
+            "Realizar atividades e ações educativas com o objetivo de promover mudança de cultura na proteção de dados pessoais.",
+            "Priorizar, no tratamento de incidentes (dada a escassez de pessoal), aqueles que envolvam dados sensíveis, dados de crianças e adolescentes, dados que exponham o titular a fraude, recorrência do mesmo controlador no mesmo tipo de incidente e tratamento de alto risco.",
+            "Implantar a comunicação de incidentes de segurança não apenas à ANPD, mas também aos próprios titulares afetados, para que possam bloquear cartões, alterar senhas e mitigar danos.",
+            "O Governo deve observar a necessidade da ANPD de criar carreira própria, fortalecer a carreira e realizar concurso público para aumentar o efetivo.",
+            "Ampliar o orçamento e concluir as autonomias pendentes da ANPD como autarquia especial, para que a autoridade possa atender às demandas do País."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00004",
+          "ordem_no_debate": 4,
+          "texto": " Vamos aos fatos. A nossa atuação sempre é com o controlador. Então, nós não vamos impor uma solução tecnológica para o controlador. O controlador tem a obrigação e tem a responsabilidade, se ocorrer algum tipo de vazamento.\n\nEntão, quando há algum problema, nós sempre utilizamos aexpertiseda Polícia Federal — não temos essaexpertise—, e aguardamos a conclusão dessa perícia por parte da Polícia Federal para ver qual é o controlador e de onde ocorreu algum tipo de vazamento.\n\nA partir daí, nós temos uma atuação com o controlador, para ver todas as medidas que ocorreram; se todas as tecnologias disponíveis foram realmente utilizadas; e se ele, em conformidade com a LGPD, avisou, assim que tomou conhecimento do incidente, à ANPD e aos titulares, isso quando ocorrer risco ou dano ao titular de dados.\n\nA atuação da ANPD entra justamente depois da identificação do controlador de dados que provocou o incidente.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Em fala de caráter expositivo e procedimental, o titular descreve o fluxo de atuação da ANPD diante de incidentes de vazamento de dados, sem manifestar opinião sobre o tema de concurso público ou fortalecimento da agência. Explica que a atuação ocorre sempre junto ao controlador, que detém a obrigação e a responsabilidade pelo vazamento, sem que a ANPD imponha solução tecnológica. Como a autarquia não possui perícia própria, recorre à expertise da Polícia Federal e aguarda a conclusão da perícia para identificar o controlador e a origem do vazamento. A partir da identificação, verifica-se se foram utilizadas as tecnologias disponíveis de segurança e se o controlador cumpriu o dever legal de comunicar o incidente à ANPD e aos titulares em caso de risco ou dano, conforme a LGPD. A atuação da ANPD, portanto, inicia-se após a identificação do responsável pelo incidente.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00006",
+          "ordem_no_debate": 6,
+          "texto": " A ANPD, em toda a sua existência, aplicou — vamos dizer — três sanções: duas em órgãos públicos e uma numa empresa privada lá do Rio Grande do Sul.\n\nEntão, este é justamente um processo — que só se iniciou a partir de fevereiro, quando a nossa dosimetria foi sancionada — do tipo vazamento. É um processo mais moroso, porque eu tenho que buscar provas de que houve vazamento e de que foi provocado por determinada empresa ou órgão. Este é o primeiro passo, e, normalmente, nós o concentramos na Polícia Federal. Após a conclusão e recebimento desses detalhes, nós passamos a atuar com a empresa que ocasionou o vazamento.\n\nEu acho que não houve nenhuma até o momento, não é, Jeferson?(Pausa.)\n\nNão houve nenhuma sanção devido a vazamento.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador não toma posição sobre fortalecimento da ANPD nem sobre concurso público, limitando-se a uma exposição factual sobre a atuação sancionatória da Agência. Relata que a ANPD aplicou apenas três sanções em toda a sua existência (duas em órgãos públicos e uma em empresa privada do Rio Grande do Sul). Sobre vazamentos de dados, descreve processo de apuração moroso, iniciado em fevereiro após sanção da dosimetria, que exige busca de provas do vazamento e de sua autoria, com instrução normalmente concentrada na Polícia Federal, seguida de atuação junto à empresa responsável. Afirma, com consulta a outro participante (Jeferson), que até o momento não houve nenhuma sanção aplicada por vazamento.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00008",
+          "ordem_no_debate": 8,
+          "texto": " A empresa é o controlador, que é o responsável.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala, o orador limita-se a uma afirmação definicional e expositiva: a empresa ocupa a posição de controlador e, por essa razão, é a responsável no tratamento de dados, em linha com conceito próprio da LGPD. A formulação é breve, técnica e sem desenvolvimento argumentativo, o que caracteriza abordagem periférica em relação ao tema central do evento (concurso público e fortalecimento da ANPD), tangenciado apenas por sua ligação com a atuação da Agência. O orador não expressa concordância ou discordância quanto ao pedido de concurso nem ao fortalecimento institucional, apresentando posicionamento neutro/ausente sobre esses pontos. A postura é técnica, de delimitação conceitual, sem apelo afetivo, ataque ou invocação de fontes externas ou de experiência pessoal como sustento da assertiva.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00010",
+          "ordem_no_debate": 10,
+          "texto": " Seja por uma falha técnica, seja pela falha ocasionada pelo...\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Waldemar Gonçalves Ortonho Júnior inicia uma frase sem completá-la: 'Seja por uma falha técnica, seja pela falha ocasionada pelo...'. O fragmento é procedimental e não desenvolve argumento algum sobre o tema do concurso público, da ANPD ou do fortalecimento institucional. Não é possível afirmar se o orador concorda, discorda ou se abstém do tema proposto, tampouco extrair proposta, justificativa ou avaliação de credibilidade. O registro, tal como fornecido, limita-se a indicar que o orador fazia referência a duas possíveis falhas — uma técnica e outra cuja causa fica truncada — sem que se saiba seu desdobramento ou seu propósito argumentativo no conjunto da audiência.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00013",
+          "ordem_no_debate": 14,
+          "texto": " Eu vou pedir para o Jeferson completar um pouco mais com a parte técnica depois, mas o nosso primeiro problema é cultural, é saber quais são nossos direitos em termos de proteção de dados.\n\nO cidadão fornece seus dados para a empresa A, B ou C. Se ofereceram desconto, ele está lançando os seus dados. Quando existe um vazamento, a parte mais difícil é saber de qual das empresas houve esse vazamento, tendo em vista que só ele sabe para quem forneceu os dados, e foi para uma infinidade de empresas.\n\nEntão, para nós, a parte mais complicada e mais morosa é saber de que empresa exatamente houve o vazamento. Nesta fase, para ter certeza, nós sempre necessitamos do apoio da Polícia Federal.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Em fala de natureza técnica e periférica ao tema central (concurso público e fortalecimento da ANPD), o titular diagnostica como principal problema em casos de vazamento de dados a questão cultural: o cidadão desconhece seus direitos de proteção de dados e acaba fornecendo informações a inúmeras empresas, atraído por descontos. Sustenta com base na experiência institucional do próprio grupo que a etapa mais complicada e morosa da apuração é identificar exatamente qual empresa sofreu o vazamento, dada a multiplicidade de fornecedores, afirmando que, nesse ponto, a investigação sempre depende do apoio da Polícia Federal. Encaminha a complementação técnica para outro participante (Jeferson) e não assume posição diretamente sobre o pedido de concurso ou o fortalecimento da agência.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00016",
+          "ordem_no_debate": 17,
+          "texto": " Um dos processos que estão sendo apurados, essa apuração é bastante complexa. Eu dependo de uma resposta do Ministério da Saúde. É uma tratativa. Está ainda em processo de apuração, mas não houve uma punição. Porém, o processo não se encerrou.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Desalinhado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O titular informa, de modo estritamente procedimental, que um processo de apuração em curso ainda não resultou em punição, mas permanece aberto. Destaca que a apuração é bastante complexa e que depende de uma resposta do Ministério de Saúde para prosseguir. A fala não contém avaliação, crítica ou proposta sobre concurso público nem sobre o fortalecimento da ANPD, limitando-se a esclarecer o status do processo sem manifestar posicionamento quanto ao tema em debate.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00018",
+          "ordem_no_debate": 19,
+          "texto": " Deputado, de uma forma direta, digamos, nos falta pessoal, pessoal capacitado. Normalmente, nós requisitamos pessoal. Nós temos mais ou menos 3 meses de capacitação. O requisitado, como não temos função comissionada, normalmente é atrativo a outros órgãos, e nós o perdemos. O próprio coordenador da área de fiscalização, a menos de 1 mês, nós o perdemos para outro órgão público.\n\nNormalmente, quando eu tenho um diálogo com o Ministério da Saúde, uma única resposta não é suficiente. Ela, geralmente, provoca outras questões, em função das informações que nós estamos recebendo. O processo, neste caso, é praticamente forense. Com isso, leva-se tempo para se chegar a uma decisão.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Na fala, dirigida a um deputado, o titular se posiciona de modo favorável, ainda que implícito, ao fortalecimento da estrutura do órgão, expondo limitações operacionais. Afirma que falta pessoal capacitado e que servidores requisitados são perdidos para outros órgãos após cerca de três meses de capacitação, por ausência de função comissionada atrativa, citando a perda do próprio coordenador de fiscalização. Indiretamente, sugere mecanismos de fixação de pessoal, sem pedir explicitamente concurso. Sobre o trâmite com o Ministério da Saúde, relata processo sucessivo e demorado, comparando-o a algo 'praticamente forense'. O tom é técnico, baseado em experiência própria, sem formulação sobre regime sancionatório ou outros temas.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00020",
+          "ordem_no_debate": 21,
+          "texto": " Já foi aplicada uma multa.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Waldemar Gonçalves Ortuño Júnior limita-se a uma intervenção meramente procedimental e informativa, sem qualquer opinião sobre o tema. Sua fala resume-se a afirmar que já foi aplicada uma multa, sem indicar a quem, por qual motivo ou em qual contexto, o que impede inferir posição quanto ao pedido de concurso público e ao fortalecimento da ANPD. Não há desenvolvimento argumentativo, proposta, cálculo, técnica, referência externa, recurso retórico ou marca discursiva que permita dimensionar concordância, discordância, abstenção ou ambiguidade em relação ao tema. Trata-se, portanto, de comentário factual isolado, sem conteúdo opinativo verificável.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00022",
+          "ordem_no_debate": 23,
+          "texto": " Já, numa empresa privada.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Trecho extremamente curto e fragmentário, sem posição expressa sobre o tema de concurso público e fortalecimento da ANPD. O orador apenas complementa ou contextualiza uma fala anterior ao mencionar uma empresa privada, sem qualquer desenvolvimento que sustente juízo de concordância, discordância ou ambiguidade em relação ao tema. Trata-se de passagem residual, insuficiente para identificar opinião substantiva ou postura caracterizada, demandando revisão humana.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00024",
+          "ordem_no_debate": 25,
+          "texto": " Primeiro, ela tem um tempo para poder recorrer. Após isso, ela paga à União e vai para um recurso que nós podemos usar, por exemplo, na área de educação — ele não vem para a ANPD. Vai para a União. Trata-se de um fundo de diversas agências.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, o orador adota postura técnica e segura para explicar o percurso dos valores recolhidos em sanções: após o prazo recursal, o valor é pago à União e aporta em fundo de diversas agências, podendo ser usado em áreas como educação, e não é repassado à ANPD. A exposição é esclarecedora, sem tom crítico ou emocional, e usa o exemplo da educação apenas para ilustrar a destinação do dinheiro. A falha de repasse à ANPD é explicitada como dado do procedimento, sem formular pedido ou cobrança de concurso público, deixando a falha de autonomia orçamentária da Agência apenas implícita no esclarecimento.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00026",
+          "ordem_no_debate": 27,
+          "texto": " Isso está na nossa lei.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Waldemar Gonçalves Ortunho Júnior limita-se a uma frase fragmentária, \"Isso está na nossa lei\", sem desenvolver seu ponto nem esclarecer a que \"isso\" se refere. A fala é estritamente explicativa/procedimental, com tom afirmativo e seguro, invocando a norma jurídica como sustentação genérica para uma afirmação cujo conteúdo permanece fora do recorte fornecido. Não há expressão de concordância, discordância ou ambivalência em relação ao pedido de concurso público e ao fortalecimento da ANPD, tampouco propostas, relatos, dados ou argumentação técnica. Por isso, a passagem não permite determinar o posicionamento do orador sobre o tema, embora revele postura confiante e uso de referência externa à lei como respaldo.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00028",
+          "ordem_no_debate": 29,
+          "texto": " Não. Vai para um fundo gerido pelo MJ, pela SENACON. A este fundo nós podemos solicitar algumas ações, por exemplo, na área de educação.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, estritamente procedimental e expositiva, o titular apenas corrige uma informação e descreve o funcionamento de um mecanismo financeiro: os recursos não têm o destino suposto, mas vão para um fundo gerido pelo Ministério da Justiça e pela SENACON, do qual se podem solicitar ações, como as da área de educação. Não há manifestação de concordância, discordância ou qualquer posição sobre o tema recebido, referente a concurso público e fortalecimento da ANPD, sendo a intervenção periférica em relação a esse tema. O orador fala em tom firme e técnico, descrevendo competências e vias de ação sem mobilizar autoridade pessoal, referências externas ou recursos retóricos, e sem sustentar definições factuais verificadas além do próprio relato institucional.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00033",
+          "ordem_no_debate": 34,
+          "texto": " Não. A monetização não é prevista, não é permitida até o momento.\n\nEu acho que os dados do titular são definitivos. Como eu dou o consentimento para que sejam utilizados aqueles dados, eu posso, como titular, revogar este consentimento. É diferente do que ocorre em outros países. Nos Estados Unidos, por exemplo, eu posso, em busca de algum desconto, falar que esses dados podem ser utilizados da forma como se quiser.Os Estados Unidos têm esta facilidade. Nós ainda não a temos. Trata-se de algo que tem que ser votado e aprovado. No momento, é algo ainda considerado ilícito para nós.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "O orador afirma, em tom técnico e explicativo, que a monetização de dados pessoais não é prevista nem permitida no Brasil, sendo atualmente considerada ilícita por depender de aprovação legislativa. Defende que os dados são do titular que deu o consentimento, o qual pode ser revogado, em contraste com os Estados Unidos, onde supostamente há maior flexibilidade de uso de dados em troca de descontos. A fala trata de questões legislativas e jurídicas relativas à proteção de dados, não abordando o pedido de concurso público nem o fortalecimento da ANPD.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00035",
+          "ordem_no_debate": 36,
+          "texto": " Não. Nós teríamos que levantar todos os... Eu acho que é bem complicada, bem complexa esta parte de monetização. Eu, particularmente, sou contrário.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [],
+            "Posicionamento": []
+          },
+          "resumo": "Na fala, o titular opõe-se à monetização, qualificando-a como questão bem complicada e complexa, e defende que seria necessário levantar todos os elementos antes de tratá-la. Assume explicitamente posição contrária ao tema, sem detalhar outros aspectos, em declaração breve e opinativa.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00037",
+          "ordem_no_debate": 38,
+          "texto": " Vamos falar de tecnologia. Eu acho que a tecnologia vem para ajudar a empresa a não permitir que ocorra qualquer incidente de dados. É muito importante que as empresas busquem as melhores ferramentas do mundo. Não existe uma ferramenta milagrosa, senão países como os Estados Unidos, o Japão, o próprio bloco europeu já não teriam vazamento de dados.\n\nOblockchaintem uma série de vantagens, mas nós vemos, na área de dados pessoais, que ele apresenta algumas limitações ou alguns pontos que nós teríamos que adequar. Pela própria lei, eu tenho o direito de manter a qualidade dos meus dados, de corrigi-los. Eu tenho o direito de solicitar que sejam eliminados. Com oblockchain, seria preciso haver algumas inovações tecnológicas.\n\nA tecnologia é algo importante para os órgãos, para todas as empresas. É preciso que estas apliquem a tecnologia mais moderna, que vai se atualizando. É um serviço vivo: você vai ter uma tecnologia boa hoje, mas amanhã ela já não vai ter o mesmo desempenho, porque ocibercriminosojá tem uma ferramenta mais poderosa. É algo que será eterno. Esta é a nossa opinião.\n\nExemplo típico é o sistema bancário. São compartilhados entre os bancos todos os tipos de novos golpes que existem, novas ferramentas que podem ser usadas e, desde sempre, eles estão monitorando o que acontece, qualquer tipo de novo golpe ou de uma nova forma de atacar. É importante que esse compartilhamento ocorra, não só no sistema bancário, mas também no sistema que envolva dados pessoais.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, o orador discute a tecnologia como instrumento de prevenção de incidentes de dados pessoais. Defende que as empresas devem adotar as melhores ferramentas, mas ressalva que não existe solução milagrosa, pois até países avançados como EUA, Japão e bloco europeu sofrem vazamentos. Reconhece vantagens do blockchain, porém aponta limitações diante dos direitos do titular de corrigir e eliminar dados, exigindo inovações tecnológicas para adequação. Sustenta que a tecnologia exige atualização contínua, numa corrida eterna contra cibercriminosos que constantemente desenvolvem ferramentas mais poderosas (",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [
+            "As empresas devem buscar e aplicar as melhores e mais modernas ferramentas de tecnologia, atualizando-as continuamente, para prevenir incidentes de dados.",
+            "Promover inovações tecnológicas no blockchain para adequá-lo aos direitos dos titulares de dados pessoais, como correção e eliminação (art. 18 da LGPD).",
+            "Instituir compartilhamento de informações sobre golpes novos e novas ferramentas de ataque no sistema que envolve dados pessoais, similar ao que ocorre entre bancos."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00040",
+          "ordem_no_debate": 41,
+          "texto": " Eu queria registrar uma consideração.\n\nPor exemplo, nós tivemos uma discussão aqui com o Jeferson, com o Deputado sobreblockchain. A ANPD repassa para a sua Coordenação-Geral de Tecnologia e Pesquisa qualquer demanda desse tipo, para que estude a tecnologia e apresente um relatório, que vai à normatização. Daí pode sair um guia, pode sair um estudo técnico. É algo parecido com o que a agência espanhola de proteção de dados produz. Várias tecnologias são analisadas e, no própriositeda autoridade ou da agência, é disponibilizada a forma como vê essa tecnologia.É importante nós estudarmos não só a tecnologiablockchain, mas toda novidade que aparece. É importante estudarmos IA de forma bem profunda.\n\nEntão, sempre que surgem novas ferramentas a serem utilizadas pelas empresas, nós nos antecipamos, de forma a estar preparados para responder sobre isso, inclusive quando somos convidados para qualquer discussão no Congresso que envolva dados pessoais. O importante é sermos ouvidos, para mostrarmos o que vemos como partes positivas e negativas em todos esses assuntos relacionados à proteção de dados.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Waldemar Gonçalves Ortunho Júnior faz um registro expositivo e procedimental sobre como a ANPD trata demandas ligadas a novas tecnologias. Descreve que discussões como a travada com o deputado Jeferson sobre blockchain são encaminhadas à Coordenação-Geral de Tecnologia e Pesquisa, que estuda a tecnologia e apresenta relatório submetido à normatização, podendo resultar em guia ou estudo técnico, em modelo comparável ao da agência espanhola de proteção de dados. Defende que a Agência estude todas as novidades tecnológicas — de forma profunda no caso da IA —, antecipando-se às ferramentas usadas por empresas para estar preparada para responder e ser ouvida em discussões no Congresso sobre dados pessoais, expondo prós e contras desses assuntos. A atuação é descrita com confiança e ênfase técnica, sem posição explícita sobre concurso público ou fortalecimento institucional.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [
+            "Encaminhar à Coordenação-Geral de Tecnologia e Pesquisa da ANPD demandas sobre tecnologias novas (ex.: blockchain) para estudo e elaboração de relatório a ser submetido à normatização, podendo resultar em guia ou estudo técnico.",
+            "Disponibilizar no próprio site da autoridade a forma como ela enxerga cada tecnologia analisada, de modo semelhante ao que faz a agência espanhola de proteção de dados.",
+            "Estudar não apenas a tecnologia blockchain, mas toda novidade tecnológica que surgir, incluindo estudo profundo de IA.",
+            "Antecipar-se, sempre que surgirem novas ferramentas utilizadas pelas empresas, de modo a ficar preparado para responder sobre elas, inclusive em discussões no Congresso envolvendo dados pessoais."
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "JEFERSON DIAS BARBOSA",
+      "falas": [
+        {
+          "id": "f00014",
+          "ordem_no_debate": 15,
+          "texto": " Deputado, parabéns por discutir esse assunto, que considero muito caro. O senhor tem plena razão quando diz que a proteção ao cidadão é o primordial.\n\nComo o Presidente explicou, quando acontece um vazamento de dados, primeiramente — e nós vemos a publicação de inúmeros incidentes que acontecem diariamente —, para que a autoridade faça o seu trabalho administrativo de forma coerente e responsável, nós precisamos saber a origem desse vazamento. Dessa forma, podemos, junto ao controlador de dados pessoais, saber se as medidas de segurança foram adotadas de forma adequada ou não, e a ANPD pode fazer o processo sancionador.\n\nPara que isso seja executado de forma responsável, como eu disse, há antes um processo administrativo, em que são observadas todas as condições de avaliação das medidas que foram adotadas. A partir daí, se não foi adotada nenhuma medida, passamos para um processo sancionador. Como o Presidente bem disse, esse processo sancionador começou a vigorar muito recentemente. A ANPD tem 16 processos em andamento, fruto dessas normas publicadas que orientam o trabalho da autoridade.\n\nComo o senhor bem observou, a autoridade está em fase de estruturação. Há apenas 16 funcionários dedicados a avaliar todos as empresas no Brasil. Todo mundo que controla dado pessoal, desde a padaria da esquina até as grandesbig techsbrasileiras, está sob a égide da LGPD, e temos que fiscalizar esse trabalho. É, portanto, um trabalho hercúleo, vamos dizer assim, para uma equipe tão reduzida, mas que tem feito isso com grande qualidade. Por isso, há o reconhecimento internacional desse trabalho que temos feito na parte de orientação.\n\nSabemos que há muito o que ser feito, principalmente para fazer frente à necessidade de avaliar, auditar os sistemas, definir requisitos mínimos de segurança necessários, tecnologias que podem ser aplicadas para dar maior resiliência aos nossos sistemas, a todos os controladores. Essas são as nossas dificuldades, as nossas dores.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante",
+              "Emocional"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa",
+              "Recursos Retóricos"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Jeferson Dias Barbosa endossa a premissa de que a proteção do cidadão é o primordial e descreve de forma favorável a atuação da ANPD, destacando que a apuração da origem de vazamentos e a verificação das medidas de segurança junto ao controlador antecedem qualquer processo sancionador. Sustenta que o poder sancionador é recente, com 16 processos em andamento, e que a autoridade está em fase de estruturação, contando com apenas 16 funcionários para fiscalizar todos os controladores — \"desde a padaria da esquina até as grandes big techs brasileiras\" —, o que caracteriza como \"trabalho hercúleo\", feito porém com qualidade e reconhecimento internacional, sobretudo na orientação. Pondera que permanecem lacunas relevantes, como auditar sistemas, definir requisitos mínimos de segurança e tecnologias de resiliência, concluindo que ainda há muito a ser feito. No conjunto, o falante é favorável ao fortalecimento da ANPD, valendo-se de sua própria atuação institucional e de dados operacionais para sustentar a argumentação, com tom técnico e seguro.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00029",
+          "ordem_no_debate": 30,
+          "texto": " Deputado, se V.Exa. me permite fazer uma complementação, mesmo com esta deficiência de pessoal, a ANPD não deixa de correr atrás para mudar seus efetivos.\n\nHoje, nós temos várias iniciativas, como uma proposta de projeto de lei de reestruturação da própria autoridade. Nós também propomos isso. Ela está tramitando no Executivo. Nós temos também um concurso público para 213 vagas, para aumentarmos nosso efetivo. Este concurso aguarda aprovação do Ministério da Justiça. Além disso, há a contratação de pessoal terceirizado, para que possamos melhorar e compor melhor nossa autoridade. Está tudo pendente de aprovação.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Focalizado"
+            ],
+            "Postura do Orador": [
+              "Técnica",
+              "Confiante"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": [
+              "Favorável"
+            ]
+          },
+          "resumo": "Jeferson Dias Barbosa relata que, mesmo com deficiência de pessoal, a ANPD busca fortalecer seu efetivo por meio de iniciativas em curso: proposta de projeto de lei de reestruturação da própria autoridade, em tramitação no Executivo, concurso público para 213 vagas aguardando aprovação do Ministério da Justiça e contratação de pessoal terceirizado para compor a autoridade. Afirma que tais medidas estão pendentes de aprovação. Posição favorável ao fortalecimento institucional e ao aumento de efetivo, apresentada em tom técnico e confiante, com base na atuação da própria agência e na descrição de processos administrativos em andamento.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [
+            "Reestruturar a ANPD por meio de proposta de projeto de lei",
+            "Realizar concurso público para 213 vagas, aumentando o efetivo da ANPD",
+            "Contratar pessoal terceirizado para compor e melhorar a ANPD"
+          ],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        },
+        {
+          "id": "f00031",
+          "ordem_no_debate": 32,
+          "texto": " Não tenho conhecimento.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [],
+            "Postura do Orador": [],
+            "Credibilidade e Validação": [],
+            "Posicionamento": [
+              "Neutro"
+            ]
+          },
+          "resumo": "Jeferson Dias Barbosa não manifesta opinião sobre o tema do concurso público e do fortalecimento da ANPD. Sua fala se encerra com a declaração de desconhecimento \"Não tenho conhecimento\", caracterizando uma suspensão de julgamento: não há concordância, discordância, crítica, sugestão ou qualquer posição substantiva quanto ao pedido em discussão, nem desenvolvimento argumentativo que permita avaliar sua postura ou alinhamento temático.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": []
+        },
+        {
+          "id": "f00038",
+          "ordem_no_debate": 39,
+          "texto": " Gostaria de fazer um complemento, Presidente, se o senhor me permite.\n\nRecentemente, eutive a oportunidade de participar de uma audiência pública sobre a tecnologiablockchain, juntamente com o ilustríssimo Deputado, e de mostrar a visão da autoridade, as vantagens e o reconhecimento que tal tecnologiapode trazer para os sistemas brasileiros. Vimos, inclusive, algumas implementações de qualidade, como as que estão sendo feitas junto ao TCU e ao Banco Central. Todos foram unânimes em apresentar as limitações e algumas preocupações que devem haver na implementação dessa tecnologia. Então, oblockchainé uma solução muito importante, que pode vir a trazer muitos benefícios, porém, como o Presidente bem disse, apresenta algumas limitações relacionadas à proteção de dados pessoais. Essas limitações podem ser corrigidas ou aperfeiçoadas. Inclusive, já existem algumas soluções.\n\nA ANPD tem trabalhado, estudado muito o assunto e poderá até emitir algumas recomendações na implementação dessa e de outras tecnologias emergentes importantes na produção de dados.\n\n",
+          "taxonomia": {
+            "Alinhamento Temático": [
+              "Periférico"
+            ],
+            "Postura do Orador": [
+              "Confiante",
+              "Técnica"
+            ],
+            "Credibilidade e Validação": [
+              "Autoridade Própria",
+              "Referência Externa"
+            ],
+            "Posicionamento": []
+          },
+          "resumo": "Nesta fala, Jeferson Dias Barbosa faz uma exposição técnica e predominantemente expositiva sobre a tecnologia blockchain, sem se posicionar de forma clara sobre o tema central do momento — o pedido de concurso público e o fortalecimento da ANPD. Ele registra ter participado recentemente de uma audiência pública sobre blockchain, quando apresentou a visão da autoridade e as vantagens da tecnologia, e cita as implementações em curso junto ao TCU e ao Banco Central como experiências de qualidade. Sustenta, com base nessa experiência e na posição unânime dos participantes da audiência, que o blockchain é uma solução importante e capaz de trazer benefícios, mas que apresenta limitações relacionadas à proteção de dados pessoais — ponderação que reconhece ter sido endossada pelo Presidente. Essas limitações, porém, seriam corrigíveis e aperfeiçoáveis, com soluções já existentes. Quanto à ANPD, o orador menciona apenas de modo prospectivo que a Agência tem estudado o tema e poderá emitir recomendações sobre a implementação dessa e de outras tecnologias emergentes, sem manifestar apoio ou oposição a concursos ou a reforço de estrutura. O tom é confiante e técnico, com linguagem especializada e sem ataques ou apelos afetivos relevantes.",
+          "objeto_do_posicionamento": "Pedido de concurso público e fortalecimento da Agência Nacional de Proteção de Dados (ANPD)",
+          "propostas": [],
+          "interrupcoes": [],
+          "pendencias_revisao": [
+            "Citação ausente, inválida ou não localizada nas palavras do titular; conferir manualmente."
+          ]
+        }
+      ]
+    }
+  ],
+  "notas_revisao": [],
+  "arquivo_auditoria": "auditoria/debate_linha_00138_6e95ea03d02c_anotado.json"
+}

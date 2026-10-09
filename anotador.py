@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import copy
 from collections import Counter
 import hashlib
@@ -15,7 +16,7 @@ from api import Client
 from contexto import ContextLimitError
 from formato import load_debate, save_debate
 from progresso import progress, log
-from suporte import (VERSION, EvidenceError, PromptCatalog, digest, model_arguments, require, save, text_field,
+from suporte import (VERSION, EvidenceError, ModelOutputError, PromptCatalog, digest, model_arguments, require, save, text_field,
                      interval_arguments, check_interval, load)
 
 TAXONOMY = [
@@ -57,7 +58,9 @@ def parse_turns(transcript):
         speaker = re.sub(r"^\s*(?:O SR\.|A SRA\.|O SENHOR|A SENHORA)\s*", "", header[:-1]).strip()
         role = speaker.split("(", 1)[0].strip()
         if "PRESIDENTE" in role and "(" in speaker:
-            speaker = speaker.split("(", 1)[1].split(".", 1)[0].split(")", 1)[0].strip()
+            # rsplit: o nome pode ter um honorífico abreviado com ponto antes dele ("Dr. Fulano. PT-SP");
+            # dividir no primeiro ponto truncava o nome no próprio honorífico.
+            speaker = speaker.split("(", 1)[1].split(")", 1)[0].rsplit(".", 1)[0].strip()
         else:
             speaker = speaker.split("(", 1)[0].strip()
         require(speaker, "Orador não identificado.")
@@ -168,6 +171,14 @@ def check_evidence(raw, transcript, allowed):
                                 raw.get("indicador") if isinstance(raw, dict) else None)
 
 
+def pending_text(item):
+    """Alguns modelos embrulham a pendência num objeto ({"descricao": ...}); o conteúdo é o mesmo."""
+    if not isinstance(item, dict):
+        return item
+    parts = [v.strip() for v in item.values() if isinstance(v, str) and v.strip()]
+    return ": ".join(parts) if parts else item
+
+
 def ask_grounded(client, task, data, validate, transcript, allowed):
     """Falhas apenas de evidência viram pendências; nunca exigem outra chamada."""
     def nonblocking_validate(value):
@@ -179,11 +190,14 @@ def ask_grounded(client, task, data, validate, transcript, allowed):
             raw = value.get("evidencias")
             items = raw if isinstance(raw, list) else [raw]
             value["evidencias"] = [check_evidence(item, transcript, allowed) for item in items]
+            if task == "anotacao" and isinstance(value.get("pendencias"), list):
+                value["pendencias"] = [pending_text(item) for item in value["pendencias"]]
             if task == "anotacao" and isinstance(value.get("indicadores"), list):
                 labels = value["indicadores"]
                 for item in value["evidencias"]:
                     if item.get("indicador") not in labels and item.get("status") != "pendente_revisao_humana":
-                        replacement = pending_evidence(item, "Evidência sem associação válida a um indicador; conferir manualmente.")
+                        # Cópia: o item é esvaziado e reescrito abaixo; guardá-lo por referência criaria um ciclo.
+                        replacement = pending_evidence(copy.deepcopy(item), "Evidência sem associação válida a um indicador; conferir manualmente.")
                         item.clear(); item.update(replacement)
                 for label in labels:
                     if not any(e.get("indicador") == label for e in value["evidencias"]):
@@ -202,7 +216,8 @@ def evidence_issues(document):
                 issues.append({"campo": path, "motivo": value["motivo"]})
                 return
             for key, child in value.items():
-                visit(child, f"{path}.{key}")
+                if key != "falhas_modelo":  # Contadas à parte, em revisao_humana.falhas_modelo.
+                    visit(child, f"{path}.{key}")
         elif isinstance(value, list):
             for index, child in enumerate(value):
                 visit(child, f"{path}[{index}]")
@@ -244,8 +259,14 @@ def group_speeches(document, client):
             def validate(value):
                 require(set(value) == {"decisao", "justificativa", "mudanca_de_opiniao", "observacao_retomada"}, "Campos da decisão de fronteira inválidos.")
                 require(value.get("decisao") in ("mesma_fala", "nova_fala", "incerto"), "Decisão inválida.")
-                text_field(value.get("justificativa"), 600)
-                text_field(value.get("observacao_retomada"), 600)
+                # Metadado de auditoria: um excesso pontual de tamanho não deve derrubar o debate
+                # inteiro. A decisão em si (já validada acima) é o que forma as falas.
+                require(isinstance(value.get("justificativa"), str) and value["justificativa"].strip(), "Justificativa ausente.")
+                require(isinstance(value.get("observacao_retomada"), str) and value["observacao_retomada"].strip(), "Observação ausente.")
+                if len(value["justificativa"]) > 600:
+                    value["justificativa"] = value["justificativa"][:597] + "..."
+                if len(value["observacao_retomada"]) > 600:
+                    value["observacao_retomada"] = value["observacao_retomada"][:597] + "..."
                 require(value.get("mudanca_de_opiniao") is None or type(value["mudanca_de_opiniao"]) is bool,
                         "Mudança deve ser booleano ou null.")
 
@@ -297,14 +318,27 @@ def normalized_proposal(text):
     return " ".join(unicodedata.normalize("NFC", text).casefold().split())
 
 
+# Os limites dos prompts orientam a concisão, mas modelos não contam caracteres com precisão.
+# Rejeitar um excesso pequeno só gera novas chamadas pagas; o teto real pega respostas que desandam.
+FOLGA_TAMANHO = 3
+
+
+def model_text(value, limit, campo):
+    return text_field(value, limit * FOLGA_TAMANHO, campo)
+
+
+ANNOTATION_FIELDS = {"indicadores", "justificativa", "evidencias", "pendencias"}
+OPINION_FIELDS = ({"resumo", "evidencias"}, {"resumo", "objeto_do_posicionamento", "evidencias"})
+
+
 def validate_annotation(value, dimension, transcript, allowed):
-    require(set(value) == {"indicadores", "justificativa", "evidencias", "pendencias"}, "Campos da anotação inválidos.")
+    require(set(value) == ANNOTATION_FIELDS, "Campos da anotação inválidos.")
     labels = value.get("indicadores")
     require(isinstance(labels, list) and all(isinstance(x, str) for x in labels)
             and len(labels) == len(set(labels)) and set(labels) <= set(dimension["indicators"]), "Rótulos inválidos.")
     if dimension["id"] in (1, 4):
         require(len(labels) <= 1, "Dimensão admite no máximo um indicador.")
-    text_field(value.get("justificativa"), 700)
+    model_text(value.get("justificativa"), 700, "justificativa")
     require(isinstance(value.get("evidencias"), list), "Evidências inválidas.")
     for item in value["evidencias"]:
         require(item.get("indicador") in labels or item.get("status") == "pendente_revisao_humana", "Evidência sem indicador correspondente.")
@@ -312,16 +346,16 @@ def validate_annotation(value, dimension, transcript, allowed):
     require(set(labels) <= {x.get("indicador") for x in value["evidencias"] if isinstance(x.get("indicador"), str)}, "Cada indicador precisa de evidência.")
     require(isinstance(value.get("pendencias"), list) and len(value["pendencias"]) <= 3, "Pendências inválidas.")
     for item in value["pendencias"]:
-        text_field(item, 180)
+        model_text(item, 180, "pendencias")
 
 
 def validate_opinion(value, transcript, allowed):
-    require(set(value) in ({"resumo", "evidencias"}, {"resumo", "objeto_do_posicionamento", "evidencias"}), "Campos de opinião inválidos.")
-    text_field(value["resumo"], 1200)
+    require(set(value) in OPINION_FIELDS, "Campos de opinião inválidos.")
+    model_text(value["resumo"], 1200, "resumo")
     target = value.get("objeto_do_posicionamento")
     require(target is None or isinstance(target, str), "Objeto deve ser texto ou null.")
     if target is not None:
-        text_field(target, 500)
+        model_text(target, 500, "objeto_do_posicionamento")
     require(isinstance(value["evidencias"], list), "Evidências de opinião inválidas.")
     require(target is None or value["evidencias"], "Objeto do posicionamento sem evidência.")
     for evidence in value["evidencias"]:
@@ -332,35 +366,67 @@ def validate_proposals(value, transcript, allowed):
     require(set(value) == {"propostas"} and isinstance(value["propostas"], list), "Lista de propostas inválida.")
     for proposal in value["propostas"]:
         require(set(proposal) == {"enunciado", "evidencia"}, "Campos de proposta inválidos.")
-        text_field(proposal["enunciado"], 350)
+        model_text(proposal["enunciado"], 350, "enunciado")
         evidence_valid(proposal["evidencia"], transcript, allowed)
+
+
+def model_failure(task, error, dimension=None):
+    """Registro de uma tarefa que o modelo não conseguiu cumprir; aparece nas pendências de revisão."""
+    record = {"status": "pendente_revisao_humana", "tarefa": task,
+              "motivo": f"Falha do modelo nesta tarefa ({error}); preencher manualmente."[:500]}
+    if dimension is not None:
+        record["dimensao"] = dimension
+    return record
 
 
 def annotate_speech(document, speech, client, judge=False):
     fala, allowed = full_speech(document, speech)
     source = document["transcricao"]
     data = {"tema": document["tema"], "fala": fala}
+    failures = []
 
+    def grounded(task, payload, validator, fallback, dimension=None):
+        # Uma saída inutilizável do modelo vira pendência desta tarefa, sem interromper o debate.
+        # Rede, crédito e autenticação continuam interrompendo: seriam falhas em massa, não da fala.
+        try:
+            return ask_grounded(client, task, payload, validator, source, allowed)
+        except ModelOutputError as error:
+            failures.append(model_failure(task, error, dimension))
+            log(f"Pendência por falha do modelo: {speech['id']} {dimension or task}.")
+            return fallback
+
+    # Os campos são conferidos antes das citações: uma citação num campo extra inventado pelo modelo
+    # é erro de formato (nova tentativa), não falha de evidência que interrompe o debate.
     def opinion_validator(value):
+        require(set(value) in OPINION_FIELDS, "Campos de opinião inválidos.")
         resolve_quotes(value, source, allowed)
         validate_opinion(value, source, allowed)
 
-    opinion = ask_grounded(client, "opiniao", data, opinion_validator, source, allowed)
+    opinion = grounded("opiniao", data, opinion_validator,
+                       {"resumo": "Opinião não identificada por falha do modelo; ver pendências.", "evidencias": []})
     output = {"unidade": "fala_integral", "referencia_posicionamento": document["tema"], "opiniao": opinion, "dimensoes": {}}
     for dimension in TAXONOMY:
         def validate(value):
+            require(set(value) == ANNOTATION_FIELDS, "Campos da anotação inválidos.")
             resolve_quotes(value, source, allowed)
             validate_annotation(value, dimension, source, allowed)
         # Cada dimensão recebe a MESMA fala inteira; nunca uma parte ou um resumo substituto.
-        output["dimensoes"][dimension["dimension"]] = ask_grounded(
-            client, "anotacao", {**data, "dimensao": dimension},
-            validate, source, allowed)
+        output["dimensoes"][dimension["dimension"]] = grounded(
+            "anotacao", {**data, "dimensao": dimension}, validate,
+            {"indicadores": [], "justificativa": "Não classificada por falha do modelo; ver pendências.",
+             "evidencias": [], "pendencias": []}, dimension["dimension"])
 
     def proposals_validator(value):
+        require(set(value) == {"propostas"} and isinstance(value["propostas"], list)
+                and all(isinstance(p, dict) and set(p) == {"enunciado", "evidencia"} for p in value["propostas"]),
+                "Campos de proposta inválidos.")
         resolve_quotes(value, source, allowed)
         validate_proposals(value, source, allowed)
-    output["propostas"] = ask_grounded(client, "propostas", data, proposals_validator, source, allowed)["propostas"]
+    output["propostas"] = grounded("propostas", data, proposals_validator, {"propostas": []})["propostas"]
     summarize_speech(document, speech, output, client)
+    if failures:
+        # Sem esta lista, "sem rótulo" ou "sem propostas" seriam indistinguíveis de uma falha.
+        output["falhas_modelo"] = failures
     return output
 
 
@@ -368,7 +434,7 @@ def summarize_speech(document, speech, annotation, client):
     """Somente esta fala: nunca reúne as exposições de um participante."""
     def validate(value):
         require(set(value) == {"resumo"}, "Campo do resumo da fala inválido.")
-        text_field(value["resumo"], 1800)
+        model_text(value["resumo"], 1800, "resumo")
     try:
         result = client.ask("resumo_fala", {"tema": document["tema"],
             "fala": full_speech(document, speech)[0],
@@ -384,12 +450,20 @@ def summarize_speech(document, speech, annotation, client):
         annotation["status_resumo"] = "pendente_contexto"
         annotation["motivo_resumo_pendente"] = "Contexto insuficiente para o resumo desta fala inteira; revisar manualmente."
         log(f"Resumo pendente: {speech['id']}. Taxonomia e texto integral preservados.")
+    except ModelOutputError as error:
+        annotation["resumo"] = None
+        annotation["status_resumo"] = "pendente_falha_modelo"
+        annotation["motivo_resumo_pendente"] = f"Falha do modelo no resumo ({error}); revisar manualmente."[:600]
+        log(f"Resumo pendente por falha do modelo: {speech['id']}.")
+
+
+RESUMO_PENDENTE = ("pendente_contexto", "pendente_falha_modelo")
 
 
 def summary_issues(document):
     return [{"fala_id": s["id"], "participante": s["participante"],
              "motivo": s["anotacao"]["motivo_resumo_pendente"]}
-            for s in document["falas"] if s.get("anotacao", {}).get("status_resumo") == "pendente_contexto"]
+            for s in document["falas"] if s.get("anotacao", {}).get("status_resumo") in RESUMO_PENDENTE]
 
 
 def prepare(record, source, line, size=None):
@@ -458,11 +532,11 @@ def structural_errors(document, annotated=True):
             annotation = speech["anotacao"]
             if document.get("resumo_por_fala"):
                 require("resumo" in annotation, "Fala sem resumo ou pendência explícita.")
-            if annotation.get("status_resumo") == "pendente_contexto":
+            if annotation.get("status_resumo") in RESUMO_PENDENTE:
                 require(annotation.get("resumo") is None, "Resumo pendente não pode ser apresentado como concluído.")
                 text_field(annotation.get("motivo_resumo_pendente"), 600)
             elif "resumo" in annotation:
-                text_field(annotation["resumo"], 1800)
+                model_text(annotation["resumo"], 1800, "resumo")
             allowed = [(t["inicio"], t["fim"]) for t in own]
             require(annotation["unidade"] == "fala_integral", "A anotação deve usar a fala integral.")
             require(set(annotation["dimensoes"]) == {d["dimension"] for d in TAXONOMY}, "Dimensões ausentes/extras.")
@@ -497,13 +571,20 @@ def main():
     parser = argparse.ArgumentParser(description="Anota debates já preparados: um arquivo JSON ou uma pasta.")
     parser.add_argument("--entrada", type=Path, default=Path(__file__).parent / "preparados")
     parser.add_argument("--saida", type=Path, default=Path(__file__).parent / "resultados")
+    parser.add_argument("--paralelo", type=int, default=1,
+                        help="Falas anotadas simultaneamente em cada debate. Padrão: 1 (sequencial).")
     model_arguments(parser, "anotador")
     args = parser.parse_args()
+    require(args.paralelo >= 1, "--paralelo deve ser >= 1.")
     require(args.entrada.exists(), "Entrada não encontrada. Execute preparador.py primeiro.")
     paths = [args.entrada] if args.entrada.is_file() else sorted(args.entrada.glob("*.json"))
     prompts = PromptCatalog(args.prompts)
     settings = {key: getattr(args, key, None) for key in
                 ("modelo", "base_url", "temperatura", "contexto_tokens", "uso_contexto", "max_saida_tokens", "parametro_tokens", "sem_json_mode")}
+    # Só entra na identidade quando usado, preservando as execuções anteriores sem esse parâmetro.
+    for key in ("esforco_raciocinio", "raciocinio_por_tarefa"):
+        if getattr(args, key, None):
+            settings[key] = getattr(args, key)
     client, processed, reused = None, 0, 0
     failures = []
     for path in paths:
@@ -532,21 +613,31 @@ def main():
             checkpoint = args.saida / "andamento" / destination.name
             log(f"Anotando {path.name}: {len(document['falas'])} falas integrais (preparação reutilizada).")
             progress("Anotação — falas", 0, len(document["falas"]))
-            for number, speech in enumerate(document["falas"], 1):
-                speech["anotacao"] = annotate_speech(document, speech, client)
-                save(checkpoint, document)
-                progress("Anotação — falas", number, len(document["falas"]))
+            # As tarefas só leem o documento; cada resultado é gravado aqui, na thread principal.
+            pool = ThreadPoolExecutor(max_workers=args.paralelo)
+            try:
+                futures = {pool.submit(annotate_speech, document, speech, client): speech for speech in document["falas"]}
+                for number, future in enumerate(as_completed(futures), 1):
+                    futures[future]["anotacao"] = future.result()
+                    save(checkpoint, document)
+                    progress("Anotação — falas", number, len(document["falas"]))
+            finally:
+                pool.shutdown(wait=True, cancel_futures=True)
             document["status"] = "anotado_aguardando_revisao_humana"
             document["modelo_anotador"] = client.identity()
             document["recibos_cache"] = sorted(set(client.receipts))
+            model_failures = [{"fala_id": sp["id"], **{k: v for k, v in f.items() if k != "status"}}
+                              for sp in document["falas"] for f in sp["anotacao"].get("falhas_modelo", [])]
             document["revisao_humana"] = {"necessaria": True, "pendencias_evidencias": evidence_issues(document),
+                "falhas_modelo": model_failures,
                 "resumos_pendentes": summary_issues(document),
                 "observacao": "Correspondência textual não comprova adequação semântica. Nenhum julgador automático foi executado."}
             errors = structural_errors(document)
             require(not errors, "; ".join(errors))
             save_debate(destination, document); processed += 1
             log(f"Resumos por fala: {len(document['falas']) - len(summary_issues(document))} concluídos, {len(summary_issues(document))} pendentes por contexto.")
-            log(f"Salvo: {destination} | {len(document['revisao_humana']['pendencias_evidencias'])} pendência(s) de evidência.")
+            log(f"Salvo: {destination} | {len(document['revisao_humana']['pendencias_evidencias'])} pendência(s) de evidência, "
+                f"{len(model_failures)} tarefa(s) pendente(s) por falha do modelo.")
         except (ValueError, RuntimeError, OSError, KeyError, TypeError) as error:
             failures.append({"arquivo": str(path), "erro": str(error)})
             log(f"Interrompida: {error}")
